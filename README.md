@@ -14,6 +14,8 @@ Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%2
 - Formula and units index
 - Exam study tracker
 - 359 quiz questions with collapsed, cited answer keys
+- 146 original course figures embedded in 150 study-focused placements
+- A concise caption and clear **What to notice** explanation for every figure placement
 - Course reference videos and readings retained where available
 
 ## Modules
