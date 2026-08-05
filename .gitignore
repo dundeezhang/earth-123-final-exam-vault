@@ -1,0 +1,6 @@
+.DS_Store
+.trash/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.build/
+.vault-build-spec.md
