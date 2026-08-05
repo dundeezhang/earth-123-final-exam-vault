@@ -125,6 +125,134 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 
 29. In Applied Problem 4, replace the outflow with $0.02\ \text{m}^3/\text{s}$ while retaining the other calculated fluxes. Calculate April $\Delta S$ in m$^3$ and state its direction.
 
+## Official Course Quiz Questions
+
+30. **Saved quiz-7, Question 1.**
+
+    When used in a Water Balance, the term 'steady state' means that there is no overall change in water storage, or that the total inputs is equal to total outputs.
+
+    - True
+    - False
+
+31. **Saved quiz-7, Question 2.**
+
+    When considering a water balance equation for an entire watershed, you must always include a 'surface water in' term.
+
+    - True
+    - False
+
+32. **Saved quiz-7, Question 3.**
+
+    Please select the correct hydrological variable for each letter in the diagram.
+
+    ![Saved quiz watershed with hydrological fluxes labelled A through E](../../Assets/Official%20Quizzes/watershed-fluxes-a-e.png)
+
+    *Saved quiz figure with precipitation, evaporation, surface-water outflow, groundwater inflow, and groundwater outflow labelled A through E.*
+
+    **What to notice:** Identify each arrow by its direction and whether it crosses the watershed boundary through the atmosphere, surface water, or groundwater.
+
+    - 1. Groundwater out
+    - 2. Groundwater in
+    - 3. Evaporation
+    - 4. Precipitation
+    - 5. Surface water out
+
+33. **Saved quiz-7, Question 4.**
+
+    The most appropriate water balance equation for the pictured watershed at steady state is:
+
+    ![Saved watershed diagram with precipitation, evapotranspiration, discharge, groundwater flow, and storage](../../Assets/Official%20Quizzes/steady-state-watershed.png)
+
+    *Saved quiz watershed used to identify inputs, outputs, and the steady-state storage condition.*
+
+    **What to notice:** Classify each flux as an input or output, then apply the steady-state storage condition.
+
+    - a) P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0
+    - b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0
+    - c) P + G<sub>in</sub> = 0, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS
+    - d) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS
+
+34. **Saved quiz-7, Question 5.**
+
+    For the pictured watershed below, an appropriate simplification for a period with minimal evaporation, minimal precipitation, and assuming steady state conditions is:
+
+    ![Saved watershed diagram with precipitation, evapotranspiration, discharge, groundwater flow, and storage](../../Assets/Official%20Quizzes/steady-state-watershed.png)
+
+    *Saved quiz watershed used to simplify the water balance under the stated conditions.*
+
+    **What to notice:** Set the stated negligible terms and storage change to zero before simplifying the remaining groundwater and surface-water terms.
+
+    - a) G<sub>in</sub> = 0, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS
+    - b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS
+    - c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0
+    - d) P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0
+
+35. **Saved quiz-7, Question 6.**
+
+    Calculate the change in storage for the lake below over 1 day.
+
+    Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).
+
+    Using the following values:
+
+    Lake area = 5 km<sup>2</sup>
+
+    Precipitation = 12 mm/day
+
+    Evaporation = 8 mm/day
+
+    Surface water in = 23 m<sup>3</sup>/day
+
+    Surface water out = 16 m<sup>3</sup>/day
+
+    Ground water in = 5 m<sup>3</sup>/day
+
+    Ground water out = 3 m<sup>3</sup>/day
+
+    ![Saved lake water-balance diagram with labelled fluxes](../../Assets/Official%20Quizzes/lake-water-balance.png)
+
+    *Course lake water-balance reference.*
+
+    **What to notice:** Convert precipitation and evaporation from depth rates to volume rates using lake area before combining them with the surface-water and groundwater rates.
+
+36. **Saved quiz-7, Question 7.**
+
+    Calculate the change in storage for the lake below over 1 day.
+
+    Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).
+
+    Using the following values:
+
+    Lake area = 5 km<sup>2</sup>
+
+    Precipitation = 19 mm/day
+
+    Evaporation = 7 mm/day
+
+    Surface water in = 18 m<sup>3</sup>/day
+
+    Surface water out = 12 m<sup>3</sup>/day
+
+    Ground water in = 3 m<sup>3</sup>/day
+
+    Ground water out = 1 m<sup>3</sup>/day
+
+    ![Saved lake water-balance diagram with labelled fluxes](../../Assets/Official%20Quizzes/lake-water-balance.png)
+
+    *Course lake water-balance reference.*
+
+    **What to notice:** Keep every term in cubic metres per day and use arrow direction to assign each sign.
+
+37. **Saved quiz-7, Question 8.**
+
+    A lake with an area of 2 km<sup>2</sup>, had a positive water balance, and was recorded as gaining 31,000 m<sup>3</sup>/day.
+
+    How much of an increase in elevation of the lake surface would have to occur to account for this increase in water volume?
+
+    Give your answer in millimetres (mm) rounded to the nearest whole number.
+
+    Hint: V=A*D
+
 <details>
 <summary>Answer key</summary>
 
@@ -157,6 +285,22 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 27. Mean $P=(25+32+28+37+33)/5=31\ \text{mm}$. $P=(0.031)(12{,}000{,}000)=372{,}000\ \text{m}^3$, or $516.667\ \text{m}^3/\text{hr}$. $ET=(0.020)(12{,}000{,}000)=240{,}000\ \text{m}^3$, or $333.333\ \text{m}^3/\text{hr}$. *(Course section: 7.1, "Applied Water Balance Calculations - Problem 4," part b.)*
 28. $Q_{\text{in}}=333.333+275-516.667=91.667\ \text{m}^3/\text{hr}$. *(Course section: 7.1, "Applied Water Balance Calculations - Problem 4," parts a-c.)*
 29. $0.02\ \text{m}^3/\text{s}=72\ \text{m}^3/\text{hr}$. The original $275\ \text{m}^3/\text{hr}$ outflow was part of a steady-state balance, so the new net storage rate is $275-72=203\ \text{m}^3/\text{hr}$. Thus $\Delta S=(203)(720)=146{,}160\ \text{m}^3$, an increase. *(Course section: 7.1, "Applied Water Balance Calculations - Problem 4," part d.)*
+
+30. **True.** At steady state, $\Delta S=0$, so total inputs equal total outputs. *(Course section: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Calculating a Water Balance|7.1 Calculating a Water Balance]].)*
+
+31. **False.** A watershed boundary can prevent surface water from entering across the divide, so a surface-water inflow term is not always present. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Embedded Knowledge Check|7.1 Embedded Knowledge Check]], watershed diagram.)*
+
+32. **B = 4. Precipitation; E = 1. Groundwater out; C = 3. Evaporation; D = 5. Surface water out; A = 2. Groundwater in.** *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Embedded Knowledge Check|7.1 Embedded Knowledge Check]], watershed diagram.)*
+
+33. **b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0.** Steady state sets $\Delta S$ to zero. *(Course section: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Calculating a Water Balance|7.1 Calculating a Water Balance]].)*
+
+34. **c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0.** Minimal $P$ and $ET$ remove those terms, and steady state sets $\Delta S=0$. *(Course section: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Calculating a Water Balance|7.1 Calculating a Water Balance]].)*
+
+35. **20,009 m<sup>3</sup>/day.** $(0.012-0.008)(5{,}000{,}000)+(23+5)-(16+3)=20{,}009$. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Worked Course Example: Figure 7.1.2|7.1 Worked Course Example, Figure 7.1.2]].)*
+
+36. **60,008 m<sup>3</sup>/day.** $(0.019-0.007)(5{,}000{,}000)+(18+3)-(12+1)=60{,}008$. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Worked Course Example: Figure 7.1.2|7.1 Worked Course Example, Figure 7.1.2]].)*
+
+37. **16 mm.** $D=V/A=31{,}000/2{,}000{,}000=0.0155\ \text{m}=15.5\ \text{mm}$, which rounds to $16\ \text{mm}$. *(Course section: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Water Elevation Change|7.1 Water Elevation Change]].)*
 
 </details>
 

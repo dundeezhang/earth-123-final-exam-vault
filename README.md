@@ -13,8 +13,9 @@ Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%2
 - 444 definitions with examples and applications
 - Formula and units index
 - Exam study tracker
-- 434 quiz questions with collapsed, cited answer keys
-- 172 original course figures embedded in 177 study-focused placements
+- 536 quiz questions with collapsed, cited answer keys
+- 102 questions transcribed from the locally saved course quizzes for Weeks 2-5 and 7-11
+- 176 original course and saved-quiz figures embedded in 177 study-focused placements
 - A concise caption and clear **What to notice** explanation for every figure placement
 - Course reference videos and readings retained where available
 
@@ -39,9 +40,9 @@ Use the [`Modules Index`](01%20-%20Modules%20Index.md) for direct navigation.
 
 ## Source Scope
 
-The notes were condensed from locally saved EARTH 123 course pages. No web material was added while building the vault. Recoverable course video, reading, and reference links are included in the relevant submodule notes.
+The notes were condensed from locally saved EARTH 123 course pages and saved quiz attempts. No web material was added while building the vault. Recoverable course video, reading, and reference links are included in the relevant submodule notes.
 
-The saved source pages for Sections 9.1 and 9.4 were empty. Their notes were reconstructed conservatively from adjacent local course material and locally saved course-derived assignment work. See [`Source Coverage Notes`](05%20-%20Source%20Coverage%20Notes.md).
+The saved source pages for Sections 9.1 and 9.4 were empty. Their notes were reconstructed conservatively from adjacent local course material and locally saved course-derived assignment work. The Week 6 quiz file was not present, so no official Week 6 questions were transcribed. See [`Source Coverage Notes`](05%20-%20Source%20Coverage%20Notes.md).
 
 ## Obsidian
 

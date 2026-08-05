@@ -191,6 +191,113 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 39. A gauge records a water-surface elevation of $155\ \mathrm{m}$ above sea level. The riverbed datum is $140\ \mathrm{m}$ above sea level. Calculate true stage. Then state the discharge read from the course's Figure 10.3.8 when stage is $30\ \mathrm{m}$.
 
+## Official Course Quiz Questions
+
+40. **Saved quiz-10, Question 1.**
+
+    Which term would be used for discussing height of the water level of a river?
+
+    - a) Stage
+    - b) Wetted perimeter
+    - c) Volume of flow
+    - d) Cross-sectional area
+    - e) Discharge
+
+41. **Saved quiz-10, Question 2.**
+
+    The competence of a river is defined as:
+
+    - a) The rivers ability to erode materials
+    - b) The rivers highest velocity
+    - c) The maximum sized particle or grain the river can transport
+    - d) The rivers maximum depth
+
+42. **Saved quiz-10, Question 3.**
+
+    The capacity of any river can be defined as the maximum-sized particle it can carry; which is dependent on its velocity.
+
+    - True
+    - False
+
+43. **Saved quiz-10, Question 4.**
+
+    In order to properly calculate the discharge of any river, the hydrologist needs to know the average velocity of flow, and the:
+
+    - a) Length of river
+    - b) Cross-sectional area
+    - c) Depth of river
+    - d) Width of river
+    - e) Watershed area
+    - f) Total precipitation and evaporation
+
+44. **Saved quiz-10, Question 5.**
+
+    You will not find Oxbow Lakes within river floodplains.
+
+    - True
+    - False
+
+45. **Saved quiz-10, Question 6.**
+
+    The highest velocity measured in a river channel would be found in the centre of flow and right at the surface.
+
+    - True
+    - False
+
+46. **Saved quiz-10, Question 7.**
+
+    The curved paths along a river channel are officially referred to as:
+
+    - a) Tributaries
+    - b) Meanders
+    - c) Bends
+    - d) Channels
+    - e) Banks
+
+47. **Saved quiz-10, Question 8.**
+
+    The steepest gradient of a river channel often occurs near its source or headwaters.
+
+    - True
+    - False
+
+48. **Saved quiz-10, Question 9.**
+
+    A stilling well is mainly used for getting a steady water elevation reading, and usually contains a shaft encoder and float.
+
+    - True
+    - False
+
+49. **Saved quiz-10, Question 10.**
+
+    Which of the following is NOT a mode of sediment transport in a river.
+
+    - a) Bed Load
+    - b) Suspended Load
+    - c) Turbulent Load
+    - d) Saltation Load
+
+50. **Saved quiz-10, Question 11.**
+
+    A hydrograph can show both precipitation data and river discharge data over time.
+
+    - True
+    - False
+
+51. **Saved quiz-10, Question 12.**
+
+    Which of the following factors below have a significant impact on the development and evolution of runoff in our environment?
+
+    - a) Climate factors
+    - b) Catchment size
+    - c) Precipitation type and intensity
+    - d) Precipitation distribution
+    - e) Hydraulic structures
+    - f) Vegetation
+    - g) Urbanisation
+    - h) All of the above
+    - i) Only A, B, C, and D above
+
 <details>
 <summary>Answer key</summary>
 
@@ -271,6 +378,30 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 38. $(95{,}076\ \mathrm{m^3/h})(24\ \mathrm{h/day})(31\ \mathrm{days})=70{,}736{,}544\ \mathrm{m^3}$. [Section 10.3, "Check Your Knowledge"]
 
 39. True stage $=155-140=15\ \mathrm{m}$. At $30\ \mathrm{m}$ stage, Figure 10.3.8 gives approximately $70\ \mathrm{m^3/s}$. [Section 10.3, "Stage–Discharge Relationships" and "Check Your Knowledge"]
+
+40. **a) Stage.** Stage is the height, elevation, or depth of the river water surface. [Course section: [[04 - 10.3 Water Velocity, Discharge Calculations, and Stage–Discharge Relationships#Stage–Discharge Relationships|10.3 Stage–Discharge Relationships]]]
+
+41. **c) The maximum sized particle or grain the river can transport.** [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Sediment Loads and Transport|10.2 Sediment Loads and Transport]]]
+
+42. **False.** Capacity is the total amount carried; competence is the maximum particle size. [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Sediment Loads and Transport|10.2 Sediment Loads and Transport]]]
+
+43. **b) Cross-sectional area.** Discharge is average velocity multiplied by cross-sectional area, $Q=Av$. [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Discharge|10.2 Discharge]]]
+
+44. **False.** Meander cutoffs can leave oxbow lakes on river floodplains. [Course section: [[02 - 10.1 Introduction to Surface Water and Runoff#Stream Migration and Flood Plains|10.1 Stream Migration and Flood Plains]]]
+
+45. **False.** Maximum velocity is normally near the channel centre just below the surface. [Course section and Figures 10.2.2–10.2.4: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Three Controls on Velocity|10.2 Three Controls on Velocity]]]
+
+46. **b) Meanders.** [Course section: [[02 - 10.1 Introduction to Surface Water and Runoff#Stream Migration and Flood Plains|10.1 Stream Migration and Flood Plains]]]
+
+47. **True.** The long profile is generally steepest near the headwaters and becomes gentler downstream. [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Stream Components and Long Profile|10.2 Stream Components and Long Profile]]]
+
+48. **True.** A stilling well shelters the stage recorder while its float and encoder track water elevation. [Course section and Figure 10.3.6: [[04 - 10.3 Water Velocity, Discharge Calculations, and Stage–Discharge Relationships#Stage–Discharge Relationships|10.3 Stage–Discharge Relationships]]]
+
+49. **c) Turbulent Load.** Bed load, suspended load, and saltation are recognized transport categories or modes; turbulent load is not. [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Sediment Loads and Transport|10.2 Sediment Loads and Transport]]]
+
+50. **True.** A flood hydrograph can plot precipitation and the resulting discharge response over time. [Course section and Figure 10.4.2: [[05 - 10.4 Flooding and Flood Hydrographs#Flood Hydrographs|10.4 Flood Hydrographs]]]
+
+51. **h) All of the above.** Climate, catchment properties, precipitation, flow-control structures, vegetation, and urbanization can all change runoff. [Course sections: [[02 - 10.1 Introduction to Surface Water and Runoff#Runoff Components|10.1 Runoff Components]], [[02 - 10.1 Introduction to Surface Water and Runoff#Human Effects and Urbanization|10.1 Human Effects and Urbanization]], and [[05 - 10.4 Flooding and Flood Hydrographs#Five Flood Processes|10.4 Five Flood Processes]]]
 
 </details>
 

@@ -9,7 +9,7 @@ tags:
 
 # EARTH 123 Final Exam
 
-Concise study notes built from the saved course pages for Modules 1-12.
+Concise study notes built from the saved course pages for Modules 1-12, with 102 locally saved course-quiz questions integrated into the applicable banks.
 
 ## Start Here
 

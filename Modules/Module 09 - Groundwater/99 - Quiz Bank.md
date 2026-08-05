@@ -146,6 +146,112 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 34. A plume moves through soil with $K=1.5\times10^{-3}\ \text{m/s}$, $n=0.40$, and a hydraulic gradient of $4/100$. Calculate its velocity magnitude.
 
+## Official Course Quiz Questions
+
+35. **Saved quiz-9, Question 1.**
+
+    Which of the following best describes the role of groundwater:
+
+    - a) Provides moisture to support cultivated crops and forests
+    - b) Used as major source of drinking water
+    - c) Maintains stream flow (flood control)
+    - d) All of the Above
+
+36. **Saved quiz-9, Question 2.**
+
+    The potentiometric surface refers to:
+
+    - a) The height to which water will rise in or above a well.
+    - b) The potential kinetic energy stored in underground pressure.
+    - c) The potential surface energy that can be captured at that location.
+    - d) The top of an aquifer.
+
+37. **Saved quiz-9, Question 3.**
+
+    This large glacial topographic feature helps to provide fresh groundwater to the Toronto region.
+
+    - a) Lake Ontario
+    - b) Niagara Escarpment
+    - c) Waterloo Moraine
+    - d) Oak Ridges Moraine
+
+38. **Saved quiz-9, Question 4.**
+
+    Many of the groundwater aquifers in the Waterloo region were created through past glacial processes.
+
+    - True
+    - False
+
+39. **Saved quiz-9, Question 5.**
+
+    Flowing artesian conditions often develop from unconfined aquifers.
+
+    - True
+    - False
+
+40. **Saved quiz-9, Question 6.**
+
+    Which material has the highest permeability?
+
+    - a) Granite
+    - b) Sand
+    - c) Limestone
+    - d) Clay
+
+41. **Saved quiz-9, Question 7.**
+
+    What would the approximate pressure be in a freshwater lake at the base of a 10 metre deep hydroelectric dam?
+
+    - a) 980 Pa
+    - b) 980,000 Pa
+    - c) 9,800 Pa
+    - d) 98,000 Pa
+
+42. **Saved quiz-9, Question 8.**
+
+    Darcy's Law is a simple mathematical statement which neatly summarizes several familiar properties that groundwater flowing in aquifers exhibits, including:
+
+    - a) If there is no pressure gradient (ie. slope) over a distance, no flow occurs.
+    - b) If there is a pressure gradient, flow will occur from high pressure towards low pressure (opposite the direction of increasing gradient.
+    - c) The greater the pressure gradient (through the same formation material), the greater the discharge rate.
+    - d) The discharge rate of fluid will often be different, through different formation materials (or even through the same material, in a different direction), even if the same pressure gradient exists in both cases.
+    - e) All of the above
+    - f) Just B, C, and D
+
+43. **Saved quiz-9, Question 9.**
+
+    In order to protect groundwater from future contamination, we are now able to create landfills and septic systems which will never leak into the natural environment.
+
+    - True
+    - False
+
+44. **Saved quiz-9, Question 10.**
+
+    The calculation for hydraulic head requires two components:
+
+    - a) Pressure and Temperature
+    - b) Pressure and Position
+    - c) Elevation and Porosity
+    - d) Elevation and Position
+
+45. **Saved quiz-9, Question 11.**
+
+    Which of the following aquifers would you most likely find in carbonate rocks?
+
+    - a) Unconfined
+    - b) Semi-confined
+    - c) Confined
+    - d) Karst
+
+46. **Saved quiz-9, Question 12.**
+
+    What is the approximate percentage of groundwater from all water sources on Earth?
+
+    - a) 0.06%
+    - b) 60.0%
+    - c) 0.6%
+    - d) 6.0%
+
 <details>
 <summary>Answer key</summary>
 
@@ -216,6 +322,30 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 33. **$5.7\times10^{-6}\ \text{m/s}$, approximately $50\ \text{cm/day}$, and about $200\ \text{days}$.** $v=(10^{-4}/0.35)(0.02)$. *(§9.5, “Worked example: landfill plume,” Figure 9.5.4.)*
 
 34. **$1.5\times10^{-4}\ \text{m/s}$.** $v=(1.5\times10^{-3}/0.40)(0.04)$. *(§9.5, “Course check calculation”; course Check Your Knowledge.)*
+
+35. **d) All of the Above.** Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the hydrological cycle|9.1 Groundwater in the Hydrological Cycle]].)*
+
+36. **a) The height to which water will rise in or above a well.** *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]], potentiometric-surface figure.)*
+
+37. **d) Oak Ridges Moraine.** Its glacial deposits store recharge and feed springs, streams, and rivers near Toronto. *(Course section and Figure 9.2.5: [[03 - 9.2 Aquifers and the Glacial Connection#The Glacial Connection|9.2 The Glacial Connection]].)*
+
+38. **True.** Past glacial deposition created major southern Ontario aquifers, including those in the Waterloo region. *(Course section: [[03 - 9.2 Aquifers and the Glacial Connection#The Glacial Connection|9.2 The Glacial Connection]].)*
+
+39. **False.** Flowing artesian conditions develop in pressurized confined aquifers where the potentiometric surface lies above ground. *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]], artesian-well figure.)*
+
+40. **b) Sand.** Of the listed materials, sand commonly has the largest connected pore spaces and highest permeability. *(Course section: [[04 - 9.3 Groundwater Movement and Phase Relationships#Specific yield, retention, and permeability|9.3 Specific Yield, Retention, and Permeability]].)*
+
+41. **d) 98,000 Pa.** $p=\rho gh=(1000)(9.8)(10)=98{,}000\ \text{Pa}$. *(Course section: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]].)*
+
+42. **e) All of the above.** Darcy's Law relates flow to hydraulic gradient and formation properties, with flow directed from higher to lower head. *(Course sections: [[05 - 9.4 Pressure, Head, and Flow Calculations#Hydraulic gradient|9.4 Hydraulic Gradient]] and [[05 - 9.4 Pressure, Head, and Flow Calculations#Hydraulic conductivity and Darcy specific discharge|9.4 Hydraulic Conductivity and Darcy Specific Discharge]].)*
+
+43. **False.** Engineered waste systems can reduce risk, but leakage and contaminant transport remain possible. *(Course section: [[06 - 9.5 Groundwater and Surface Water Interactions#Contamination pathways|9.5 Contamination Pathways]].)*
+
+44. **b) Pressure and Position.** Hydraulic head combines pressure head with elevation or positional head. *(Course section: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]].)*
+
+45. **d) Karst.** Karst aquifers form where water dissolves carbonate rock such as limestone. *(Course section and figure: [[03 - 9.2 Aquifers and the Glacial Connection#Karst Aquifers|9.2 Karst Aquifers]].)*
+
+46. **c) 0.6%.** *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the hydrological cycle|9.1 Groundwater in the Hydrological Cycle]].)*
 
 </details>
 

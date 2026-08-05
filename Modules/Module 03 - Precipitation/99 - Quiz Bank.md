@@ -168,6 +168,43 @@ Module: [[00 - Module 03 Overview]] | Definitions: [[01 - Main Definitions]]
 
 37. Figure 3.2.4 contrasts warm- and cold-cloud processes. What final precipitation form is shown for each cloud, and which frozen particle is shown growing in the cold cloud?
 
+## Official Course Quiz Questions
+
+38. **Saved quiz-4, Question 1.** The relative humidity of air with a saturation vapour pressure of 5.0 kPa and a vapour pressure of 2.0 kPa is:
+
+39. **Saved quiz-4, Question 3.** Adiabatic cooling refers to:
+    - a) Cooling without loss of heat
+    - b) Warming air in the presence of high humidity
+    - c) Cooling with loss of heat
+    - d) Warming air with rising elevation
+
+40. **Saved quiz-4, Question 4.** The density of snow can increase due to wind.
+    - True
+    - False
+
+41. **Saved quiz-4, Question 5.** (Hendriks, 2010, p15) Air at 20°C with a vapour pressure of 1.0 kPa is considered oversaturated.
+
+    ![Saved saturation vapour pressure curve](../../Assets/Official%20Quizzes/saturation-vapour-pressure-curve.jpg)
+
+    *Course saturation vapour-pressure curve used with the saved question.*
+
+    **What to notice:** At the stated temperature, compare the measured vapour pressure with the saturation curve.
+
+    - True
+    - False
+
+42. **Saved quiz-4, Question 7.** Which of the following is NOT a cloud formation process?
+    - a) Convection
+    - b) Convergence
+    - c) Divergence
+    - d) Orographic
+
+43. **Saved quiz-4, Question 10.** Although this value is partially dependent on temperature or location on Earth, what is the maximum value of precipitation a region can receive to be considered a desert?
+    - a) 20 cm
+    - b) 15 cm
+    - c) 25 cm
+    - d) 10 cm
+
 <details>
 <summary>Answer key</summary>
 
@@ -252,6 +289,18 @@ $$
 **36.** A-B are unsaturated and in the evaporation region; C is exactly saturated; D is oversaturated/condensing, so cloud formation is underway. *(Course section: 3.2 Atmospheric Moisture and Circulation, Figure 3.2.3.)*
 
 **37.** The warm cloud produces rain; the cold cloud produces snow, with ice crystals shown as the frozen particles that grow until large and heavy enough to fall. *(Course section: 3.2 Atmospheric Moisture and Circulation, Figure 3.2.4.)*
+
+**38. 40%.** $R_h=(e/e_s)\times100=(2.0/5.0)\times100=40\%$. The saved grading record conflicts with this calculation, likely because a different numeric format was required. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Relative humidity and saturation.
+
+**39. a) Cooling without loss of heat.** Adiabatic cooling occurs as rising air expands under lower pressure without direct heat transfer to the surrounding atmosphere. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Six steps of cloud formation and Lapse rates.
+
+**40. True.** Wind redistributes and packs snow, increasing its density. Citation: [[04 - 3.3 Snowfall and Snow Cover Processes and Issues|Course section 3.3]], Snow density and stored water.
+
+**41. False.** At $20^\circ\mathrm{C}$, saturation vapour pressure is about $2.25\ \mathrm{kPa}$, so $1.0\ \mathrm{kPa}$ is below saturation. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Relative humidity and saturation and the course saturation-temperature graph.
+
+**42. c) Divergence.** The course cloud-forming lifting mechanisms are convection, convergence, orographic lifting, and frontal lifting. Citation: [[02 - 3.1 Introduction to Precipitation and Precipitation Processes|Course section 3.1]], Formation process: lifting mechanisms.
+
+**43. c) 25 cm.** The course defines an arid region as receiving no more than $25\ \mathrm{cm}$ of annual precipitation. Citation: [[05 - 3.4 Arid Environments|Course section 3.4]], What defines an arid environment?
 
 </details>
 

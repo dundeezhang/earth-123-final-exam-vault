@@ -190,6 +190,112 @@ Show the equation, substitution, and result for each calculation.
 
 41. Soil A has $LL=38\%$ and $PL=30\%$. Soil B has $LL=58\%$ and $PL=26\%$. Calculate both plasticity indices, identify which soil has the wider plastic range, and state which soil needs the smaller water-content increase to cross its plastic range.
 
+## Official Course Quiz Questions
+
+42. **Saved quiz-8, Question 1.**
+
+    The porosity of any soil sample can be calculated by dividing the volume of the void space by the total volume of the sample.
+
+    - True
+    - False
+
+43. **Saved quiz-8, Question 2.**
+
+    Which of the following soil horizon(s) would be considered part of the 'sub-soil'?
+
+    - a) A
+    - b) A and E
+    - c) C and R
+    - d) B
+
+44. **Saved quiz-8, Question 3.**
+
+    Which of the following factors contributes to the creation of new soil?
+
+    - a) Parent Material
+    - b) Time
+    - c) Climate
+    - d) Plants and animals
+    - e) All of the above
+    - f) Only a), b), and c), above
+
+45. **Saved quiz-8, Question 4.**
+
+    The vadose zone is the saturated soil space between the surface and bedrock.
+
+    - True
+    - False
+
+46. **Saved quiz-8, Question 5.**
+
+    The diameter of a single human hair is less than the diameter of a particle of clay.
+
+    - True
+    - False
+
+47. **Saved quiz-8, Question 6.**
+
+    By dividing the volume of the voids (V<sub>voids</sub>) by the volume of the soil (V<sub>soil</sub>) from a particular sample, you would end up with:
+
+    - a) Porosity
+    - b) Degree of saturation
+    - c) Void ratio
+    - d) Bulk density
+
+48. **Saved quiz-8, Question 7.**
+
+    Which of the following does NOT play a strong role on the creation of new soils?
+
+    - a) Time
+    - b) Topography
+    - c) Parent material
+    - d) Grainsizes
+    - e) Climate
+
+49. **Saved quiz-8, Question 8.**
+
+    The water or moisture content of a soil can be calculated by dividing the mass of the water by the volume of the soil in the sample (w = m<sub>water</sub> / V<sub>soil</sub>).
+
+    - True
+    - False
+
+50. **Saved quiz-8, Question 9.**
+
+    Frost wedging, expansion from unloading, and thermal expansion are all examples of what process?
+
+    - a) Volcanic weathering
+    - b) Mechanical weathering
+    - c) Biological weathering
+    - d) Chemical weathering
+
+51. **Saved quiz-8, Question 10.**
+
+    Which of the following best describes the 'plasticity index'?
+
+    - a) The point of maximum soil cohesion
+    - b) The difference between the liquid limit and plastic limits
+    - c) The upper limit of water content for the soil to exhibit plastic behavior
+    - d) The lower limit of water content for the soil to exhibit plastic behavior
+
+52. **Saved quiz-8, Question 11.**
+
+    Which of the following could be considered a 'solution' to soil degradation?
+
+    - a) Erosion
+    - b) Increased use of organic fertilizers
+    - c) Water logging
+    - d) Restoring plant cover
+
+53. **Saved quiz-8, Question 12.**
+
+    Place the following grainsizes in order from finest to coarsest:
+
+    - a) clay, silt, sand, gravel
+    - b) clay, sand, silt, gravel
+    - c) silt, sand, gravel, clay
+    - d) gravel, sand, silt, clay
+    - e) sand, silt, clay, gravel
+
 <details>
 <summary>Answer key</summary>
 
@@ -277,5 +383,28 @@ Show the equation, substitution, and result for each calculation.
 
 41. Soil A: $PI=38-30=8$ percentage points. Soil B: $PI=58-26=32$ percentage points. **Soil B** has the wider plastic range; **Soil A** needs the smaller water-content increase to cross its plastic range. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Plasticity|8.3 Soil Plasticity]])
 
-</details>
+42. **True.** Porosity is void volume divided by total volume. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
 
+43. **d) B.** The B horizon is the first horizon in the subsoil. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#The Soil Profile|8.1 The Soil Profile]])
+
+44. **e) All of the above.** Parent material, time, climate, plants and animals, and topography contribute to soil formation. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Controls on Soil Formation|8.1 Controls on Soil Formation]])
+
+45. **False.** The vadose zone is unsaturated and extends from the surface to the water table. (Course section and figure: [[02 - 8.1 Introduction to Soils and Phase Relationships#Soil, Zones, and Importance|8.1 Soil, Zones, and Importance]], Figure 8.1.1)
+
+46. **False.** A human hair is much wider than a clay particle. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Texture|8.3 Soil Texture]])
+
+47. **c) Void ratio.** The course defines void ratio as void volume divided by solid volume. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
+
+48. **d) Grainsizes.** The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Controls on Soil Formation|8.1 Controls on Soil Formation]])
+
+49. **False.** Gravimetric water content divides water mass by solid mass, not soil volume. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
+
+50. **b) Mechanical weathering.** These processes break material physically without changing its mineral composition. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Weathering|8.2 Soil Weathering]])
+
+51. **b) The difference between the liquid limit and plastic limits.** $PI=LL-PL$. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Plasticity|8.3 Soil Plasticity]])
+
+52. **d) Restoring plant cover.** Plant cover protects soil from erosion and supports recovery. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Degradation|8.2 Soil Degradation]])
+
+53. **a) clay, silt, sand, gravel.** This sequence runs from the finest particles to the coarsest. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Texture|8.3 Soil Texture]])
+
+</details>
