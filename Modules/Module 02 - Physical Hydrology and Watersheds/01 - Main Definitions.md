@@ -39,7 +39,7 @@ Module: [[00 - Module 02 Overview]]
 | Storage, $S$ | Water already held inside a system at a given time. | 2.2-2.3 | Water inside a lake or rain barrel is storage. |
 | Change in storage, $\Delta S$ | Difference in stored water over a defined period, equal to inputs minus outputs. | 2.2-2.3 | If a rain barrel receives $50\ \mathrm{L}$ and releases $20\ \mathrm{L}$, $\Delta S=+30\ \mathrm{L}$. |
 | Conservation equation | Balance stating that change in a conserved quantity equals total input minus total output: $\Delta S=I-O$. | 2.2 | A reservoir operator uses measured inflows and releases to estimate storage change. |
-| Water balance | Application of conservation to all measured water inputs, outputs, and storage changes in a hydrologic system. | 2.3 | $\Delta S=(P+G_{in}+Q_{in})-(ET+G_{out}+Q_{out})$. |
+| Water balance | Application of conservation to all measured water inputs, outputs, and storage changes in a hydrologic system. | 2.3 | A watershed calculation applies $\Delta S=(P+G_{in}+Q_{in})-(ET+G_{out}+Q_{out})$. |
 | Steady state | Condition in which storage does not change during the study period, so $\Delta S=0$ and inputs equal outputs. | 2.3 | A full rain barrel is steady when eaves inflow equals overflow, even while water moves through it. |
 | Flux | Movement or change of a quantity through time or across a boundary. | 2.2 | $\Delta S$ records a storage change, while discharge records water crossing an outlet over time. |
 | Length per time, $L/T$ | Rate expressed as a water depth or distance per unit time. | 2.2 | Rainfall intensity can be recorded in $\mathrm{mm/h}$. |

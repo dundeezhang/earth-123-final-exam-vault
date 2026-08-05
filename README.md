@@ -1,6 +1,6 @@
 # EARTH 123 Final Exam Vault
 
-An Obsidian study vault covering EARTH 123 Modules 3 through 12.
+An Obsidian study vault covering EARTH 123 Modules 1 through 12.
 
 ## Start Here
 
@@ -8,13 +8,13 @@ Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%2
 
 ## Contents
 
-- 33 course submodule notes
+- 40 course submodule notes
 - Main definitions page for every module
-- 371 definitions with examples and applications
+- 444 definitions with examples and applications
 - Formula and units index
 - Exam study tracker
-- 359 quiz questions with collapsed, cited answer keys
-- 146 original course figures embedded in 150 study-focused placements
+- 434 quiz questions with collapsed, cited answer keys
+- 172 original course figures embedded in 177 study-focused placements
 - A concise caption and clear **What to notice** explanation for every figure placement
 - Course reference videos and readings retained where available
 
@@ -22,6 +22,8 @@ Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%2
 
 | Module | Topic |
 |---|---|
+| 1 | Course Foundations |
+| 2 | Physical Hydrology and Watersheds |
 | 3 | Precipitation |
 | 4 | Precipitation Data and Measurement |
 | 5 | Evaporation and Transpiration |

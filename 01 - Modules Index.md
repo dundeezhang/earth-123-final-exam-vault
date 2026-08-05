@@ -13,6 +13,8 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 | Module | Main topic | Definitions | Quiz bank |
 |---|---|---|---|
+| 1 | [[00 - Module 01 Overview|Course Foundations]] | [[Modules/Module 01 - Course Foundations/01 - Main Definitions|Definitions]] | [[Modules/Module 01 - Course Foundations/99 - Quiz Bank|Quiz]] |
+| 2 | [[00 - Module 02 Overview|Physical Hydrology and Watersheds]] | [[Modules/Module 02 - Physical Hydrology and Watersheds/01 - Main Definitions|Definitions]] | [[Modules/Module 02 - Physical Hydrology and Watersheds/99 - Quiz Bank|Quiz]] |
 | 3 | [[00 - Module 03 Overview|Precipitation]] | [[Modules/Module 03 - Precipitation/01 - Main Definitions|Definitions]] | [[Modules/Module 03 - Precipitation/99 - Quiz Bank|Quiz]] |
 | 4 | [[00 - Module 04 Overview|Precipitation Data and Measurement]] | [[Modules/Module 04 - Precipitation Data and Measurement/01 - Main Definitions|Definitions]] | [[Modules/Module 04 - Precipitation Data and Measurement/99 - Quiz Bank|Quiz]] |
 | 5 | [[00 - Module 05 Overview|Evaporation and Transpiration]] | [[Modules/Module 05 - Evaporation and Transpiration/01 - Main Definitions|Definitions]] | [[Modules/Module 05 - Evaporation and Transpiration/99 - Quiz Bank|Quiz]] |
@@ -26,5 +28,4 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 ## Suggested Order
 
-Modules 3-7 establish atmospheric water inputs, losses, measurement, and water balances. Modules 8-10 move through soils, groundwater, and surface water. Modules 11-12 connect freshwater storage to glaciation and climate change.
-
+Module 1 establishes course organization and scientific inquiry. Module 2 introduces hydrologic systems, data, watersheds, and conservation. Modules 3-7 cover atmospheric inputs, losses, measurement, and water balances. Modules 8-10 move through soils, groundwater, and surface water. Modules 11-12 connect freshwater storage to glaciation and climate change.

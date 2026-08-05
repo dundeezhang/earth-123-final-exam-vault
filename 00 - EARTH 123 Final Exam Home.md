@@ -9,7 +9,7 @@ tags:
 
 # EARTH 123 Final Exam
 
-Concise study notes built from the saved course pages for Modules 3-12.
+Concise study notes built from the saved course pages for Modules 1-12.
 
 ## Start Here
 
@@ -24,6 +24,8 @@ Concise study notes built from the saved course pages for Modules 3-12.
 
 ## Modules
 
+- [[00 - Module 01 Overview|Module 1: Course Foundations]]
+- [[00 - Module 02 Overview|Module 2: Physical Hydrology and Watersheds]]
 - [[00 - Module 03 Overview|Module 3: Precipitation]]
 - [[00 - Module 04 Overview|Module 4: Precipitation Data and Measurement]]
 - [[00 - Module 05 Overview|Module 5: Evaporation and Transpiration]]

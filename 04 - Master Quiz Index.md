@@ -11,6 +11,8 @@ tags:
 
 Up: [[00 - EARTH 123 Final Exam Home]]
 
+- [[Modules/Module 01 - Course Foundations/99 - Quiz Bank|Module 1 Quiz Bank]]
+- [[Modules/Module 02 - Physical Hydrology and Watersheds/99 - Quiz Bank|Module 2 Quiz Bank]]
 - [[Modules/Module 03 - Precipitation/99 - Quiz Bank|Module 3 Quiz Bank]]
 - [[Modules/Module 04 - Precipitation Data and Measurement/99 - Quiz Bank|Module 4 Quiz Bank]]
 - [[Modules/Module 05 - Evaporation and Transpiration/99 - Quiz Bank|Module 5 Quiz Bank]]
@@ -24,4 +26,3 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 > [!tip]
 > Complete each quiz before expanding its answer key. Add every missed concept to [[02 - Exam Study Tracker#Weak Topics]].
-

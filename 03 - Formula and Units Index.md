@@ -28,6 +28,16 @@ Use this page to select an equation and check units. Follow the linked module no
 > [!warning]
 > A precipitation or evapotranspiration depth becomes a volume only after multiplication by the receiving area. Never add millimetres directly to cubic metres.
 
+## Module 2: Physical Hydrology and Watersheds
+
+| Purpose | Equation | Notes |
+|---|---|---|
+| General conservation | $\Delta S=I-O$ | Change in storage equals total input minus total output over one defined period. |
+| Watershed water balance | $\Delta S=(P+G_{in}+Q_{in})-(ET+G_{out}+Q_{out})$ | Use the system boundary and arrow directions to classify every term. |
+| Steady state | $\Delta S=0$ and $I=O$ | Water may continue moving through the system while storage remains constant. |
+
+Details: [[Modules/Module 02 - Physical Hydrology and Watersheds/03 - 2.2 Introduction to Data and Watersheds|2.2 Data and Watersheds]] and [[Modules/Module 02 - Physical Hydrology and Watersheds/04 - 2.3 A Simple Watershed and Water Balance Example|2.3 Water Balance Example]]
+
 ## Module 3: Precipitation
 
 | Purpose | Equation | Notes |

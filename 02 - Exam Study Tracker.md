@@ -15,6 +15,8 @@ Use the checkboxes after completing the notes and quiz bank for each module.
 
 | Module | Notes | Quiz 1 | Correct | Review needed | Quiz 2 |
 |---|---|---|---:|---|---|
+| 1 | [ ] | [ ] |  |  | [ ] |
+| 2 | [ ] | [ ] |  |  | [ ] |
 | 3 | [ ] | [ ] |  |  | [ ] |
 | 4 | [ ] | [ ] |  |  | [ ] |
 | 5 | [ ] | [ ] |  |  | [ ] |
@@ -40,4 +42,3 @@ Use the checkboxes after completing the notes and quiz bank for each module.
 - [ ] Equations and units reviewed
 - [ ] Common confusions reviewed
 - [ ] Every quiz bank completed twice
-
