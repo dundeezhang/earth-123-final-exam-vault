@@ -15,6 +15,8 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 Module: [[00 - Module 06 Overview]]
 
+Module notes: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters]] | [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods]] | [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements]]
+
 ## Questions
 
 ### Multiple Choice
@@ -105,9 +107,9 @@ Module: [[00 - Module 06 Overview]]
 
 21. Why is the constant $K$ needed in the empirical equation $E=Kf(u)(e_s-e_a)$?
 
-22. How can two evapotranspiration chambers be used to isolate ET from vegetation alone?
+22. How can two evapotranspiration chambers be used to isolate plant transpiration?
 
-23. Where does $S_y$ usually come from, and which soil properties inform it?
+23. What does $S_y$ represent, where does it usually come from, and which soil properties inform it?
 
 24. Why is $b$ negative in the worked Figure 6.3.1 example?
 
@@ -136,7 +138,7 @@ Module: [[00 - Module 06 Overview]]
 | Term | Meaning |
 |---|---|
 | A. $K$ | 1. Actual vapour pressure at the air temperature above the surface |
-| B. $f(u)$ | 2. Saturated vapour pressure at the air temperature above the surface |
+| B. $f(u)$ | 2. Saturation vapour pressure at the air temperature above the surface |
 | C. $e_s$ | 3. Site-specific empirical constant |
 | D. $e_a$ | 4. Wind-speed function |
 
@@ -150,9 +152,9 @@ Module: [[00 - Module 06 Overview]]
 
 ### Calculations
 
-29. A standard pan loses 12 mm over 4 days and has $K_p=0.60$. Calculate the corrected evaporation rate in $\mathrm{mm/day}$.
+29. A standard pan loses 12 mm over 4 days and has $K_p=0.60$. Calculate the corrected evaporation rate in $\mathrm{mm\,day^{-1}}$.
 
-30. A weighing lysimeter has an area of $15\ \mathrm{m^2}$ and a dry mass of 300 kg. Investigators add 40 L of water. Five days later its mass is 325 kg, and no outflow occurred. Calculate actual ET in $\mathrm{mm/day}$.
+30. A weighing lysimeter has an area of $15\ \mathrm{m^2}$ and a dry mass of 300 kg. Investigators add 40 L of water. Five days later its mass is 325 kg, and no outflow occurred. Calculate actual ET in $\mathrm{mm\,day^{-1}}$.
 
 31. Using the simplified energy balance, calculate $H_E$ when $R=900$, $R_E=180$, and $R_A=120$, with all terms in the same energy units.
 
@@ -160,88 +162,88 @@ Module: [[00 - Module 06 Overview]]
 
 33. Evaluate the empirical equation when $K=0.4$, $f(u)=3$, $e_s=2.5$, and $e_a=1.0$. Report the result in the equation's consistent calibrated units.
 
-34. A water table rises from 0.40 m at midnight to 0.48 m at 4:00 a.m. It is 0.55 m at 6:00 a.m. on the first day and 0.45 m at 6:00 a.m. the next day. If $S_y=0.20$, calculate $a$, $b$, and ET in $\mathrm{mm/day}$.
+34. A water table rises from 0.40 m at midnight to 0.48 m at 4:00 a.m. It is 0.55 m at 6:00 a.m. on the first day and 0.45 m at 6:00 a.m. the next day. If $S_y=0.20$, calculate $a$, $b$, and ET in $\mathrm{mm\,day^{-1}}$.
 
-35. **Course check:** A standard evaporation pan loses 5 mm over 2 days and has $K_p=0.4$. Calculate actual evaporation in $\mathrm{mm/day}$.
+35. **Course check:** A standard evaporation pan loses 5 mm over 2 days and has $K_p=0.4$. Calculate actual evaporation in $\mathrm{mm\,day^{-1}}$.
 
-36. **Course check:** A $10\ \mathrm{m^2}$ weighing lysimeter has a dry mass of 200 kg. Investigators add 25 L of water; after 1 day it weighs 220 kg, with no outflow. Calculate ET in $\mathrm{mm/day}$.
+36. **Course check:** A $10\ \mathrm{m^2}$ weighing lysimeter has a dry mass of 200 kg. Investigators add 25 L of water; after 1 day it weighs 220 kg, with no outflow. Calculate ET in $\mathrm{mm\,day^{-1}}$.
 
 37. **Course check:** A groundwater graph gives a total water-table rise of 0.1 m from midnight to 4:00 a.m. and $b=0.2$ m over 24 hours. If $S_y=0.13$, calculate ET in centimetres.
 
 <details>
 <summary>Answer key</summary>
 
-1. **B.** Potential ET is the maximum possible under an infinite water supply and unsaturated air. (EARTH 123 §6.1, opening discussion before "Field Measurements – Evaporation Pans")
+1. **B.** Potential ET is the maximum possible under an unlimited water supply and unsaturated air. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Potential, Actual, and Reference Crop Evaporation)
 
-2. **B.** A lysimeter contains local soil and vegetation and estimates actual ET through mass change or a water balance. (EARTH 123 §6.1, "Field Measurements – Lysimeters")
+2. **B.** A lysimeter contains local soil and vegetation and estimates actual ET through mass change or a water balance. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Lysimeters)
 
-3. **C.** The standard pan is about 120 cm in diameter and 25 cm deep. (EARTH 123 §6.1, "Field Measurements – Evaporation Pans")
+3. **C.** The standard pan is about 120 cm in diameter and 25 cm deep. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Evaporation Pans)
 
-4. **B.** A sunken pan can collect leaves and debris and receive runoff from overland flow. (EARTH 123 §6.1, "Field Measurements – Evaporation Pans," Figure 6.1.2 discussion)
+4. **B.** A sunken pan can collect leaves and debris and receive runoff from overland flow. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Evaporation Pans; Figure 6.1.2)
 
-5. **C.** $K_p$ depends on pan type and location and varies by month or season. (EARTH 123 §6.1, "Pan Coefficients")
+5. **C.** $K_p$ depends on pan type and location and varies by month or season. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], "Pan Coefficients")
 
-6. **A.** A pyranometer measures incoming or reflected radiation. (EARTH 123 §6.2, "Energy Balance Method," Figure 6.2.1)
+6. **A.** A pyranometer measures incoming or reflected radiation. (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Energy Balance Method," Figure 6.2.1)
 
-7. **C.** The page gives approximately 600 calories per gram of water. (EARTH 123 §6.2, "Energy Balance Method")
+7. **C.** The page gives approximately 600 calories per gram of water. (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Energy Balance Method")
 
-8. **B.** Penman-Monteith calculates potential ET from atmospheric and surface data and supports crop-water management. (EARTH 123 §6.2, "Penman-Monteith Method")
+8. **B.** Penman-Monteith calculates potential ET from atmospheric and surface data and supports crop-water management. (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Penman-Monteith Method")
 
-9. **B.** The increase shows vapour accumulating through evaporation or transpiration. (EARTH 123 §6.2, "Physical Methods – Evapotranspiration Chambers," Figure 6.2.3)
+9. **B.** The increase shows vapour accumulating through evaporation or transpiration. (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], Physical Method: Evapotranspiration Chambers; Figure 6.2.3)
 
-10. **B.** The water table must be near the surface and directly accessible to plants. (EARTH 123 §6.3, opening discussion)
+10. **B.** The water table must be near the surface and directly accessible to plants. (Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], opening discussion)
 
-11. **False.** The course states $ET_{actual}\le ET_{potential}$. (EARTH 123 §6.1, opening discussion before "Field Measurements – Evaporation Pans")
+11. **False.** The course states $ET_{actual}\le ET_{potential}$. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Potential, Actual, and Reference Crop Evaporation)
 
-12. **True.** The floating pan can approach the water body's temperature under cloudy conditions, although sunny conditions may overheat it. (EARTH 123 §6.1, "Field Measurements – Evaporation Pans," Figure 6.1.2 discussion)
+12. **True.** The floating pan can approach the water body's temperature under cloudy conditions, although sunny conditions may overheat it. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Evaporation Pans; Figure 6.1.2)
 
-13. **False.** That describes a weighing lysimeter. A water balance lysimeter uses water collection, a reservoir, a float, and records of water movement. (EARTH 123 §6.1, "Water Balance Lysimeter")
+13. **False.** That describes a weighing lysimeter. A water balance lysimeter uses water collection, a reservoir, a float, and records of water movement. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], "Water Balance Lysimeter")
 
-14. **True.** $H_C$ is energy converted to plant growth and is often very small. (EARTH 123 §6.2, "Energy Balance Method")
+14. **True.** $H_C$ is energy converted to plant growth and is often very small. (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Energy Balance Method")
 
-15. **False.** The fitted relationship is local; different atmospheric, water, and soil conditions make transfer to unlike sites unreliable. (EARTH 123 §6.2, "Empirical Methods")
+15. **False.** The fitted relationship is local; different atmospheric, water, and soil conditions make transfer to unlike sites unreliable. (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Empirical Methods")
 
-16. **True.** Because $a$ is an hourly rise rate, $24a$ gives the projected recovery depth over one day. (EARTH 123 §6.3, equation discussion)
+16. **True.** Because $a$ is an hourly rise rate, $24a$ gives the projected recovery depth over one day. (Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], Equation Variables)
 
-17. **Reference crop evaporation is a modelled potential-ET value for crop or vegetation types; it helps estimate total ET over large monocultures or monocrops.** (EARTH 123 §6.1, opening discussion before "Field Measurements – Evaporation Pans")
+17. **Reference crop evaporation is a modelled potential-ET value for crop or vegetation types; it helps estimate total ET over large monocultures or monocrops.** (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Potential, Actual, and Reference Crop Evaporation)
 
-18. **A weighing lysimeter records total mass change on a scale; a water balance lysimeter records water levels, inflows, and outflows with a collection and monitoring system.** (EARTH 123 §6.1, "Weighing Lysimeter" and "Water Balance Lysimeter")
+18. **A weighing lysimeter records total mass change on a scale; a water balance lysimeter records water levels, inflows, and outflows with a collection and monitoring system.** (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], "Weighing Lysimeter" and "Water Balance Lysimeter")
 
-19. **Directly measuring $H_A$, $H_B$, and $H_C$ is difficult, and the difficulty grows with study area.** (EARTH 123 §6.2, "Energy Balance Method")
+19. **Directly measuring $H_A$, $H_B$, and $H_C$ is difficult, and the difficulty grows with study area.** (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Energy Balance Method")
 
-20. **Low surface inflow and outflow, low-permeability subsurface conditions, and data spanning many years.** (EARTH 123 §6.2, "Water Balance Method")
+20. **Low surface inflow and outflow, low-permeability subsurface conditions, and data spanning many years.** (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Water Balance Method")
 
-21. **$K$ tunes the empirical model to the individual local conditions represented by the calibration data.** (EARTH 123 §6.2, "Empirical Methods")
+21. **$K$ tunes the empirical model to the individual local conditions represented by the calibration data.** (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Empirical Methods")
 
-22. **Measure a plant plus its underlying surface in one chamber, measure a comparable bare surface in another, and subtract the bare-surface ET from the vegetated-chamber ET.** (EARTH 123 §6.2, "Physical Methods – Evapotranspiration Chambers")
+22. **Measure a plant plus its underlying surface in one chamber, measure a comparable bare surface in another, and subtract bare-surface evaporation from the vegetated-chamber ET. The difference estimates plant transpiration.** (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], Physical Method: Evapotranspiration Chambers)
 
-23. **$S_y$ is commonly retrieved from a table based on local geologic and soil properties, including grain size, porosity, and permeability.** (EARTH 123 §6.3, equation-variable discussion)
+23. **$S_y$ is the dimensionless effective drainable-water fraction used to convert water-table movement to equivalent water depth. It is commonly retrieved from a table based on local grain size, porosity, permeability, and related geologic properties.** (Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], equation-variable discussion)
 
-24. **The level after 24 hours is lower: $b=0.50-0.62=-0.12\ \mathrm{m}$. The graph's declining peaks confirm the net drop.** (EARTH 123 §6.3, Figure 6.3.1 worked example)
+24. **The level after 24 hours is lower: $b=0.50-0.62=-0.12\ \mathrm{m}$. The graph's declining peaks confirm the net drop.** (Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], Figure 6.3.1 Worked Example)
 
-25. **A-2, B-3, C-1.** Surface pans are wind cooled; sunken pans are insulated but collect debris/runoff; floating pans represent water bodies but may overheat in sun. (EARTH 123 §6.1, "Field Measurements – Evaporation Pans," Figure 6.1.2)
+25. **A-2, B-3, C-1.** Surface pans are wind cooled; sunken pans are insulated but collect debris/runoff; floating pans represent water bodies but may overheat in sun. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Evaporation Pans; Figure 6.1.2)
 
-26. **A-3, B-4, C-2, D-5, E-1.** (EARTH 123 §6.2, "Energy Balance Method")
+26. **A-3, B-4, C-2, D-5, E-1.** (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Energy Balance Method")
 
-27. **A-3, B-4, C-2, D-1.** (EARTH 123 §6.2, "Empirical Methods")
+27. **A-3, B-4, C-2, D-1.** (Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Empirical Methods")
 
-28. **A-2, B-3, C-1.** (EARTH 123 §6.3, equation-variable discussion)
+28. **A-2, B-3, C-1.** (Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], equation-variable discussion)
 
-29. **$1.8\ \mathrm{mm/day}$.**
+29. **$1.8\ \mathrm{mm\,day^{-1}}$.**
 
 $$
-E=\frac{(12\ \mathrm{mm})(0.60)}{4\ \mathrm{days}}=\frac{7.2}{4}=1.8\ \mathrm{mm/day}
+E=\frac{(12\ \mathrm{mm})(0.60)}{4\ \mathrm{days}}=\frac{7.2}{4}=1.8\ \mathrm{mm\,day^{-1}}
 $$
 
-(EARTH 123 §6.1, "Pan Coefficients" and its worked example)
+(Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], "Pan Coefficients" and its worked example)
 
-30. **$0.2\ \mathrm{mm/day}$.** The wet starting mass is $300+40=340$ kg. Water loss is $340-325=15$ kg $=15$ L $=0.015\ \mathrm{m^3}$. Then
+30. **$0.2\ \mathrm{mm\,day^{-1}}$.** The wet starting mass is $300+40=340$ kg. Water loss is $340-325=15$ kg $=15$ L $=0.015\ \mathrm{m^3}$. Then
 
 $$
 d=\frac{0.015\ \mathrm{m^3}}{15\ \mathrm{m^2}}=0.001\ \mathrm{m}=1\ \mathrm{mm}
 $$
 
-and $1\ \mathrm{mm}/5\ \mathrm{days}=0.2\ \mathrm{mm/day}$. (EARTH 123 §6.1, "Field Measurements – Lysimeters," weighing-lysimeter worked example)
+and $1\ \mathrm{mm}/5\ \mathrm{days}=0.2\ \mathrm{mm\,day^{-1}}$. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Weighing-Lysimeter Pattern)
 
 31. **600 energy units.**
 
@@ -249,7 +251,7 @@ $$
 H_E=R-R_E-R_A=900-180-120=600
 $$
 
-(EARTH 123 §6.2, "Energy Balance Method," simplified balance)
+(Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Energy Balance Method," simplified balance)
 
 32. **12 depth units for the stated period.**
 
@@ -257,7 +259,7 @@ $$
 E=7+15+2-8-1-3=12
 $$
 
-(EARTH 123 §6.2, "Water Balance Method")
+(Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Water Balance Method")
 
 33. **1.8 in the calibrated equation's consistent units.**
 
@@ -265,48 +267,48 @@ $$
 E=(0.4)(3)(2.5-1.0)=(0.4)(3)(1.5)=1.8
 $$
 
-(EARTH 123 §6.2, "Empirical Methods")
+(Citation: [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods|Course section 6.2]], "Empirical Methods")
 
-34. **$a=0.020\ \mathrm{m/h}$, $b=-0.10\ \mathrm{m}$, and $ET=76\ \mathrm{mm/day}$.**
-
-$$
-a=\frac{0.48-0.40}{4}=0.020\ \mathrm{m/h},\qquad b=0.45-0.55=-0.10\ \mathrm{m}
-$$
+34. **$a=0.020\ \mathrm{m\,h^{-1}}$, $b=-0.10\ \mathrm{m}$, and $ET=76\ \mathrm{mm\,day^{-1}}$.**
 
 $$
-ET=0.20[24(0.020)-0.10]=0.20(0.38)=0.076\ \mathrm{m/day}=76\ \mathrm{mm/day}
+a=\frac{0.48-0.40}{4}=0.020\ \mathrm{m\,h^{-1}},\qquad b=0.45-0.55=-0.10\ \mathrm{m}
 $$
 
-(EARTH 123 §6.3, Figure 6.3.1 worked example and $ET=S_y(24a+b)$)
-
-35. **$1\ \mathrm{mm/day}$.**
-
 $$
-E=\frac{(5\ \mathrm{mm})(0.4)}{2\ \mathrm{days}}=1\ \mathrm{mm/day}
+ET=0.20[24(0.020)-0.10]=0.20(0.38)=0.076\ \mathrm{m\,day^{-1}}=76\ \mathrm{mm\,day^{-1}}
 $$
 
-(EARTH 123 §6.1, "Check Your Knowledge," first question)
+(Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], Figure 6.3.1 Worked Example and $ET=S_y(24a+b)$)
 
-36. **$0.5\ \mathrm{mm/day}$.** The wet starting mass is $200+25=225$ kg, so 5 kg $=5$ L $=0.005\ \mathrm{m^3}$ was lost. Therefore,
+35. **$1\ \mathrm{mm\,day^{-1}}$.**
+
+$$
+E=\frac{(5\ \mathrm{mm})(0.4)}{2\ \mathrm{days}}=1\ \mathrm{mm\,day^{-1}}
+$$
+
+(Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Pan-Coefficient Correction)
+
+36. **$0.5\ \mathrm{mm\,day^{-1}}$.** The wet starting mass is $200+25=225$ kg, so 5 kg $=5$ L $=0.005\ \mathrm{m^3}$ was lost. Therefore,
 
 $$
 d=\frac{0.005\ \mathrm{m^3}}{10\ \mathrm{m^2}}=0.0005\ \mathrm{m}=0.5\ \mathrm{mm}
 $$
 
-over 1 day. (EARTH 123 §6.1, "Check Your Knowledge," second question)
+over 1 day. (Citation: [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters|Course section 6.1]], Weighing-Lysimeter Pattern)
 
 37. **$10.4\ \mathrm{cm}$.**
 
 $$
-a=\frac{0.1\ \mathrm{m}}{4\ \mathrm{h}}=0.025\ \mathrm{m/h}
+a=\frac{0.1\ \mathrm{m}}{4\ \mathrm{h}}=0.025\ \mathrm{m\,h^{-1}}
 $$
 
 $$
 ET=0.13[24(0.025)+0.2]=0.104\ \mathrm{m}=10.4\ \mathrm{cm}
 $$
 
-(EARTH 123 §6.3, "Check Your Knowledge")
+(Citation: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|Course section 6.3]], Embedded Knowledge-Check Pattern)
 
 </details>
 
-Previous: [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements]] | Up: [[00 - Module 06 Overview]]
+Previous: [[Modules/Module 06 - Measuring Evapotranspiration/04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements|6.3]] | Next: [[Modules/Module 06 - Measuring Evapotranspiration/00 - Module 06 Overview|Overview]]

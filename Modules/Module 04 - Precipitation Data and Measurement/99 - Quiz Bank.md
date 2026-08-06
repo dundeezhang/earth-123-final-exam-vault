@@ -1,6 +1,6 @@
 ---
 course: EARTH 123
-module: "04 - Precipitation Data and Measurement"
+module: "Module 04 - Precipitation Data and Measurement"
 type: quiz-bank
 tags:
   - earth-123
@@ -13,9 +13,13 @@ tags:
 
 Up: [[00 - EARTH 123 Final Exam Home]]
 
+Module: [[00 - Module 04 Overview]]
+
 Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques]] | [[04 - 4.3 Quantitative Analysis of Precipitation Data]]
 
-## Multiple Choice
+## Questions
+
+### Multiple Choice
 
 1. Which study setting generally needs the densest gauge network for representative precipitation data?
    - A. A flat prairie dominated by long-duration, large-area storms
@@ -35,7 +39,7 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
    - C. Non-recording rain gauge
    - D. Snow stake
 
-4. Why can a Tipping Bucket gauge miss a very small rainfall event?
+4. Why can a tipping-bucket gauge miss a very small rainfall event?
    - A. It can record only snow.
    - B. Its collector must be read manually.
    - C. The collected volume may never reach the amount required to tip a bucket.
@@ -77,7 +81,7 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
    - C. A large mountain range with sparse gauges
    - D. Any region after one gauge fails
 
-## True or False
+### True or False
 
 11. Long-duration, large-area precipitation events are generally more spatially variable than short-duration, small-area events.
 
@@ -91,7 +95,7 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 
 16. In an arithmetic average, gauges outside the study boundary should be included whenever they appear on the same map.
 
-## Matching
+### Matching
 
 17. Match each instrument to its operating principle.
 
@@ -99,7 +103,7 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 |---|---|
 | A. Weighing gauge | 1. A float and pulley track water level |
 | B. Float gauge | 2. A known volume causes alternating buckets to tip |
-| C. Tipping Bucket gauge | 3. Added sample mass is tracked on a tared balance |
+| C. Tipping-bucket gauge | 3. Added sample mass is tracked on a tared balance |
 | D. Optical disdrometer | 4. Particle size, shape, velocity, and intensity are measured |
 
 18. Match each measurement issue to the most direct response.
@@ -120,7 +124,7 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 | C. Reconcile data before and after a station change | 3. Missing-station interpolation |
 | D. Weight gauge readings by represented polygon area | 4. Thiessen Polygon Method |
 
-## Short Answer
+### Short Answer
 
 20. List the three main considerations in rainfall measurement and gauge-network design.
 
@@ -132,9 +136,9 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 
 24. Describe the geometric construction of Thiessen polygons from a set of gauge points.
 
-## Calculations
+### Calculations
 
-25. Each Tipping Bucket timestamp reports the preceding 15 minutes. The readings at 08:15, 08:30, 08:45, and 09:00 are 0.0, 0.4, 0.2, and 0.4 mm. Calculate the rainfall intensity from 08:00 to 09:00.
+25. Each tipping-bucket timestamp reports the preceding 15 minutes. The readings at 08:15, 08:30, 08:45, and 09:00 are 0.0, 0.4, 0.2, and 0.4 mm. Calculate the rainfall intensity from 08:00 to 09:00.
 
 26. A snow corer has a cross-sectional area of $10\ \text{cm}^2$, collects a 50 cm core, and contains 0.1 kg of snow. Calculate the snow density in $\text{g/cm}^3$.
 
@@ -146,7 +150,7 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 
 30. In the course drainage-basin diagram, the three gauges inside the watershed record 0.8, 1.6, and 1.2 cm; the two gauges outside record 0.9 and 0.7 cm. Calculate the arithmetic-average precipitation for the watershed.
 
-## Official Course Quiz Questions
+### Official Course Quiz Questions
 
 31. **Saved quiz-4, Question 2.** © Course Author(s), University of Waterloo, Dencake/iStock/Getty Images The average rainfall depth in the watershed shown below is approximately:
 
@@ -178,65 +182,65 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 <details>
 <summary>Answer key</summary>
 
-1. **B.** Local, intense precipitation and complex mountain terrain require denser sampling than broadly distributed rainfall in flat terrain. *(Course section 4.1, Measuring Rainfall.)*
+1. **B.** Local, intense precipitation and complex mountain terrain require denser sampling than broadly distributed rainfall in flat terrain. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Measuring Rainfall.)*
 
-2. **C.** Primary stations receive rigorous official monitoring and maintenance; the Co-operative Network adds many official and unofficial stations and therefore much more spatial data. *(Course section 4.1, Measuring Rainfall.)*
+2. **C.** Primary stations receive rigorous official monitoring and maintenance; the Co-operative Network adds many official and unofficial stations and therefore much more spatial data. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Measuring Rainfall.)*
 
-3. **B. Optical disdrometer.** It measures particle size and shape, falling velocity, and intensity. *(Course section 4.1, Rain Gauges.)*
+3. **B. Optical disdrometer.** It measures particle size and shape, falling velocity, and intensity. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Rain-Gauge Types.)*
 
-4. **C.** Precipitation below the bucket's threshold volume produces no tip, so the logger records nothing. *(Course section 4.1, Rain Gauges.)*
+4. **C.** Precipitation below the bucket's threshold volume produces no tip, so the logger records nothing. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Rain-Gauge Types.)*
 
-5. **D. At least 12 m.** The placement distance is at least four times obstacle height: $4(3\ \text{m})=12\ \text{m}$. *(Course section 4.2, Limitations of Rain Gauges.)*
+5. **D. At least 12 m.** The placement distance is at least four times obstacle height: $4(3\ \text{m})=12\ \text{m}$. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Limitations of Rain Gauges.)*
 
-6. **B.** Shields slow wind near the opening to maximize catch and reduce wind losses. *(Course section 4.2, Measurement Techniques.)*
+6. **B.** Shields slow wind near the opening to maximize catch and reduce wind losses. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Wind-Shield Measurement Techniques.)*
 
-7. **B.** Raising the snow gauge to about 3 feet (1 m) helps prevent burial; still greater height may be needed in extreme-snowfall areas. *(Course section 4.2, Measuring Snowfall.)*
+7. **B.** Raising the snow gauge to about 3 feet (1 m) helps prevent burial; still greater height may be needed in extreme-snowfall areas. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Measuring Snowfall.)*
 
-8. **C. 0.78 cm.** The point lies between 0.75 and 0.80 cm and is visually estimated from nearby labels and contours. *(Course section 4.3, Interpolation.)*
+8. **C. 0.78 cm.** The point lies between 0.75 and 0.80 cm and is visually estimated from nearby labels and contours. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Interpolation.)*
 
-9. **C. Thiessen Polygon Method.** Each polygon's percentage of total area weights the precipitation at its central gauge. *(Course section 4.3, Estimation.)*
+9. **C. Thiessen Polygon Method.** Each polygon's percentage of total area weights the precipitation at its central gauge. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Thiessen Polygon Method.)*
 
-10. **A.** Equal weighting is most defensible in flat areas with relatively uniform precipitation. *(Course section 4.3, Estimation.)*
+10. **A.** Equal weighting is most defensible in flat areas with relatively uniform precipitation. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Arithmetic Average.)*
 
-11. **False.** The course states that long-duration, large-area events are generally less variable than short-duration, small-area events. *(Course section 4.1, Measuring Rainfall.)*
+11. **False.** The course states that long-duration, large-area events are generally less variable than short-duration, small-area events. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Measuring Rainfall.)*
 
-12. **False.** A non-recording gauge supplies a manually observed total and cannot record rainfall intensity by itself. *(Course section 4.1, Rain Gauges.)*
+12. **False.** A non-recording gauge supplies a manually observed total and cannot record rainfall intensity by itself. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Rain-Gauge Types.)*
 
-13. **True.** Catch deficiency from oblique rain tends to decrease as opening size increases. *(Course section 4.2, Limitations of Rain Gauges.)*
+13. **True.** Catch deficiency from oblique rain tends to decrease as opening size increases. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Limitations of Rain Gauges.)*
 
-14. **True.** Wind remobilizes surface snow, creating drifts and bare patches after the event. *(Course section 4.2, Measuring Snowfall.)*
+14. **True.** Wind remobilizes surface snow, creating drifts and bare patches after the event. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Measuring Snowfall.)*
 
-15. **False.** A move or equipment/environment change can create an artificial break in slope without an abrupt precipitation change. *(Course section 4.3, Adjustment of Long-Term Data.)*
+15. **False.** A move or equipment/environment change can create an artificial break in slope without an abrupt precipitation change. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Adjustment of Long-Term Data.)*
 
-16. **False.** Include only gauges within the study area. *(Course section 4.3, Estimation; Figure 4.3.3.)*
+16. **False.** Include only gauges within the study area. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Arithmetic Average; Figure 4.3.3.)*
 
-17. **A-3, B-1, C-2, D-4.** These pair a tared balance, float level, known tip volume, and particle-level optical measurement with their instruments. *(Course section 4.1, Rain Gauges.)*
+17. **A-3, B-1, C-2, D-4.** These pair a tared balance, float level, known tip volume, and particle-level optical measurement with their instruments. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Rain-Gauge Types.)*
 
-18. **A-2, B-1, C-3, D-4.** Oil or reflective construction reduces evaporation; a shield reduces wind; elevation limits burial; and the $4\times$ rule gives $4(5)=20$ m. *(Course section 4.2, Limitations of Rain Gauges; Measurement Techniques; Measuring Snowfall.)*
+18. **A-2, B-1, C-3, D-4.** Oil or reflective construction reduces evaporation; a shield reduces wind; elevation limits burial; and the $4\times$ rule gives $4(5)=20$ m. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Limitations of Rain Gauges; Wind-Shield Measurement Techniques; Measuring Snowfall.)*
 
-19. **A-3, B-1, C-2, D-4.** The methods respectively fill a point record, equally average an area, correct a record discontinuity, and area-weight gauges. *(Course section 4.3, Interpolation; Adjustment of Long-Term Data; Estimation.)*
+19. **A-3, B-1, C-2, D-4.** The methods respectively fill a point record, equally average an area, correct a record discontinuity, and area-weight gauges. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Interpolation; Adjustment of Long-Term Data; Estimation Methods.)*
 
-20. **Study-area or watershed size and purpose; precipitation type and gauge design in relation to topography and accuracy; and the number and distribution of gauges required for the target accuracy or resolution.** *(Course section 4.1, Measuring Rainfall.)*
+20. **Study-area or watershed size and purpose; precipitation type and gauge design in relation to topography and accuracy; and the number and distribution of gauges required for the target accuracy or resolution.** *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Measuring Rainfall.)*
 
-21. **Any two:** labour and cost of site visits; difficult maintenance and monitoring; inability to record rainfall intensity. *(Course section 4.1, Rain Gauges.)*
+21. **Any two:** labour and cost of site visits; difficult maintenance and monitoring; inability to record rainfall intensity. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Rain-Gauge Types.)*
 
-22. **Wind under-catch occurs before collection when airflow carries precipitation around the opening; evaporation loss occurs after collection when water leaves the container before observation.** *(Course section 4.2, Limitations of Rain Gauges.)*
+22. **Wind under-catch occurs before collection when airflow carries precipitation around the opening; evaporation loss occurs after collection when water leaves the container before observation.** *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Limitations of Rain Gauges.)*
 
-23. **Water equivalent expresses the amount of liquid water stored in the snow, which is the quantity relevant to possible meltwater flooding and increased river flow.** *(Course section 4.2, Measuring Snowfall.)*
+23. **Water equivalent expresses the amount of liquid water stored in the snow, which is the quantity relevant to possible meltwater flooding and increased river flow.** *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Measuring Snowfall.)*
 
-24. **Connect adjacent gauges with straight lines, draw perpendicular bisectors at their midpoints to form polygons, and assign each polygon to the gauge at its centre.** *(Course section 4.3, Estimation.)*
+24. **Connect adjacent gauges with straight lines, draw perpendicular bisectors at their midpoints to form polygons, and assign each polygon to the gauge at its centre.** *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Thiessen Polygon Method.)*
 
-25. $P=0.0+0.4+0.2+0.4=1.0$ mm over 1 hour, so **$I=1.0\ \text{mm/h}$**. *(Course section 4.1, Check Your Knowledge.)*
+25. $P=0.0+0.4+0.2+0.4=1.0$ mm over 1 hour, so **$I=1.0\ \mathrm{mm\,h^{-1}}$**. *(Citation: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges|Course section 4.1]], Equations and Units.)*
 
-26. $V=Ad=(10\ \text{cm}^2)(50\ \text{cm})=500\ \text{cm}^3$ and $m=0.1\ \text{kg}=100\ \text{g}$. Thus **$\rho=100/500=0.2\ \text{g/cm}^3$**. *(Course section 4.2, Measuring Snowfall and Check Your Knowledge.)*
+26. $V=Ad=(10\ \mathrm{cm}^2)(50\ \mathrm{cm})=500\ \mathrm{cm}^3$ and $m=0.1\ \mathrm{kg}=100\ \mathrm{g}$. Thus **$\rho=100/500=0.2\ \mathrm{g\,cm^{-3}}$**. *(Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Equations and Units.)*
 
-27. $P_x=\dfrac{52}{3}\left(\dfrac{40}{45}+\dfrac{58}{65}+\dfrac{37}{40}\right)=46.91$ cm, so the course estimate is **47 cm**. *(Course section 4.3, Interpolation.)*
+27. $P_x=\dfrac{52}{3}\left(\dfrac{40}{45}+\dfrac{58}{65}+\dfrac{37}{40}\right)=46.91$ cm, so the course estimate is **47 cm**. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Interpolation.)*
 
-28. $K=0.65/0.98=0.663\approx\mathbf{0.66}$. Multiply each pre-change value by 0.66 to put the older observations on the post-change basis. *(Course section 4.3, Adjustment of Long-Term Data.)*
+28. $K=0.65/0.98=0.663\approx\mathbf{0.66}$. Multiply each pre-change value by 0.66 to put the older observations on the post-change basis. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Adjustment of Long-Term Data.)*
 
-29. Mean depth $=(4.0+4.5)/2=4.25$ cm $=0.0425$ m. Volume $=(25\ \text{m}^2)(0.0425\ \text{m})=1.0625\ \text{m}^3\approx\mathbf{1.06\ \text{m}^3}$. *(Course section 4.3, Estimation; Figure 4.3.5.)*
+29. Mean depth $=(4.0+4.5)/2=4.25$ cm $=0.0425$ m. Volume $=(25\ \mathrm{m}^2)(0.0425\ \mathrm{m})=1.0625\ \mathrm{m}^3\approx\mathbf{1.06\ \mathrm{m}^3}$. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Isohyetal Method; Figure 4.3.5.)*
 
-30. Ignore the two outside gauges. $\bar P=(0.8+1.6+1.2)/3=3.6/3=\mathbf{1.2\ \text{cm}}$. *(Course section 4.3, Estimation and Check Your Knowledge.)*
+30. Ignore the two outside gauges. $\bar P=(0.8+1.6+1.2)/3=3.6/3=\mathbf{1.2\ \mathrm{cm}}$. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Arithmetic Average.)*
 
 31. **d) 1.75 cm.** The saved official quiz identifies this value. The arithmetic method averages gauge values inside the watershed, but the exact quiz image needed to reproduce the calculation is absent locally. Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: arithmetic average.
 
@@ -246,4 +250,4 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 
 </details>
 
-Previous: [[04 - 4.3 Quantitative Analysis of Precipitation Data]] | Next: [[00 - Module 04 Overview]]
+Previous: [[Modules/Module 04 - Precipitation Data and Measurement/04 - 4.3 Quantitative Analysis of Precipitation Data|4.3]] | Next: [[Modules/Module 04 - Precipitation Data and Measurement/00 - Module 04 Overview|Overview]]

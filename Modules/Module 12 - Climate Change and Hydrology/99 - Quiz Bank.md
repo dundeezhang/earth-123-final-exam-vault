@@ -1,16 +1,19 @@
 ---
 course: EARTH 123
-module: 12
+module: "Module 12 - Climate Change and Hydrology"
 type: quiz-bank
 tags:
-  - earth123/module-12
+  - earth-123
+  - module-12
   - quiz
   - climate-change
 ---
 
 # Module 12 Quiz Bank
 
-Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|Module 12 Overview]]
+Up: [[00 - EARTH 123 Final Exam Home]]
+Module: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|Module 12 Overview]]
+Definitions: [[Modules/Module 12 - Climate Change and Hydrology/01 - Main Definitions|Main Definitions]]
 
 ## Multiple Choice
 
@@ -81,10 +84,10 @@ Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|M
     - D. $10^{21}$ J
 
 12. What present global sea-level-rise rate is given in Module 12.2?
-    - A. About 0.4 mm/year
-    - B. About 1 mm/year
-    - C. Almost 4 mm/year
-    - D. About 40 mm/year
+    - A. About $0.4\ \mathrm{mm/year}$
+    - B. About $1\ \mathrm{mm/year}$
+    - C. Almost $4\ \mathrm{mm/year}$
+    - D. About $40\ \mathrm{mm/year}$
 
 13. Which statement best describes the IPCC?
     - A. One laboratory that collects every climate measurement
@@ -152,10 +155,10 @@ Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|M
 
 Match each item to its description.
 
-36. Keeling Curve  
-37. Milankovitch cycles  
-38. ARGO  
-39. Proxy data  
+36. Keeling Curve
+37. Milankovitch cycles
+38. ARGO
+39. Proxy data
 40. Cryosphere
 
 - A. Frozen part of Earth’s climate system
@@ -188,7 +191,7 @@ Match each item to its description.
 9. **C.** Observations match most closely when models include both natural and human causes. (12.2, “Atmospheric Temperatures”; Figure 12.2.5)
 10. **A.** ARGO is the global ocean-float system. (12.2, “Ocean Temperatures”)
 11. **D.** The Figure 12.2.7 axis is in $10^{21}$ J. (12.2, “Ocean Temperatures”)
-12. **C.** The saved page gives almost 4 mm/year. (12.2, “Rise in Sea Levels”)
+12. **C.** The saved page gives almost $4\ \mathrm{mm/year}$. (12.2, “Rise in Sea Levels”)
 13. **B.** The UN created the IPCC in 1988 to organize scientists and facilitate sharing of climate knowledge. (12.3, opening discussion)
 14. **C.** Earlier snowmelt is among the documented changes. (12.1, “Changes in Hydrology Due to Climate Change”)
 15. **D.** The IPCC projections listed include greater risk of long-duration drought. (12.3, future IPCC predictions)
@@ -223,3 +226,6 @@ Match each item to its description.
 44. The exponent difference is $21-16=5$ orders of magnitude; $10^{21}/10^{16}=10^5=100{,}000$. (12.2, “Ocean Temperatures”)
 
 </details>
+
+Previous: [[Modules/Module 12 - Climate Change and Hydrology/04 - 12.3 The Intergovernmental Panel on Climate Change (IPCC) and the Future of Climate Change Research|12.3 The Intergovernmental Panel on Climate Change (IPCC) and the Future of Climate Change Research]]
+Next: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|Module 12 Overview]]

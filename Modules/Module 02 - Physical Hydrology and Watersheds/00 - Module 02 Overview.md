@@ -9,20 +9,20 @@ tags:
   - watersheds
 ---
 
-# Module 02 - Physical Hydrology and Watersheds
+# Module 02: Physical Hydrology and Watersheds
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
 **Central question:** How can hydrologists represent water movement at global, watershed, and local scales using measurements, system boundaries, and water balances?
 
 ## Study Path
 
-1. [[01 - Main Definitions]]
-2. [[02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts]]
-3. [[03 - 2.2 Introduction to Data and Watersheds]]
-4. [[04 - 2.3 A Simple Watershed and Water Balance Example]]
-5. [[05 - 2.4 A Look at Global, Regional, and Local Hydrology]]
-6. [[99 - Quiz Bank]]
+1. [[Modules/Module 02 - Physical Hydrology and Watersheds/01 - Main Definitions|Definitions]]
+2. [[Modules/Module 02 - Physical Hydrology and Watersheds/02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts|2.1 Physical Hydrology]]
+3. [[Modules/Module 02 - Physical Hydrology and Watersheds/03 - 2.2 Introduction to Data and Watersheds|2.2 Data and Watersheds]]
+4. [[Modules/Module 02 - Physical Hydrology and Watersheds/04 - 2.3 A Simple Watershed and Water Balance Example|2.3 Water Balance Example]]
+5. [[Modules/Module 02 - Physical Hydrology and Watersheds/05 - 2.4 A Look at Global, Regional, and Local Hydrology|2.4 Hydrologic Scale]]
+6. [[Modules/Module 02 - Physical Hydrology and Watersheds/99 - Quiz Bank|Quiz Bank]]
 
 ## Highest-Yield Exam Points
 
@@ -80,6 +80,7 @@ Zero change in storage does not require zero flow.
 
 ## Review
 
-- Definitions: [[01 - Main Definitions]]
-- Practice: [[99 - Quiz Bank]]
+- Definitions: [[Modules/Module 02 - Physical Hydrology and Watersheds/01 - Main Definitions|Definitions]]
+- Practice: [[Modules/Module 02 - Physical Hydrology and Watersheds/99 - Quiz Bank|Quiz Bank]]
 
+Previous: [[Modules/Module 02 - Physical Hydrology and Watersheds/99 - Quiz Bank|Quiz Bank]] | Next: [[Modules/Module 02 - Physical Hydrology and Watersheds/01 - Main Definitions|Definitions]]

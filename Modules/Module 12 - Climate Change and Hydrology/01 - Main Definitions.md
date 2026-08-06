@@ -1,15 +1,17 @@
 ---
 course: EARTH 123
-module: 12
+module: "Module 12 - Climate Change and Hydrology"
 type: definitions
 tags:
-  - earth123/module-12
+  - earth-123
+  - module-12
   - definitions
 ---
 
-# Module 12 Main Definitions
+# Main Definitions
 
-Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|Module 12 Overview]]
+Up: [[00 - EARTH 123 Final Exam Home]]
+Module: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|Module 12 Overview]]
 
 | Term | Definition | Course section | Example / where / application |
 |---|---|---|---|
@@ -22,7 +24,7 @@ Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|M
 | Anthropogenic | Caused by human activity. | 12.1 | Annual human CO$_2$ emissions are about 60 times those from all volcanic eruptions combined. |
 | Carbon dioxide, CO$_2$ | Dominant greenhouse gas emitted in large amounts by industry, energy generation, and transportation. | 12.1, 12.2 | The Mauna Loa record reached just under 420 ppm in July 2022, versus about 280 ppm preindustrial. |
 | Methane, CH$_4$ | Dominant greenhouse gas whose atmospheric concentration has risen dramatically since the Industrial Revolution. | 12.1 | Its sharp rise after about 1750 is treated as evidence of increasing human greenhouse forcing. |
-| Chlorofluorocarbons, CFCs | Greenhouse gases listed as less impactful than CO$_2$ and CH$_4$. | 12.1 | The saved 12.1 page includes CFCs when comparing smaller greenhouse-gas contributions with CO$_2$ and CH$_4$. |
+| Other greenhouse gases | The page lists nitrous oxide and chlorofluorocarbons, CFCs, as smaller contributors than CO$_2$ and CH$_4$. The saved page prints nitrous oxide as NO$_2$. | 12.1 | The page's NO$_2$ notation is retained as course-specific wording. CFCs are the other smaller contribution named there. |
 | Milankovitch cycles | Long-term orbital variations in eccentricity, obliquity, and precession that alter incoming solar radiation. | 12.1 | Earth's current orbital position should produce slight cooling, so it does not explain rapid modern warming. |
 | Actual evapotranspiration | Evapotranspiration that actually occurs under available water conditions. | 12.1 | Actual ET increased across many dry U.S. regions from 1950 to 2000. |
 | Heavy precipitation event | A large precipitation event; the course reports increases in number, frequency, and intensity. | 12.1 | Scientists track event number, frequency, and intensity separately from annual precipitation totals. |
@@ -35,7 +37,7 @@ Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|M
 | Ocean heat content | Amount of energy held and accumulating in the oceans; it is related to, but is not the same as, water temperature. | 12.2 | ARGO observations show heat increasing at the surface and at depth, graphed in units of $10^{21}$ J. |
 | ARGO system | Global network of ocean floats measuring temperature, salinity, pressure, and currents. | 12.2 | Thousands of floats sample the global ocean and reveal warming at multiple depths. |
 | Cryosphere | Frozen component of the climate system, including snow, ice sheets, glaciers, and frozen water bodies. | 12.1, 12.2, 12.3 | Greenland, Antarctic, and mountain ice volumes are declining, while Northern Hemisphere lake and river ice seasons are shortening. |
-| Sea-level rise | Increase in global ocean level; the course directly links it to declining snow and ice volumes. | 12.2 | The measured rate is almost 4 mm/year; the course gives at least 60 cm by 2100 and over 3 m in a worst-case scenario. |
+| Sea-level rise | Increase in global ocean level; the course directly links it to declining snow and ice volumes. | 12.2 | The measured rate is almost $4\ \mathrm{mm/year}$; the course gives at least $60\ \mathrm{cm}$ by 2100 and over $3\ \mathrm{m}$ in a worst-case scenario. |
 | Saltwater intrusion | Movement of saline water into freshwater aquifers, a risk in coastal areas as sea level rises. | 12.2 | Rising seas can contaminate coastal freshwater supplies in low-lying cities and small island nations. |
 | Mitigation | Action intended to limit climate change, including reducing greenhouse-gas production. | 12.2, 12.3 | Reducing energy use and shifting to new energy resources addresses the emissions driving warming. |
 | Adaptation | Action intended to prepare for or reduce the damage from climate-change outcomes. | 12.2, 12.3 | Protecting coastal aquifers from saltwater intrusion prepares communities for rising sea level. |
@@ -49,3 +51,6 @@ Up: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|M
 - **Mitigation vs. adaptation:** mitigation reduces causes; adaptation manages consequences.
 - **Ocean temperature vs. ocean heat content:** heat content measures stored energy and includes changes at depth.
 - **Hurricane intensity vs. count:** 12.3 projects greater intensity, while 12.2 says the historical count trend shown is not yet clear-cut.
+
+Previous: [[Modules/Module 12 - Climate Change and Hydrology/00 - Module 12 Overview|Module 12 Overview]]
+Next: [[Modules/Module 12 - Climate Change and Hydrology/02 - 12.1 Introduction to Climate Change and Greenhouse Gases|12.1 Introduction to Climate Change and Greenhouse Gases]]

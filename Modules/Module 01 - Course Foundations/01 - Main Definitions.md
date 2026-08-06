@@ -11,9 +11,9 @@ tags:
 
 # Main Definitions
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
-Module: [[00 - Module 01 Overview]]
+Module: [[Modules/Module 01 - Course Foundations/00 - Module 01 Overview|Overview]]
 
 > [!note]
 > The locally saved 1.2 page links to a scientific-method reading but does not contain its body. Entries marked as a study scaffold support the linked topic and are not presented as verbatim course definitions.
@@ -56,4 +56,4 @@ Module: [[00 - Module 01 Overview]]
 - **Required content vs. optional resource:** required module content supports assessment; 1.1 states that optional resources are excluded from assessments.
 - **Water reserve vs. waterway:** a reserve emphasizes storage; a waterway emphasizes connection or movement.
 
-Next: [[02 - 1.1 How This Course Works; A Scavenger Hunt!]]
+Previous: [[Modules/Module 01 - Course Foundations/00 - Module 01 Overview|Overview]] | Next: [[Modules/Module 01 - Course Foundations/02 - 1.1 How This Course Works; A Scavenger Hunt!|1.1 Course Structure]]

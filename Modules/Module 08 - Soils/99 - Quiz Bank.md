@@ -6,12 +6,12 @@ tags:
   - earth-123
   - module-08
   - soils
-  - quiz
+  - quiz-bank
 ---
 
 # Module 08 Quiz Bank
 
-Up: [[00 - EARTH 123 Final Exam Home]]  
+Up: [[00 - EARTH 123 Final Exam Home]]
 Module: [[00 - Module 08 Overview]]
 
 ## Questions
@@ -190,7 +190,7 @@ Show the equation, substitution, and result for each calculation.
 
 41. Soil A has $LL=38\%$ and $PL=30\%$. Soil B has $LL=58\%$ and $PL=26\%$. Calculate both plasticity indices, identify which soil has the wider plastic range, and state which soil needs the smaller water-content increase to cross its plastic range.
 
-## Official Course Quiz Questions
+### Official Course Quiz Questions
 
 42. **Saved quiz-8, Question 1.**
 
@@ -299,8 +299,6 @@ Show the equation, substitution, and result for each calculation.
 <details>
 <summary>Answer key</summary>
 
-## Answers
-
 1. **B.** Soil combines mineral matter, organic matter, water, and air. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships|8.1 Introduction to Soils and Phase Relationships, opening section]])
 
 2. **B.** The vadose or unsaturated zone extends from the ground surface to the water table. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships|8.1 Introduction to Soils and Phase Relationships, opening section]])
@@ -393,7 +391,7 @@ Show the equation, substitution, and result for each calculation.
 
 46. **False.** A human hair is much wider than a clay particle. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Texture|8.3 Soil Texture]])
 
-47. **c) Void ratio.** The course defines void ratio as void volume divided by solid volume. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
+47. **c) Void ratio, according to the saved quiz key.** This answer requires $V_{\text{soil}}$ in the prompt to mean solid volume. If it means total sample volume, the stated ratio is porosity. The course definition is $e=V_{\text{voids}}/V_{\text{solids}}$. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
 
 48. **d) Grainsizes.** The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Controls on Soil Formation|8.1 Controls on Soil Formation]])
 
@@ -408,3 +406,5 @@ Show the equation, substitution, and result for each calculation.
 53. **a) clay, silt, sand, gravel.** This sequence runs from the finest particles to the coarsest. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Texture|8.3 Soil Texture]])
 
 </details>
+
+Previous: [[04 - 8.3 Characterizing Soils and Soil Plasticity|8.3]] | Next: [[00 - Module 08 Overview|Overview]]

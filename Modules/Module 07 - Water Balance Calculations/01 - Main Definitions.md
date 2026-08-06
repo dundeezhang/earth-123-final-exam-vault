@@ -1,6 +1,6 @@
 ---
 course: EARTH 123
-module: "07 - Water Balance Calculations"
+module: "Module 07 - Water Balance Calculations"
 type: definitions
 tags:
   - earth-123
@@ -12,8 +12,7 @@ tags:
 # Main Definitions
 
 Up: [[00 - EARTH 123 Final Exam Home]]
-
-Module overview: [[00 - Module 07 Overview]]
+Module: [[00 - Module 07 Overview]]
 
 | Term | Definition | Course section | Example / where / application |
 |---|---|---|---|
@@ -44,4 +43,4 @@ Module overview: [[00 - Module 07 Overview]]
 - **Inflow vs. outflow signs:** inflows are added and outflows are subtracted, regardless of whether a term is surface water or groundwater.
 - **Steady state vs. no water movement:** steady state means no net storage change, not that every flux is zero.
 
-Next: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]]
+Previous: [[00 - Module 07 Overview|Overview]] | Next: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations|7.1]]

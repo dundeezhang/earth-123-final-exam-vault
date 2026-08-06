@@ -11,12 +11,12 @@ tags:
 
 # Main Definitions
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
-Module: [[00 - Module 03 Overview]]
+Module: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]]
 
-| Term                             | Definition                                                                                                                                                                  | Course section                  | Example / where / application |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------- |
+| Term | Definition | Course section | Example / where / application |
+|---|---|---|---|
 | Precipitation                    | Any form of atmospheric moisture transferred to Earth's surface; the course includes rain, snow, hail, sleet, fog, dew, and frost.                                          | 3.1                             | Dew deposited on grass counts as precipitation even though it does not fall from a cloud. |
 | Liquid-phase precipitation       | Rainfall, drizzle, or dew; it immediately becomes an active part of the hydrologic cycle.                                                                                   | 3.1                             | Rain reaching a roof or the ground can immediately contribute to runoff. |
 | Solid-phase precipitation        | Snow, hail, or frost; it tends to remain immobile until melting.                                                                                                            | 3.1                             | A winter snowpack stores surface water until spring melt releases it. |
@@ -38,7 +38,7 @@ Module: [[00 - Module 03 Overview]]
 | Adiabatic lapse rate             | Decrease in air-parcel temperature with altitude; the course gives $1.0^\circ\mathrm{C}/100\ \mathrm{m}$ for dry air and $0.6^\circ\mathrm{C}/100\ \mathrm{m}$ for wet air. | 3.2                             | A dry parcel rising $500\ \mathrm{m}$ from $20^\circ\mathrm{C}$ cools by $5^\circ\mathrm{C}$ to $15^\circ\mathrm{C}$. |
 | Environmental lapse rate         | General atmospheric temperature decrease of $0.65^\circ\mathrm{C}/100\ \mathrm{m}$ used because moisture varies dynamically.                                                | 3.2                             | Over a $500\ \mathrm{m}$ rise, a hydrologist estimates ambient cooling of $3.25^\circ\mathrm{C}$. |
 | Vapour pressure, $e$             | The vapour pressure of the air; it is the numerator in the relative-humidity equation.                                                                                      | 3.2                             | In the course calculation, air at $18^\circ\mathrm{C}$ has $e=1.0\ \mathrm{kPa}$. |
-| Saturated vapour pressure, $e_s$ | The maximum moisture pressure the atmosphere can hold at a particular temperature.                                                                                          | 3.2                             | The course graph gives $e_s\approx2.0\ \mathrm{kPa}$ at $18^\circ\mathrm{C}$. |
+| Saturated vapour pressure, $e_s$ | Vapour pressure at which air is saturated at a given temperature; the course describes it as the maximum moisture pressure the atmosphere can hold at that temperature. | 3.2 | The course graph gives $e_s\approx2.0\ \mathrm{kPa}$ at $18^\circ\mathrm{C}$. |
 | Relative humidity, $R_h$         | Ratio of vapour pressure to saturated vapour pressure at the same temperature: $R_h=e/e_s$.                                                                                 | 3.2                             | With $e=1.0\ \mathrm{kPa}$ and $e_s=2.0\ \mathrm{kPa}$, $R_h=0.5=50\%$. |
 | Saturation                       | State at which $e=e_s$, so $R_h=1.0=100\%$ and condensation can begin.                                                                                                      | 3.2                             | Air with $e=1.0\ \mathrm{kPa}$ reaches saturation at about $7^\circ\mathrm{C}$ on the course graph. |
 | Condensation nucleus             | A seed, such as atmospheric dust or salt, on or around which water molecules bind during condensation.                                                                      | 3.2                             | The *Snowtime* video shows a small dust or soot particle at the centre of a snow crystal. |
@@ -67,4 +67,4 @@ Module: [[00 - Module 03 Overview]]
 - **Density ratio vs. SLR:** $D_s=\mathrm{SWE}/\text{snow depth}$; $\mathrm{SLR}=\text{snow depth}/\mathrm{SWE}$. They are reciprocals.
 - **Arid vs. hot:** aridity is based on limited precipitation, so both hot subtropical and cold polar deserts occur.
 
-Next: [[02 - 3.1 Introduction to Precipitation and Precipitation Processes]]
+Previous: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]] | Next: [[Modules/Module 03 - Precipitation/02 - 3.1 Introduction to Precipitation and Precipitation Processes|3.1 Precipitation Processes]]

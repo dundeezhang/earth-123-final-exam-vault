@@ -11,9 +11,9 @@ tags:
 
 # Module 02 Quiz Bank
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
-Module: [[00 - Module 02 Overview]] | Definitions: [[01 - Main Definitions]]
+Module: [[Modules/Module 02 - Physical Hydrology and Watersheds/00 - Module 02 Overview|Overview]] | Definitions: [[Modules/Module 02 - Physical Hydrology and Watersheds/01 - Main Definitions|Definitions]]
 
 The first sections contain original study questions derived from the four saved Module 2 Hive pages. The official section preserves questions from the locally saved quizzes.
 
@@ -522,7 +522,7 @@ $$
 
 **65. True.** A system with zero inputs and zero outputs has $\Delta S=0$ and therefore satisfies steady state. Steady state also occurs when nonzero inputs equal nonzero outputs. Citation: [[04 - 2.3 A Simple Watershed and Water Balance Example|Course section 2.3]], Steady state.
 
-**66. a) Percolation.** Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. The saved grading key conflicts with this local course definition and may have been keyed as infiltration. Citation: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination|Course section 9.1]], Groundwater in the hydrological cycle; [[Modules/Module 09 - Groundwater/01 - Main Definitions|Module 9 definitions]], Percolation.
+**66. a) Percolation.** Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. The saved grading key conflicts with this local course definition and may have been keyed as infiltration. Citation: [[Modules/Module 09 - Groundwater/02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination|Course section 9.1]], Groundwater in the hydrological cycle; [[Modules/Module 09 - Groundwater/01 - Main Definitions|Module 9 definitions]], Percolation.
 
 **67. a) A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.** Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Watersheds and drainage boundaries.
 
@@ -532,4 +532,4 @@ $$
 
 </details>
 
-Back to: [[00 - Module 02 Overview]]
+Previous: [[Modules/Module 02 - Physical Hydrology and Watersheds/05 - 2.4 A Look at Global, Regional, and Local Hydrology|2.4 Hydrologic Scale]] | Next: [[Modules/Module 02 - Physical Hydrology and Watersheds/00 - Module 02 Overview|Overview]]

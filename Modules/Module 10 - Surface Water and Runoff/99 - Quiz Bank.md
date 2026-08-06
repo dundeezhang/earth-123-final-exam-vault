@@ -11,8 +11,8 @@ tags:
 
 # Module 10 Quiz Bank
 
-Up: [[00 - EARTH 123 Final Exam Home]]  
-Module: [[Modules/Module 10 - Surface Water and Runoff/00 - Module 10 Overview|Module 10 Overview]]  
+Up: [[00 - EARTH 123 Final Exam Home]]
+Module: [[Modules/Module 10 - Surface Water and Runoff/00 - Module 10 Overview|Module 10 Overview]]
 Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definitions|Main Definitions]]
 
 ## Multiple Choice
@@ -389,7 +389,7 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 44. **False.** Meander cutoffs can leave oxbow lakes on river floodplains. [Course section: [[02 - 10.1 Introduction to Surface Water and Runoff#Stream Migration and Flood Plains|10.1 Stream Migration and Flood Plains]]]
 
-45. **False.** Maximum velocity is normally near the channel centre just below the surface. [Course section and Figures 10.2.2–10.2.4: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Three Controls on Velocity|10.2 Three Controls on Velocity]]]
+45. **False.** Maximum velocity is normally near the channel centre just below the surface. [Course section and Figures 10.2.2–10.2.4: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Laminar and Turbulent Flow|10.2 Laminar and Turbulent Flow]]]
 
 46. **b) Meanders.** [Course section: [[02 - 10.1 Introduction to Surface Water and Runoff#Stream Migration and Flood Plains|10.1 Stream Migration and Flood Plains]]]
 
@@ -405,5 +405,5 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 </details>
 
-Previous: [[Modules/Module 10 - Surface Water and Runoff/05 - 10.4 Flooding and Flood Hydrographs|10.4 Flooding and Flood Hydrographs]]  
+Previous: [[Modules/Module 10 - Surface Water and Runoff/05 - 10.4 Flooding and Flood Hydrographs|10.4 Flooding and Flood Hydrographs]]
 Next: [[Modules/Module 10 - Surface Water and Runoff/00 - Module 10 Overview|Module 10 Overview]]

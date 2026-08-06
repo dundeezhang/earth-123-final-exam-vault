@@ -11,12 +11,12 @@ tags:
 
 # Module 01 Quiz Bank
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
-Module: [[00 - Module 01 Overview]] | Definitions: [[01 - Main Definitions]]
+Module: [[Modules/Module 01 - Course Foundations/00 - Module 01 Overview|Overview]] | Definitions: [[Modules/Module 01 - Course Foundations/01 - Main Definitions|Definitions]]
 
 > [!note]
-> Module 1 has no locally saved quiz result. Questions 1-17 and 24-30 are derived directly from the three saved Module 1 pages. Questions 18-23 apply the standardized scientific-method scaffold in [[03 - 1.2 The Scientific Method]].
+> Module 1 has no locally saved quiz result. Questions 1-17 and 24-30 are derived directly from the three saved Module 1 pages. Questions 18-23 apply the standardized scientific-method scaffold in [[Modules/Module 01 - Course Foundations/03 - 1.2 The Scientific Method|1.2 Scientific Method]].
 
 ## Multiple Choice
 
@@ -199,5 +199,4 @@ Module: [[00 - Module 01 Overview]] | Definitions: [[01 - Main Definitions]]
 
 </details>
 
-Previous: [[04 - 1.3 Water Movie]]
-
+Previous: [[Modules/Module 01 - Course Foundations/04 - 1.3 Water Movie|1.3 Water Movie]] | Next: [[Modules/Module 01 - Course Foundations/00 - Module 01 Overview|Overview]]

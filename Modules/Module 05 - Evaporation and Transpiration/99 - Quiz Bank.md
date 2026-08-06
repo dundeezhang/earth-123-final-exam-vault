@@ -1,6 +1,6 @@
 ---
 course: EARTH 123
-module: "05 - Evaporation and Transpiration"
+module: "Module 05 - Evaporation and Transpiration"
 type: quiz-bank
 tags:
   - earth-123
@@ -9,11 +9,17 @@ tags:
   - exam-practice
 ---
 
-Up: [[00 - EARTH 123 Final Exam Home]]
-
 # Module 05 Quiz Bank
 
-## Multiple Choice
+Up: [[00 - EARTH 123 Final Exam Home]]
+
+Module: [[00 - Module 05 Overview]]
+
+Module notes: [[02 - 5.1 Introduction to Evaporation and Transpiration]] | [[03 - 5.2 Meteorological, Geographical, and Soil Factors Affecting Evaporation]] | [[04 - 5.3 Vegetational, Geographical, and Soil Factors Affecting Transpiration]]
+
+## Questions
+
+### Multiple Choice
 
 1. Which process moves water directly from snow or ice into atmospheric vapour?
    - A. Condensation
@@ -75,7 +81,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
    - C. Xerophytes
    - D. Phreatophytes
 
-## True or False
+### True or False
 
 11. Stomata generally open at night and close during daylight.
 
@@ -89,7 +95,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 16. In the Canadian annual pattern, evaporation and transpiration both reach their maximum in summer.
 
-## Short Answer
+### Short Answer
 
 17. List the five principal source categories of water for evaporation identified in section 5.1.
 
@@ -103,7 +109,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 22. Name four confirmed vegetation characteristics, other than root group, that affect transpiration.
 
-## Matching
+### Matching
 
 23. Match each root group to its best description.
 
@@ -132,7 +138,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 | C. Figure 5.3.2 | 3. Canadian evaporation peaks in spring/fall while transpiration and ET peak in summer |
 | D. Figure 5.3.4 | 4. Relative humidity rises and average evaporation rate falls across a longer path over a lake |
 
-## Calculations
+### Calculations
 
 26. At a stated temperature, $e_s=1.00\ \mathrm{kPa}$ and $e_a=0.65\ \mathrm{kPa}$. Calculate VPD and identify the expected process.
 
@@ -144,7 +150,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 30. A constant evaporation rate is $4\ \mathrm{mm\,h^{-1}}$ for 3 hours. Calculate the accumulated evaporation depth.
 
-## Official Course Quiz Questions
+### Official Course Quiz Questions
 
 31. **Saved quiz-4, Question 6.** An air parcel with an $e_s>e_a$ will cause:
     - a) Evaporation
@@ -287,7 +293,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 29. $120-(20+50+30)=\mathbf{20}$ **energy units** of net losses. Citation: [[04 - 5.3 Vegetational, Geographical, and Soil Factors Affecting Transpiration|Course section 5.3]].
 
-30. $4\ \mathrm{mm\,h^{-1}}\times3\ \mathrm{h}=\mathbf{12\ mm}$. Citation: [[02 - 5.1 Introduction to Evaporation and Transpiration|Course section 5.1]].
+30. $4\ \mathrm{mm\,h^{-1}}\times3\ \mathrm{h}=\mathbf{12\ \mathrm{mm}}$. Citation: [[02 - 5.1 Introduction to Evaporation and Transpiration|Course section 5.1]].
 
 31. **a) Evaporation.** When $e_s>e_a$, the vapour pressure deficit $e_s-e_a$ is positive and evaporation can occur. Citation: [[02 - 5.1 Introduction to Evaporation and Transpiration|Course section 5.1]], Molecular Process and Saturation and Figure 5.1.6.
 
@@ -317,4 +323,4 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 </details>
 
-Return to [[00 - Module 05 Overview]].
+Previous: [[Modules/Module 05 - Evaporation and Transpiration/04 - 5.3 Vegetational, Geographical, and Soil Factors Affecting Transpiration|5.3]] | Next: [[Modules/Module 05 - Evaporation and Transpiration/00 - Module 05 Overview|Overview]]

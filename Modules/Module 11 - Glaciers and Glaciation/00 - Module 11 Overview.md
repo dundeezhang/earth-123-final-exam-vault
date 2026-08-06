@@ -1,14 +1,15 @@
 ---
 course: EARTH 123
-module: 11
-type: module-overview
+module: "Module 11 - Glaciers and Glaciation"
+type: overview
 tags:
-  - earth123/module-11
+  - earth-123
+  - module-11
   - glaciers
   - glaciation
 ---
 
-# Module 11: Glaciers and Glaciation
+# Module 11 - Glaciers and Glaciation
 
 Up: [[00 - EARTH 123 Final Exam Home]]
 
@@ -29,7 +30,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 - Alpine glaciers are constrained by mountainous topography; continental ice sheets cover large land masses and are not confined by topographic obstacles.
 - The **equilibrium line** separates the higher zone of accumulation from the lower zone of ablation and shifts with climate and seasonal temperature.
 - Glaciers move through **plastic flow** within the ice and **basal slip** at the ice-ground interface; plastic flow is the primary mechanism.
-- Glacier velocity depends on slope, total ice volume, and temperature. Normal downslope flow is listed as **0-4 m/day**, while surges can be **10-100 times** faster.
+- Glacier velocity depends on slope, total ice volume, and temperature. Normal downslope flow is listed as **$0$-$4\ \mathrm{m/day}$**, while surges can be **10-100 times** faster.
 - Plate tectonics and Milankovitch cycles are the two main controls on the occurrence and length of glaciation cycles presented in the course.
 - The Milankovitch components are **eccentricity** (orbit shape), **obliquity** (axis tilt), and **precession** (axis direction).
 - Evidence of past glaciation includes large lake basins, displaced sediment, crustal rebound, subsidence, raised beaches, and remnant lakes and rivers.
@@ -41,7 +42,10 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 - **Glacier budget logic:** growth when accumulation $>$ ablation; shrinkage or recession when ablation $>$ accumulation.
 - **Surge estimate:** surge velocity $=$ normal velocity $\times$ surge multiplier, where the course gives a normal range of $0$-$4\ \text{m/day}$ and a multiplier of $10$-$100$.
-- Interpret course values: glaciers cover approximately **10%** of Earth's surface; the last glacial maximum was approximately **20,000 years ago**; the course gives Earth's present axial tilt as approximately **23.5 degrees**; Hudson Bay-area rebound is approximately **1 cm/year**.
+- Interpret course values: glaciers cover approximately **10%** of Earth's surface; the last glacial maximum was approximately **20,000 years ago**; the course gives Earth's present axial tilt as approximately **$23.5^\circ$**; Hudson Bay-area rebound is approximately **$1\ \mathrm{cm/year}$**.
 
 > [!important]
 > A glacier can flow downslope while its toe retreats upslope. Ice movement and the position of the glacier's leading edge describe different things.
+
+Previous: [[Modules/Module 11 - Glaciers and Glaciation/99 - Quiz Bank|Quiz Bank]]
+Next: [[Modules/Module 11 - Glaciers and Glaciation/01 - Main Definitions|Main Definitions]]

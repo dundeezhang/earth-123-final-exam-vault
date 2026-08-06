@@ -1,23 +1,24 @@
 ---
 course: EARTH 123
-module: 11
+module: "Module 11 - Glaciers and Glaciation"
 type: definitions
 tags:
-  - earth123/module-11
+  - earth-123
+  - module-11
   - definitions
   - glaciers
 ---
 
-# Module 11 Main Definitions
+# Main Definitions
 
-Up: [[00 - EARTH 123 Final Exam Home]]  
+Up: [[00 - EARTH 123 Final Exam Home]]
 Module: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Module 11 Overview]]
 
 | Term | Definition | Course section | Example / where / application |
 |---|---|---|---|
 | Glacier | Large mass of ice made of compacted and recrystallized snow that accumulated over many years without melting and slowly flows under its own weight. | 11.1, Definition: Glacier | High-elevation communities in Peru, northern India, Nepal, and Chile rely heavily on glacial meltwater for freshwater. |
-| Firn | Compacted and recrystallized snow compressed into glacier ice, as described by the course. | 11.1, Formation of Glaciers | In an alpine accumulation zone, snow that survives summer is progressively compressed into firn. |
-| Glacier budget | Balance between gains through snow and ice accumulation and losses through melting or ablation. | 11.1, Formation of Glaciers | Scientists compare annual accumulation with ablation to predict whether ice volume will grow or shrink. |
+| Firn | Compacted, recrystallized snow that forms as persistent snow transitions toward glacier ice. | 11.1, Formation of Glaciers | In an alpine accumulation zone, snow that survives summer is progressively compressed into firn. |
+| Glacier budget | Balance between **accumulation**, which adds persistent snow and ice, and **ablation**, which removes snow and ice through melting in the course discussion. | 11.1, Formation of Glaciers | Scientists compare annual accumulation with ablation to predict whether ice volume will grow or shrink. |
 | Positive snow or ice budget | Condition in which winter accumulation exceeds summer melting, permitting glacier formation and growth. | 11.1, Formation of Glaciers | A glacier that retains part of each winter's snowfall through summer adds ice volume year over year. |
 | Alpine glaciation | Glaciation in high-elevation mountainous terrain, where ice streams occupy confined valleys. | 11.1, Formation of Glaciers | High mountain valleys in Nepal provide an alpine setting where valley walls channel the ice. |
 | Piedmont glacier | Alpine glacier that reaches a valley floor and commonly spreads into a lobate form. | 11.1, Formation of Glaciers | At a mountain front, its formerly narrow ice stream appears as a broad lobe on the valley floor. |
@@ -29,18 +30,18 @@ Module: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Mo
 | Zone of ablation | Lower-elevation region where snow and ice melt in summer and where visible toe movement and landform creation are active. | 11.1, Anatomy of a Glacier | The lower glacier tongue shows active melting, sediment transport, erosion, and deposition. |
 | Equilibrium line | Shifting elevation above which accumulation dominates and below which melting dominates. | 11.1, Anatomy of a Glacier | In a warmer-than-average year, it moves upslope because melting reaches higher elevations. |
 | Toe or tip | Leading edge of a glacier used to track advance or recession and velocity over time. | 11.1, Anatomy of a Glacier | Repeated surveys of its position classify a glacier as advancing, stationary, or retreating. |
-| Basal slip | Glacier movement caused when meltwater lubricates and helps lift ice at the ice-ground interface so it can slide downslope. | 11.2, Glacial Movement | High basal pressure can create lubricating meltwater even below 0 degrees C. |
+| Basal slip | Glacier movement caused when meltwater lubricates and helps lift ice at the ice-ground interface so it can slide downslope. | 11.2, Glacial Movement | High basal pressure can create lubricating meltwater even below $0^\circ\mathrm{C}$. |
 | Plastic flow | Permanent internal deformation and downslope flow within glacier ice; the primary movement mechanism for alpine and continental glaciers. | 11.2, Glacial Movement | A glacier frozen to its bed can still move this way, with upper ice travelling farther than basal ice. |
 | Crevasse | Crack at a glacier's surface that can form through internal movement and plastic deformation. | 11.2, Glacial Movement | On a flowing valley glacier, internal deformation can open visible fractures across the surface. |
-| Glacial surge | Short period in which glacier velocity accelerates to 10-100 times its normal rate. | 11.2, Glacial Movement | At the course maximum normal rate of 4 m/day, a surge could reach 40-400 m/day. |
+| Glacial surge | Short period in which glacier velocity accelerates to 10-100 times its normal rate. | 11.2, Glacial Movement | At the course maximum normal rate of $4\ \mathrm{m/day}$, a surge could reach $40$-$400\ \mathrm{m/day}$. |
 | Snowball Earth | Past glaciation in which ice covered almost the entire planet. | 11.2, Glacial History | It is the course's end-member example of a near-global glaciation cycle. |
 | Ice cap | In the course's North Pole example, thinner ice floating on the Arctic Ocean rather than a continental ice sheet resting on land. | 11.2, Causes of Glaciation and Milankovitch Cycles | North Pole ice floating on the Arctic Ocean is the course's example. |
 | Milankovitch cycles | Long-term changes in Earth's orbital parameters that alter climate and glacial cycles. | 11.2, Causes of Glaciation and Milankovitch Cycles | The course graph overlays eccentricity, obliquity, and precession across the past 1 million years. |
 | Eccentricity | Change in the shape of Earth's orbit from more circular to more elliptical. | 11.2, Causes of Glaciation and Milankovitch Cycles | Figure 11.2.3A identifies it by comparing a rounder orbit with a more elongated one. |
-| Obliquity | Change in the angle of Earth's rotational axis relative to its orbital plane. | 11.2, Causes of Glaciation and Milankovitch Cycles | Earth's present axial tilt is approximately 23.5 degrees. |
+| Obliquity | Change in the angle of Earth's rotational axis relative to its orbital plane. | 11.2, Causes of Glaciation and Milankovitch Cycles | Earth's present axial tilt is approximately $23.5^\circ$. |
 | Precession | Change in the direction toward which Earth's rotational axis points. | 11.2, Causes of Glaciation and Milankovitch Cycles | Earth's axis currently points toward the North Star but migrates over geological time. |
-| Solar forcing | Change in solar energy reaching Earth's surface; the course emphasizes Northern Hemisphere summer at 65 degrees N. | 11.2, Causes of Glaciation and Milankovitch Cycles | Increased summer sunlight at 65 degrees N melts northern snow and reduces glacial volume. |
-| Crustal rebound | Slow surface uplift after the removal of the mass of glacial ice that had compressed the crust into the asthenosphere or upper mantle. | 11.2, Evidence of Past Glaciation | The Hudson Bay region is still rising by approximately 1 cm/year after deglaciation. |
+| Solar forcing | Change in solar energy reaching Earth's surface; the course emphasizes Northern Hemisphere summer at $65^\circ\mathrm{N}$. | 11.2, Causes of Glaciation and Milankovitch Cycles | Increased summer sunlight at $65^\circ\mathrm{N}$ melts northern snow and reduces glacial volume. |
+| Isostatic or crustal rebound | Slow surface uplift after melting ice removes the load that had compressed the crust into the asthenosphere or upper mantle. | 11.2, Evidence of Past Glaciation; saved Quiz 11 | The Hudson Bay region is still rising by approximately $1\ \mathrm{cm/year}$ after deglaciation. |
 | Subsidence | Decline in elevation; in the course's pillow analogy, formerly raised peripheral areas drop as the central region rebounds. | 11.2, Evidence of Past Glaciation | Southern Saskatchewan and parts of Canada's east coast are modern lowering areas on Figure 11.2.5. |
 | Glacial Lake Agassiz | Enormous inland meltwater lake that formed as the North American ice sheet melted. | 11.2, Evidence of Past Glaciation | Raised beaches mark its former margins, and Lake Winnipeg is a major remnant water body. |
 | Abrasion | Grinding of moving glacial ice against valley walls and floors or the ground surface; identified as the main glacial erosion process. | 11.3, Depositional Features in Alpine Glacier Environments | Repeated ice movement stripped much of the Canadian Shield's loose topsoil and sediment. |
@@ -60,15 +61,19 @@ Module: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Mo
 | Glacial outwash | Sediment transported and deposited by meltwater from a receding glacier. | 11.3, Erosional and Depositional Features in Continental Glacier Environments | Sands and gravels deposited below the terminus can contribute to eskers and kames. |
 | Esker | Long sinuous ridge of partially sorted sand and gravel deposited in former stream or river beds on top of or within glacial ice. | 11.3, Definition: Esker | After the ice melts, its winding ridge traces the bed of a former glacial stream. |
 | Kettle | Small circular pond or lake formed when melting ice leaves a depression that fills with meltwater. | 11.3, Definition: Kettle | It appears on a deglaciated surface as a round, water-filled hollow rather than a sediment hill. |
-| Kame | Small conical hill, mainly of sand-sized material, deposited where meltwater exits a glacial channel and slows rapidly. | 11.3, Definition: Kame | A cone of partially sorted sand marks where meltwater left a glacial channel and lost velocity. |
+| Kame | Small conical hill of partially sorted sediment deposited by glacial meltwater. The lesson emphasizes deposition where water exits a glacial channel and slows; saved Quiz 11 describes sediment deposited in glacier-surface depressions and lowered to the ground as ice melts. | 11.3, Definition: Kame; saved Quiz 11 | A sandy cone can mark rapid deposition at a glacial-channel outlet or remain after ice beneath a supraglacial deposit melts. |
 
 ## Commonly Confused Terms
 
 - **Accumulation vs. ablation:** accumulation adds persistent snow and ice; ablation removes it by melting.
 - **Alpine glacier vs. continental ice sheet:** alpine ice is constrained by mountain topography; an ice sheet is much larger and not topographically confined.
 - **Basal slip vs. plastic flow:** basal slip occurs at the glacier bed with meltwater lubrication; plastic flow is permanent deformation within the ice.
+- **Isostatic depression vs. rebound:** a heavy ice load pushes the crust down; rebound is the slow uplift after that load is removed.
 - **Eccentricity vs. obliquity vs. precession:** orbit shape vs. axis angle vs. axis direction.
 - **Till vs. outwash:** till is unsorted and unconsolidated glacial deposit; outwash is moved and deposited by meltwater and can be partially sorted.
 - **Moraine vs. drumlin:** a moraine is a pile or ridge of deposited till; a drumlin is a streamlined hill used to infer ice-flow direction and is treated by the course as primarily erosional.
 - **Esker vs. kame vs. kettle:** a sinuous former stream-bed ridge vs. a conical sand hill vs. a water-filled depression.
 - **Cirque glacier vs. cirque:** the ice mass confined in the hollow vs. the bowl-like landform itself.
+
+Previous: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Module 11 Overview]]
+Next: [[Modules/Module 11 - Glaciers and Glaciation/02 - 11.1 Introduction to Glaciers: Formation, Classification, and Anatomy|11.1 Introduction to Glaciers: Formation, Classification, and Anatomy]]

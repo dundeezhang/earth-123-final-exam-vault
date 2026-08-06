@@ -1,6 +1,6 @@
 ---
 course: EARTH 123
-module: "07 - Water Balance Calculations"
+module: "Module 07 - Water Balance Calculations"
 type: quiz-bank
 tags:
   - earth-123
@@ -13,10 +13,11 @@ tags:
 # Module 07 Quiz Bank
 
 Up: [[00 - EARTH 123 Final Exam Home]]
+Module: [[00 - Module 07 Overview]]
 
-Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | Definitions: [[01 - Main Definitions]]
+## Questions
 
-## Multiple Choice
+### Multiple Choice
 
 1. Which equation is the full lake water balance used in Module 7?
    - A. $\Delta S=(P+ET+Q_{\text{in}})-(Q_{\text{out}}+G_{\text{in}}+G_{\text{out}})$
@@ -66,7 +67,7 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
    - C. It was simply not measured.
    - D. Raised watershed boundaries prevent surface water from flowing into the watershed across the divide.
 
-## True or False
+### True or False
 
 9. If $G_{\text{in}}=G_{\text{out}}$, the two groundwater terms cancel from the balance.
 
@@ -78,7 +79,7 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 
 13. For a fixed positive lake area, a positive storage-volume change produces a positive surface-elevation change.
 
-## Matching
+### Matching
 
 14. Match each symbol to its meaning.
 
@@ -91,7 +92,7 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 | 5 | $G_{\text{out}}$ | E. Groundwater inflow |
 | 6 | $ET$ | F. Surface-water inflow |
 
-## Short Answer
+### Short Answer
 
 15. Define a water balance in one sentence.
 
@@ -103,7 +104,7 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 
 19. What three categories should a student identify around the hypothetical lake in Figure 7.1.1?
 
-## Calculations
+### Calculations
 
 20. Recalculate the Figure 7.1.2 example using $A=2\ \text{km}^2$, $P=10\ \text{mm/day}$, $ET=2\ \text{mm/day}$, $Q_{\text{in}}=25\ \text{m}^3/\text{day}$, $Q_{\text{out}}=24\ \text{m}^3/\text{day}$, and equal groundwater inflow and outflow of $1\ \text{m}^3/\text{day}$. Find $\Delta S$ and state its direction.
 
@@ -125,7 +126,7 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 
 29. In Applied Problem 4, replace the outflow with $0.02\ \text{m}^3/\text{s}$ while retaining the other calculated fluxes. Calculate April $\Delta S$ in m$^3$ and state its direction.
 
-## Official Course Quiz Questions
+### Official Course Quiz Questions
 
 30. **Saved quiz-7, Question 1.**
 
@@ -304,4 +305,4 @@ Review: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]] | D
 
 </details>
 
-Back to overview: [[00 - Module 07 Overview]]
+Previous: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations|7.1]] | Next: [[00 - Module 07 Overview|Overview]]

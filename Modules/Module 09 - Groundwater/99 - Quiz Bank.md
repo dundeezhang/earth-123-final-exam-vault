@@ -1,18 +1,22 @@
 ---
 course: EARTH 123
-module: 9
+module: "Module 09 - Groundwater"
 type: quiz-bank
 tags:
-  - earth123/module-09
+  - earth-123
+  - module-09
   - quiz-bank
   - groundwater
 ---
 
-# Module 9 Quiz Bank
+# Module 09 Quiz Bank
 
 Up: [[00 - EARTH 123 Final Exam Home]]
+Module: [[00 - Module 09 Overview]]
 
-## Multiple Choice
+## Questions
+
+### Multiple Choice
 
 1. In the reconstructed 9.1 groundwater-system figure, which process continues downward through the subsurface toward groundwater storage?
    - A. Condensation
@@ -74,8 +78,8 @@ Up: [[00 - EARTH 123 Final Exam Home]]
    - C. $45^\circ$
    - D. $90^\circ$
 
-11. Which equation gives hydrostatic pressure from pressure head?
-   - A. $p=\rho gh$
+11. Which equation gives hydrostatic pressure from pressure head $h_p$?
+   - A. $p=\rho g h_p$
    - B. $q=Ki$
    - C. $v=q/n$
    - D. $t=L/v$
@@ -86,7 +90,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
    - C. Perched stream
    - D. Flow-through stream
 
-## True or False
+### True or False
 
 13. Groundwater storage in the reconstructed 9.1 regional figure occurs only in large open underground lakes.
 
@@ -100,7 +104,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 18. At Walkerton, deep drinking-water aquifers were fully isolated from the surface by intact confining layers.
 
-## Matching
+### Matching
 
 19. Match each item with the best description. Use each letter once.
 
@@ -112,7 +116,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 | 4. Potentiometric surface | D. Water that drains and can be extracted |
 | 5. Flow-through stream | E. Gains water on one side and loses it on the other |
 
-## Short Answer
+### Short Answer
 
 20. Distinguish infiltration from percolation.
 
@@ -130,7 +134,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 27. Reconstruct the Walkerton contamination pathway from the agricultural field to Wells 6 and 7.
 
-## Calculations
+### Calculations
 
 28. A well site has ground elevation $425\ \text{m}$ and depth to water $27\ \text{m}$. Calculate the water-table elevation.
 
@@ -146,7 +150,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 34. A plume moves through soil with $K=1.5\times10^{-3}\ \text{m/s}$, $n=0.40$, and a hydraulic gradient of $4/100$. Calculate its velocity magnitude.
 
-## Official Course Quiz Questions
+### Official Course Quiz Questions
 
 35. **Saved quiz-9, Question 1.**
 
@@ -275,7 +279,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 10. **D. $90^\circ$.** In homogeneous material, flow lines cross equipotential contours at right angles. *(§9.3, “Groundwater flow maps,” Figure 9.3.6.)*
 
-11. **A. $p=\rho gh$.** Pressure equals density times gravitational acceleration times pressure head. *(§9.4, “Head and pressure,” recovered from Assignment 5, Question 2a.)*
+11. **A. $p=\rho g h_p$.** Pressure equals density times gravitational acceleration times pressure head. *(§9.4, “Head and Pressure,” recovered from Assignment 5, Question 2a.)*
 
 12. **B. Gaining stream.** It receives groundwater, and the water table meets the stream surface. *(§9.5, “Four stream interactions,” Figure 9.5.2.)*
 
@@ -323,31 +327,30 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 34. **$1.5\times10^{-4}\ \text{m/s}$.** $v=(1.5\times10^{-3}/0.40)(0.04)$. *(§9.5, “Course check calculation”; course Check Your Knowledge.)*
 
-35. **d) All of the Above.** Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the hydrological cycle|9.1 Groundwater in the Hydrological Cycle]].)*
+35. **d) All of the Above.** Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the Hydrological Cycle|9.1 Groundwater in the Hydrological Cycle]].)*
 
-36. **a) The height to which water will rise in or above a well.** *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]], potentiometric-surface figure.)*
+36. **a) The height to which water will rise in or above a well.** *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and Pressure|9.4 Head and Pressure]], potentiometric-surface figure.)*
 
 37. **d) Oak Ridges Moraine.** Its glacial deposits store recharge and feed springs, streams, and rivers near Toronto. *(Course section and Figure 9.2.5: [[03 - 9.2 Aquifers and the Glacial Connection#The Glacial Connection|9.2 The Glacial Connection]].)*
 
 38. **True.** Past glacial deposition created major southern Ontario aquifers, including those in the Waterloo region. *(Course section: [[03 - 9.2 Aquifers and the Glacial Connection#The Glacial Connection|9.2 The Glacial Connection]].)*
 
-39. **False.** Flowing artesian conditions develop in pressurized confined aquifers where the potentiometric surface lies above ground. *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]], artesian-well figure.)*
+39. **False.** Flowing artesian conditions develop in pressurized confined aquifers where the potentiometric surface lies above ground. *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and Pressure|9.4 Head and Pressure]], artesian-well figure.)*
 
-40. **b) Sand.** Of the listed materials, sand commonly has the largest connected pore spaces and highest permeability. *(Course section: [[04 - 9.3 Groundwater Movement and Phase Relationships#Specific yield, retention, and permeability|9.3 Specific Yield, Retention, and Permeability]].)*
+40. **b) Sand.** Of the listed materials, sand commonly has the largest connected pore spaces and highest permeability. *(Course section: [[04 - 9.3 Groundwater Movement and Phase Relationships#Specific Yield, Retention, and Permeability|9.3 Specific Yield, Retention, and Permeability]].)*
 
-41. **d) 98,000 Pa.** $p=\rho gh=(1000)(9.8)(10)=98{,}000\ \text{Pa}$. *(Course section: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]].)*
+41. **d) 98,000 Pa.** $p=\rho gh=(1000)(9.8)(10)=98{,}000\ \text{Pa}$. *(Course section: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and Pressure|9.4 Head and Pressure]].)*
 
-42. **e) All of the above.** Darcy's Law relates flow to hydraulic gradient and formation properties, with flow directed from higher to lower head. *(Course sections: [[05 - 9.4 Pressure, Head, and Flow Calculations#Hydraulic gradient|9.4 Hydraulic Gradient]] and [[05 - 9.4 Pressure, Head, and Flow Calculations#Hydraulic conductivity and Darcy specific discharge|9.4 Hydraulic Conductivity and Darcy Specific Discharge]].)*
+42. **e) All of the above.** Darcy's Law relates flow to hydraulic gradient and formation properties, with flow directed from higher to lower head. *(Course sections: [[05 - 9.4 Pressure, Head, and Flow Calculations#Hydraulic Gradient|9.4 Hydraulic Gradient]] and [[05 - 9.4 Pressure, Head, and Flow Calculations#Hydraulic Conductivity and Darcy Specific Discharge|9.4 Hydraulic Conductivity and Darcy Specific Discharge]].)*
 
-43. **False.** Engineered waste systems can reduce risk, but leakage and contaminant transport remain possible. *(Course section: [[06 - 9.5 Groundwater and Surface Water Interactions#Contamination pathways|9.5 Contamination Pathways]].)*
+43. **False.** Engineered waste systems can reduce risk, but leakage and contaminant transport remain possible. *(Course section: [[06 - 9.5 Groundwater and Surface Water Interactions#Contamination Pathways|9.5 Contamination Pathways]].)*
 
-44. **b) Pressure and Position.** Hydraulic head combines pressure head with elevation or positional head. *(Course section: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and pressure|9.4 Head and Pressure]].)*
+44. **b) Pressure and Position.** Hydraulic head combines pressure head with elevation or positional head. *(Course section: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and Pressure|9.4 Head and Pressure]].)*
 
 45. **d) Karst.** Karst aquifers form where water dissolves carbonate rock such as limestone. *(Course section and figure: [[03 - 9.2 Aquifers and the Glacial Connection#Karst Aquifers|9.2 Karst Aquifers]].)*
 
-46. **c) 0.6%.** *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the hydrological cycle|9.1 Groundwater in the Hydrological Cycle]].)*
+46. **c) 0.6%.** *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the Hydrological Cycle|9.1 Groundwater in the Hydrological Cycle]].)*
 
 </details>
 
-Previous: [[Modules/Module 09 - Groundwater/07 - 9.6 Case Study: Applied Groundwater Science and the Walkerton Groundwater Tragedy|9.6 Walkerton Groundwater Tragedy]]  
-Next: [[Modules/Module 09 - Groundwater/00 - Module 09 Overview|Module 9 Overview]]
+Previous: [[07 - 9.6 Case Study: Applied Groundwater Science and the Walkerton Groundwater Tragedy|9.6]] | Next: [[00 - Module 09 Overview|Overview]]

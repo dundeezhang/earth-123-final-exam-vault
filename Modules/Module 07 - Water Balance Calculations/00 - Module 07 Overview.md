@@ -1,6 +1,6 @@
 ---
 course: EARTH 123
-module: "07 - Water Balance Calculations"
+module: "Module 07 - Water Balance Calculations"
 type: overview
 tags:
   - earth-123
@@ -59,3 +59,5 @@ $$
 - Definitions: [[01 - Main Definitions]]
 - Complete Module 7 note: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations]]
 - Practice and answer key: [[99 - Quiz Bank]]
+
+Previous: [[99 - Quiz Bank|Quiz Bank]] | Next: [[01 - Main Definitions|Definitions]]

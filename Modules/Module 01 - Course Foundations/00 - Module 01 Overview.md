@@ -11,17 +11,17 @@ tags:
 
 # Module 01: Course Foundations
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
 **Central question:** How is the course organized, how does scientific inquiry structure hydrologic study, and why is water important to Canada?
 
 ## Study Path
 
-1. [[01 - Main Definitions]]
-2. [[02 - 1.1 How This Course Works; A Scavenger Hunt!]]
-3. [[03 - 1.2 The Scientific Method]]
-4. [[04 - 1.3 Water Movie]]
-5. [[99 - Quiz Bank]]
+1. [[Modules/Module 01 - Course Foundations/01 - Main Definitions|Definitions]]
+2. [[Modules/Module 01 - Course Foundations/02 - 1.1 How This Course Works; A Scavenger Hunt!|1.1 Course Structure]]
+3. [[Modules/Module 01 - Course Foundations/03 - 1.2 The Scientific Method|1.2 Scientific Method]]
+4. [[Modules/Module 01 - Course Foundations/04 - 1.3 Water Movie|1.3 Water Movie]]
+5. [[Modules/Module 01 - Course Foundations/99 - Quiz Bank|Quiz Bank]]
 
 ## Highest-Yield Exam Points
 
@@ -45,5 +45,7 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 ## Review
 
-- Definitions: [[01 - Main Definitions]]
-- Practice: [[99 - Quiz Bank]]
+- Definitions: [[Modules/Module 01 - Course Foundations/01 - Main Definitions|Definitions]]
+- Practice: [[Modules/Module 01 - Course Foundations/99 - Quiz Bank|Quiz Bank]]
+
+Previous: [[Modules/Module 01 - Course Foundations/99 - Quiz Bank|Quiz Bank]] | Next: [[Modules/Module 01 - Course Foundations/01 - Main Definitions|Definitions]]

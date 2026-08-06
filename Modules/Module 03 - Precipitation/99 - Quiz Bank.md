@@ -11,9 +11,9 @@ tags:
 
 # Module 03 Quiz Bank
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
-Module: [[00 - Module 03 Overview]] | Definitions: [[01 - Main Definitions]]
+Module: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]] | Definitions: [[Modules/Module 03 - Precipitation/01 - Main Definitions|Definitions]]
 
 ## Multiple Choice
 
@@ -304,4 +304,4 @@ $$
 
 </details>
 
-Back to: [[00 - Module 03 Overview]]
+Previous: [[Modules/Module 03 - Precipitation/05 - 3.4 Arid Environments|3.4 Arid Environments]] | Next: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]]

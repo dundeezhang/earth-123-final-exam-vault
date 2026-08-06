@@ -25,9 +25,9 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 ## Highest-Yield Exam Points
 
 - Soil combines mineral matter, organic matter, water, and air; regolith includes the layers of both soil and rock covering Earth's surface.
-- Above the water table is the unsaturated or vadose zone; groundwater and the capillary fringe form the saturated zone described in Figure 8.1.1.
+- Above the water table is the unsaturated or vadose zone. Figure 8.1.1 groups the capillary fringe with saturated materials and shows groundwater below it.
 - Parent material, time, climate, plants and animals, and topography control soil formation and the resulting soil profile.
-- Phase relationships distinguish mass from volume and quantify porosity, void ratio, water content, degree of saturation, and bulk density.
+- Phase relationships distinguish mass from volume and quantify porosity, void ratio, gravimetric water content, degree of saturation, and bulk density.
 - A standard soil profile runs from surface to depth as O, A, E, B, C, R. O and A form topsoil, B is the first subsoil horizon, and R is bedrock.
 - Soil degradation includes desertification, erosion, topsoil deterioration, contamination, fertilizer overuse, and intensified agriculture.
 - Weathering breaks material down; erosion physically removes and transports it. Mechanical weathering retains the parent's composition, whereas chemical weathering creates different minerals.
@@ -53,14 +53,14 @@ $$
 
 $$
 \rho=\frac{m_{\text{total}}}{V_{\text{total}}}
-\quad (\mathrm{kg/m^3})
+\quad (\mathrm{kg\,m^{-3}})
 \qquad
 PI=LL-PL
 $$
 
 - Identify the correct numerator and denominator before substituting.
 - Convert a ratio to percent by multiplying by 100 when the question asks for a percentage.
-- Keep mass and volume units consistent; bulk density is reported by the course in $\mathrm{kg/m^3}$.
+- Keep mass and volume units consistent; bulk density is reported by the course in $\mathrm{kg\,m^{-3}}$.
 - Read the millimetre breakpoints in Table 8.3.1 and order clay, silt, sand, gravel, cobbles, and boulders by size.
 
 ## Quick Links
@@ -68,3 +68,4 @@ $$
 - Definitions: [[01 - Main Definitions]]
 - Practice: [[99 - Quiz Bank]]
 
+Previous: [[99 - Quiz Bank|Quiz Bank]] | Next: [[01 - Main Definitions|Definitions]]

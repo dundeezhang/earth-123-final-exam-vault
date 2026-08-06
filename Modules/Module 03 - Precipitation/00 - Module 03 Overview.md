@@ -8,20 +8,20 @@ tags:
   - precipitation
 ---
 
-# Module 03 - Precipitation
+# Module 03: Precipitation
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
 **Central question:** How do atmospheric circulation, lifting, cloud microphysics, phase, and climate determine where precipitation or aridity occurs and how much water is stored in rain or snow?
 
 ## Study Path
 
-1. [[01 - Main Definitions]]
-2. [[02 - 3.1 Introduction to Precipitation and Precipitation Processes]]
-3. [[03 - 3.2 Atmospheric Moisture and Circulation]]
-4. [[04 - 3.3 Snowfall and Snow Cover Processes and Issues]]
-5. [[05 - 3.4 Arid Environments]]
-6. [[99 - Quiz Bank]]
+1. [[Modules/Module 03 - Precipitation/01 - Main Definitions|Definitions]]
+2. [[Modules/Module 03 - Precipitation/02 - 3.1 Introduction to Precipitation and Precipitation Processes|3.1 Precipitation Processes]]
+3. [[Modules/Module 03 - Precipitation/03 - 3.2 Atmospheric Moisture and Circulation|3.2 Atmospheric Moisture]]
+4. [[Modules/Module 03 - Precipitation/04 - 3.3 Snowfall and Snow Cover Processes and Issues|3.3 Snowfall and Snow Cover]]
+5. [[Modules/Module 03 - Precipitation/05 - 3.4 Arid Environments|3.4 Arid Environments]]
+6. [[Modules/Module 03 - Precipitation/99 - Quiz Bank|Quiz Bank]]
 
 ## Highest-Yield Exam Points
 
@@ -78,5 +78,7 @@ Use the same length units in numerator and denominator. A larger density ratio m
 
 ## Review
 
-- Definitions: [[01 - Main Definitions]]
-- Practice: [[99 - Quiz Bank]]
+- Definitions: [[Modules/Module 03 - Precipitation/01 - Main Definitions|Definitions]]
+- Practice: [[Modules/Module 03 - Precipitation/99 - Quiz Bank|Quiz Bank]]
+
+Previous: [[Modules/Module 03 - Precipitation/99 - Quiz Bank|Quiz Bank]] | Next: [[Modules/Module 03 - Precipitation/01 - Main Definitions|Definitions]]

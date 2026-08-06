@@ -11,9 +11,9 @@ tags:
 
 # Main Definitions
 
-Up: [[00 - EARTH 123 Final Exam Home]]
+Up: [[00 - EARTH 123 Final Exam Home|Home]]
 
-Module: [[00 - Module 02 Overview]]
+Module: [[Modules/Module 02 - Physical Hydrology and Watersheds/00 - Module 02 Overview|Overview]]
 
 | Term | Definition | Course section | Example / where / application |
 |---|---|---|---|
@@ -41,10 +41,10 @@ Module: [[00 - Module 02 Overview]]
 | Conservation equation | Balance stating that change in a conserved quantity equals total input minus total output: $\Delta S=I-O$. | 2.2 | A reservoir operator uses measured inflows and releases to estimate storage change. |
 | Water balance | Application of conservation to all measured water inputs, outputs, and storage changes in a hydrologic system. | 2.3 | A watershed calculation applies $\Delta S=(P+G_{in}+Q_{in})-(ET+G_{out}+Q_{out})$. |
 | Steady state | Condition in which storage does not change during the study period, so $\Delta S=0$ and inputs equal outputs. | 2.3 | A full rain barrel is steady when eaves inflow equals overflow, even while water moves through it. |
-| Flux | Movement or change of a quantity through time or across a boundary. | 2.2 | $\Delta S$ records a storage change, while discharge records water crossing an outlet over time. |
+| Flux | Rate at which a quantity crosses a system boundary. | 2.2 | River discharge is a water flux through a watershed outlet, commonly measured in $\mathrm{m^3/s}$. |
 | Length per time, $L/T$ | Rate expressed as a water depth or distance per unit time. | 2.2 | Rainfall intensity can be recorded in $\mathrm{mm/h}$. |
-| Volume per time, $V/T$ | Flow rate expressed as a volume crossing a point or boundary per unit time. | 2.2 | River discharge can be recorded in $\mathrm{m^3/s}$. |
-| Hydrograph | Graph of discharge or flow volume through time, sometimes paired with precipitation. | 2.2 | A storm hydrograph shows rainfall on Day 1 and peak river discharge on Day 2. |
+| Volume per time, $V/T$ | Flow rate expressed as a volume per unit time, with dimensions $L^3/T$. | 2.2 | River discharge can be recorded in $\mathrm{m^3/s}$. |
+| Hydrograph | Graph of discharge through time, sometimes paired with precipitation. | 2.2 | A storm hydrograph shows rainfall on Day 1 and peak river discharge on Day 2. |
 | Discharge | Volume of water passing a specified point per unit time. | 2.2 | The course reports an average Grand River flow of $55\ \mathrm{m^3/s}$. |
 | Baseflow | Ordinary sustained river flow shown beneath the storm-response portion of a hydrograph. | 2.2 | Groundwater contribution can maintain streamflow between storms. |
 | Watershed / drainage basin / catchment | Total geographic area drained by a river and its tributaries toward a defined outlet. | 2.2 | The Mississippi watershed drains toward the Gulf of Mexico. |
@@ -53,13 +53,13 @@ Module: [[00 - Module 02 Overview]]
 | Subwatershed | Smaller drainage area nested inside a larger watershed. | 2.2 | The Missouri watershed lies within the larger Mississippi watershed. |
 | Continental divide | Large topographic divide separating drainage toward different sides of a continent. | 2.2 | West of North America's major divide, water drains toward the Pacific rather than the Gulf of Mexico. |
 | Interfluve | Higher land between neighbouring stream channels or drainage paths. | 2.2 | Dotted divides in the real-world watershed figure follow interfluves between streams. |
-| Outlet / mouth | Defined low point where surface water leaves a watershed. | 2.2-2.3 | The Mississippi watershed outlet is at the Gulf of Mexico. |
+| Outlet / river mouth | An outlet is the defined point where water leaves a watershed; a river mouth is the downstream endpoint where a river enters another water body. | 2.2-2.3 | The Mississippi watershed outlet and river mouth are at the Gulf of Mexico. |
 | Contaminant pathway | Route by which moving water carries pollution from a source to another location. | 2.1 | Leakage from a gas station tank can enter groundwater and migrate away from the property. |
 | Erosion | Removal and transport of soil or rock by water or another agent. | 2.1 | Runoff from uncovered fields carries topsoil into the Mississippi River. |
 | Deposition | Settling or accumulation of previously transported sediment or contaminants. | 2.1 | The Mississippi plume deposits material near the Gulf of Mexico. |
 | Lake-effect snow | Snow produced when cold, dry air gains moisture over warmer open lake water and releases it over colder land. | 2.4 | Prevailing west-to-east winds favour heavy snow east and southeast of the Great Lakes. |
 | Frost-free period | Part of the year when surface frost is absent; large lakes can lengthen it near shore by storing and releasing heat. | 2.4 | Great Lakes shorelines have more frost-free days than areas farther inland. |
-| Monitoring well | Well used to observe groundwater level or quality without interrupting nearby production. | 2.4 | Waterloo Region places monitoring wells near municipal production wells. |
+| Monitoring well | Well used to observe groundwater levels or quality rather than supply water. | 2.4 | Waterloo Region places monitoring wells near municipal production wells so conditions can be tracked without shutting down supply wells. |
 | Production well | Well used to extract groundwater for supply. | 2.4 | Waterloo Region's municipal wells provide much of its freshwater demand. |
 | Global scale | Planet-wide hydrologic scope involving processes such as atmospheric circulation, oceans, and global precipitation. | 2.4 | A world map of annual precipitation is a global dataset. |
 | Regional scale | Hydrologic scope covering a large connected area within part of a continent. | 2.4 | The Great Lakes system is a regional freshwater system. |
@@ -74,7 +74,7 @@ Module: [[00 - Module 02 Overview]]
 - **Runoff vs. discharge:** runoff describes water moving over land or into channels; discharge is the measured volume per time passing a defined point.
 - **Infiltration vs. percolation:** infiltration is entry into the ground; percolation is subsequent movement through subsurface material.
 - **Groundwater vs. surface water:** groundwater is below the surface; surface water occupies visible water bodies and channels.
-- **Length rate vs. volume rate:** $\mathrm{mm/day}$ is a depth rate; $\mathrm{m^3/day}$ is a volumetric rate. Area is required to convert between them.
+- **Length rate vs. volume rate:** $\mathrm{mm/day}$ has dimensions $L/T$; $\mathrm{m^3/day}$ has dimensions $L^3/T$. Area is required to convert between them.
 - **Global vs. regional vs. local:** scale changes the system boundary and relevant processes, not the conservation principle.
 
-Next: [[02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts]]
+Previous: [[Modules/Module 02 - Physical Hydrology and Watersheds/00 - Module 02 Overview|Overview]] | Next: [[Modules/Module 02 - Physical Hydrology and Watersheds/02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts|2.1 Physical Hydrology]]

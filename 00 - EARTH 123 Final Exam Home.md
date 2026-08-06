@@ -9,15 +9,15 @@ tags:
 
 # EARTH 123 Final Exam
 
-Concise study notes built from the saved course pages for Modules 1-12, with 102 locally saved course-quiz questions integrated into the applicable banks.
+Concise study notes built from the saved course pages for Modules 1-12. The applicable quiz banks include 102 questions recovered from saved course quizzes.
 
 ## Start Here
 
-1. Open [[01 - Modules Index]].
-2. Read a module overview and open its definitions note from [[01 - Modules Index|the module index]].
-3. Work through the submodule notes in course order.
-4. Complete the module quiz bank without opening its answer key.
-5. Record weak topics in [[02 - Exam Study Tracker]].
+1. Choose a module from [[01 - Modules Index]].
+2. Read its overview, definitions, and submodule notes in order.
+3. Complete its quiz bank before expanding the answer key.
+4. Record errors and weak topics in [[02 - Exam Study Tracker]].
+5. Rework calculations with [[03 - Formula and Units Index]].
 
 > [!important]
 > These notes condense the local course pages. Use the linked reference material and saved Hive source pages when a figure, demonstration, or longer explanation is needed.

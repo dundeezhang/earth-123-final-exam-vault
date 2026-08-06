@@ -11,34 +11,40 @@ tags:
 
 Up: [[00 - EARTH 123 Final Exam Home]]
 
-Use the checkboxes after completing the notes and quiz bank for each module.
+Use one row per module. Record scores as a fraction or percentage and list the exact concepts that need another pass.
 
-| Module | Notes | Quiz 1 | Correct | Review needed | Quiz 2 |
-|---|---|---|---:|---|---|
-| 1 | [ ] | [ ] |  |  | [ ] |
-| 2 | [ ] | [ ] |  |  | [ ] |
-| 3 | [ ] | [ ] |  |  | [ ] |
-| 4 | [ ] | [ ] |  |  | [ ] |
-| 5 | [ ] | [ ] |  |  | [ ] |
-| 6 | [ ] | [ ] |  |  | [ ] |
-| 7 | [ ] | [ ] |  |  | [ ] |
-| 8 | [ ] | [ ] |  |  | [ ] |
-| 9 | [ ] | [ ] |  |  | [ ] |
-| 10 | [ ] | [ ] |  |  | [ ] |
-| 11 | [ ] | [ ] |  |  | [ ] |
-| 12 | [ ] | [ ] |  |  | [ ] |
+| Module | Notes complete | First quiz pass | First score | Weak areas logged | Second quiz pass | Second score |
+|---|---|---|---:|---|---|---:|
+| [[00 - Module 01 Overview|1]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 02 Overview|2]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 03 Overview|3]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 04 Overview|4]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 05 Overview|5]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 06 Overview|6]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 07 Overview|7]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 08 Overview|8]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 09 Overview|9]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 10 Overview|10]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 11 Overview|11]] | [ ] | [ ] |  | [ ] | [ ] |  |
+| [[00 - Module 12 Overview|12]] | [ ] | [ ] |  | [ ] | [ ] |  |
 
 ## Weak Topics
 
-- 
+- Module and section:
+- Concept or equation:
+- What caused the error:
+- Correct rule or method:
 
 ## Calculation Errors to Rework
 
-- 
+- Question source:
+- Incorrect step:
+- Correct setup and units:
+- Final result:
 
 ## Final Pass
 
 - [ ] Definitions reviewed
 - [ ] Equations and units reviewed
-- [ ] Common confusions reviewed
+- [ ] Weak topics and calculation errors reworked
 - [ ] Every quiz bank completed twice

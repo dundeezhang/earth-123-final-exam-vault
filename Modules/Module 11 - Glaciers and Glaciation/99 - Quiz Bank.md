@@ -1,17 +1,19 @@
 ---
 course: EARTH 123
-module: 11
+module: "Module 11 - Glaciers and Glaciation"
 type: quiz-bank
 tags:
-  - earth123/module-11
+  - earth-123
+  - module-11
   - quiz
   - glaciers
 ---
 
 # Module 11 Quiz Bank
 
-Up: [[00 - EARTH 123 Final Exam Home]]  
+Up: [[00 - EARTH 123 Final Exam Home]]
 Module: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Module 11 Overview]]
+Definitions: [[Modules/Module 11 - Glaciers and Glaciation/01 - Main Definitions|Main Definitions]]
 
 ## Multiple Choice
 
@@ -137,11 +139,11 @@ Module: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Mo
 
 Match each item to its description.
 
-33. Cirque  
-34. Arete  
-35. Horn  
-36. Drumlin  
-37. Glacial outwash  
+33. Cirque
+34. Arete
+35. Horn
+36. Drumlin
+37. Glacial outwash
 38. Recessional moraine system
 
 - A. Series of adjacent end moraines
@@ -306,7 +308,7 @@ Match each item to its description.
 37. **F.** Glacial outwash is sediment transported and deposited by meltwater. (11.3, "Erosional and Depositional Features in Continental Glacier Environments")
 38. **A.** A recessional moraine system is a series of adjacent end or terminal moraines. (11.3, "Depositional Features in Alpine Glacier Environments")
 
-39. **Kames.** Kames are small conical hills formed by meltwater sediment deposited on or within glacier ice and lowered to the land surface as the ice melts. (Course section and Figure 11.3.6: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Erosional and Depositional Features in Continental Glacier Environments|11.3 Continental Glacier Features]])
+39. **Kames.** The saved quiz describes sediment deposited in glacier-surface depressions and lowered to the land as the ice melts. Section 11.3 also presents kames as conical meltwater deposits formed where water exits a glacial channel and slows. (Course section and Figure 11.3.6: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Erosional and Depositional Features in Continental Glacier Environments|11.3 Continental Glacier Features]])
 
 40. **False.** Heavy ice causes isostatic depression; rebound is the slow uplift that follows unloading as the glacier melts. (Course section: [[03 - 11.2 Glacial Movement and Causes of Past Glaciations#Evidence of Past Glaciation|11.2 Evidence of Past Glaciation]])
 
@@ -331,3 +333,6 @@ Match each item to its description.
 50. **True.** Glaciers contain most of the world's freshwater. (Course section: [[02 - 11.1 Introduction to Glaciers: Formation, Classification, and Anatomy#Glacier Definition and Importance|11.1 Glacier Definition and Importance]])
 
 </details>
+
+Previous: [[Modules/Module 11 - Glaciers and Glaciation/04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional|11.3 Direct Effects of Glaciation: Erosional and Depositional]]
+Next: [[Modules/Module 11 - Glaciers and Glaciation/00 - Module 11 Overview|Module 11 Overview]]

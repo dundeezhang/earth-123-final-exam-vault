@@ -8,7 +8,7 @@ tags:
   - evapotranspiration
 ---
 
-# Module 06 - Measuring Evapotranspiration
+# Module 06: Measuring Evapotranspiration
 
 Up: [[00 - EARTH 123 Final Exam Home]]
 
@@ -16,11 +16,11 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 
 ## Study Path
 
-1. [[01 - Main Definitions]]
+1. [[Modules/Module 06 - Measuring Evapotranspiration/01 - Main Definitions|Main Definitions]]
 2. [[02 - 6.1 Introduction to Measuring Evaporation and Transpiration: Evaporation Pans and Lysimeters]]
 3. [[03 - 6.2 Energy and Water Balances and Empirical and Physical Evapotranspiration Measurement Methods]]
 4. [[04 - 6.3 Utilization of Groundwater Fluctuations for Evapotranspiration Measurements]]
-5. [[99 - Quiz Bank]]
+5. [[Modules/Module 06 - Measuring Evapotranspiration/99 - Quiz Bank|Quiz Bank]]
 
 ## Highest-Yield Exam Points
 
@@ -32,8 +32,8 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 6. In the energy-balance method, incoming radiation minus reflected shortwave and outgoing longwave radiation is allocated among evaporation, air warming, surface warming, and plant growth.
 7. A lake water balance solves evaporation as the residual after accounting for precipitation, surface-water and groundwater flows, and change in storage.
 8. Penman-Monteith estimates potential ET from atmospheric and surface data; empirical equations are locally calibrated and usually do not transfer reliably to unlike sites.
-9. An evapotranspiration chamber directly captures vapour from a small plant and surface. Subtracting a comparable bare-surface chamber measurement isolates the vegetation contribution.
-10. Groundwater-fluctuation estimates require a shallow, plant-accessible water table and use nocturnal water-table recovery, the 24-hour level change, and effective specific yield.
+9. An evapotranspiration chamber captures vapour from a small plant and its covered surface. Subtracting a comparable bare-surface chamber measurement isolates plant transpiration.
+10. Groundwater-fluctuation estimates require a shallow, plant-accessible water table and use nocturnal water-table recovery, the 24-hour level change, and effective specific yield, the drainable-water fraction that converts water-table movement to equivalent water depth.
 11. Track signs and time bases carefully: in the section 6.3 example, the 24-hour water-table change $b$ is negative because the level is lower at the end of the interval.
 12. Unit conversions drive the lysimeter and groundwater calculations: $1\ \mathrm{L}$ of water corresponds to $1\ \mathrm{kg}$, $1000\ \mathrm{L}=1\ \mathrm{m^3}$, and $1\ \mathrm{m}=1000\ \mathrm{mm}$.
 
@@ -87,6 +87,7 @@ Quantitative skills: identify the correct method; keep all inputs on a common ti
 
 ## Review
 
-- Definitions: [[01 - Main Definitions]]
-- Practice: [[99 - Quiz Bank]]
+- Definitions: [[Modules/Module 06 - Measuring Evapotranspiration/01 - Main Definitions|Main Definitions]]
+- Practice: [[Modules/Module 06 - Measuring Evapotranspiration/99 - Quiz Bank|Quiz Bank]]
 
+Previous: [[Modules/Module 06 - Measuring Evapotranspiration/99 - Quiz Bank|Quiz Bank]] | Next: [[Modules/Module 06 - Measuring Evapotranspiration/01 - Main Definitions|Definitions]]
