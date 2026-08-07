@@ -4,7 +4,7 @@ A static review app built from 114 locally saved EARTH 123 quiz questions and 23
 
 ## Use
 
-Open [`index.html`](index.html) in a browser. Questions appear in a new random order for each session. Select one or more modules to limit the question pool.
+Open [`index.html`](index.html) in a browser. Questions appear in a new random order for each session. Select one or more modules to limit the question pool. Single-answer questions use radio buttons. Select-all-that-apply questions use checkboxes and require the complete correct set.
 
 The next question remains locked until the current answer is correct. Progress is saved in the browser. The exam mark records each question's first checked answer. Retries change the attempt count but cannot recover an exam mark.
 

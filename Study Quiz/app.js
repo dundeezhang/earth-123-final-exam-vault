@@ -137,6 +137,18 @@
     return questions.find((question) => question.id === id);
   }
 
+  function correctAnswers(question) {
+    return Array.isArray(question.answers) && question.answers.length ? question.answers : [question.answer];
+  }
+
+  function isMultipleChoice(question) {
+    return question.selectionMode === "multiple" || correctAnswers(question).length > 1;
+  }
+
+  function sameAnswerSet(selected, correct) {
+    return selected.length === correct.length && selected.every((answer) => correct.includes(answer));
+  }
+
   function createSession(selectedModules) {
     const pool = questions.filter((question) => selectedModules.includes(question.module));
     state = {
@@ -305,10 +317,11 @@
       const label = document.createElement("label");
       label.className = "answer-option";
       if (wrongOptions.has(index)) label.classList.add("is-wrong");
-      if (state.currentSolved && index === question.answer) label.classList.add("is-correct");
+      if (state.currentSolved && correctAnswers(question).includes(index)) label.classList.add("is-correct");
       const marker = String.fromCharCode(65 + index);
+      const inputType = isMultipleChoice(question) ? "checkbox" : "radio";
       label.innerHTML = `
-        <input type="radio" name="answer" value="${index}" ${state.currentSolved ? "disabled" : ""}>
+        <input type="${inputType}" name="answer" value="${index}" ${state.currentSolved ? "disabled" : ""}>
         <span class="answer-marker" aria-hidden="true">${marker}</span>
         <span class="answer-text">${option}</span>
       `;
@@ -337,7 +350,9 @@
   }
 
   function recordMissedQuestion(question, selected) {
-    const chosenAnswer = plainText(question.options[selected]);
+    const chosenAnswer = selected.length
+      ? selected.map((answer) => plainText(question.options[answer])).join("; ")
+      : "No answer selected";
     const existing = missedLog[question.id];
     const wrongAnswers = { ...(existing?.wrongAnswers ?? {}) };
     wrongAnswers[chosenAnswer] = (wrongAnswers[chosenAnswer] ?? 0) + 1;
@@ -346,7 +361,7 @@
       module: question.module,
       sourceLabel: question.sourceLabel,
       prompt: plainText(question.prompt),
-      correctAnswer: plainText(question.options[question.answer]),
+      correctAnswer: correctAnswers(question).map((answer) => plainText(question.options[answer])).join("; "),
       explanation: plainText(question.explanation),
       misses: (existing?.misses ?? 0) + 1,
       wrongAnswers,
@@ -361,18 +376,19 @@
     elements.feedback.innerHTML = `<strong>Correct.</strong> ${question.explanation}`;
   }
 
-  function selectedAnswer() {
-    const selected = elements.answerForm.querySelector('input[name="answer"]:checked');
-    return selected ? Number(selected.value) : null;
+  function selectedAnswers() {
+    return [...elements.answerForm.querySelectorAll('input[name="answer"]:checked')].map((input) => Number(input.value));
   }
 
   function checkAnswer(event) {
     event.preventDefault();
     if (state.currentSolved) return;
-    const selected = selectedAnswer();
-    if (selected === null) {
+    const selected = selectedAnswers();
+    if (!selected.length) {
       elements.feedback.className = "feedback is-warning";
-      elements.feedback.textContent = "Select an answer before checking.";
+      elements.feedback.textContent = isMultipleChoice(currentQuestion())
+        ? "Select every answer that applies before checking."
+        : "Select an answer before checking.";
       return;
     }
 
@@ -383,7 +399,8 @@
       state.examTotal += 1;
       state.currentFirstAttemptRecorded = true;
     }
-    if (selected === question.answer) {
+    const correct = correctAnswers(question);
+    if (sameAnswerSet(selected, correct)) {
       state.correct += 1;
       state.streak += 1;
       if (isFirstAttempt) state.examPoints += 1;
@@ -396,12 +413,13 @@
     }
 
     state.streak = 0;
-    wrongOptions.add(selected);
+    selected.filter((answer) => !correct.includes(answer)).forEach((answer) => wrongOptions.add(answer));
     recordMissedQuestion(question, selected);
     saveState();
     renderStats();
-    const option = elements.answerList.children[selected];
-    option?.classList.add("is-wrong");
+    selected
+      .filter((answer) => !correct.includes(answer))
+      .forEach((answer) => elements.answerList.children[answer]?.classList.add("is-wrong"));
     elements.feedback.className = "feedback is-error";
     elements.feedback.innerHTML = "<strong>Not correct.</strong> Added to the missed-question log. Review the choices and try again.";
   }
@@ -545,7 +563,7 @@
     const number = Number(event.key);
     if (number >= 1 && number <= 9 && !state.currentSolved) {
       const input = elements.answerList.querySelector(`input[value="${number - 1}"]`);
-      if (input) input.checked = true;
+      if (input) input.checked = input.type === "checkbox" ? !input.checked : true;
     }
     if (event.key === "Enter" && state.currentSolved) {
       event.preventDefault();

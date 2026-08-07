@@ -10,7 +10,7 @@ const ASSET_DIR = path.join(SITE_DIR, "assets");
 const MANUAL = {
   "quiz-4-q1": {
     options: ["40%", "20%", "60%", "250%"],
-    answer: 0,
+    answers: [0],
   },
   "quiz-7-q3": {
     options: [
@@ -19,19 +19,19 @@ const MANUAL = {
       "B = Surface water out; E = Evaporation; C = Groundwater in; D = Precipitation; A = Groundwater out",
       "B = Groundwater in; E = Surface water out; C = Groundwater out; D = Evaporation; A = Precipitation",
     ],
-    answer: 0,
+    answers: [0],
   },
   "quiz-7-q6": {
     options: ["20,009 m³", "19,991 m³", "20,900 m³", "4,009 m³"],
-    answer: 0,
+    answers: [0],
   },
   "quiz-7-q7": {
     options: ["60,008 m³", "59,992 m³", "12,008 m³", "60,800 m³"],
-    answer: 0,
+    answers: [0],
   },
   "quiz-7-q8": {
     options: ["16 mm", "8 mm", "31 mm", "155 mm"],
-    answer: 0,
+    answers: [0],
   },
 };
 
@@ -136,27 +136,40 @@ function parseAnswerLines(markdown) {
   return answers;
 }
 
-function answerFromOptions(options, answerLine) {
+function answersFromOptions(options, answerLine) {
   const leadMatch = answerLine?.match(/^\*\*([^*]+)\*\*/);
   const lead = plainText(leadMatch?.[1] ?? answerLine ?? "");
   const normalizedOptions = options.map((option) => plainText(option).toLowerCase());
 
   if (/^(true|false)\b/i.test(lead)) {
-    return normalizedOptions.findIndex((option) => option === lead.match(/^(true|false)/i)[1].toLowerCase());
+    return [normalizedOptions.findIndex((option) => option === lead.match(/^(true|false)/i)[1].toLowerCase())];
   }
 
   const optionsUseLetters = normalizedOptions.every((option) => /^[a-z][.)]/i.test(option));
-  const letterMatch = lead.match(/^([a-z])(?:\)|\.|,|\s)/i);
-  if (optionsUseLetters && letterMatch) {
-    const letter = letterMatch[1].toLowerCase();
-    return normalizedOptions.findIndex((option) => option.startsWith(`${letter})`) || option.startsWith(`${letter}.`));
+  const multipleLetterMatch = lead.match(/^([A-F](?:(?:,\s*(?:and\s*)?|\s+and\s+)[A-F])+)[.)]?(?=\s|$)/);
+  const singleLetterMatch = lead.match(/^([A-Fa-f])(?:[.)]|,|\s)/);
+  const leadingLetters = multipleLetterMatch?.[1] ?? singleLetterMatch?.[1] ?? "";
+  const letters = [...leadingLetters.matchAll(/\b([A-Fa-f])\b/g)].map((match) => match[1].toLowerCase());
+  if (optionsUseLetters && letters.length) {
+    return letters.map((letter) =>
+      normalizedOptions.findIndex((option) => option.startsWith(`${letter})`) || option.startsWith(`${letter}.`)),
+    );
   }
 
   const cleanedLead = lead.replace(/^[a-z][.)]\s*/i, "").replace(/[.,]$/, "").toLowerCase();
-  return normalizedOptions.findIndex((option) => {
+  return [normalizedOptions.findIndex((option) => {
     const cleanedOption = option.replace(/^[a-z0-9]+[.)]\s*/i, "").replace(/[.,]$/, "");
     return cleanedOption === cleanedLead || cleanedLead.startsWith(cleanedOption);
-  });
+  })];
+}
+
+function questionAnswerFields(answers) {
+  const uniqueAnswers = [...new Set(answers)];
+  return {
+    answer: uniqueAnswers[0],
+    answers: uniqueAnswers,
+    selectionMode: uniqueAnswers.length > 1 ? "multiple" : "single",
+  };
 }
 
 function copyQuestionImage(sourceFile, markdownPath, questionId) {
@@ -217,7 +230,7 @@ function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
   const manual = MANUAL[id];
   const finalOptions = manual?.options ?? options;
   const answerLine = answers.get(bankNumber) ?? "";
-  const answer = manual?.answer ?? answerFromOptions(finalOptions, answerLine);
+  const answerFields = questionAnswerFields(manual?.answers ?? answersFromOptions(finalOptions, answerLine));
   const prompt = promptLines
     .filter((line) => !/^\*[^*].*\*$/.test(line))
     .map(inlineMarkdown)
@@ -232,7 +245,7 @@ function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
     sourceLabel: `Quiz ${quizNumber}, question ${quizQuestion}`,
     prompt,
     options: finalOptions.map((option) => inlineMarkdown(stripOptionPrefix(option))),
-    answer,
+    ...answerFields,
     explanation: inlineMarkdown(answerLine),
     images,
   };
@@ -252,6 +265,7 @@ function parsePracticeQuestions(file) {
     const id = `practice-m${moduleNumber}-q${current.number}`;
     const options = current.kind === "true-false" ? ["True", "False"] : current.options;
     const answerLine = answers.get(current.number) ?? "";
+    const answerFields = questionAnswerFields(answersFromOptions(options, answerLine));
     questions.push({
       id,
       module: moduleNumber,
@@ -261,7 +275,7 @@ function parsePracticeQuestions(file) {
       sourceLabel: `Practice bank, question ${current.number}`,
       prompt: current.promptLines.map(inlineMarkdown).join("<br>"),
       options: options.map((option) => inlineMarkdown(stripOptionPrefix(option))),
-      answer: answerFromOptions(options, answerLine),
+      ...answerFields,
       explanation: inlineMarkdown(answerLine),
       images: practiceImages(id),
     });
@@ -315,7 +329,12 @@ fs.mkdirSync(ASSET_DIR, { recursive: true });
 const questions = findQuizBanks()
   .flatMap((file) => [...parsePracticeQuestions(file), ...parseQuizBank(file)])
   .sort((a, b) => a.module - b.module || a.sourceType.localeCompare(b.sourceType) || a.quizQuestion - b.quizQuestion);
-const unresolved = questions.filter((question) => question.answer < 0 || question.options.length < 2);
+const unresolved = questions.filter(
+  (question) =>
+    question.options.length < 2 ||
+    !question.answers.length ||
+    question.answers.some((answer) => answer < 0 || answer >= question.options.length),
+);
 const invalid = questions.filter(
   (question) =>
     /©|iStock|Getty Images|Course Author\(s\)/i.test(plainText(question.prompt)) ||
@@ -326,7 +345,7 @@ const invalid = questions.filter(
 if (unresolved.length || invalid.length) {
   console.error("Unresolved questions:");
   for (const question of unresolved) {
-    console.error(`${question.id}: options=${question.options.length}, answer=${question.answer}, ${plainText(question.explanation)}`);
+    console.error(`${question.id}: options=${question.options.length}, answers=${question.answers.join(",")}, ${plainText(question.explanation)}`);
   }
   for (const question of invalid) {
     console.error(`${question.id}: failed formatting or image validation`);
@@ -338,6 +357,6 @@ if (unresolved.length || invalid.length) {
   const practiceCount = questions.filter((question) => question.sourceType === "practice").length;
   const officialCount = questions.filter((question) => question.sourceType === "official").length;
   console.log(
-    `Wrote ${questions.length} questions (${officialCount} official, ${practiceCount} practice) with ${questions.reduce((sum, q) => sum + q.images.length, 0)} image placements.`,
+    `Wrote ${questions.length} questions (${officialCount} official, ${practiceCount} practice; ${questions.filter((question) => question.selectionMode === "multiple").length} multi-select) with ${questions.reduce((sum, q) => sum + q.images.length, 0)} image placements.`,
   );
 }

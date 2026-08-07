@@ -14,6 +14,10 @@ window.QUIZ_QUESTIONS = [
       "Grade Breakdown"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, Course Schedule.</strong> It organizes course content, activities, assignments, and due dates. <em>(Saved course page: 1.1 How This Course Works; A Scavenger Hunt!.)</em>",
     "images": []
   },
@@ -32,6 +36,10 @@ window.QUIZ_QUESTIONS = [
       "Research funding"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, learning outcomes.</strong> The weekly structure also includes time management, introduction, module content, activities and assignments, key terms, and optional resources. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -50,6 +58,10 @@ window.QUIZ_QUESTIONS = [
       "Lectures, textbooks, and office hours"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> The source identifies short weekly quizzes, assignments, and discussion posts. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -68,6 +80,10 @@ window.QUIZ_QUESTIONS = [
       "Determine final grades"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Optional materials supply examples, animations, pictures, stories, and context. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -86,6 +102,10 @@ window.QUIZ_QUESTIONS = [
       "Grade Breakdown"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, Activities and Assessments.</strong> The scavenger hunt directs students there for the number of quizzes. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -104,6 +124,10 @@ window.QUIZ_QUESTIONS = [
       "The expected result of a test"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> A hypothesis is a testable explanation. <em>(Course-linked topic: 1.2 The Scientific Method; standardized study scaffold because the linked reading body was not saved.)</em>",
     "images": []
   },
@@ -122,6 +146,10 @@ window.QUIZ_QUESTIONS = [
       "An unexplained observation"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> A prediction states what should be observed if the hypothesis is supported. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
     "images": []
   },
@@ -140,6 +168,10 @@ window.QUIZ_QUESTIONS = [
       "Researcher identity"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, peak discharge.</strong> It is the measured response to the proposed influence of impervious surface area. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
     "images": []
   },
@@ -158,6 +190,10 @@ window.QUIZ_QUESTIONS = [
       "Remove all controlled variables"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Scientific explanations are revised or rejected when evidence requires a change. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
     "images": []
   },
@@ -176,6 +212,10 @@ window.QUIZ_QUESTIONS = [
       "Environment and Climate Change Canada"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, National Film Board of Canada.</strong> <em>(Saved course page: 1.3 Water Movie.)</em>",
     "images": []
   },
@@ -194,6 +234,10 @@ window.QUIZ_QUESTIONS = [
       "Ocean chemistry on Mars"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> The saved description identifies Canadian waterways, reserves, and networks. <em>(Saved course page: 1.3.)</em>",
     "images": []
   },
@@ -212,6 +256,10 @@ window.QUIZ_QUESTIONS = [
       "As entirely salt water"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Water is described as precious and as both a boon and a challenge. <em>(Saved course page: 1.3.)</em>",
     "images": []
   },
@@ -228,6 +276,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> These are the three Table of Contents categories identified in the source. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -244,6 +296,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The page directs students to other course locations to find the answers. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -260,6 +316,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Those applications illustrate hydrology's practical influence on human life. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -276,6 +336,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The source states that optional links are excluded from course assessments. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -292,6 +356,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The assessments support both forms of interpretation. <em>(Saved course page: 1.1.)</em>",
     "images": []
   },
@@ -308,6 +376,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A hypothesis is an explanation; a prediction is an expected result. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
     "images": []
   },
@@ -324,6 +396,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Consistent independent repetition raises confidence in a result. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
     "images": []
   },
@@ -340,6 +416,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Scientific conclusions remain open to revision when new evidence appears. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
     "images": []
   },
@@ -356,6 +436,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Drainage basin, watershed, and catchment are used as equivalent terms for the area draining to a common outlet. Citation: Course section 2.2, Watersheds and drainage boundaries.",
     "images": []
   },
@@ -374,6 +458,10 @@ window.QUIZ_QUESTIONS = [
       "The upper event-response area is discharge, and the lower persistent area is precipitation."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) The upper event-response area is stormflow, and the lower persistent area is baseflow.</strong> The event-generated volume lies above the persistent groundwater-supported baseflow. Citation: Course section 2.2, Figure 2.2.4.",
     "images": [
       "assets/quiz-3-q1-2.2-hydrograph.png"
@@ -394,6 +482,10 @@ window.QUIZ_QUESTIONS = [
       "All surface freshwater sources, including soil water and atmospheric water, combined"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Polar ice and glaciers.</strong> The figure shows glaciers and ice caps holding a larger global volume than the listed saline groundwater, fresh groundwater, or combined surface freshwater stores. Citation: Course section 2.1, Figure 2.1.4.",
     "images": [
       "assets/quiz-2-q2-2.1-earth-water-distribution.png"
@@ -417,6 +509,10 @@ window.QUIZ_QUESTIONS = [
       "1100 metres"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) 110 metres.</strong> The Great Lakes topographic profile shows an approximate 110 m total descent from Lake Superior to the St. Lawrence outlet from Lake Ontario. Citation: Course section 2.4, Figure 2.4.3.",
     "images": []
   },
@@ -435,6 +531,10 @@ window.QUIZ_QUESTIONS = [
       "Surface water"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Mountain glaciers.</strong> The four major water-resource categories are atmospheric water, surface water, groundwater, and the cryosphere; mountain glaciers are an example within the cryosphere. Citation: Course section 2.1, Four major water-resource categories.",
     "images": []
   },
@@ -453,6 +553,10 @@ window.QUIZ_QUESTIONS = [
       "approximately 2% to 4%"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) approximately 2% to 4%.</strong> Freshwater is about 2.5% of total global water. Citation: Course section 2.1, Figure 2.1.4.",
     "images": []
   },
@@ -471,6 +575,10 @@ window.QUIZ_QUESTIONS = [
       "Solid ice covering the lakes helps to retain the heat within the waters, allowing it to warm the shores"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) The Great Lakes slowly release stored heat absorbed during the warmer months.</strong> Large lake volumes store summer energy and release it slowly during winter. Citation: Course section 2.4, Great Lakes climate effects and Figure 2.4.4.",
     "images": []
   },
@@ -492,6 +600,10 @@ window.QUIZ_QUESTIONS = [
       "(P + G<sub>in</sub>) = (Q - ET - G<sub>out</sub>)"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) ΔS=(P+G<sub>in</sub>)-(Q+ET+G<sub>out</sub>).</strong> At non-steady state, inputs minus outputs equal the change in storage. Citation: Course section 2.2, Figure 2.2.6.",
     "images": [
       "assets/quiz-3-q4-2.2-conceptual-watershed.jpg"
@@ -510,6 +622,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Ocean evaporation exceeds ocean precipitation, while land precipitation exceeds land evapotranspiration; atmospheric transport and runoff close the cycle. Citation: Course section 2.2, Figure 2.2.2.",
     "images": []
   },
@@ -528,6 +644,10 @@ window.QUIZ_QUESTIONS = [
       "a lake, pond, or other surface water reservoir/impoundment"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) a smaller stream or river which flows into a larger stream or river.</strong> Citation: Course section 2.2, Watersheds and drainage boundaries.",
     "images": []
   },
@@ -547,6 +667,10 @@ window.QUIZ_QUESTIONS = [
       "Petroleum and coal extraction"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Paper industries.</strong> The course industrial-water-use comparison assigns the largest freshwater use among the listed sectors to paper industries. Citation: Course section 2.1, Figure 2.1.2.",
     "images": []
   },
@@ -563,6 +687,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Glaciers and ice caps contain the largest share of Earth's freshwater. Citation: Course section 2.1, Figure 2.1.4.",
     "images": []
   },
@@ -579,6 +707,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> A combined precipitation and discharge hydrograph shows how streamflow responds after precipitation. Citation: Course section 2.2, Hydrographs and Figure 2.2.4.",
     "images": []
   },
@@ -599,6 +731,10 @@ window.QUIZ_QUESTIONS = [
       "just a), c) and d) above"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) all of the above.</strong> Landfills, saline intrusion, septic systems, and farms can all introduce contaminants to groundwater. Citation: Course section 2.1, Figure 2.1.5.",
     "images": []
   },
@@ -617,6 +753,10 @@ window.QUIZ_QUESTIONS = [
       "The oceans"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Polar ice caps.</strong> Glaciers and ice caps contain the greatest percentage of Earth's freshwater. Citation: Course section 2.1, Figure 2.1.4.",
     "images": []
   },
@@ -633,6 +773,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> A system with zero inputs and zero outputs has ΔS=0 and therefore satisfies steady state. Steady state also occurs when nonzero inputs equal nonzero outputs. Citation: Course section 2.3, Steady state.",
     "images": []
   },
@@ -652,6 +796,10 @@ window.QUIZ_QUESTIONS = [
       "A divide"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) A watershed.</strong> A watershed is the land area bounded by drainage divides whose tributaries drain toward a common outlet. Citation: Course section 2.2, Watersheds and drainage boundaries.",
     "images": []
   },
@@ -671,6 +819,10 @@ window.QUIZ_QUESTIONS = [
       "Precipitation"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Percolation.</strong> Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. Citation: Course section 9.1, Groundwater in the hydrological cycle; Module 9 definitions, Percolation.",
     "images": []
   },
@@ -689,6 +841,10 @@ window.QUIZ_QUESTIONS = [
       "Agriculture"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Agriculture.</strong> The land-use figure identifies agriculture as the dominant land use in the Grand River watershed. Citation: Course section 2.4, Figure 2.4.7.",
     "images": []
   },
@@ -707,6 +863,10 @@ window.QUIZ_QUESTIONS = [
       "A hydrologic system where precipitation eventually collects in subsurface aquifers."
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.</strong> Citation: Course section 2.2, Watersheds and drainage boundaries.",
     "images": []
   },
@@ -725,6 +885,10 @@ window.QUIZ_QUESTIONS = [
       "Toilets"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Baths and showers.</strong> The residential-use figure assigns 35% to bathing and showering, the largest displayed share. Citation: Course section 2.1, Figure 2.1.1a.",
     "images": [
       "assets/quiz-2-q11-2.1-residential-water-use.jpg"
@@ -746,6 +910,10 @@ window.QUIZ_QUESTIONS = [
       "The polar regions"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Close to the equator.</strong> The global precipitation map shows the main high-precipitation belt near the equator. Citation: Course section 2.4, Figure 2.4.1.",
     "images": []
   },
@@ -765,6 +933,10 @@ window.QUIZ_QUESTIONS = [
       "Change in Storage = (A-B) - (C-D-E)"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Change in Storage = (A+B) - (C+D+E).</strong> Storage change equals total inputs minus total outputs. Citation: Course section 2.2, Systems and conservation and Figure 2.2.7.",
     "images": [
       "assets/quiz-2-q12-watershed-fluxes-a-e.png"
@@ -785,6 +957,10 @@ window.QUIZ_QUESTIONS = [
       "The change in storage is equal to outputs minus precipitation"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) The change in storage is equal to inputs minus outputs.</strong> Citation: Course section 2.3, Water balance as a conservation problem.",
     "images": []
   },
@@ -803,6 +979,10 @@ window.QUIZ_QUESTIONS = [
       "Design of municipal pipes without environmental measurements"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Physical hydrology concerns water occurrence, movement, and physical properties on and within Earth and its atmosphere. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts.)</em>",
     "images": []
   },
@@ -821,6 +1001,10 @@ window.QUIZ_QUESTIONS = [
       "A cloud containing liquid droplets"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C, a glacier.</strong> Glaciers, ice caps, and snow are cryospheric water. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts.)</em>",
     "images": []
   },
@@ -839,6 +1023,10 @@ window.QUIZ_QUESTIONS = [
       "97%"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D, about 97%.</strong> Freshwater makes up under 3% of the total. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts, Figure 2.1.4.)</em>",
     "images": []
   },
@@ -857,6 +1045,10 @@ window.QUIZ_QUESTIONS = [
       "Lakes"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A, groundwater.</strong> The course's distribution figure shows much more liquid freshwater underground than in lakes, rivers, and swamps. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts, Figure 2.1.4.)</em>",
     "images": []
   },
@@ -875,6 +1067,10 @@ window.QUIZ_QUESTIONS = [
       "kg/m<sup>3</sup>"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C, m<sup>3</sup>/s.</strong> Discharge is volume per time. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
@@ -893,6 +1089,10 @@ window.QUIZ_QUESTIONS = [
       "Water density"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, drainage area.</strong> Volume equals depth multiplied by area. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
@@ -911,6 +1111,10 @@ window.QUIZ_QUESTIONS = [
       "ΔS=IO"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Conservation gives ΔS=I-O. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
@@ -929,6 +1133,10 @@ window.QUIZ_QUESTIONS = [
       "The groundwater divide"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The hydrograph peak is the maximum discharge response during the event. <em>(Course section: 2.2 Introduction to Data and Watersheds, Figure 2.2.4.)</em>",
     "images": [
       "assets/practice-m2-q8-2.2-hydrograph.png"
@@ -949,6 +1157,10 @@ window.QUIZ_QUESTIONS = [
       "A lake's average depth"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A, a topographic divide.</strong> Raised land directs runoff toward different drainage systems. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
@@ -967,6 +1179,10 @@ window.QUIZ_QUESTIONS = [
       "A reservoir with no outlet"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> A tributary is a smaller watercourse that enters a larger stream or river. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
@@ -985,6 +1201,10 @@ window.QUIZ_QUESTIONS = [
       "Q is a groundwater term."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The conceptual boundary encloses the headwaters and shows no upstream surface channel entering it. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example, Figure 2.3.2.)</em>",
     "images": []
   },
@@ -1003,6 +1223,10 @@ window.QUIZ_QUESTIONS = [
       "Storage is empty."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Steady state means ΔS=0, which requires total input to equal total output. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
     "images": []
   },
@@ -1021,6 +1245,10 @@ window.QUIZ_QUESTIONS = [
       "It has no water movement."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Equal inflow and outflow leave storage unchanged while water continues moving. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
     "images": []
   },
@@ -1039,6 +1267,10 @@ window.QUIZ_QUESTIONS = [
       "Superior"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D, Lake Superior.</strong> The table gives 12,000 km<sup>3</sup>. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology, Table 2.4.1.)</em>",
     "images": []
   },
@@ -1057,6 +1289,10 @@ window.QUIZ_QUESTIONS = [
       "Evaporation occurs only near eastern shores."
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> Cold dry air gains moisture over open water and prevailing west-to-east flow carries it toward eastern and southeastern shores. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology, Figure 2.4.5.)</em>",
     "images": []
   },
@@ -1075,6 +1311,10 @@ window.QUIZ_QUESTIONS = [
       "Lake Superior"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, Lake Erie.</strong> The Grand River flows south from the Waterloo region to Lake Erie. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology.)</em>",
     "images": []
   },
@@ -1091,6 +1331,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The cycle includes all three physical states and multiple reservoirs. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts.)</em>",
     "images": []
   },
@@ -1107,6 +1351,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Residential and industrial demands remain large, so abundant supply still requires monitoring and management. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts.)</em>",
     "images": []
   },
@@ -1123,6 +1371,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Surface water and groundwater create transport pathways from many contamination sources. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts, Figure 2.1.5.)</em>",
     "images": []
   },
@@ -1139,6 +1391,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A hydrograph plots discharge through time and may omit precipitation. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": [
       "assets/practice-m2-q20-2.2-hydrograph.png"
@@ -1157,6 +1413,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The Missouri and Ohio subwatersheds are nested within the Mississippi watershed. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
@@ -1173,6 +1433,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Nonzero input and output can balance, producing ΔS=0. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
     "images": []
   },
@@ -1189,6 +1453,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Most Great Lakes water remains stored within the system each year. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology.)</em>",
     "images": []
   },
@@ -1205,6 +1473,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The course page describes strong dependence on groundwater wells, with a smaller direct Grand River contribution. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology.)</em>",
     "images": []
   },
@@ -1223,6 +1495,10 @@ window.QUIZ_QUESTIONS = [
       "250%"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>40%.</strong> R<sub>h</sub>=(e/e<sub>s</sub>)×100=(2.0/5.0)×100=40%. Citation: Course section 3.2, Relative humidity and saturation.",
     "images": []
   },
@@ -1241,6 +1517,10 @@ window.QUIZ_QUESTIONS = [
       "Warming air with rising elevation"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Cooling without heat exchange with the surroundings.</strong> Adiabatic cooling occurs as rising air expands under lower pressure without direct heat transfer to the surrounding atmosphere. Citation: Course section 3.2, Six steps of cloud formation and lapse rates.",
     "images": []
   },
@@ -1257,6 +1537,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Wind redistributes and packs snow, increasing its density. Citation: Course section 3.3, Snow density and stored water.",
     "images": []
   },
@@ -1273,6 +1557,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> At 20°C, saturation vapour pressure is about 2.25 kPa, so 1.0 kPa is below saturation. Citation: Course section 3.2, Relative humidity and saturation and the course saturation-temperature graph.",
     "images": [
       "assets/quiz-4-q5-saturation-vapour-pressure-curve.jpg"
@@ -1293,6 +1581,10 @@ window.QUIZ_QUESTIONS = [
       "Orographic"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Divergence.</strong> The course cloud-forming lifting mechanisms are convection, convergence, orographic lifting, and frontal lifting. Citation: Course section 3.1, Formation process: lifting mechanisms.",
     "images": []
   },
@@ -1311,6 +1603,10 @@ window.QUIZ_QUESTIONS = [
       "10 cm"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) 25 cm.</strong> The course defines an arid region as receiving no more than 25 cm of annual precipitation. Citation: Course section 3.4, What defines an arid environment?",
     "images": []
   },
@@ -1329,6 +1625,10 @@ window.QUIZ_QUESTIONS = [
       "Groundwater moving through an aquifer"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Dew is atmospheric moisture transferred to a surface and is included in the course's broad precipitation definition. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": []
   },
@@ -1347,6 +1647,10 @@ window.QUIZ_QUESTIONS = [
       "Solid precipitation forms without atmospheric moisture."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Liquid precipitation enters active hydrologic movement immediately; solid precipitation is generally stored until melting. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": []
   },
@@ -1365,6 +1669,10 @@ window.QUIZ_QUESTIONS = [
       "Persistent polar descent"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Convective events are often local, intense, short summer thunderstorms with lightning, thunder, or hail. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": []
   },
@@ -1383,6 +1691,10 @@ window.QUIZ_QUESTIONS = [
       "British Columbia"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D, British Columbia.</strong> Mountainous topography most strongly supports forced orographic ascent among the listed choices. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": [
       "assets/practice-m3-q4-3.1-canada-relief.png"
@@ -1403,6 +1715,10 @@ window.QUIZ_QUESTIONS = [
       "Regional factors"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, ocean currents.</strong> This is the answer flagged in the saved annual-precipitation knowledge check, which points back to warm water bodies as the main moisture source. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": []
   },
@@ -1421,6 +1737,10 @@ window.QUIZ_QUESTIONS = [
       "Mountain ranges occur continuously along both latitudes."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Descending subtropical air is dry and warms toward the surface, promoting evaporation and aridity. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
     "images": []
   },
@@ -1439,6 +1759,10 @@ window.QUIZ_QUESTIONS = [
       "90%"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D, nearly 90%.</strong> Almost all remaining evaporation comes from warm fresh waters and vegetation. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
     "images": []
   },
@@ -1457,6 +1781,10 @@ window.QUIZ_QUESTIONS = [
       "e>e<sub>s</sub> and R<sub>h</sub>=0"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Saturation means vapour pressure equals saturated vapour pressure, so R<sub>h</sub>=e/e<sub>s</sub>=1.0=100%. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
     "images": []
   },
@@ -1475,6 +1803,10 @@ window.QUIZ_QUESTIONS = [
       "1.0 or 100%"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, 0.06 or 6%.</strong> Wind-packed snow may approach or exceed 0.3 or 30%. <em>(Course section: 3.3 Snowfall and Snow Cover Processes and Issues.)</em>",
     "images": []
   },
@@ -1493,6 +1825,10 @@ window.QUIZ_QUESTIONS = [
       "250 cm of precipitation per year"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, 25 cm per year.</strong> The total may be rain, snow, or both. <em>(Course section: 3.4 Arid Environments.)</em>",
     "images": []
   },
@@ -1509,6 +1845,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Solid precipitation tends to remain immobile as surface-water storage until it melts. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": []
   },
@@ -1525,6 +1865,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> A cold front's steeper slope pushes warm air up quickly, creating stronger, shorter precipitation than a warm front. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
     "images": []
   },
@@ -1541,6 +1885,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> That sequence is the course's polar-cell description. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
     "images": []
   },
@@ -1557,6 +1905,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The fall may be fairly uniform, but wind redistribution makes ground accumulation highly variable over short distances. <em>(Course section: 3.3 Snowfall and Snow Cover Processes and Issues.)</em>",
     "images": []
   },
@@ -1573,6 +1925,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Polar deserts are cold; low precipitation defines desert conditions. <em>(Course section: 3.4 Arid Environments.)</em>",
     "images": []
   },
@@ -1589,6 +1945,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Rare flash floods make running water one of the more active forces shaping arid regions. <em>(Course section: 3.4 Arid Environments.)</em>",
     "images": []
   },
@@ -1607,6 +1967,10 @@ window.QUIZ_QUESTIONS = [
       "1.75 cm"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) 1.75 cm.</strong> The arithmetic mean is (1.0+1.5+2.0+2.5)/4=1.75 cm. Citation: Course section 4.3, Estimation: arithmetic average.",
     "images": [
       "assets/quiz-4-q2-quiz-4-rainfall-arithmetic.svg"
@@ -1629,6 +1993,10 @@ window.QUIZ_QUESTIONS = [
       "Only answers A, B, and C"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) All of the above.</strong> Gauge orientation, evaporation, wind, mechanical failure, and observer error can all reduce measurement accuracy. Citation: Course section 4.2, Limitations of rain gauges.",
     "images": []
   },
@@ -1647,6 +2015,10 @@ window.QUIZ_QUESTIONS = [
       "The distance between two precipitation contours is evaluated as a percentage of the total area and it is assigned the sum of the two confining isohyets."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) The area between two precipitation contours is evaluated as a percentage of the total area and it is assigned the average value of the two confining isohyets.</strong> Citation: Course section 4.3, Estimation: isohyetal method and Figures 4.3.4-4.3.5.",
     "images": []
   },
@@ -1665,6 +2037,10 @@ window.QUIZ_QUESTIONS = [
       "A small flat plot with uniform precipitation"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Local, intense precipitation and complex mountain terrain require denser sampling than broadly distributed rainfall in flat terrain. <em>(Citation: Course section 4.1, Measuring Rainfall.)</em>",
     "images": []
   },
@@ -1683,6 +2059,10 @@ window.QUIZ_QUESTIONS = [
       "The networks use different precipitation units."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Primary stations receive rigorous official monitoring and maintenance; the Co-operative Network adds many official and unofficial stations and therefore much more spatial data. <em>(Citation: Course section 4.1, Measuring Rainfall.)</em>",
     "images": []
   },
@@ -1701,6 +2081,10 @@ window.QUIZ_QUESTIONS = [
       "Snow stake"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B. Optical disdrometer.</strong> It measures particle size and shape, falling velocity, and intensity. <em>(Citation: Course section 4.1, Rain-Gauge Types.)</em>",
     "images": []
   },
@@ -1719,6 +2103,10 @@ window.QUIZ_QUESTIONS = [
       "It is always installed too high above the ground."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Precipitation below the bucket's threshold volume produces no tip, so the logger records nothing. <em>(Citation: Course section 4.1, Rain-Gauge Types.)</em>",
     "images": []
   },
@@ -1737,6 +2125,10 @@ window.QUIZ_QUESTIONS = [
       "At least 12 m"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D. At least 12 m.</strong> The placement distance is at least four times obstacle height: 4(3 m)=12 m. <em>(Citation: Course section 4.2, Limitations of Rain Gauges.)</em>",
     "images": []
   },
@@ -1755,6 +2147,10 @@ window.QUIZ_QUESTIONS = [
       "Move the gauge above nearby objects"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Shields slow wind near the opening to maximize catch and reduce wind losses. <em>(Citation: Course section 4.2, Wind-Shield Measurement Techniques.)</em>",
     "images": []
   },
@@ -1773,6 +2169,10 @@ window.QUIZ_QUESTIONS = [
       "To avoid melting the sample"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Raising the snow gauge to about 3 feet (1 m) helps prevent burial; still greater height may be needed in extreme-snowfall areas. <em>(Citation: Course section 4.2, Measuring Snowfall.)</em>",
     "images": []
   },
@@ -1791,6 +2191,10 @@ window.QUIZ_QUESTIONS = [
       "0.85 cm"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C. 0.78 cm.</strong> The point lies between 0.75 and 0.80 cm and is visually estimated from nearby labels and contours. <em>(Citation: Course section 4.3, Interpolation.)</em>",
     "images": [
       "assets/practice-m4-q8-isohyetal-contour-map-precipitation-depths_5.png"
@@ -1811,6 +2215,10 @@ window.QUIZ_QUESTIONS = [
       "Snow-core method"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C. Thiessen Polygon Method.</strong> Each polygon's percentage of total area weights the precipitation at its central gauge. <em>(Citation: Course section 4.3, Estimation: Thiessen Polygon Method.)</em>",
     "images": []
   },
@@ -1829,6 +2237,10 @@ window.QUIZ_QUESTIONS = [
       "Any region after one gauge fails"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> Equal weighting is most defensible in flat areas with relatively uniform precipitation. <em>(Citation: Course section 4.3, Estimation: Arithmetic Average.)</em>",
     "images": []
   },
@@ -1845,6 +2257,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The course states that long-duration, large-area events are generally less variable than short-duration, small-area events. <em>(Citation: Course section 4.1, Measuring Rainfall.)</em>",
     "images": []
   },
@@ -1861,6 +2277,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A non-recording gauge supplies a manually observed total and cannot record rainfall intensity by itself. <em>(Citation: Course section 4.1, Rain-Gauge Types.)</em>",
     "images": []
   },
@@ -1877,6 +2297,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Catch deficiency from oblique rain tends to decrease as opening size increases. <em>(Citation: Course section 4.2, Limitations of Rain Gauges.)</em>",
     "images": []
   },
@@ -1893,6 +2317,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Wind remobilizes surface snow, creating drifts and bare patches after the event. <em>(Citation: Course section 4.2, Measuring Snowfall.)</em>",
     "images": []
   },
@@ -1909,6 +2337,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A move or equipment/environment change can create an artificial break in slope without an abrupt precipitation change. <em>(Citation: Course section 4.3, Adjustment of Long-Term Data.)</em>",
     "images": []
   },
@@ -1925,6 +2357,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Include only gauges within the study area. <em>(Citation: Course section 4.3, Estimation: Arithmetic Average; Figure 4.3.3.)</em>",
     "images": [
       "assets/practice-m4-q16-drainage-basin_5.jpg"
@@ -1945,6 +2381,10 @@ window.QUIZ_QUESTIONS = [
       "vapour pressure excess"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) vapour pressure deficit.</strong> Evaporation requires energy and unsaturated overlying air, represented by a positive e<sub>s-e</sub><sub>a</sub>. Citation: Course section 5.1, Vapour Pressure Deficit.",
     "images": []
   },
@@ -1964,6 +2404,10 @@ window.QUIZ_QUESTIONS = [
       "Temperature of the air"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Energy from the sun.</strong> Solar radiation supplies the energy that drives evaporation and transpiration. Citation: Course section 5.2, Evaporation and the Weather.",
     "images": []
   },
@@ -1980,6 +2424,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> e<sub>s</sub>>e<sub>a</sub> gives a positive vapour pressure deficit, allowing evaporation. Citation: Course section 5.1, Vapour Pressure Deficit.",
     "images": []
   },
@@ -1998,6 +2446,10 @@ window.QUIZ_QUESTIONS = [
       "An arid climate with shallow, dense roots"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) An arid climate with shallow dense roots.</strong> Xerophytes use shallow, dense roots to capture limited soil moisture in arid settings. Citation: Course section 5.3, Confirmed Vegetation Characteristics.",
     "images": []
   },
@@ -2016,6 +2468,10 @@ window.QUIZ_QUESTIONS = [
       "A small, shallow, freshwater lake"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) A small, shallow, freshwater lake.</strong> Small fetch limits humidification of the overlying air, shallow water warms rapidly, and fresh water evaporates faster than saline water under comparable conditions. Citation: Course section 5.2, Evaporation and Geography.",
     "images": []
   },
@@ -2034,6 +2490,10 @@ window.QUIZ_QUESTIONS = [
       "None of the above"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Evaporation.</strong> When e<sub>s</sub>>e<sub>a</sub>, the vapour pressure deficit e<sub>s-e</sub><sub>a</sub> is positive and evaporation can occur. Citation: Course section 5.1, Molecular Process and Saturation and Figure 5.1.6.",
     "images": []
   },
@@ -2053,6 +2513,10 @@ window.QUIZ_QUESTIONS = [
       "Interception evaporation"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Condensation of dew or frost.</strong> Evapotranspiration includes evaporation, sublimation, interception evaporation, and plant transpiration; condensation transfers atmospheric moisture toward the surface. Citation: Course section 5.1, Evapotranspiration.",
     "images": []
   },
@@ -2070,6 +2534,10 @@ window.QUIZ_QUESTIONS = [
       "The environment will allow for evaporation to dominate"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) The environment is in approximate equilibrium.</strong> At 20°C, the saturation vapour pressure is about 2.25 kPa, matching the measured vapour pressure. Citation: Course section 5.1, Figure 5.1.6 and Vapour Pressure Deficit.",
     "images": [
       "assets/quiz-5-q7-saturation-vapour-pressure-curve.jpg"
@@ -2088,6 +2556,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> When daytime evaporation and transpiration exceed groundwater inflow, storage is removed and the water table falls rather than rises. Citation: Course section 6.3, Core Notes and Figure 6.3.1.",
     "images": []
   },
@@ -2107,6 +2579,10 @@ window.QUIZ_QUESTIONS = [
       "Partially increase evaporation"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Partially decrease evaporation.</strong> Higher albedo reflects more incoming radiation, leaving less energy for surface heating and evaporation. Citation: Course section 5.2, Evaporation and Geography.",
     "images": []
   },
@@ -2123,6 +2599,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> As dry air crosses a longer water surface, it becomes more humid and the average evaporation rate decreases. Citation: Course section 5.2, Figure 5.2.1.",
     "images": []
   },
@@ -2142,6 +2622,10 @@ window.QUIZ_QUESTIONS = [
       "Using an evaporation pan"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) Using an evaporation pan.</strong> A pan estimates field evaporation from water-depth change over time. Citation: Course section 6.1, Evaporation pans and Figure 6.1.1.",
     "images": []
   },
@@ -2158,6 +2642,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Evaporation from soil is controlled directly by available soil moisture, water-table depth, colour, and cover. The course uses higher permeability to explain faster groundwater replenishment toward plant roots and transpiration, rather than greater soil evaporation by itself. Citation: Course section 5.2, Evaporation and the Soil; Course section 5.3, Controls on Transpiration.",
     "images": []
   },
@@ -2176,6 +2664,10 @@ window.QUIZ_QUESTIONS = [
       "Transpiration"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B. Sublimation.</strong> It is the direct transfer from solid snow or ice to vapour. Citation: Course section 5.1.",
     "images": []
   },
@@ -2194,6 +2686,10 @@ window.QUIZ_QUESTIONS = [
       "Condensation plus precipitation"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> ET combines evaporation from free water, interception, ground, and other surfaces with vegetation transpiration. Citation: Course section 5.1.",
     "images": []
   },
@@ -2212,6 +2708,10 @@ window.QUIZ_QUESTIONS = [
       "No exchange because the air is saturated"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A. Evaporation.</strong> e<sub>s-e</sub><sub>a</sub>=1.0-0.5=0.5 kPa>0. Citation: Course section 5.1.",
     "images": []
   },
@@ -2230,6 +2730,10 @@ window.QUIZ_QUESTIONS = [
       "Water depth"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C. Solar radiation.</strong> The course identifies incoming solar energy as the most important meteorological factor. Citation: Course section 5.2.",
     "images": []
   },
@@ -2248,6 +2752,10 @@ window.QUIZ_QUESTIONS = [
       "Wind closes all stomata."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Wind removes moist air, but radiation, temperature, and humidity still set the maximum or potential rate. Citation: Course section 5.2.",
     "images": []
   },
@@ -2266,6 +2774,10 @@ window.QUIZ_QUESTIONS = [
       "A large, deep saline water body"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A. A small, shallow freshwater lake.</strong> Small size limits the distance over which the air becomes more humid, shallow water warms rapidly, and fresh water evaporates faster than saline water when other conditions match. Citation: Course section 5.2.",
     "images": []
   },
@@ -2284,6 +2796,10 @@ window.QUIZ_QUESTIONS = [
       "Lake Ontario has no vegetation around it."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Lake Ontario's orientation provides a longer west-to-east path of contact between air and water. Citation: Course section 5.2.",
     "images": []
   },
@@ -2302,6 +2818,10 @@ window.QUIZ_QUESTIONS = [
       "Closed roots, lower permeability, and lower albedo"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> Vegetation shades soil, blocks wind, and raises local relative humidity through transpiration. Citation: Course section 5.2.",
     "images": []
   },
@@ -2320,6 +2840,10 @@ window.QUIZ_QUESTIONS = [
       "Stomatal size has no relationship to transpiration."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> With complete coverage, wheat, barley, or hay may transpire similar totals over time and space, though this remains an active research area. Citation: Course section 5.3.",
     "images": []
   },
@@ -2338,6 +2862,10 @@ window.QUIZ_QUESTIONS = [
       "Phreatophytes"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D. Phreatophytes.</strong> Their roots reach the local water table and extract large daily quantities. Citation: Course section 5.3.",
     "images": []
   },
@@ -2354,6 +2882,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Stomata open during daylight and close at night. Citation: Course section 5.1.",
     "images": []
   },
@@ -2370,6 +2902,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Low-temperature evaporation can occur if the air is below saturation, though the rate may be slow. Citation: Course section 5.2.",
     "images": []
   },
@@ -2386,6 +2922,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Evaporation decreases as salinity increases when other conditions are equal. Citation: Course section 5.2.",
     "images": []
   },
@@ -2402,6 +2942,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Average rate falls as air becomes more humid over a longer water-surface path, but a larger total area can still yield a larger volume. Citation: Course section 5.2.",
     "images": []
   },
@@ -2418,6 +2962,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Mature crops add leaf area and transpiration while shading and sheltering the soil. Citation: Course section 5.3.",
     "images": []
   },
@@ -2434,6 +2982,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Canadian evaporation peaks in spring and fall; transpiration and total ET peak in summer. Citation: Course section 5.3.",
     "images": []
   },
@@ -2452,6 +3004,10 @@ window.QUIZ_QUESTIONS = [
       "The transpiration of a single reference plant"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Potential ET is the maximum possible under an unlimited water supply and unsaturated air. (Citation: Course section 6.1, Potential, Actual, and Reference Crop Evaporation)",
     "images": []
   },
@@ -2470,6 +3026,10 @@ window.QUIZ_QUESTIONS = [
       "Rain gauge"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> A lysimeter contains local soil and vegetation and estimates actual ET through mass change or a water balance. (Citation: Course section 6.1, Lysimeters)",
     "images": []
   },
@@ -2488,6 +3048,10 @@ window.QUIZ_QUESTIONS = [
       "120 cm diameter and 120 cm deep"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> The standard pan is about 120 cm in diameter and 25 cm deep. (Citation: Course section 6.1, Evaporation Pans)",
     "images": []
   },
@@ -2506,6 +3070,10 @@ window.QUIZ_QUESTIONS = [
       "Weighing pan"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> A sunken pan can collect leaves and debris and receive runoff from overland flow. (Citation: Course section 6.1, Evaporation Pans; Figure 6.1.2)",
     "images": []
   },
@@ -2524,6 +3092,10 @@ window.QUIZ_QUESTIONS = [
       "Only the depth of the surrounding water body"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> K<sub>p</sub> depends on pan type and location and varies by month or season. (Citation: Course section 6.1, \"Pan Coefficients\")",
     "images": []
   },
@@ -2542,6 +3114,10 @@ window.QUIZ_QUESTIONS = [
       "Evapotranspiration dome"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> A pyranometer measures incoming or reflected radiation. (Citation: Course section 6.2, \"Energy Balance Method,\" Figure 6.2.1)",
     "images": []
   },
@@ -2560,6 +3136,10 @@ window.QUIZ_QUESTIONS = [
       "6000 calories"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> The page gives approximately 600 calories per gram of water. (Citation: Course section 6.2, \"Energy Balance Method\")",
     "images": []
   },
@@ -2578,6 +3158,10 @@ window.QUIZ_QUESTIONS = [
       "Simple pan-depth method"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Penman-Monteith calculates potential ET from atmospheric and surface data and supports crop-water management. (Citation: Course section 6.2, \"Penman-Monteith Method\")",
     "images": []
   },
@@ -2596,6 +3180,10 @@ window.QUIZ_QUESTIONS = [
       "The plant is too large for the chamber"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The increase shows vapour accumulating through evaporation or transpiration. (Citation: Course section 6.2, Physical Method: Evapotranspiration Chambers; Figure 6.2.3)",
     "images": []
   },
@@ -2614,6 +3202,10 @@ window.QUIZ_QUESTIONS = [
       "A completely impermeable soil"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The water table must be near the surface and directly accessible to plants. (Citation: Course section 6.3, opening discussion)",
     "images": []
   },
@@ -2630,6 +3222,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The course states ET<sub>actual</sub>≤ ET<sub>potential</sub>. (Citation: Course section 6.1, Potential, Actual, and Reference Crop Evaporation)",
     "images": []
   },
@@ -2646,6 +3242,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The floating pan can approach the water body's temperature under cloudy conditions, although sunny conditions may overheat it. (Citation: Course section 6.1, Evaporation Pans; Figure 6.1.2)",
     "images": []
   },
@@ -2662,6 +3262,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> That describes a weighing lysimeter. A water balance lysimeter uses water collection, a reservoir, a float, and records of water movement. (Citation: Course section 6.1, \"Water Balance Lysimeter\")",
     "images": []
   },
@@ -2678,6 +3282,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> H<sub>C</sub> is energy converted to plant growth and is often very small. (Citation: Course section 6.2, \"Energy Balance Method\")",
     "images": []
   },
@@ -2694,6 +3302,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The fitted relationship is local; different atmospheric, water, and soil conditions make transfer to unlike sites unreliable. (Citation: Course section 6.2, \"Empirical Methods\")",
     "images": []
   },
@@ -2710,6 +3322,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Because a is an hourly rise rate, 24a gives the projected recovery depth over one day. (Citation: Course section 6.3, Equation Variables)",
     "images": []
   },
@@ -2726,6 +3342,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> At steady state, ΔS=0, so total inputs equal total outputs. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
     "images": []
   },
@@ -2742,6 +3362,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A watershed boundary can prevent surface water from entering across the divide, so a surface-water inflow term is not always present. <em>(Course section and figure: 7.1 Embedded Knowledge Check, watershed diagram.)</em>",
     "images": []
   },
@@ -2760,6 +3384,10 @@ window.QUIZ_QUESTIONS = [
       "B = Groundwater in; E = Surface water out; C = Groundwater out; D = Evaporation; A = Precipitation"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B = 4. Precipitation; E = 1. Groundwater out; C = 3. Evaporation; D = 5. Surface water out; A = 2. Groundwater in.</strong> <em>(Course section and figure: 7.1 Embedded Knowledge Check, watershed diagram.)</em>",
     "images": [
       "assets/quiz-7-q3-watershed-fluxes-a-e.png"
@@ -2780,6 +3408,10 @@ window.QUIZ_QUESTIONS = [
       "P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0.</strong> Steady state sets ΔS to zero. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
     "images": [
       "assets/quiz-7-q4-steady-state-watershed.png"
@@ -2800,6 +3432,10 @@ window.QUIZ_QUESTIONS = [
       "P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0.</strong> Minimal P and ET remove those terms, and steady state sets ΔS=0. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
     "images": [
       "assets/quiz-7-q5-steady-state-watershed.png"
@@ -2820,6 +3456,10 @@ window.QUIZ_QUESTIONS = [
       "4,009 m³"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>20,009 m<sup>3</sup>.</strong> The net rate is (0.012-0.008)(5,000,000)+(23+5)-(16+3)=20,009 m<sup>3</sup>/day. Over one day, the storage increase is 20,009 m<sup>3</sup>. <em>(Course section and figure: 7.1 Worked Course Example, Figure 7.1.2.)</em>",
     "images": [
       "assets/quiz-7-q6-lake-water-balance.png"
@@ -2840,6 +3480,10 @@ window.QUIZ_QUESTIONS = [
       "60,800 m³"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>60,008 m<sup>3</sup>.</strong> The net rate is (0.019-0.007)(5,000,000)+(18+3)-(12+1)=60,008 m<sup>3</sup>/day. Over one day, the storage increase is 60,008 m<sup>3</sup>. <em>(Course section and figure: 7.1 Worked Course Example, Figure 7.1.2.)</em>",
     "images": [
       "assets/quiz-7-q7-lake-water-balance.png"
@@ -2860,6 +3504,10 @@ window.QUIZ_QUESTIONS = [
       "155 mm"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>16 mm.</strong> D=V/A=31,000/2,000,000=0.0155 m=15.5 mm, which rounds to 16 mm. <em>(Course section: 7.1 Water Elevation Change.)</em>",
     "images": []
   },
@@ -2878,6 +3526,10 @@ window.QUIZ_QUESTIONS = [
       "ΔS=(P+Q<sub>out</sub>+G<sub>out</sub>)-(ET+Q<sub>in</sub>+G<sub>in</sub>)"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Inputs P, Q<sub>in</sub>, and G<sub>in</sub> are added; outputs ET, Q<sub>out</sub>, and G<sub>out</sub> are subtracted. <em>(Course section: 7.1, \"Calculating a Water Balance.\")</em>",
     "images": []
   },
@@ -2896,6 +3548,10 @@ window.QUIZ_QUESTIONS = [
       "G<sub>in</sub>"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, ET.</strong> Evapotranspiration is listed as an output. <em>(Course section: 7.1, \"Calculating a Water Balance.\")</em>",
     "images": []
   },
@@ -2914,6 +3570,10 @@ window.QUIZ_QUESTIONS = [
       "The area conversion was necessarily incorrect."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> A negative balance means outputs exceeded inputs, causing storage to decrease. <em>(Course section: 7.1, \"Calculating a Water Balance\" and \"Water Balance Example - Solution.\")</em>",
     "images": []
   },
@@ -2932,6 +3592,10 @@ window.QUIZ_QUESTIONS = [
       "12,000 m/day"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, 0.012 m/day.</strong> Divide millimetres by 1,000. <em>(Course section: 7.1, \"Water Balance Example - Solution, Step 2: Matching the Units.\")</em>",
     "images": []
   },
@@ -2950,6 +3614,10 @@ window.QUIZ_QUESTIONS = [
       "To remove its time unit."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Depth multiplied by area gives a volume rate with units compatible with discharge. <em>(Course section: 7.1, \"Water Balance Example - Solution, Step 3: Conversion to Volumes.\")</em>",
     "images": []
   },
@@ -2968,6 +3636,10 @@ window.QUIZ_QUESTIONS = [
       "Δh=P-ET"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C, Δh=ΔS/A.</strong> <em>(Course section: 7.1, \"Water Elevation Change.\")</em>",
     "images": []
   },
@@ -2986,6 +3658,10 @@ window.QUIZ_QUESTIONS = [
       "329.788 m<sup>3</sup>/day"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B, 32,978.8 m<sup>3</sup>/day.</strong> [(0.019)(3,000,000)+0.3]-[(0.008)(3,000,000)+21+0.5]=32,978.8. <em>(Course section: 7.1, \"Check Your Knowledge,\" first question.)</em>",
     "images": []
   },
@@ -3004,6 +3680,10 @@ window.QUIZ_QUESTIONS = [
       "Raised watershed boundaries prevent surface water from flowing into the watershed across the divide."
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> The course explains that raised topographic watershed edges prevent surface water from entering across the boundary. <em>(Course section: 7.1, \"Check Your Knowledge,\" second question.)</em>",
     "images": []
   },
@@ -3020,6 +3700,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Equal groundwater rates enter with opposite signs. <em>(Course section: 7.1, \"Water Balance Example - Solution, Step 1: Value Substitution.\")</em>",
     "images": []
   },
@@ -3036,6 +3720,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A depth rate must first be converted to a volume rate using area. <em>(Course section: 7.1, \"Water Balance Example - Solution, Steps 2-3.\")</em>",
     "images": []
   },
@@ -3052,6 +3740,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The source says the outlet is not shown but many lakes release water through outlets or downstream rivers. <em>(Course section: 7.1, \"Calculating a Water Balance.\")</em>",
     "images": []
   },
@@ -3068,6 +3760,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The source gives evaporation in a lysimeter as an example of a term found by rearrangement. <em>(Course section: 7.1, \"Calculating a Water Balance.\")</em>",
     "images": []
   },
@@ -3084,6 +3780,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Because Δh=ΔS/A and area is positive, the signs match. <em>(Course section: 7.1, \"Water Elevation Change.\")</em>",
     "images": []
   },
@@ -3100,6 +3800,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Porosity is void volume divided by total volume. (Course section: 8.1 Phase Relationships in Soils)",
     "images": []
   },
@@ -3118,6 +3822,10 @@ window.QUIZ_QUESTIONS = [
       "B"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) B.</strong> The B horizon is the first horizon in the subsoil. (Course section: 8.1 The Soil Profile)",
     "images": []
   },
@@ -3138,6 +3846,10 @@ window.QUIZ_QUESTIONS = [
       "Only a), b), and c) above"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) All of the above.</strong> Parent material, time, climate, plants and animals, and topography contribute to soil formation. (Course section: 8.1 Controls on Soil Formation)",
     "images": []
   },
@@ -3154,6 +3866,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The vadose zone is unsaturated and extends from the surface to the water table. (Course section and figure: 8.1 Soil, Zones, and Importance, Figure 8.1.1)",
     "images": []
   },
@@ -3170,6 +3886,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A human hair is much wider than a clay particle. (Course section: 8.3 Soil Texture)",
     "images": []
   },
@@ -3188,6 +3908,10 @@ window.QUIZ_QUESTIONS = [
       "Bulk density"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Void ratio.</strong> The course definition is e=V<sub>voids</sub>/V<sub>solids</sub>. (Course section: 8.1 Phase Relationships in Soils)",
     "images": []
   },
@@ -3207,6 +3931,10 @@ window.QUIZ_QUESTIONS = [
       "Climate"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Grain size.</strong> The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: 8.1 Controls on Soil Formation)",
     "images": []
   },
@@ -3223,6 +3951,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Gravimetric water content divides water mass by solid mass, not soil volume. (Course section: 8.1 Phase Relationships in Soils)",
     "images": []
   },
@@ -3241,6 +3973,10 @@ window.QUIZ_QUESTIONS = [
       "Chemical weathering"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Mechanical weathering.</strong> These processes break material physically without changing its mineral composition. (Course section: 8.2 Soil Weathering)",
     "images": []
   },
@@ -3259,6 +3995,10 @@ window.QUIZ_QUESTIONS = [
       "The lower limit of water content for the soil to exhibit plastic behavior"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) The difference between the liquid limit and plastic limit.</strong> PI=LL-PL. (Course section: 8.3 Soil Plasticity)",
     "images": []
   },
@@ -3277,6 +4017,10 @@ window.QUIZ_QUESTIONS = [
       "Restoring plant cover"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Restoring plant cover.</strong> Plant cover protects soil from erosion and supports recovery. (Course section: 8.2 Soil Degradation)",
     "images": []
   },
@@ -3296,6 +4040,10 @@ window.QUIZ_QUESTIONS = [
       "sand, silt, clay, gravel"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) clay, silt, sand, gravel.</strong> This sequence runs from the finest particles to the coarsest. (Course section: 8.3 Soil Texture)",
     "images": []
   },
@@ -3314,6 +4062,10 @@ window.QUIZ_QUESTIONS = [
       "Sand, silt, clay, and gravel"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Soil combines mineral matter, organic matter, water, and air. (Course section: 8.1 Introduction to Soils and Phase Relationships, opening section)",
     "images": []
   },
@@ -3332,6 +4084,10 @@ window.QUIZ_QUESTIONS = [
       "Within unweathered bedrock"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The vadose or unsaturated zone extends from the ground surface to the water table. (Course section: 8.1 Introduction to Soils and Phase Relationships, opening section)",
     "images": []
   },
@@ -3350,6 +4106,10 @@ window.QUIZ_QUESTIONS = [
       "Colour, texture, structure, pH, plasticity"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> The controls are parent material, time, climate, plants and animals, and topography. (Course section: 8.1 Controls on Soil Formation)",
     "images": []
   },
@@ -3368,6 +4128,10 @@ window.QUIZ_QUESTIONS = [
       "A-O-B-E-C-R"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Surface to depth is O-A-E-B-C-R. (Course section: 8.1 The Soil Profile)",
     "images": []
   },
@@ -3386,6 +4150,10 @@ window.QUIZ_QUESTIONS = [
       "Degree of saturation"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Porosity is V<sub>voids</sub>/V<sub>total</sub>. (Course section: 8.1 Phase Relationships in Soils)",
     "images": []
   },
@@ -3404,6 +4172,10 @@ window.QUIZ_QUESTIONS = [
       "Root growth, capillary rise, soil storage"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> Desertification, erosion, and contamination are all listed forms of soil degradation. (Course section: 8.2 Soil Erosion, Degradation, and Weathering Processes, opening section)",
     "images": []
   },
@@ -3422,6 +4194,10 @@ window.QUIZ_QUESTIONS = [
       "Soil formation immediately accelerates"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Greater movement velocity increases erosional effectiveness or impact. (Course section: 8.2 Soil Erosion)",
     "images": []
   },
@@ -3432,15 +4208,19 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "practice",
     "sourceLabel": "Practice bank, question 8",
-    "prompt": "Which option lists three effective methods for limiting topsoil erosion?",
+    "prompt": "Which methods would effectively limit topsoil erosion? <strong>Select all that apply.</strong>",
     "options": [
-      "Use organic fertilizer, remove windbreaks, and steepen slopes",
-      "Contour slopes, plant windbreaks perpendicular to the prevailing wind, and build stepped terraces",
-      "Smooth slopes, plant windbreaks parallel to the prevailing wind, and remove ground cover",
-      "Increase runoff velocity, compact the surface, and remove terraces"
+      "Use only organic fertilizers on agricultural crops",
+      "Reduce or contour slopes to limit water runoff",
+      "Plant trees to slow prevailing winds"
     ],
     "answer": 1,
-    "explanation": "<strong>B.</strong> Contoured slopes, perpendicular windbreaks, and terraces reduce wind or runoff erosion. (Course section: 8.2 Soil Erosion)",
+    "answers": [
+      1,
+      2
+    ],
+    "selectionMode": "multiple",
+    "explanation": "<strong>B and C.</strong> Contoured slopes limit runoff, and trees slow wind. Fertilizer use does not directly control the agents of erosion. (Course section: 8.2 Soil Erosion)",
     "images": []
   },
   {
@@ -3458,6 +4238,10 @@ window.QUIZ_QUESTIONS = [
       "Physical weathering requires water; chemical weathering never involves water."
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Mechanical weathering preserves composition while reducing size; chemical weathering converts material into new minerals. (Course section: 8.2 Soil Weathering)",
     "images": []
   },
@@ -3476,6 +4260,10 @@ window.QUIZ_QUESTIONS = [
       "pH, plasticity, parent material, time"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> The course's four components are colour, texture, structure, and pH. (Course section: 8.3 Characterizing Soils and Soil Plasticity, opening section)",
     "images": []
   },
@@ -3494,6 +4282,10 @@ window.QUIZ_QUESTIONS = [
       "High gravel content"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> A shiny cut face indicates high clay content. (Course section: 8.3 Soil Texture)",
     "images": []
   },
@@ -3512,6 +4304,10 @@ window.QUIZ_QUESTIONS = [
       "Plastic, liquid, solid, semi-solid"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Decreasing water content gives liquid, plastic, semi-solid, then solid. (Course section: 8.3 Soil Plasticity)",
     "images": []
   },
@@ -3530,6 +4326,10 @@ window.QUIZ_QUESTIONS = [
       "Sand is below 0.006 mm and gravel is above 200 mm."
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> The caption explicitly identifies clay below 0.002 mm and boulders above 600 mm. (Course section: 8.3 Soil Texture, Table 8.3.1)",
     "images": []
   },
@@ -3548,6 +4348,10 @@ window.QUIZ_QUESTIONS = [
       "PI=LL/PL"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> PI=LL-PL. (Course section: 8.3 Soil Plasticity)",
     "images": []
   },
@@ -3564,6 +4368,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Higher density slows water movement in the course description. (Course section: 8.1 Phase Relationships in Soils)",
     "images": []
   },
@@ -3580,6 +4388,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Steeper terrain increases transport by water, wind, gravity, or ice and commonly leaves shallower, less-developed soil. (Course section: 8.1 Controls on Soil Formation)",
     "images": []
   },
@@ -3596,6 +4408,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Foot traffic killed grass and compacted soil, enabling channelization and erosion. (Course section: 8.1 Check Your Knowledge, Figure 8.1.4)",
     "images": []
   },
@@ -3612,6 +4428,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The course contrasts very slow soil formation with erosion that can happen extremely quickly. (Course section: 8.2 Soil Erosion, Degradation, and Weathering Processes, opening section)",
     "images": []
   },
@@ -3628,6 +4448,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Overapplication of either organic or chemical fertilizer can damage soils, plants, animals, and water and soil chemistry. (Course section: 8.2 Soil Erosion)",
     "images": []
   },
@@ -3644,6 +4468,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Water enables chemical reaction and ion transfer during chemical weathering. (Course section: 8.2 Soil Weathering)",
     "images": []
   },
@@ -3660,6 +4488,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Dark colour often indicates more organic matter, water content, storage capacity, and fertility. (Course section: 8.3 Soil Colour)",
     "images": []
   },
@@ -3676,6 +4508,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Repeated tilling can compact soil, raise its density, and reduce crop yields. (Course section: 8.3 Soil Structure)",
     "images": []
   },
@@ -3692,6 +4528,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> At the shrinkage limit, further drying causes no more volume reduction. (Course section: 8.3 Soil Plasticity)",
     "images": []
   },
@@ -3710,6 +4550,10 @@ window.QUIZ_QUESTIONS = [
       "All of the above"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) All of the above.</strong> Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. <em>(Course section: 9.1 Groundwater in the Hydrological Cycle.)</em>",
     "images": []
   },
@@ -3728,6 +4572,10 @@ window.QUIZ_QUESTIONS = [
       "The top of an aquifer."
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) The height to which water will rise in or above a well.</strong> <em>(Course section and figure: 9.4 Head and Pressure, potentiometric-surface figure.)</em>",
     "images": []
   },
@@ -3746,6 +4594,10 @@ window.QUIZ_QUESTIONS = [
       "Oak Ridges Moraine"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Oak Ridges Moraine.</strong> Its glacial deposits store recharge and feed springs, streams, and rivers near Toronto. <em>(Course section and Figure 9.2.5: 9.2 The Glacial Connection.)</em>",
     "images": []
   },
@@ -3762,6 +4614,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Past glacial deposition created major southern Ontario aquifers, including those in the Waterloo region. <em>(Course section: 9.2 The Glacial Connection.)</em>",
     "images": []
   },
@@ -3778,6 +4634,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Flowing artesian conditions develop in pressurized confined aquifers where the potentiometric surface lies above ground. <em>(Course section and figure: 9.4 Head and Pressure, artesian-well figure.)</em>",
     "images": []
   },
@@ -3796,6 +4656,10 @@ window.QUIZ_QUESTIONS = [
       "Clay"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Sand.</strong> Of the listed materials, sand commonly has the largest connected pore spaces and highest permeability. <em>(Course section: 9.3 Specific Yield, Retention, and Permeability.)</em>",
     "images": []
   },
@@ -3814,6 +4678,10 @@ window.QUIZ_QUESTIONS = [
       "98,000 Pa"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) 98,000 Pa.</strong> p=ρ gh=(1000)(9.8)(10)=98,000 Pa. <em>(Course section: 9.4 Head and Pressure.)</em>",
     "images": []
   },
@@ -3834,6 +4702,10 @@ window.QUIZ_QUESTIONS = [
       "Just B, C, and D"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) All of the above.</strong> Darcy's Law relates flow to hydraulic gradient and formation properties, with flow directed from higher to lower head. <em>(Course sections: 9.4 Hydraulic Gradient and 9.4 Hydraulic Conductivity and Darcy Specific Discharge.)</em>",
     "images": []
   },
@@ -3850,6 +4722,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Engineered waste systems can reduce risk, but leakage and contaminant transport remain possible. <em>(Course section: 9.5 Contamination Pathways.)</em>",
     "images": []
   },
@@ -3868,6 +4744,10 @@ window.QUIZ_QUESTIONS = [
       "Elevation and Position"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Pressure and Position.</strong> Hydraulic head combines pressure head with elevation or positional head. <em>(Course section: 9.4 Head and Pressure.)</em>",
     "images": []
   },
@@ -3886,6 +4766,10 @@ window.QUIZ_QUESTIONS = [
       "Karst"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Karst.</strong> Karst aquifers form where water dissolves carbonate rock such as limestone. <em>(Course section and figure: 9.2 Karst Aquifers.)</em>",
     "images": []
   },
@@ -3904,6 +4788,10 @@ window.QUIZ_QUESTIONS = [
       "6.0%"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) 0.6%.</strong> <em>(Course section: 9.1 Groundwater in the Hydrological Cycle.)</em>",
     "images": []
   },
@@ -3922,6 +4810,10 @@ window.QUIZ_QUESTIONS = [
       "Sublimation"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B. Percolation.</strong> The retained water-cycle figure labels percolation as continued subsurface flow toward groundwater. <em>(§9.1, “Groundwater in the hydrological cycle,” reconstructed from local assets.)</em>",
     "images": [
       "assets/practice-m9-q1-9-1-hydrological-cycle.png"
@@ -3942,6 +4834,10 @@ window.QUIZ_QUESTIONS = [
       "It is the level of every surface stream."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The water table is the upper surface of the saturated groundwater zone. <em>(§9.1, “Groundwater in the hydrological cycle”; §9.3, “Water-table controls on movement.”)</em>",
     "images": [
       "assets/practice-m9-q2-9-3-1-water-table-valley.png"
@@ -3962,6 +4858,10 @@ window.QUIZ_QUESTIONS = [
       "Karst"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C. Semi-confined.</strong> Its semi-permeable boundary allows limited leakage. <em>(§9.2, “Semi-Confined Aquifer.”)</em>",
     "images": []
   },
@@ -3980,6 +4880,10 @@ window.QUIZ_QUESTIONS = [
       "Karst"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D. Karst.</strong> Large cracks, fractures, voids, and tunnels permit rapid, long-distance flow. <em>(§9.2, “Karst Aquifers”; course Check Your Knowledge.)</em>",
     "images": []
   },
@@ -3998,6 +4902,10 @@ window.QUIZ_QUESTIONS = [
       "Perched"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A. Confined.</strong> The course identifies confined aquifers as protected from surface contamination and preferred for human drinking water. <em>(§9.2, “Confined Aquifer”; course Check Your Knowledge.)</em>",
     "images": []
   },
@@ -4016,6 +4924,10 @@ window.QUIZ_QUESTIONS = [
       "It always acts as an aquitard."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Moraines store infiltrating precipitation and snowmelt and channel groundwater to lower-elevation springs, streams, and rivers. <em>(§9.2, “The Glacial Connection,” Figures 9.2.5-9.2.6.)</em>",
     "images": []
   },
@@ -4034,6 +4946,10 @@ window.QUIZ_QUESTIONS = [
       "Potentiometric surface"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C. Perched water table.</strong> A local aquitard can hold a discontinuous saturated lens above the regional table. <em>(§9.3, “Perched water tables,” Figure 9.3.2.)</em>",
     "images": []
   },
@@ -4052,6 +4968,10 @@ window.QUIZ_QUESTIONS = [
       "Limestone"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B. Sand.</strong> Table 9.3.1 gives sand a 22% specific yield, the largest listed. <em>(§9.3, “Specific yield, retention, and permeability,” Table 9.3.1.)</em>",
     "images": []
   },
@@ -4070,6 +4990,10 @@ window.QUIZ_QUESTIONS = [
       "Basalt"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A. Clay.</strong> Table 9.3.1 gives clay 48% specific retention. <em>(§9.3, “Specific yield, retention, and permeability,” Table 9.3.1.)</em>",
     "images": []
   },
@@ -4088,6 +5012,10 @@ window.QUIZ_QUESTIONS = [
       "90°"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D. 90°.</strong> In homogeneous material, flow lines cross equipotential contours at right angles. <em>(§9.3, “Groundwater flow maps,” Figure 9.3.6.)</em>",
     "images": []
   },
@@ -4106,6 +5034,10 @@ window.QUIZ_QUESTIONS = [
       "t=L/v"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A. p=ρ g h<sub>p</sub>.</strong> Pressure equals density times gravitational acceleration times pressure head. <em>(§9.4, “Head and Pressure,” recovered from Assignment 5, Question 2a.)</em>",
     "images": []
   },
@@ -4124,6 +5056,10 @@ window.QUIZ_QUESTIONS = [
       "Flow-through stream"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B. Gaining stream.</strong> It receives groundwater, and the water table meets the stream surface. <em>(§9.5, “Four stream interactions,” Figure 9.5.2.)</em>",
     "images": [
       "assets/practice-m9-q12-9-5-2-stream-interactions.png"
@@ -4142,6 +5078,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The retained 9.1 regional figure shows groundwater in pores of gravel, granular aquifers, and fractured rock. <em>(§9.1, “Reading a groundwater system,” reconstructed from local assets.)</em>",
     "images": []
   },
@@ -4158,6 +5098,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> An unconfined aquifer is open to near-surface recharge and contamination, whereas an aquitard protects a confined aquifer. <em>(§9.2, “Unconfined Aquifer” and “Confined Aquifer.”)</em>",
     "images": []
   },
@@ -4174,6 +5118,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Clay has high porosity but low permeability because its tiny pores are poorly connected. <em>(§9.3, “Specific yield, retention, and permeability.”)</em>",
     "images": []
   },
@@ -4190,6 +5138,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Arrays provide levels for gradient calculations and reveal stable, rising, or falling groundwater conditions. <em>(§9.3, “Piezometers and water-table behaviour.”)</em>",
     "images": []
   },
@@ -4206,6 +5158,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Pore velocity is v=q/n, so it exceeds q when porosity is between 0 and 1. <em>(§9.4, “Pore-water velocity and travel time,” Assignment 5, Question 2d.)</em>",
     "images": []
   },
@@ -4222,6 +5178,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Fractured karst geology made the deeper aquifers semi-confined/leaky and connected them to the surface. <em>(§9.6, “Subsurface pathway,” Figure 9.6.1.)</em>",
     "images": []
   },
@@ -4241,6 +5201,10 @@ window.QUIZ_QUESTIONS = [
       "Discharge"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Stage.</strong> Stage is the height, elevation, or depth of the river water surface. [Course section: 10.3 Stage–Discharge Relationships]",
     "images": []
   },
@@ -4259,6 +5223,10 @@ window.QUIZ_QUESTIONS = [
       "The river's maximum depth"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) The maximum-sized particle or grain the river can transport.</strong> [Course section: 10.2 Sediment Loads and Transport]",
     "images": []
   },
@@ -4275,6 +5243,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Capacity is the total amount carried; competence is the maximum particle size. [Course section: 10.2 Sediment Loads and Transport]",
     "images": []
   },
@@ -4295,6 +5267,10 @@ window.QUIZ_QUESTIONS = [
       "Total precipitation and evaporation"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Cross-sectional area.</strong> Discharge is average velocity multiplied by cross-sectional area, Q=Av. [Course section: 10.2 Discharge]",
     "images": []
   },
@@ -4311,6 +5287,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Meander cutoffs can leave oxbow lakes on river floodplains. [Course section: 10.1 Stream Migration and Flood Plains]",
     "images": []
   },
@@ -4327,6 +5307,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Maximum velocity is normally near the channel centre just below the surface. [Course section and Figures 10.2.2–10.2.4: 10.2 Laminar and Turbulent Flow]",
     "images": []
   },
@@ -4346,6 +5330,10 @@ window.QUIZ_QUESTIONS = [
       "Banks"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Meanders.</strong> [Course section: 10.1 Stream Migration and Flood Plains]",
     "images": []
   },
@@ -4362,6 +5350,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The long profile is generally steepest near the headwaters and becomes gentler downstream. [Course section: 10.2 Stream Components and Long Profile]",
     "images": []
   },
@@ -4378,6 +5370,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> A stilling well shelters the stage recorder while its float and encoder track water elevation. [Course section and Figure 10.3.6: 10.3 Stage–Discharge Relationships]",
     "images": []
   },
@@ -4396,6 +5392,10 @@ window.QUIZ_QUESTIONS = [
       "Saltation load"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Turbulent Load.</strong> Bed load, suspended load, and saltation are recognized transport categories or modes; turbulent load is not. [Course section: 10.2 Sediment Loads and Transport]",
     "images": []
   },
@@ -4412,6 +5412,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> A flood hydrograph can plot precipitation and the resulting discharge response over time. [Course section and Figure 10.4.2: 10.4 Flood Hydrographs]",
     "images": []
   },
@@ -4435,6 +5439,10 @@ window.QUIZ_QUESTIONS = [
       "Only A, B, C, and D above"
     ],
     "answer": 7,
+    "answers": [
+      7
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>h) All of the above.</strong> Climate, catchment properties, precipitation, flow-control structures, vegetation, and urbanization can all change runoff. [Course sections: 10.1 Runoff Components, 10.1 Human Effects and Urbanization, and 10.4 Five Flood Processes]",
     "images": []
   },
@@ -4453,6 +5461,10 @@ window.QUIZ_QUESTIONS = [
       "A constructed flood-control channel"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> A tributary is a smaller stream or river entering a larger water body. [Section 10.1, opening discussion]",
     "images": []
   },
@@ -4471,6 +5483,10 @@ window.QUIZ_QUESTIONS = [
       "Groundwater discharge"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Dams and channelization are human influences; the four components are direct precipitation, interflow, groundwater discharge, and snowmelt. [Section 10.1, \"Runoff and Urbanization\"]",
     "images": []
   },
@@ -4489,6 +5505,10 @@ window.QUIZ_QUESTIONS = [
       "Lower peak flow and longer lag time"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Impervious surfaces route more water to channels faster, raising peak flow and shortening lag time. [Section 10.1, \"Runoff and Urbanization,\" Figure 10.1.5]",
     "images": [
       "assets/practice-m10-q3-urbanization-hydrograph.png"
@@ -4509,6 +5529,10 @@ window.QUIZ_QUESTIONS = [
       "Erosion only at the bed; no bank deposition"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Faster outside-bank flow erodes while slower inside-bank flow deposits, shifting the channel laterally. [Section 10.1, \"Stream Migration and Flood Plains\"]",
     "images": []
   },
@@ -4527,6 +5551,10 @@ window.QUIZ_QUESTIONS = [
       "Flow that always transports boulders"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Laminar flow consists of streamlined, parallel layers with little or no mixing. [Section 10.2, \"Stream Flow\"]",
     "images": []
   },
@@ -4545,6 +5573,10 @@ window.QUIZ_QUESTIONS = [
       "Capacity, competence, and saltation"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> The three controls are gradient, channel features, and discharge. [Section 10.2, \"Stream Flow\"]",
     "images": []
   },
@@ -4563,6 +5595,10 @@ window.QUIZ_QUESTIONS = [
       "At the inside corner of every meander"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Maximum velocity is commonly just below the surface near the main flow path; at bends it shifts toward the outside bank. [Section 10.2, \"Stream Flow,\" Figures 10.2.2-10.2.3]",
     "images": []
   },
@@ -4581,6 +5617,10 @@ window.QUIZ_QUESTIONS = [
       "Saltation and groundwater discharge"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Traction is rolling or sliding and saltation is hopping; both are bed-load processes. [Section 10.2, \"Sediment Loads and Transport\"]",
     "images": []
   },
@@ -4599,6 +5639,10 @@ window.QUIZ_QUESTIONS = [
       "Its normal flow beneath a flood response"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Competence is maximum transportable particle size; capacity is the amount carried. [Section 10.2, \"Sediment Loads and Transport\"]",
     "images": []
   },
@@ -4617,6 +5661,10 @@ window.QUIZ_QUESTIONS = [
       "Clay can move only as bed load"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Closely packed clay forms a smooth surface with few openings through which water can get around and lift individual particles. [Section 10.2, \"Sediment Loads and Transport,\" Figure 10.2.7]",
     "images": []
   },
@@ -4635,6 +5683,10 @@ window.QUIZ_QUESTIONS = [
       "One section spanning the full width"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Each slice should be 3%-5% of total width, giving about 20-30 subsections. [Section 10.3, \"Discharge Calculations\"]",
     "images": []
   },
@@ -4653,6 +5705,10 @@ window.QUIZ_QUESTIONS = [
       "Regression lines use no field measurements"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Channel geometry and flow conditions make the calibration valid only near the measured section. [Section 10.3, \"Stage–Discharge Relationships\"]",
     "images": []
   },
@@ -4671,6 +5727,10 @@ window.QUIZ_QUESTIONS = [
       "No second event can occur within 50 years"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> 1/50=0.02=2% annual probability; it is not a fixed schedule. [Section 10.4, opening discussion]",
     "images": []
   },
@@ -4689,6 +5749,10 @@ window.QUIZ_QUESTIONS = [
       "A constructed-dam failure"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> A local flash flood follows localized intense precipitation in a limited watershed. [Section 10.4, opening discussion]",
     "images": []
   },
@@ -4707,6 +5771,10 @@ window.QUIZ_QUESTIONS = [
       "The annual flood probability was lower"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> A narrow quickflow response means the flood wave passed through quickly; a wide response means a longer flood duration. [Section 10.4, \"Flood Hydrographs\"]",
     "images": [
       "assets/practice-m10-q15-fig-10.4.2-flood-hydrograph.jpeg"
@@ -4725,6 +5793,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> This is the course definition and ecological emphasis for a riparian zone. [Section 10.1, opening discussion]",
     "images": []
   },
@@ -4741,6 +5813,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Impervious surfaces limit infiltration, accelerate runoff delivery, and shorten lag time. [Section 10.1, \"Runoff and Urbanization\"]",
     "images": []
   },
@@ -4757,6 +5833,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Frictional resistance from the bed and banks slows flow near channel boundaries. [Section 10.2, \"Stream Flow\"; Section 10.3, \"Discharge Calculations\"]",
     "images": []
   },
@@ -4773,6 +5853,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The course identifies almost all natural stream and river flow as turbulent. [Section 10.2, \"Stream Flow\"]",
     "images": []
   },
@@ -4789,6 +5873,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Saltating and sliding particles are bed load; suspended particles are carried within the main flow. [Section 10.2, \"Sediment Loads and Transport\"]",
     "images": []
   },
@@ -4805,6 +5893,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Capacity is total material; competence is maximum particle size. [Section 10.2, \"Sediment Loads and Transport\"]",
     "images": []
   },
@@ -4821,6 +5913,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Averaging readings at 20% and 80% of depth is preferred; one reading at 60% is an acceptable but less accurate substitute. [Section 10.3, \"Discharge Calculations\"]",
     "images": []
   },
@@ -4837,6 +5933,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Water accumulates upstream of a natural blockage, while breach or failure can flood downstream. [Section 10.4, opening discussion]",
     "images": []
   },
@@ -4857,6 +5957,10 @@ window.QUIZ_QUESTIONS = [
       "Kames"
     ],
     "answer": 5,
+    "answers": [
+      5
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>Kames.</strong> The saved quiz describes sediment deposited in glacier-surface depressions and lowered to the land as the ice melts. Section 11.3 also presents kames as conical meltwater deposits formed where water exits a glacial channel and slows. (Course section and Figure 11.3.6: 11.3 Continental Glacier Features)",
     "images": []
   },
@@ -4873,6 +5977,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Heavy ice causes isostatic depression; rebound is the slow uplift that follows unloading as the glacier melts. (Course section: 11.2 Evidence of Past Glaciation)",
     "images": []
   },
@@ -4891,6 +5999,10 @@ window.QUIZ_QUESTIONS = [
       "All of the above"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) The temperature of the atmosphere and ground surface.</strong> Temperature controls basal melting, slip, and ease of deformation. (Course section: 11.2 Glacial Movement)",
     "images": []
   },
@@ -4910,6 +6022,10 @@ window.QUIZ_QUESTIONS = [
       "The changing intensity of the sun"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) The entry and exit of glacial periods.</strong> Milankovitch cycles change the seasonal and geographic distribution of solar energy over long periods. (Course section and Figures 11.2.3–11.2.4: 11.2 Causes of Glaciation and Milankovitch Cycles)",
     "images": []
   },
@@ -4929,6 +6045,10 @@ window.QUIZ_QUESTIONS = [
       "Meltwater accumulation"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Internal plastic deformation within the glacial ice.</strong> (Course section: 11.2 Glacial Movement)",
     "images": []
   },
@@ -4947,6 +6067,10 @@ window.QUIZ_QUESTIONS = [
       "End moraines"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Lateral moraines.</strong> They form as elongated till ridges along the sides of valley glaciers. (Course section and Figure 11.3.1: 11.3 Alpine Depositional Features)",
     "images": []
   },
@@ -4966,6 +6090,10 @@ window.QUIZ_QUESTIONS = [
       "Aretes"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>d) Eskers.</strong> Eskers are depositional meltwater ridges; horns, cirques, hanging valleys, and aretes are erosional alpine features. (Course sections: 11.3 Alpine Erosional Features and 11.3 Continental Glacier Features)",
     "images": []
   },
@@ -4984,6 +6112,10 @@ window.QUIZ_QUESTIONS = [
       "The glacier is accumulating mass through incorporation of additional morainic and till material"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Accumulation exceeds ablation.</strong> This produces a positive glacial budget and glacier growth. (Course section: 11.1 Formation of Glaciers)",
     "images": []
   },
@@ -5005,6 +6137,10 @@ window.QUIZ_QUESTIONS = [
       "2,000,000 years ago"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) 20,000 years ago.</strong> (Course section and Figure 11.2.2: 11.2 Glacial History)",
     "images": []
   },
@@ -5024,6 +6160,10 @@ window.QUIZ_QUESTIONS = [
       "Moraines and eskers"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) Moraines and eskers.</strong> Their form and alignment can preserve evidence of former ice and meltwater-flow directions. (Course section and Figure 11.3.6: 11.3 Figure Lessons)",
     "images": []
   },
@@ -5040,6 +6180,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Alpine glaciers widen and deepen stream-carved V-shaped valleys into U-shaped valleys. (Course section: 11.3 Alpine Erosional Features)",
     "images": []
   },
@@ -5056,6 +6200,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Glaciers contain most of the world's freshwater. (Course section: 11.1 Glacier Definition and Importance)",
     "images": []
   },
@@ -5074,6 +6222,10 @@ window.QUIZ_QUESTIONS = [
       "The equilibrium line remains fixed"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Glacier growth requires a positive snow or ice budget in which winter accumulation exceeds summer melting. (11.1, \"Formation of Glaciers\")",
     "images": []
   },
@@ -5092,6 +6244,10 @@ window.QUIZ_QUESTIONS = [
       "It has a zone of ablation"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> An ice sheet is a much larger glacial mass that is not confined by topographic obstacles. (11.1, \"Formation of Glaciers\")",
     "images": []
   },
@@ -5110,6 +6266,10 @@ window.QUIZ_QUESTIONS = [
       "It permanently stops moving"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> In a warmer year, more snow and ice can melt, so the equilibrium line can move to a higher elevation. (11.1, \"Anatomy of a Glacier\")",
     "images": []
   },
@@ -5128,6 +6288,10 @@ window.QUIZ_QUESTIONS = [
       "Surface runoff"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Plastic flow is the primary movement mechanism for alpine and continental glaciers. (11.2, \"Glacial Movement\")",
     "images": []
   },
@@ -5146,6 +6310,10 @@ window.QUIZ_QUESTIONS = [
       "It cannot move"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Ice frozen to the ground cannot slide at its base but can still deform internally through plastic flow. (11.2, \"Glacial Movement\")",
     "images": []
   },
@@ -5164,6 +6332,10 @@ window.QUIZ_QUESTIONS = [
       "Sediment colour"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> The three stated controls are slope, total ice volume, and temperature. (11.2, \"Glacial Movement\")",
     "images": []
   },
@@ -5182,6 +6354,10 @@ window.QUIZ_QUESTIONS = [
       "Solar forcing"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Obliquity is change in the angle of Earth's axis relative to its orbital plane. (11.2, \"Causes of Glaciation and Milankovitch Cycles\")",
     "images": []
   },
@@ -5200,6 +6376,10 @@ window.QUIZ_QUESTIONS = [
       "Glaciers can form only at the equator"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> Glaciation commonly starts on land, and continental positions affect major ocean and atmospheric currents and therefore climate. (11.2, \"Causes of Glaciation and Milankovitch Cycles\")",
     "images": []
   },
@@ -5218,6 +6398,10 @@ window.QUIZ_QUESTIONS = [
       "A volcanic eruption"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Raised beaches and ridges distant from present water record former shorelines such as those of Glacial Lake Agassiz. (11.2, \"Evidence of Past Glaciation\")",
     "images": []
   },
@@ -5236,6 +6420,10 @@ window.QUIZ_QUESTIONS = [
       "End moraine"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Medial moraines form where two or more lateral moraines merge as ice flows join. (11.3, \"Depositional Features in Alpine Glacier Environments\")",
     "images": []
   },
@@ -5254,6 +6442,10 @@ window.QUIZ_QUESTIONS = [
       "Conical"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Moving ice converts a stream-carved V-shaped valley into a U-shaped valley. (11.3, \"Erosional Features in Alpine Glacier Environments\")",
     "images": []
   },
@@ -5272,6 +6464,10 @@ window.QUIZ_QUESTIONS = [
       "Esker"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> An esker is a long sinuous ridge left from a stream or river bed on top of or within glacial ice. (11.3, \"Definition: Esker\")",
     "images": []
   },
@@ -5288,6 +6484,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Both values are stated in the course introduction. (11.1, \"Definition: Glacier\")",
     "images": []
   },
@@ -5304,6 +6504,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> High pressure from the glacial mass can permit basal melting below freezing or 0°C. (11.2, \"Glacial Movement\")",
     "images": []
   },
@@ -5320,6 +6524,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The top section moves farther downslope than the bottom section over a given time. (11.2, \"Glacial Movement\")",
     "images": [
       "assets/practice-m11-q15-11.2.1-valley-glacier-movement.png"
@@ -5338,6 +6546,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Alaska was mostly ice-free because western mountain ranges acted as a barrier to westward movement. (11.2, \"Glacial History\")",
     "images": []
   },
@@ -5354,6 +6566,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Peaks are warmer cycle portions and troughs are cooler portions in the figure's interpretation. (11.2, \"Causes of Glaciation and Milankovitch Cycles\")",
     "images": [
       "assets/practice-m11-q17-11.2.4-milankovitch-solar-forcing.png"
@@ -5372,6 +6588,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The Hudson Bay region is still rising at approximately 1 cm/year. (11.2, \"Evidence of Past Glaciation\")",
     "images": []
   },
@@ -5388,6 +6608,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Hanging valleys often create waterfalls, but waterfalls are not required. (11.3, \"Erosional Features in Alpine Glacier Environments\")",
     "images": []
   },
@@ -5404,6 +6628,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The course notes disagreement but says most glacial scientists now attribute drumlins to erosion by advancing ice. (11.3, \"Erosional and Depositional Features in Continental Glacier Environments\")",
     "images": []
   },
@@ -5422,6 +6650,10 @@ window.QUIZ_QUESTIONS = [
       "All of the above"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) Carbon dioxide.</strong> It is the important greenhouse gas among the listed choices. (12.1, “Climate Change and the Greenhouse Effect”)",
     "images": []
   },
@@ -5441,6 +6673,10 @@ window.QUIZ_QUESTIONS = [
       "At least 30 years"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) At least 30 years.</strong> The course defines climate change over at least three decades. (12.1, “Climate vs. Weather”)",
     "images": []
   },
@@ -5460,6 +6696,10 @@ window.QUIZ_QUESTIONS = [
       "All of the above"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) All of the above.</strong> Ice cores, corals, tree rings, and sediment layers are proxy records. (12.2, “Evidence From the Past”)",
     "images": []
   },
@@ -5479,6 +6719,10 @@ window.QUIZ_QUESTIONS = [
       "Major hurricanes"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) Major hurricanes.</strong> Orbit, volcanoes, solar energy, and plate tectonics can affect climate; hurricanes are a response rather than a driver. (12.1, “Natural Climate Drivers”)",
     "images": []
   },
@@ -5495,6 +6739,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The atmosphere transmits incoming short-wave radiation more readily and absorbs outgoing long-wave radiation. (12.1, “Climate Change and the Greenhouse Effect”)",
     "images": []
   },
@@ -5515,6 +6763,10 @@ window.QUIZ_QUESTIONS = [
       "Institutional Partner on Climate Change"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>c) Intergovernmental Panel on Climate Change.</strong> (12.3, opening discussion)",
     "images": []
   },
@@ -5531,6 +6783,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The diurnal temperature range decreased from 1950 to 2004 and changed little from 1979 to 2004 because maximum and minimum temperatures rose at similar rates. (12.1, “Hydrological Changes”)",
     "images": []
   },
@@ -5551,6 +6807,10 @@ window.QUIZ_QUESTIONS = [
       "Just A, B, and C above"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) All of the above.</strong> The course documents warmer surface waters, less ice cover, earlier snowmelt, and increased high-latitude runoff. (12.1, “Hydrological Changes”)",
     "images": []
   },
@@ -5567,6 +6827,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Ice-core and direct measurements show modern atmospheric CO<sub>2</sub> above the previous 800,000-year range. (12.2, “Ice Cores”)",
     "images": []
   },
@@ -5586,6 +6850,10 @@ window.QUIZ_QUESTIONS = [
       "11°C"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>b) 3°C.</strong> The saved quiz uses approximately 3°C, with about ±1°C uncertainty, for doubled atmospheric CO<sub>2</sub>. (Saved quiz-12, Question 10; 12.1, greenhouse-effect discussion)",
     "images": []
   },
@@ -5604,6 +6872,10 @@ window.QUIZ_QUESTIONS = [
       "James Watt"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>a) Svante Arrhenius.</strong> This preserves the scientist and year pairing used by the saved course quiz. (Saved quiz-12, Question 11; 12.1, greenhouse-gas research history)",
     "images": []
   },
@@ -5624,6 +6896,10 @@ window.QUIZ_QUESTIONS = [
       "The sun's output"
     ],
     "answer": 4,
+    "answers": [
+      4
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>e) Larger hurricanes.</strong> Orbit, greenhouse gases, axial tilt, drifting continents, and solar output affect climate; larger hurricanes are a possible result. (12.1, “Natural Climate Drivers”)",
     "images": []
   },
@@ -5642,6 +6918,10 @@ window.QUIZ_QUESTIONS = [
       "30 years"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> The course defines climate change over at least 3 decades, or 30 years. (12.1, “Climate Change and the Greenhouse Effect”)",
     "images": []
   },
@@ -5660,6 +6940,10 @@ window.QUIZ_QUESTIONS = [
       "Ozone and water vapour"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> CO<sub>2</sub> and CH<sub>4</sub> are the two dominant gases named. (12.1, “Causes of Climate Change”)",
     "images": []
   },
@@ -5678,6 +6962,10 @@ window.QUIZ_QUESTIONS = [
       "Larger hurricanes"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> Larger hurricanes are a possible response; the four natural processes are sun, orbit, plate tectonics, and volcanoes. (12.1, “Causes of Climate Change”)",
     "images": []
   },
@@ -5696,6 +6984,10 @@ window.QUIZ_QUESTIONS = [
       "600 times"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> The page states that humans release about 60 times more CO<sub>2</sub> annually than all volcanoes combined. (12.1, “Causes of Climate Change”)",
     "images": []
   },
@@ -5714,6 +7006,10 @@ window.QUIZ_QUESTIONS = [
       "Just under 560 ppm"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> July 2022 atmospheric CO<sub>2</sub> was just under 420 ppm. (12.2, “Carbon Dioxide”)",
     "images": []
   },
@@ -5732,6 +7028,10 @@ window.QUIZ_QUESTIONS = [
       "800 ppm"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The preindustrial natural level used is 280 ppm. (12.2, “Carbon Dioxide”)",
     "images": []
   },
@@ -5750,6 +7050,10 @@ window.QUIZ_QUESTIONS = [
       "It has no seasonal vegetation signal."
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Mauna Loa is high, Pacific-isolated from major sources, and samples well-mixed air. (12.2, “Carbon Dioxide”)",
     "images": []
   },
@@ -5768,6 +7072,10 @@ window.QUIZ_QUESTIONS = [
       "Rating curves"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> Ice-core bubbles preserve samples of past atmospheres. (12.2, “Ice Cores”)",
     "images": []
   },
@@ -5786,6 +7094,10 @@ window.QUIZ_QUESTIONS = [
       "No model matches the observations"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Observations match most closely when models include both natural and human causes. (12.2, “Atmospheric Temperatures”; Figure 12.2.5)",
     "images": []
   },
@@ -5804,6 +7116,10 @@ window.QUIZ_QUESTIONS = [
       "Milankovitch network"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>A.</strong> ARGO is the global ocean-float system. (12.2, “Ocean Temperatures”)",
     "images": []
   },
@@ -5822,6 +7138,10 @@ window.QUIZ_QUESTIONS = [
       "10<sup>21</sup> J"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> The Figure 12.2.7 axis is in 10<sup>21</sup> J. (12.2, “Ocean Temperatures”)",
     "images": [
       "assets/practice-m12-q11-12.2.7-annual-ocean-heat-content.png"
@@ -5842,6 +7162,10 @@ window.QUIZ_QUESTIONS = [
       "About 40 mm/year"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> The saved page gives almost 4 mm/year. (12.2, “Rise in Sea Levels”)",
     "images": []
   },
@@ -5860,6 +7184,10 @@ window.QUIZ_QUESTIONS = [
       "A national weather service"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>B.</strong> The UN created the IPCC in 1988 to organize scientists and facilitate sharing of climate knowledge. (12.3, opening discussion)",
     "images": []
   },
@@ -5878,6 +7206,10 @@ window.QUIZ_QUESTIONS = [
       "Uniformly lower runoff worldwide"
     ],
     "answer": 2,
+    "answers": [
+      2
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>C.</strong> Earlier snowmelt is among the documented changes. (12.1, “Changes in Hydrology Due to Climate Change”)",
     "images": []
   },
@@ -5896,6 +7228,10 @@ window.QUIZ_QUESTIONS = [
       "Higher risk of long-duration drought"
     ],
     "answer": 3,
+    "answers": [
+      3
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>D.</strong> The IPCC projections listed include greater risk of long-duration drought. (12.3, future IPCC predictions)",
     "images": []
   },
@@ -5912,6 +7248,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> A single season is weather; climate requires at least 30 years. (12.1, climate-versus-weather distinction)",
     "images": []
   },
@@ -5928,6 +7268,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> This is the blanket-like greenhouse mechanism described by the course. (12.1, greenhouse-effect discussion)",
     "images": []
   },
@@ -5944,6 +7288,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Figure 12.2.2 combines ice-core and post-1958 direct data across 800,000 years. (12.2, “Ice Cores”; Figure 12.2.2)",
     "images": []
   },
@@ -5960,6 +7308,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Ocean heat is increasing at the surface and at greater depths. (12.2, “Ocean Temperatures”; Figure 12.2.7)",
     "images": [
       "assets/practice-m12-q19-12.2.7-annual-ocean-heat-content.png"
@@ -5978,6 +7330,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Those dates and the equal rise of maxima and minima are stated in the hydrological-change list. (12.1, “Changes in Hydrology Due to Climate Change”)",
     "images": []
   },
@@ -5994,6 +7350,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Hurricanes are a possible response, not one of the listed climate drivers. (12.1, “Causes of Climate Change”; 12.2, “Atmospheric Hazards”)",
     "images": []
   },
@@ -6010,6 +7370,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> The seasonal wiggle is superimposed on a persistent long-term increase. (12.2, “Carbon Dioxide”; Figure 12.2.1)",
     "images": [
       "assets/practice-m12-q22-12.2.1-keeling-curve.png"
@@ -6028,6 +7392,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> Coastal saltwater intrusion is a stated sea-level-rise impact. (12.2, “Climate Change Impacts”)",
     "images": []
   },
@@ -6044,6 +7412,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
+    "answers": [
+      0
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>True.</strong> The IPCC expects short-interval fluctuation or noisy data within long-term change. (12.3, future IPCC predictions)",
     "images": []
   },
@@ -6060,6 +7432,10 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
+    "answers": [
+      1
+    ],
+    "selectionMode": "single",
     "explanation": "<strong>False.</strong> Hurricane and tornado counts lack the clear dramatic trend shown by several other datasets. (12.2, “Atmospheric Hazards”; Figures 12.2.9-12.2.10)",
     "images": [
       "assets/practice-m12-q25-12.2.9-major-atlantic-hurricanes.jpeg",

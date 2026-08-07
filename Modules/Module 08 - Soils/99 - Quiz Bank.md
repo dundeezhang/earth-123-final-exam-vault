@@ -60,11 +60,10 @@ Module: [[00 - Module 08 Overview]]
    - C. Chemical weathering stops
    - D. Soil formation immediately accelerates
 
-8. Which option lists three effective methods for limiting topsoil erosion?
-   - A. Use organic fertilizer, remove windbreaks, and steepen slopes
-   - B. Contour slopes, plant windbreaks perpendicular to the prevailing wind, and build stepped terraces
-   - C. Smooth slopes, plant windbreaks parallel to the prevailing wind, and remove ground cover
-   - D. Increase runoff velocity, compact the surface, and remove terraces
+8. Which methods would effectively limit topsoil erosion? **Select all that apply.**
+   - A. Use only organic fertilizers on agricultural crops
+   - B. Reduce or contour slopes to limit water runoff
+   - C. Plant trees to slow prevailing winds
 
 9. Which statement correctly distinguishes physical from chemical weathering?
    - A. Physical weathering changes minerals; chemical weathering changes only size.
@@ -313,7 +312,7 @@ Show the equation, substitution, and result for each calculation.
 
 7. **B.** Greater movement velocity increases erosional effectiveness or impact. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Erosion|8.2 Soil Erosion]])
 
-8. **B.** Contoured slopes, perpendicular windbreaks, and terraces reduce wind or runoff erosion. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Erosion|8.2 Soil Erosion]])
+8. **B and C.** Contoured slopes limit runoff, and trees slow wind. Fertilizer use does not directly control the agents of erosion. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Erosion|8.2 Soil Erosion]])
 
 9. **C.** Mechanical weathering preserves composition while reducing size; chemical weathering converts material into new minerals. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Weathering|8.2 Soil Weathering]])
 

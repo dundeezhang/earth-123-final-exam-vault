@@ -366,6 +366,10 @@ h2 {
   color: white;
 }
 
+.answer-option:has(input[type="checkbox"]) .answer-marker {
+  border-radius: 5px;
+}
+
 .answer-text {
   min-width: 0;
   line-height: 1.4;
