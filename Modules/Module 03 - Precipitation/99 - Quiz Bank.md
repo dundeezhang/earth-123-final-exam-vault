@@ -173,7 +173,7 @@ Module: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]] |
 38. **Saved quiz-4, Question 1.** The relative humidity of air with a saturation vapour pressure of 5.0 kPa and a vapour pressure of 2.0 kPa is:
 
 39. **Saved quiz-4, Question 3.** Adiabatic cooling refers to:
-    - a) Cooling without loss of heat
+    - a) Cooling without heat exchange with the surroundings
     - b) Warming air in the presence of high humidity
     - c) Cooling with loss of heat
     - d) Warming air with rising elevation
@@ -182,7 +182,7 @@ Module: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]] |
     - True
     - False
 
-41. **Saved quiz-4, Question 5.** (Hendriks, 2010, p15) Air at 20°C with a vapour pressure of 1.0 kPa is considered oversaturated.
+41. **Saved quiz-4, Question 5.** Air at 20°C with a vapour pressure of 1.0 kPa is oversaturated.
 
     ![Saved saturation vapour pressure curve](../../Assets/Official%20Quizzes/saturation-vapour-pressure-curve.jpg)
 
@@ -193,13 +193,13 @@ Module: [[Modules/Module 03 - Precipitation/00 - Module 03 Overview|Overview]] |
     - True
     - False
 
-42. **Saved quiz-4, Question 7.** Which of the following is NOT a cloud formation process?
+42. **Saved quiz-4, Question 7.** Which of the following is not a cloud-formation process?
     - a) Convection
     - b) Convergence
     - c) Divergence
     - d) Orographic
 
-43. **Saved quiz-4, Question 10.** Although this value is partially dependent on temperature or location on Earth, what is the maximum value of precipitation a region can receive to be considered a desert?
+43. **Saved quiz-4, Question 10.** What is the course's maximum annual precipitation threshold for an arid region?
     - a) 20 cm
     - b) 15 cm
     - c) 25 cm
@@ -290,9 +290,9 @@ $$
 
 **37.** The warm cloud produces rain; the cold cloud produces snow, with ice crystals shown as the frozen particles that grow until large and heavy enough to fall. *(Course section: 3.2 Atmospheric Moisture and Circulation, Figure 3.2.4.)*
 
-**38. 40%.** $R_h=(e/e_s)\times100=(2.0/5.0)\times100=40\%$. The saved grading record conflicts with this calculation, likely because a different numeric format was required. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Relative humidity and saturation.
+**38. 40%.** $R_h=(e/e_s)\times100=(2.0/5.0)\times100=40\%$. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Relative humidity and saturation.
 
-**39. a) Cooling without loss of heat.** Adiabatic cooling occurs as rising air expands under lower pressure without direct heat transfer to the surrounding atmosphere. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Six steps of cloud formation and Lapse rates.
+**39. a) Cooling without heat exchange with the surroundings.** Adiabatic cooling occurs as rising air expands under lower pressure without direct heat transfer to the surrounding atmosphere. Citation: [[03 - 3.2 Atmospheric Moisture and Circulation|Course section 3.2]], Six steps of cloud formation and lapse rates.
 
 **40. True.** Wind redistributes and packs snow, increasing its density. Citation: [[04 - 3.3 Snowfall and Snow Cover Processes and Issues|Course section 3.3]], Snow density and stored water.
 

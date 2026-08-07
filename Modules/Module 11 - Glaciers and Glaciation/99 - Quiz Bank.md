@@ -157,18 +157,18 @@ Match each item to its description.
 
 39. **Saved quiz-11, Question 1.**
 
-    Theses features are often seen as are conical hills, formed where sediment is deposited in depressions on the surface of the glacier, which is then lowered to the ground surface as the glacier melts.
+    Which features are conical hills formed when sediment deposited in depressions on a glacier is lowered to the ground as the ice melts?
 
     - Kettles
     - Eskers
-    - Outwash Plains
-    - Lateral Moraines
-    - Terminal Moraines
+    - Outwash plains
+    - Lateral moraines
+    - Terminal moraines
     - Kames
 
 40. **Saved quiz-11, Question 2.**
 
-    Isostatic rebound occurs as a slow sinking of a large landmass due to a heavy weight, such as glaciers, and can act very slowly over geologic time.
+    Isostatic rebound is the slow sinking of a large landmass under a heavy load, such as a glacier, over geologic time.
 
     - True
     - False
@@ -179,7 +179,7 @@ Match each item to its description.
 
     - a) The total amount of sediment carried on and in the ice
     - b) The temperature of the atmosphere and ground surface
-    - c) The amount of melt water released at its terminus
+    - c) The amount of meltwater released at its terminus
     - d) All of the above
 
 42. **Saved quiz-11, Question 4.**
@@ -196,8 +196,8 @@ Match each item to its description.
 
     The majority of glacial movement downslope occurs due to:
 
-    - a) Development of cravases
-    - b) Basal slipping beneath the glacial ice
+    - a) Development of crevasses
+    - b) Basal sliding beneath the glacial ice
     - c) Internal plastic deformation within the glacial ice
     - d) Force of gravity pulling downslope
     - e) Meltwater accumulation
@@ -206,27 +206,27 @@ Match each item to its description.
 
     Elongated low mounds of till that form along the sides of a valley glacier are called:
 
-    - a) Recessional Moraines
-    - b) Medial Moraines
-    - c) Lateral Moraines
-    - d) End Moraines
+    - a) Recessional moraines
+    - b) Medial moraines
+    - c) Lateral moraines
+    - d) End moraines
 
 45. **Saved quiz-11, Question 7.**
 
-    Which of the following is NOT found in an erosional landscape created by valley glaciation?
+    Which of the following is not found in an erosional landscape created by valley glaciation?
 
     - a) Horns
     - b) Cirques
-    - c) Hanging Valleys
+    - c) Hanging valleys
     - d) Eskers
     - e) Aretes
 
 46. **Saved quiz-11, Question 8.**
 
-    A glacial budget would be considered 'positive' if:
+    A glacial budget is positive if:
 
     - a) More water is melting through the bottom of the glacier than snow water equivalent is falling on the surface
-    - b) More snow falls in the zone of accumulation than the zone of ablation
+    - b) Accumulation exceeds ablation
     - c) The glacier has an overall higher percentage of ice than soil and rock
     - d) The glacier is accumulating mass through incorporation of additional morainic and till material
 
@@ -240,17 +240,17 @@ Match each item to its description.
     - d) 2,000 years ago
     - e) 20,000 years ago
     - f) 200,000 years ago
-    - g) 2,000,000 yeas ago
+    - g) 2,000,000 years ago
 
 48. **Saved quiz-11, Question 10.**
 
     Several features can be used to help identify the general direction of past glacial movement. These include:
 
-    - a) Lakes from from meltwater
-    - b) The location of Outwash Plains
-    - c) Aretes and Horns
-    - d) Kames and Kettles
-    - e) Moraines and Eskers
+    - a) Lakes formed from meltwater
+    - b) The location of outwash plains
+    - c) Aretes and horns
+    - d) Kames and kettles
+    - e) Moraines and eskers
 
 49. **Saved quiz-11, Question 11.**
 
@@ -261,7 +261,7 @@ Match each item to its description.
 
 50. **Saved quiz-11, Question 12.**
 
-    Glaciers represent the largest reserve of fresh water on the Earth.
+    Glaciers represent the largest reserve of freshwater on Earth.
 
     - True
     - False
@@ -318,15 +318,15 @@ Match each item to its description.
 
 43. **c) Internal plastic deformation within the glacial ice.** (Course section: [[03 - 11.2 Glacial Movement and Causes of Past Glaciations#Glacial Movement|11.2 Glacial Movement]])
 
-44. **c) Lateral Moraines.** They form as elongated till ridges along the sides of valley glaciers. (Course section and Figure 11.3.1: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Depositional Features in Alpine Glacier Environments|11.3 Alpine Depositional Features]])
+44. **c) Lateral moraines.** They form as elongated till ridges along the sides of valley glaciers. (Course section and Figure 11.3.1: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Depositional Features in Alpine Glacier Environments|11.3 Alpine Depositional Features]])
 
 45. **d) Eskers.** Eskers are depositional meltwater ridges; horns, cirques, hanging valleys, and aretes are erosional alpine features. (Course sections: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Erosional Features in Alpine Glacier Environments|11.3 Alpine Erosional Features]] and [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Erosional and Depositional Features in Continental Glacier Environments|11.3 Continental Glacier Features]])
 
-46. **b) More snow falls in the zone of accumulation than the zone of ablation.** Accumulation exceeding ablation produces a positive budget and glacier growth. (Course section: [[02 - 11.1 Introduction to Glaciers: Formation, Classification, and Anatomy#Formation of Glaciers|11.1 Formation of Glaciers]])
+46. **b) Accumulation exceeds ablation.** This produces a positive glacial budget and glacier growth. (Course section: [[02 - 11.1 Introduction to Glaciers: Formation, Classification, and Anatomy#Formation of Glaciers|11.1 Formation of Glaciers]])
 
 47. **e) 20,000 years ago.** (Course section and Figure 11.2.2: [[03 - 11.2 Glacial Movement and Causes of Past Glaciations#Glacial History|11.2 Glacial History]])
 
-48. **e) Moraines and Eskers.** Their form and alignment can preserve evidence of former ice and meltwater-flow directions. (Course section and Figure 11.3.6: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Figure Lessons|11.3 Figure Lessons]])
+48. **e) Moraines and eskers.** Their form and alignment can preserve evidence of former ice and meltwater-flow directions. (Course section and Figure 11.3.6: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Figure Lessons|11.3 Figure Lessons]])
 
 49. **False.** Alpine glaciers widen and deepen stream-carved V-shaped valleys into U-shaped valleys. (Course section: [[04 - 11.3 Direct Effects of Glaciation: Erosional and Depositional#Erosional Features in Alpine Glacier Environments|11.3 Alpine Erosional Features]])
 

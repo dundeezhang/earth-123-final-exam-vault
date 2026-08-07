@@ -60,11 +60,11 @@ Module: [[00 - Module 08 Overview]]
    - C. Chemical weathering stops
    - D. Soil formation immediately accelerates
 
-8. Which methods effectively limit topsoil erosion? **Select all that apply.**
-   - A. Use only organic fertilizer
-   - B. Reduce or contour slopes
-   - C. Plant windbreaks perpendicular to prevailing wind
-   - D. Build stepped terraces
+8. Which option lists three effective methods for limiting topsoil erosion?
+   - A. Use organic fertilizer, remove windbreaks, and steepen slopes
+   - B. Contour slopes, plant windbreaks perpendicular to the prevailing wind, and build stepped terraces
+   - C. Smooth slopes, plant windbreaks parallel to the prevailing wind, and remove ground cover
+   - D. Increase runoff velocity, compact the surface, and remove terraces
 
 9. Which statement correctly distinguishes physical from chemical weathering?
    - A. Physical weathering changes minerals; chemical weathering changes only size.
@@ -201,7 +201,7 @@ Show the equation, substitution, and result for each calculation.
 
 43. **Saved quiz-8, Question 2.**
 
-    Which of the following soil horizon(s) would be considered part of the 'sub-soil'?
+    Which soil horizon is considered part of the subsoil?
 
     - a) A
     - b) A and E
@@ -212,12 +212,12 @@ Show the equation, substitution, and result for each calculation.
 
     Which of the following factors contributes to the creation of new soil?
 
-    - a) Parent Material
+    - a) Parent material
     - b) Time
     - c) Climate
     - d) Plants and animals
     - e) All of the above
-    - f) Only a), b), and c), above
+    - f) Only a), b), and c) above
 
 45. **Saved quiz-8, Question 4.**
 
@@ -235,7 +235,7 @@ Show the equation, substitution, and result for each calculation.
 
 47. **Saved quiz-8, Question 6.**
 
-    By dividing the volume of the voids (V<sub>voids</sub>) by the volume of the soil (V<sub>soil</sub>) from a particular sample, you would end up with:
+    Dividing the volume of voids (V<sub>voids</sub>) by the volume of soil solids (V<sub>solids</sub>) in a sample gives:
 
     - a) Porosity
     - b) Degree of saturation
@@ -244,12 +244,12 @@ Show the equation, substitution, and result for each calculation.
 
 48. **Saved quiz-8, Question 7.**
 
-    Which of the following does NOT play a strong role on the creation of new soils?
+    Which of the following does not play a strong role in the creation of new soils?
 
     - a) Time
     - b) Topography
     - c) Parent material
-    - d) Grainsizes
+    - d) Grain size
     - e) Climate
 
 49. **Saved quiz-8, Question 8.**
@@ -270,10 +270,10 @@ Show the equation, substitution, and result for each calculation.
 
 51. **Saved quiz-8, Question 10.**
 
-    Which of the following best describes the 'plasticity index'?
+    Which of the following best describes the plasticity index?
 
     - a) The point of maximum soil cohesion
-    - b) The difference between the liquid limit and plastic limits
+    - b) The difference between the liquid limit and plastic limit
     - c) The upper limit of water content for the soil to exhibit plastic behavior
     - d) The lower limit of water content for the soil to exhibit plastic behavior
 
@@ -282,13 +282,13 @@ Show the equation, substitution, and result for each calculation.
     Which of the following could be considered a 'solution' to soil degradation?
 
     - a) Erosion
-    - b) Increased use of organic fertilizers
+    - b) Unrestricted overapplication of organic fertilizers
     - c) Water logging
     - d) Restoring plant cover
 
 53. **Saved quiz-8, Question 12.**
 
-    Place the following grainsizes in order from finest to coarsest:
+    Place the following grain sizes in order from finest to coarsest:
 
     - a) clay, silt, sand, gravel
     - b) clay, sand, silt, gravel
@@ -313,7 +313,7 @@ Show the equation, substitution, and result for each calculation.
 
 7. **B.** Greater movement velocity increases erosional effectiveness or impact. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Erosion|8.2 Soil Erosion]])
 
-8. **B, C, and D.** Reduced or contoured slopes, perpendicular windbreaks, and terraces reduce wind or runoff erosion; fertilizer type does not prevent physical soil transport. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Erosion|8.2 Soil Erosion]])
+8. **B.** Contoured slopes, perpendicular windbreaks, and terraces reduce wind or runoff erosion. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Erosion|8.2 Soil Erosion]])
 
 9. **C.** Mechanical weathering preserves composition while reducing size; chemical weathering converts material into new minerals. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Weathering|8.2 Soil Weathering]])
 
@@ -391,15 +391,15 @@ Show the equation, substitution, and result for each calculation.
 
 46. **False.** A human hair is much wider than a clay particle. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Texture|8.3 Soil Texture]])
 
-47. **c) Void ratio, according to the saved quiz key.** This answer requires $V_{\text{soil}}$ in the prompt to mean solid volume. If it means total sample volume, the stated ratio is porosity. The course definition is $e=V_{\text{voids}}/V_{\text{solids}}$. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
+47. **c) Void ratio.** The course definition is $e=V_{\text{voids}}/V_{\text{solids}}$. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
 
-48. **d) Grainsizes.** The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Controls on Soil Formation|8.1 Controls on Soil Formation]])
+48. **d) Grain size.** The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Controls on Soil Formation|8.1 Controls on Soil Formation]])
 
 49. **False.** Gravimetric water content divides water mass by solid mass, not soil volume. (Course section: [[02 - 8.1 Introduction to Soils and Phase Relationships#Phase Relationships in Soils|8.1 Phase Relationships in Soils]])
 
 50. **b) Mechanical weathering.** These processes break material physically without changing its mineral composition. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Weathering|8.2 Soil Weathering]])
 
-51. **b) The difference between the liquid limit and plastic limits.** $PI=LL-PL$. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Plasticity|8.3 Soil Plasticity]])
+51. **b) The difference between the liquid limit and plastic limit.** $PI=LL-PL$. (Course section: [[04 - 8.3 Characterizing Soils and Soil Plasticity#Soil Plasticity|8.3 Soil Plasticity]])
 
 52. **d) Restoring plant cover.** Plant cover protects soil from erosion and supports recovery. (Course section: [[03 - 8.2 Soil Erosion, Degradation, and Weathering Processes#Soil Degradation|8.2 Soil Degradation]])
 

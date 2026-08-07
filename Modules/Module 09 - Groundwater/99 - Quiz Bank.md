@@ -154,12 +154,12 @@ Module: [[00 - Module 09 Overview]]
 
 35. **Saved quiz-9, Question 1.**
 
-    Which of the following best describes the role of groundwater:
+    Which of the following best describes the roles of groundwater?
 
     - a) Provides moisture to support cultivated crops and forests
-    - b) Used as major source of drinking water
-    - c) Maintains stream flow (flood control)
-    - d) All of the Above
+    - b) Serves as a major source of drinking water
+    - c) Maintains streamflow and moderates flooding
+    - d) All of the above
 
 36. **Saved quiz-9, Question 2.**
 
@@ -172,7 +172,7 @@ Module: [[00 - Module 09 Overview]]
 
 37. **Saved quiz-9, Question 3.**
 
-    This large glacial topographic feature helps to provide fresh groundwater to the Toronto region.
+    Which large glacial topographic feature helps provide fresh groundwater to the Toronto region?
 
     - a) Lake Ontario
     - b) Niagara Escarpment
@@ -204,7 +204,7 @@ Module: [[00 - Module 09 Overview]]
 
 41. **Saved quiz-9, Question 7.**
 
-    What would the approximate pressure be in a freshwater lake at the base of a 10 metre deep hydroelectric dam?
+    What is the approximate pressure at the base of a 10-metre-deep freshwater reservoir behind a hydroelectric dam?
 
     - a) 980 Pa
     - b) 980,000 Pa
@@ -213,18 +213,18 @@ Module: [[00 - Module 09 Overview]]
 
 42. **Saved quiz-9, Question 8.**
 
-    Darcy's Law is a simple mathematical statement which neatly summarizes several familiar properties that groundwater flowing in aquifers exhibits, including:
+    Darcy's law summarizes several properties of groundwater flow in aquifers, including:
 
-    - a) If there is no pressure gradient (ie. slope) over a distance, no flow occurs.
-    - b) If there is a pressure gradient, flow will occur from high pressure towards low pressure (opposite the direction of increasing gradient.
+    - a) If there is no pressure gradient over a distance, no flow occurs.
+    - b) If there is a pressure gradient, flow occurs from high pressure toward low pressure, opposite the direction of increasing gradient.
     - c) The greater the pressure gradient (through the same formation material), the greater the discharge rate.
-    - d) The discharge rate of fluid will often be different, through different formation materials (or even through the same material, in a different direction), even if the same pressure gradient exists in both cases.
+    - d) The discharge rate can differ among formation materials, or by direction within one material, even under the same pressure gradient.
     - e) All of the above
     - f) Just B, C, and D
 
 43. **Saved quiz-9, Question 9.**
 
-    In order to protect groundwater from future contamination, we are now able to create landfills and septic systems which will never leak into the natural environment.
+    Modern landfills and septic systems can be built so that they will never leak into the natural environment.
 
     - True
     - False
@@ -249,7 +249,7 @@ Module: [[00 - Module 09 Overview]]
 
 46. **Saved quiz-9, Question 12.**
 
-    What is the approximate percentage of groundwater from all water sources on Earth?
+    Approximately what percentage of Earth's total water is groundwater?
 
     - a) 0.06%
     - b) 60.0%
@@ -291,7 +291,7 @@ Module: [[00 - Module 09 Overview]]
 
 16. **True.** Arrays provide levels for gradient calculations and reveal stable, rising, or falling groundwater conditions. *(§9.3, “Piezometers and water-table behaviour.”)*
 
-17. **False.** Pore velocity is $v=q/n$, so it exceeds $q$ when $0<n<1$. *(§9.4, “Pore-water velocity and travel time,” Assignment 5, Question 2d.)*
+17. **False.** Pore velocity is $v=q/n$, so it exceeds $q$ when porosity is between 0 and 1. *(§9.4, “Pore-water velocity and travel time,” Assignment 5, Question 2d.)*
 
 18. **False.** Fractured karst geology made the deeper aquifers semi-confined/leaky and connected them to the surface. *(§9.6, “Subsurface pathway,” Figure 9.6.1.)*
 
@@ -327,7 +327,7 @@ Module: [[00 - Module 09 Overview]]
 
 34. **$1.5\times10^{-4}\ \text{m/s}$.** $v=(1.5\times10^{-3}/0.40)(0.04)$. *(§9.5, “Course check calculation”; course Check Your Knowledge.)*
 
-35. **d) All of the Above.** Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the Hydrological Cycle|9.1 Groundwater in the Hydrological Cycle]].)*
+35. **d) All of the above.** Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. *(Course section: [[02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination#Groundwater in the Hydrological Cycle|9.1 Groundwater in the Hydrological Cycle]].)*
 
 36. **a) The height to which water will rise in or above a well.** *(Course section and figure: [[05 - 9.4 Pressure, Head, and Flow Calculations#Head and Pressure|9.4 Head and Pressure]], potentiometric-surface figure.)*
 

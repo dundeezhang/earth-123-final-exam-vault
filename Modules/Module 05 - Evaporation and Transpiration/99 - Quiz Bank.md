@@ -152,13 +152,13 @@ Module notes: [[02 - 5.1 Introduction to Evaporation and Transpiration]] | [[03 
 
 ### Official Course Quiz Questions
 
-31. **Saved quiz-4, Question 6.** An air parcel with an $e_s>e_a$ will cause:
+31. **Saved quiz-4, Question 6.** An air parcel with $e_s>e_a$ will favour:
     - a) Evaporation
     - b) Condensation and cloud formation
-    - c) Both a) and b)
+    - c) Both evaporation and condensation
     - d) None of the above
 
-32. **Saved quiz-5, Question 1.** For evaporation to occur, a source of energy, and a _________________________ in the overlying air must be present.
+32. **Saved quiz-5, Question 1.** For evaporation to occur, a source of energy and which atmospheric condition must be present?
     - a) condition of $(e_s-e_a)<0$
     - b) vapour pressure deficit
     - c) high relative humidity
@@ -175,11 +175,11 @@ Module notes: [[02 - 5.1 Introduction to Evaporation and Transpiration]] | [[03 
     - True
     - False
 
-35. **Saved quiz-5, Question 4.** Which of the following descriptions below would be best suited for a 'xerophyte' tree?
-    - a) An temperate climate with roots directly accessing the water table
+35. **Saved quiz-5, Question 4.** Which description best characterizes a xerophyte tree?
+    - a) A temperate climate with roots directly accessing the water table
     - b) A cold climate with roots accessing water from permafrost
     - c) A warm or temperate climate with roots directly in water
-    - d) An arid climate with shallow dense roots
+    - d) An arid climate with shallow, dense roots
 
 36. **Saved quiz-5, Question 5.** In the summer months, the average evaporation rate will be highest for which of the following water bodies?
     - a) A large, deep, saline water body
@@ -187,14 +187,14 @@ Module notes: [[02 - 5.1 Introduction to Evaporation and Transpiration]] | [[03 
     - c) A large, shallow, freshwater lake
     - d) A small, shallow, freshwater lake
 
-37. **Saved quiz-5, Question 6.** Which of the following would NOT be included in evapotranspiration?
+37. **Saved quiz-5, Question 6.** Which of the following would not be included in evapotranspiration?
     - a) Evaporation from lakes and rivers
     - b) Condensation of dew or frost
     - c) Transpiration from plants
     - d) Sublimation from ice and snow
     - e) Interception evaporation
 
-38. **Saved quiz-5, Question 7.** (Hendriks, 2010, p15) You have measured air with a temperature of 20°C, which also has a vapour pressure of about 2.25 kPa, therefore:
+38. **Saved quiz-5, Question 7.** Air at 20°C has a measured vapour pressure of approximately 2.25 kPa. Therefore:
 
     ![Saved saturation vapour pressure curve](../../Assets/Official%20Quizzes/saturation-vapour-pressure-curve.jpg)
 
@@ -206,18 +206,18 @@ Module notes: [[02 - 5.1 Introduction to Evaporation and Transpiration]] | [[03 
     - b) The environment will allow for condensation to dominate
     - c) The environment will allow for evaporation to dominate
 
-39. **Saved quiz-5, Question 8.** During the day, groundwater is consumed at a high rate by both evaporation and transpiration processes. This rate will commonly exceed the groundwater in-flow rate and the water table will rise significantly.
+39. **Saved quiz-5, Question 8.** During the day, groundwater is consumed at a high rate by evaporation and transpiration. This rate commonly exceeds groundwater inflow, causing the water table to rise significantly.
     - True
     - False
 
-40. **Saved quiz-5, Question 9.** Increasing the albedo of a water body or snow pack will:
+40. **Saved quiz-5, Question 9.** Increasing the albedo of a water body or snowpack will:
     - a) Albedo changes have no impact on evaporation or condensation processes
     - b) Partially increase condensation
     - c) Partially decrease condensation
     - d) Partially decrease evaporation
     - e) Partially increase evaporation
 
-41. **Saved quiz-5, Question 10.** Dry air moving over and across a large lake will have a higher evaporation rate than dry air moving over and across a small lake
+41. **Saved quiz-5, Question 10.** Dry air moving across a large lake will produce a higher average evaporation rate than dry air moving across a small lake.
     - True
     - False
 
@@ -228,7 +228,7 @@ Module notes: [[02 - 5.1 Introduction to Evaporation and Transpiration]] | [[03 
     - d) Using an evaporation pot
     - e) Using an evaporation pan
 
-43. **Saved quiz-5, Question 12.** Soils can play an important role in controlling evaporation. Soils with higher permeability rates will allow for more evaporation over time.
+43. **Saved quiz-5, Question 12.** Soils with higher permeability will allow more evaporation over time.
     - True
     - False
 

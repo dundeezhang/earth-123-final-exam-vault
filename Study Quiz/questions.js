@@ -8,10 +8,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which course page gives the most organized view of content, assessments, and due dates?",
     "options": [
-      "A. Contact Information",
-      "B. Course Schedule",
-      "C. Optional Resources",
-      "D. Grade Breakdown"
+      "Contact Information",
+      "Course Schedule",
+      "Optional Resources",
+      "Grade Breakdown"
     ],
     "answer": 1,
     "explanation": "<strong>B, Course Schedule.</strong> It organizes course content, activities, assignments, and due dates. <em>(Saved course page: 1.1 How This Course Works; A Scavenger Hunt!.)</em>",
@@ -26,10 +26,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which item is part of the recurring weekly-module structure?",
     "options": [
-      "A. Laboratory inventory",
-      "B. Learning outcomes",
-      "C. Employment history",
-      "D. Research funding"
+      "Laboratory inventory",
+      "Learning outcomes",
+      "Employment history",
+      "Research funding"
     ],
     "answer": 1,
     "explanation": "<strong>B, learning outcomes.</strong> The weekly structure also includes time management, introduction, module content, activities and assignments, key terms, and optional resources. <em>(Saved course page: 1.1.)</em>",
@@ -44,10 +44,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which group contains the assessment types identified in 1.1?",
     "options": [
-      "A. Quizzes, assignments, and discussion posts",
-      "B. Exams, field trips, and laboratory reports",
-      "C. Videos, websites, and readings",
-      "D. Lectures, textbooks, and office hours"
+      "Quizzes, assignments, and discussion posts",
+      "Exams, field trips, and laboratory reports",
+      "Videos, websites, and readings",
+      "Lectures, textbooks, and office hours"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> The source identifies short weekly quizzes, assignments, and discussion posts. <em>(Saved course page: 1.1.)</em>",
@@ -62,10 +62,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "According to 1.1, optional readings and resources are primarily intended to:",
     "options": [
-      "A. Replace required module content",
-      "B. Supply assessed numerical data",
-      "C. Provide examples, animations, images, and stories",
-      "D. Determine final grades"
+      "Replace required module content",
+      "Supply assessed numerical data",
+      "Provide examples, animations, images, and stories",
+      "Determine final grades"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Optional materials supply examples, animations, pictures, stories, and context. <em>(Saved course page: 1.1.)</em>",
@@ -80,10 +80,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Where does 1.1 direct students to find the number of quizzes?",
     "options": [
-      "A. Course Schedule",
-      "B. Activities and Assessments",
-      "C. Contact Information",
-      "D. Grade Breakdown"
+      "Course Schedule",
+      "Activities and Assessments",
+      "Contact Information",
+      "Grade Breakdown"
     ],
     "answer": 1,
     "explanation": "<strong>B, Activities and Assessments.</strong> The scavenger hunt directs students there for the number of quizzes. <em>(Saved course page: 1.1.)</em>",
@@ -98,10 +98,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which statement best describes a hypothesis?",
     "options": [
-      "A. A final, unchangeable fact",
-      "B. A testable explanation",
-      "C. Any collected measurement",
-      "D. The expected result of a test"
+      "A final, unchangeable fact",
+      "A testable explanation",
+      "Any collected measurement",
+      "The expected result of a test"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> A hypothesis is a testable explanation. <em>(Course-linked topic: 1.2 The Scientific Method; standardized study scaffold because the linked reading body was not saved.)</em>",
@@ -116,10 +116,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "Which statement best describes a prediction?",
     "options": [
-      "A. The expected observation if a hypothesis is supported",
-      "B. The variable deliberately changed",
-      "C. A summary of all prior research",
-      "D. An unexplained observation"
+      "The expected observation if a hypothesis is supported",
+      "The variable deliberately changed",
+      "A summary of all prior research",
+      "An unexplained observation"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> A prediction states what should be observed if the hypothesis is supported. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
@@ -134,10 +134,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "In a study of pavement and peak discharge, which is the dependent variable?",
     "options": [
-      "A. Impervious surface percentage",
-      "B. Peak discharge",
-      "C. Watershed name",
-      "D. Researcher identity"
+      "Impervious surface percentage",
+      "Peak discharge",
+      "Watershed name",
+      "Researcher identity"
     ],
     "answer": 1,
     "explanation": "<strong>B, peak discharge.</strong> It is the measured response to the proposed influence of impervious surface area. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
@@ -152,10 +152,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "What should a scientist do when strong evidence conflicts with a hypothesis?",
     "options": [
-      "A. Ignore the evidence",
-      "B. Revise or reject the hypothesis",
-      "C. Convert the hypothesis into a fact",
-      "D. Remove all controlled variables"
+      "Ignore the evidence",
+      "Revise or reject the hypothesis",
+      "Convert the hypothesis into a fact",
+      "Remove all controlled variables"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Scientific explanations are revised or rejected when evidence requires a change. <em>(Course-linked topic: 1.2; standardized study scaffold.)</em>",
@@ -170,10 +170,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Which organization produced the film assigned in 1.3?",
     "options": [
-      "A. Intergovernmental Panel on Climate Change",
-      "B. National Film Board of Canada",
-      "C. Geological Survey of Canada",
-      "D. Environment and Climate Change Canada"
+      "Intergovernmental Panel on Climate Change",
+      "National Film Board of Canada",
+      "Geological Survey of Canada",
+      "Environment and Climate Change Canada"
     ],
     "answer": 1,
     "explanation": "<strong>B, National Film Board of Canada.</strong> <em>(Saved course page: 1.3 Water Movie.)</em>",
@@ -188,10 +188,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "What does the film description emphasize?",
     "options": [
-      "A. Canadian waterways, reserves, and networks",
-      "B. Atmospheric circulation over Europe",
-      "C. Soil classification in the tropics",
-      "D. Ocean chemistry on Mars"
+      "Canadian waterways, reserves, and networks",
+      "Atmospheric circulation over Europe",
+      "Soil classification in the tropics",
+      "Ocean chemistry on Mars"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> The saved description identifies Canadian waterways, reserves, and networks. <em>(Saved course page: 1.3.)</em>",
@@ -206,10 +206,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "How does the course page characterize water in the film description?",
     "options": [
-      "A. As a resource with no management challenges",
-      "B. As both a boon and a challenge",
-      "C. As relevant only to the past",
-      "D. As entirely salt water"
+      "As a resource with no management challenges",
+      "As both a boon and a challenge",
+      "As relevant only to the past",
+      "As entirely salt water"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Water is described as precious and as both a boon and a challenge. <em>(Saved course page: 1.3.)</em>",
@@ -350,7 +350,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 1",
-    "prompt": "A drainage basin, watershed, or catchment area, are all generally interchangeable terms and can describe the total geographical area which drains into a river or reservoir (lake, ocean).",
+    "prompt": "The terms drainage basin, watershed, and catchment area are generally interchangeable. Each describes the total geographic area that drains into a river or reservoir, such as a lake or ocean.",
     "options": [
       "True",
       "False"
@@ -366,15 +366,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 3, question 1",
-    "prompt": "Examine the simple hydrograph below, and pick the answer which best describes regions 1 and 2 from the figure. © Course Author(s) and University of Waterloo",
+    "prompt": "Examine the hydrograph below. Which statement correctly identifies the two labelled flow components?",
     "options": [
-      "a) Area 1 represents baseflow and area 2 represents stormflow.",
-      "b) Area 1 represents precipitation and area 2 represents discharge.",
-      "c) Area 1 represents stormflow and area 2 represents baseflow.",
-      "d) Area 1 represents discharge and area 2 represents precipitation."
+      "The upper event-response area is baseflow, and the lower persistent area is stormflow.",
+      "The upper event-response area is precipitation, and the lower persistent area is discharge.",
+      "The upper event-response area is stormflow, and the lower persistent area is baseflow.",
+      "The upper event-response area is discharge, and the lower persistent area is precipitation."
     ],
     "answer": 2,
-    "explanation": "<strong>c) Area 1 represents stormflow and area 2 represents baseflow.</strong> The event-generated volume lies above the persistent groundwater-supported baseflow. Citation: Course section 2.2, Figure 2.2.4.",
+    "explanation": "<strong>c) The upper event-response area is stormflow, and the lower persistent area is baseflow.</strong> The event-generated volume lies above the persistent groundwater-supported baseflow. Citation: Course section 2.2, Figure 2.2.4.",
     "images": [
       "assets/quiz-3-q1-2.2-hydrograph.png"
     ]
@@ -388,10 +388,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 2, question 2",
     "prompt": "Which of the following water sources has the largest volume of total water on Earth?",
     "options": [
-      "a) Polar ice and glaciers",
-      "b) Brackish & saline groundwater",
-      "c) Fresh groundwater",
-      "d) All surface freshwaters sources including soil, and atmospheric water combined"
+      "Polar ice and glaciers",
+      "Brackish & saline groundwater",
+      "Fresh groundwater",
+      "All surface freshwater sources, including soil water and atmospheric water, combined"
     ],
     "answer": 0,
     "explanation": "<strong>a) Polar ice and glaciers.</strong> The figure shows glaciers and ice caps holding a larger global volume than the listed saline groundwater, fresh groundwater, or combined surface freshwater stores. Citation: Course section 2.1, Figure 2.1.4.",
@@ -406,15 +406,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 2,
     "sourceType": "official",
     "sourceLabel": "Quiz 3, question 2",
-    "prompt": "The total drop in elevation from Lake Superior to the St Lawrence River outlet from Lake Ontario is approximately:",
+    "prompt": "The total drop in elevation from Lake Superior to the St. Lawrence River outlet from Lake Ontario is approximately:",
     "options": [
-      "a) 1 metre",
-      "b) 10 metres",
-      "c) 11 metres",
-      "d) 100 metres",
-      "e) 110 metres",
-      "f) 1000 metres",
-      "g) 1100 metres"
+      "1 metre",
+      "10 metres",
+      "11 metres",
+      "100 metres",
+      "110 metres",
+      "1000 metres",
+      "1100 metres"
     ],
     "answer": 4,
     "explanation": "<strong>e) 110 metres.</strong> The Great Lakes topographic profile shows an approximate 110 m total descent from Lake Superior to the St. Lawrence outlet from Lake Ontario. Citation: Course section 2.4, Figure 2.4.3.",
@@ -427,12 +427,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 3",
-    "prompt": "According to classifications by hydrologist, which of the following is NOT a 'major water type'?",
+    "prompt": "According to hydrological classifications, which of the following is not a major water type?",
     "options": [
-      "a) Atmospheric water",
-      "b) Mountain glaciers",
-      "c) Groundwater",
-      "d) Surface water"
+      "Atmospheric water",
+      "Mountain glaciers",
+      "Groundwater",
+      "Surface water"
     ],
     "answer": 1,
     "explanation": "<strong>b) Mountain glaciers.</strong> The four major water-resource categories are atmospheric water, surface water, groundwater, and the cryosphere; mountain glaciers are an example within the cryosphere. Citation: Course section 2.1, Four major water-resource categories.",
@@ -445,15 +445,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "official",
     "sourceLabel": "Quiz 3, question 3",
-    "prompt": "Although our planet is covered with large bodies of water, approximately what percent of it is considered fresh water (frozen and unfrozen)?",
+    "prompt": "Approximately what percentage of Earth's water is freshwater, including frozen and unfrozen water?",
     "options": [
-      "a) less than 1%",
-      "b) approximately 5 - 10%",
-      "c) more than 10%",
-      "d) approximately 2 - 4%"
+      "less than 1%",
+      "approximately 5% to 10%",
+      "more than 10%",
+      "approximately 2% to 4%"
     ],
     "answer": 3,
-    "explanation": "<strong>d) approximately 2 - 4%.</strong> Freshwater is about 2.5% of total global water. Citation: Course section 2.1, Figure 2.1.4.",
+    "explanation": "<strong>d) approximately 2% to 4%.</strong> Freshwater is about 2.5% of total global water. Citation: Course section 2.1, Figure 2.1.4.",
     "images": []
   },
   {
@@ -465,13 +465,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 2, question 4",
     "prompt": "Why is the land area closest to the Great Lakes warmer in the winter than regions further inland?",
     "options": [
-      "a) The Great Lakes absorb energy during the winter months",
-      "b) The prevailing winds from west to east push warm air over the shores",
-      "c) The Great Lakes slowly release stored beat absorbed during the warmer months",
-      "d) Solid ice covering the lakes helps to retain the heat within the waters, allowing it to warm the shores"
+      "The Great Lakes absorb energy during the winter months",
+      "The prevailing winds from west to east push warm air over the shores",
+      "The Great Lakes slowly release stored heat absorbed during the warmer months",
+      "Solid ice covering the lakes helps to retain the heat within the waters, allowing it to warm the shores"
     ],
     "answer": 2,
-    "explanation": "<strong>c) The Great Lakes slowly release stored beat absorbed during the warmer months.</strong> The option preserves the saved quiz typo for \"heat.\" Large lake volumes store summer energy and release it slowly during winter. Citation: Course section 2.4, Great Lakes climate effects and Figure 2.4.4.",
+    "explanation": "<strong>c) The Great Lakes slowly release stored heat absorbed during the warmer months.</strong> Large lake volumes store summer energy and release it slowly during winter. Citation: Course section 2.4, Great Lakes climate effects and Figure 2.4.4.",
     "images": []
   },
   {
@@ -481,18 +481,18 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 4,
     "sourceType": "official",
     "sourceLabel": "Quiz 3, question 4",
-    "prompt": "Refer to the image below and select the correct water balance equation at non-steady state: (Dingman, 2002, p12)",
+    "prompt": "Refer to the image below and select the correct water-balance equation under non-steady-state conditions.",
     "options": [
-      "a) ΔS = (P + G<sub>in</sub>) + (Q + ET + G<sub>out</sub>)",
-      "b) ΔS = (P + G<sub>in</sub>) - (Q + ET + G<sub>out</sub>)",
-      "c) ΔS = (P - G<sub>in</sub>) - (Q + ET + G<sub>out</sub>)",
-      "d) ΔS = (P - G<sub>in</sub>) - (Q - ET - G<sub>out</sub>)",
-      "e) (P - G<sub>in</sub>) = (Q + ET + G<sub>out</sub>)",
-      "f) (P + G<sub>in</sub>) = (Q + ET + G<sub>out</sub>)",
-      "g) (P + G<sub>in</sub>) = (Q - ET - G<sub>out</sub>)"
+      "ΔS = (P + G<sub>in</sub>) + (Q + ET + G<sub>out</sub>)",
+      "ΔS = (P + G<sub>in</sub>) - (Q + ET + G<sub>out</sub>)",
+      "ΔS = (P - G<sub>in</sub>) - (Q + ET + G<sub>out</sub>)",
+      "ΔS = (P - G<sub>in</sub>) - (Q - ET - G<sub>out</sub>)",
+      "(P - G<sub>in</sub>) = (Q + ET + G<sub>out</sub>)",
+      "(P + G<sub>in</sub>) = (Q + ET + G<sub>out</sub>)",
+      "(P + G<sub>in</sub>) = (Q - ET - G<sub>out</sub>)"
     ],
     "answer": 1,
-    "explanation": "<strong>b) Δ S=(P+G<sub>in</sub>)-(Q+ET+G<sub>out</sub>).</strong> At non-steady state, inputs minus outputs equal the change in storage. Citation: Course section 2.2, Figure 2.2.6.",
+    "explanation": "<strong>b) ΔS=(P+G<sub>in</sub>)-(Q+ET+G<sub>out</sub>).</strong> At non-steady state, inputs minus outputs equal the change in storage. Citation: Course section 2.2, Figure 2.2.6.",
     "images": [
       "assets/quiz-3-q4-2.2-conceptual-watershed.jpg"
     ]
@@ -504,7 +504,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 5,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 5",
-    "prompt": "The oceans loose more water by evaporation then they gain by precipitation, whereas land receives more water as precipitation than it looses through evapotranspiration.",
+    "prompt": "The oceans lose more water through evaporation than they gain through precipitation, whereas land receives more water through precipitation than it loses through evapotranspiration.",
     "options": [
       "True",
       "False"
@@ -522,10 +522,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 3, question 5",
     "prompt": "A tributary can be best defined as:",
     "options": [
-      "a) an area of land that drains through a defined outlet point",
-      "b) a graph that plots the change in total discharge of a stream or river",
-      "c) a smaller stream or river which flows into a larger stream or river",
-      "d) a lake, pond, or other surface water reservoir/impoundment"
+      "an area of land that drains through a defined outlet point",
+      "a graph that plots the change in total discharge of a stream or river",
+      "a smaller stream or river which flows into a larger stream or river",
+      "a lake, pond, or other surface water reservoir/impoundment"
     ],
     "answer": 2,
     "explanation": "<strong>c) a smaller stream or river which flows into a larger stream or river.</strong> Citation: Course section 2.2, Watersheds and drainage boundaries.",
@@ -540,11 +540,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 2, question 6",
     "prompt": "Which of the following Canadian industries uses the most fresh water on average?",
     "options": [
-      "a) Food industries",
-      "b) The oil sands",
-      "c) Paper industries",
-      "d) Metal mining and refining",
-      "e) Petroleum and coal extraction"
+      "Food industries",
+      "The oil sands",
+      "Paper industries",
+      "Metal mining and refining",
+      "Petroleum and coal extraction"
     ],
     "answer": 2,
     "explanation": "<strong>c) Paper industries.</strong> The course industrial-water-use comparison assigns the largest freshwater use among the listed sectors to paper industries. Citation: Course section 2.1, Figure 2.1.2.",
@@ -573,7 +573,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 7",
-    "prompt": "A hydrograph could be used to measure the impact of precipitation on stream flow.",
+    "prompt": "A hydrograph can be used to assess the effect of precipitation on streamflow.",
     "options": [
       "True",
       "False"
@@ -589,14 +589,14 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 3, question 7",
-    "prompt": "A possible source(s) of groundwater contamination could be:",
+    "prompt": "Which of the following can contaminate groundwater?",
     "options": [
-      "a) landfills",
-      "b) saline water from ocean or groundwater intrusion",
-      "c) septic tanks",
-      "d) farms",
-      "e) all of the above",
-      "f) just a), c) and d) above"
+      "landfills",
+      "saline water from ocean or groundwater intrusion",
+      "septic tanks",
+      "farms",
+      "all of the above",
+      "just a), c) and d) above"
     ],
     "answer": 4,
     "explanation": "<strong>e) all of the above.</strong> Landfills, saline intrusion, septic systems, and farms can all introduce contaminants to groundwater. Citation: Course section 2.1, Figure 2.1.5.",
@@ -609,12 +609,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 8",
-    "prompt": "Which of the following water sources has the highest PERCENT of fresh water on Earth?",
+    "prompt": "Which of the following reservoirs contains the largest percentage of Earth's freshwater?",
     "options": [
-      "a) All surface freshwater, soil, and atmospheric waters combined",
-      "b) Fresh groundwater",
-      "c) Polar ice caps",
-      "d) The oceans"
+      "All surface freshwater, soil, and atmospheric waters combined",
+      "Fresh groundwater",
+      "Polar ice caps",
+      "The oceans"
     ],
     "answer": 2,
     "explanation": "<strong>c) Polar ice caps.</strong> Glaciers and ice caps contain the greatest percentage of Earth's freshwater. Citation: Course section 2.1, Figure 2.1.4.",
@@ -633,7 +633,7 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
-    "explanation": "<strong>True.</strong> A system with zero inputs and zero outputs has Δ S=0 and therefore satisfies steady state. Steady state also occurs when nonzero inputs equal nonzero outputs. Citation: Course section 2.3, Steady state.",
+    "explanation": "<strong>True.</strong> A system with zero inputs and zero outputs has ΔS=0 and therefore satisfies steady state. Steady state also occurs when nonzero inputs equal nonzero outputs. Citation: Course section 2.3, Steady state.",
     "images": []
   },
   {
@@ -643,13 +643,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 9,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 9",
-    "prompt": "Which of the following terms can be best described as drawing a line around a region drained by all of the tributaries of a stream or river.",
+    "prompt": "Which term describes the region enclosed by a boundary around all tributaries that drain to a common stream or river?",
     "options": [
-      "a) A runoff diagram",
-      "b) A continental divide",
-      "c) A watershed",
-      "d) A hydrograph",
-      "e) A divide"
+      "A runoff diagram",
+      "A continental divide",
+      "A watershed",
+      "A hydrograph",
+      "A divide"
     ],
     "answer": 2,
     "explanation": "<strong>c) A watershed.</strong> A watershed is the land area bounded by drainage divides whose tributaries drain toward a common outlet. Citation: Course section 2.2, Watersheds and drainage boundaries.",
@@ -664,14 +664,14 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 3, question 9",
     "prompt": "The downward movement of water from the surface to the water table or saturated zone is referred to as:",
     "options": [
-      "a) Percolation",
-      "b) Condensation",
-      "c) Infiltration",
-      "d) Discharge",
-      "e) Precipitation"
+      "Percolation",
+      "Condensation",
+      "Infiltration",
+      "Discharge",
+      "Precipitation"
     ],
     "answer": 0,
-    "explanation": "<strong>a) Percolation.</strong> Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. The saved grading key conflicts with this local course definition and may have been keyed as infiltration. Citation: Course section 9.1, Groundwater in the hydrological cycle; Module 9 definitions, Percolation.",
+    "explanation": "<strong>a) Percolation.</strong> Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. Citation: Course section 9.1, Groundwater in the hydrological cycle; Module 9 definitions, Percolation.",
     "images": []
   },
   {
@@ -683,10 +683,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 2, question 10",
     "prompt": "What is the dominant land use within the Grand River watershed?",
     "options": [
-      "a) Wetlands and swamps",
-      "b) Built-up urban areas",
-      "c) Forests",
-      "d) Agriculture"
+      "Wetlands and swamps",
+      "Built-up urban areas",
+      "Forests",
+      "Agriculture"
     ],
     "answer": 3,
     "explanation": "<strong>d) Agriculture.</strong> The land-use figure identifies agriculture as the dominant land use in the Grand River watershed. Citation: Course section 2.4, Figure 2.4.7.",
@@ -699,12 +699,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 10,
     "sourceType": "official",
     "sourceLabel": "Quiz 3, question 10",
-    "prompt": "The term 'watershed' could be best defined as:",
+    "prompt": "Which option best defines a watershed?",
     "options": [
-      "a) A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.",
-      "b) A hydrologic system where plants and animals share a common water source.",
-      "c) A hydrologic system where water flows into a lake or river system, through a well-defined inflow point.",
-      "d) A hydrologic system on where precipitation eventually collects into subsurface aquifers."
+      "A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.",
+      "A hydrologic system where plants and animals share a common water source.",
+      "A hydrologic system where water flows into a lake or river through a well-defined inflow point.",
+      "A hydrologic system where precipitation eventually collects in subsurface aquifers."
     ],
     "answer": 0,
     "explanation": "<strong>a) A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.</strong> Citation: Course section 2.2, Watersheds and drainage boundaries.",
@@ -717,12 +717,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 11,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 11",
-    "prompt": "Canadians on average are using 329 litres of freshwater per person, per day. Where are Canadians using the most water at home?",
+    "prompt": "Canadians use an average of 329 litres of freshwater per person per day. Which household activity uses the most water?",
     "options": [
-      "a) Baths and showers",
-      "b) Laundry",
-      "c) Cleaning",
-      "d) Toilets"
+      "Baths and showers",
+      "Laundry",
+      "Cleaning",
+      "Toilets"
     ],
     "answer": 0,
     "explanation": "<strong>a) Baths and showers.</strong> The residential-use figure assigns 35% to bathing and showering, the largest displayed share. Citation: Course section 2.1, Figure 2.1.1a.",
@@ -739,11 +739,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 3, question 11",
     "prompt": "Where does the majority of global precipitation on land occur?",
     "options": [
-      "a) Close to the equator",
-      "b) It is evenly distributed around the planet",
-      "c) The region around the Tropic of Capricorn",
-      "d) The region around the Tropic of Cancer",
-      "e) The polar regions"
+      "Close to the equator",
+      "It is evenly distributed around the planet",
+      "The region around the Tropic of Capricorn",
+      "The region around the Tropic of Cancer",
+      "The polar regions"
     ],
     "answer": 0,
     "explanation": "<strong>a) Close to the equator.</strong> The global precipitation map shows the main high-precipitation belt near the equator. Citation: Course section 2.4, Figure 2.4.1.",
@@ -756,13 +756,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 2, question 12",
-    "prompt": "Which of the equations below would best represent the following image: © Course Author(s) and University of Waterloo; VectorMine/iStock/Getty Images (watershed); tarras79/iStock/Getty Images (buildings)",
+    "prompt": "Which equation best represents the watershed shown below?",
     "options": [
-      "a) Change in Storage = (A+B) - (C+D+E)",
-      "b) Change in Storage = (A+B) + (C+D+E)",
-      "c) Change in Storage = (A-B) + (C-D-E)",
-      "d) Change in Storage = (A+B) - (C-D+E)",
-      "e) Change in Storage = (A-B) - (C-D-E)"
+      "Change in Storage = (A+B) - (C+D+E)",
+      "Change in Storage = (A+B) + (C+D+E)",
+      "Change in Storage = (A-B) + (C-D-E)",
+      "Change in Storage = (A+B) - (C-D+E)",
+      "Change in Storage = (A-B) - (C-D-E)"
     ],
     "answer": 0,
     "explanation": "<strong>a) Change in Storage = (A+B) - (C+D+E).</strong> Storage change equals total inputs minus total outputs. Citation: Course section 2.2, Systems and conservation and Figure 2.2.7.",
@@ -779,10 +779,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 3, question 12",
     "prompt": "A basic water balance equation could be stated simply as:",
     "options": [
-      "a) The change in storage is equal to the outputs through precipitation minus the inputs through evaporation",
-      "b) The change in storage is at steady state",
-      "c) The change in storage is equal to inputs minus outputs",
-      "d) The change in storage is equal to outputs minus precipitation"
+      "The change in storage is equal to the outputs through precipitation minus the inputs through evaporation",
+      "The change in storage is at steady state",
+      "The change in storage is equal to inputs minus outputs",
+      "The change in storage is equal to outputs minus precipitation"
     ],
     "answer": 2,
     "explanation": "<strong>c) The change in storage is equal to inputs minus outputs.</strong> Citation: Course section 2.3, Water balance as a conservation problem.",
@@ -797,10 +797,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which description best matches physical hydrology?",
     "options": [
-      "A. Classification of biological species living near water",
-      "B. Study of water occurrence, movement, and physical properties on and within Earth and its atmosphere",
-      "C. Study of ocean chemistry alone",
-      "D. Design of municipal pipes without environmental measurements"
+      "Classification of biological species living near water",
+      "Study of water occurrence, movement, and physical properties on and within Earth and its atmosphere",
+      "Study of ocean chemistry alone",
+      "Design of municipal pipes without environmental measurements"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Physical hydrology concerns water occurrence, movement, and physical properties on and within Earth and its atmosphere. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts.)</em>",
@@ -815,10 +815,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which item belongs to the cryosphere?",
     "options": [
-      "A. An aquifer",
-      "B. A river",
-      "C. A glacier",
-      "D. A cloud containing liquid droplets"
+      "An aquifer",
+      "A river",
+      "A glacier",
+      "A cloud containing liquid droplets"
     ],
     "answer": 2,
     "explanation": "<strong>C, a glacier.</strong> Glaciers, ice caps, and snow are cryospheric water. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts.)</em>",
@@ -833,10 +833,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Approximately what fraction of Earth's total water is in the oceans?",
     "options": [
-      "A. 37%",
-      "B. 57%",
-      "C. 77%",
-      "D. 97%"
+      "37%",
+      "57%",
+      "77%",
+      "97%"
     ],
     "answer": 3,
     "explanation": "<strong>D, about 97%.</strong> Freshwater makes up under 3% of the total. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts, Figure 2.1.4.)</em>",
@@ -851,10 +851,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Which reservoir contains the larger volume of Earth's liquid freshwater?",
     "options": [
-      "A. Groundwater",
-      "B. Rivers",
-      "C. Swamps",
-      "D. Lakes"
+      "Groundwater",
+      "Rivers",
+      "Swamps",
+      "Lakes"
     ],
     "answer": 0,
     "explanation": "<strong>A, groundwater.</strong> The course's distribution figure shows much more liquid freshwater underground than in lakes, rivers, and swamps. <em>(Course section: 2.1 Introduction to Physical Hydrology and Hydrological Concepts, Figure 2.1.4.)</em>",
@@ -869,10 +869,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Which unit is most appropriate for river discharge?",
     "options": [
-      "A. mm",
-      "B. km<sup>2</sup>",
-      "C. m<sup>3</sup>/s",
-      "D. kg/m<sup>3</sup>"
+      "mm",
+      "km<sup>2</sup>",
+      "m<sup>3</sup>/s",
+      "kg/m<sup>3</sup>"
     ],
     "answer": 2,
     "explanation": "<strong>C, m<sup>3</sup>/s.</strong> Discharge is volume per time. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
@@ -887,10 +887,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which additional measurement is required to convert a precipitation depth to a water volume?",
     "options": [
-      "A. Air temperature",
-      "B. Drainage area",
-      "C. Wind direction",
-      "D. Water density"
+      "Air temperature",
+      "Drainage area",
+      "Wind direction",
+      "Water density"
     ],
     "answer": 1,
     "explanation": "<strong>B, drainage area.</strong> Volume equals depth multiplied by area. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
@@ -905,13 +905,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "A lake receives I units of water and releases O units during a study period. Which expression gives storage change?",
     "options": [
-      "A. Δ S=O-I",
-      "B. Δ S=I+O",
-      "C. Δ S=I-O",
-      "D. Δ S=IO"
+      "ΔS=O-I",
+      "ΔS=I+O",
+      "ΔS=I-O",
+      "ΔS=IO"
     ],
     "answer": 2,
-    "explanation": "<strong>C.</strong> Conservation gives Δ S=I-O. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
+    "explanation": "<strong>C.</strong> Conservation gives ΔS=I-O. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
     "images": []
   },
   {
@@ -923,10 +923,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "What does the peak of a storm hydrograph represent?",
     "options": [
-      "A. The lowest measured precipitation",
-      "B. The highest discharge response",
-      "C. The total watershed area",
-      "D. The groundwater divide"
+      "The lowest measured precipitation",
+      "The highest discharge response",
+      "The total watershed area",
+      "The groundwater divide"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The hydrograph peak is the maximum discharge response during the event. <em>(Course section: 2.2 Introduction to Data and Watersheds, Figure 2.2.4.)</em>",
@@ -943,10 +943,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Which feature defines the outer surface boundary of a watershed?",
     "options": [
-      "A. A topographic divide",
-      "B. A treatment plant",
-      "C. A rain gauge",
-      "D. A lake's average depth"
+      "A topographic divide",
+      "A treatment plant",
+      "A rain gauge",
+      "A lake's average depth"
     ],
     "answer": 0,
     "explanation": "<strong>A, a topographic divide.</strong> Raised land directs runoff toward different drainage systems. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
@@ -961,10 +961,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "What is a tributary?",
     "options": [
-      "A. A ridge separating two basins",
-      "B. A smaller watercourse entering a larger stream or river",
-      "C. A point where all groundwater evaporates",
-      "D. A reservoir with no outlet"
+      "A ridge separating two basins",
+      "A smaller watercourse entering a larger stream or river",
+      "A point where all groundwater evaporates",
+      "A reservoir with no outlet"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> A tributary is a smaller watercourse that enters a larger stream or river. <em>(Course section: 2.2 Introduction to Data and Watersheds.)</em>",
@@ -979,10 +979,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "In the conceptual watershed, why may Q<sub>in</sub> be omitted?",
     "options": [
-      "A. Surface water cannot move through watersheds.",
-      "B. The complete headwater boundary shows no upstream channel entering the system.",
-      "C. Precipitation always replaces surface inflow.",
-      "D. Q is a groundwater term."
+      "Surface water cannot move through watersheds.",
+      "The complete headwater boundary shows no upstream channel entering the system.",
+      "Precipitation always replaces surface inflow.",
+      "Q is a groundwater term."
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The conceptual boundary encloses the headwaters and shows no upstream surface channel entering it. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example, Figure 2.3.2.)</em>",
@@ -997,13 +997,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "Which condition defines steady state?",
     "options": [
-      "A. Inputs are zero.",
-      "B. Outputs are zero.",
-      "C. Inputs equal outputs and Δ S=0.",
-      "D. Storage is empty."
+      "Inputs are zero.",
+      "Outputs are zero.",
+      "Inputs equal outputs and ΔS=0.",
+      "Storage is empty."
     ],
     "answer": 2,
-    "explanation": "<strong>C.</strong> Steady state means Δ S=0, which requires total input to equal total output. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
+    "explanation": "<strong>C.</strong> Steady state means ΔS=0, which requires total input to equal total output. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
     "images": []
   },
   {
@@ -1015,10 +1015,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 13",
     "prompt": "A full rain barrel receives 30 L/h from the eaves and releases 30 L/h through overflow. What is its condition?",
     "options": [
-      "A. Storage is increasing.",
-      "B. Storage is decreasing.",
-      "C. It is at steady state.",
-      "D. It has no water movement."
+      "Storage is increasing.",
+      "Storage is decreasing.",
+      "It is at steady state.",
+      "It has no water movement."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Equal inflow and outflow leave storage unchanged while water continues moving. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
@@ -1033,13 +1033,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 14",
     "prompt": "Which Great Lake has the largest volume in the course table?",
     "options": [
-      "A. Erie",
-      "B. Huron",
-      "C. Ontario",
-      "D. Superior"
+      "Erie",
+      "Huron",
+      "Ontario",
+      "Superior"
     ],
     "answer": 3,
-    "explanation": "<strong>D, Lake Superior.</strong> The table gives 12{,}000 km<sup>3</sup>. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology, Table 2.4.1.)</em>",
+    "explanation": "<strong>D, Lake Superior.</strong> The table gives 12,000 km<sup>3</sup>. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology, Table 2.4.1.)</em>",
     "images": []
   },
   {
@@ -1051,10 +1051,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 15",
     "prompt": "Why is lake-effect snow concentrated east and southeast of the Great Lakes?",
     "options": [
-      "A. Prevailing winds generally carry moisture from west to east across warmer open water.",
-      "B. Groundwater always flows east.",
-      "C. Eastern shores are all at sea level.",
-      "D. Evaporation occurs only near eastern shores."
+      "Prevailing winds generally carry moisture from west to east across warmer open water.",
+      "Groundwater always flows east.",
+      "Eastern shores are all at sea level.",
+      "Evaporation occurs only near eastern shores."
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> Cold dry air gains moisture over open water and prevailing west-to-east flow carries it toward eastern and southeastern shores. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology, Figure 2.4.5.)</em>",
@@ -1069,10 +1069,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 16",
     "prompt": "Where does the Grand River ultimately discharge?",
     "options": [
-      "A. Lake Ontario",
-      "B. Lake Erie",
-      "C. Lake Huron",
-      "D. Lake Superior"
+      "Lake Ontario",
+      "Lake Erie",
+      "Lake Huron",
+      "Lake Superior"
     ],
     "answer": 1,
     "explanation": "<strong>B, Lake Erie.</strong> The Grand River flows south from the Waterloo region to Lake Erie. <em>(Course section: 2.4 A Look at Global, Regional, and Local Hydrology.)</em>",
@@ -1173,7 +1173,7 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
-    "explanation": "<strong>False.</strong> Nonzero input and output can balance, producing Δ S=0. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
+    "explanation": "<strong>False.</strong> Nonzero input and output can balance, producing ΔS=0. <em>(Course section: 2.3 A Simple Watershed and Water Balance Example.)</em>",
     "images": []
   },
   {
@@ -1223,7 +1223,7 @@ window.QUIZ_QUESTIONS = [
       "250%"
     ],
     "answer": 0,
-    "explanation": "<strong>40%.</strong> R<sub>h</sub>=(e/e<sub>s</sub>)×100=(2.0/5.0)×100=40%. The saved grading record conflicts with this calculation, likely because a different numeric format was required. Citation: Course section 3.2, Relative humidity and saturation.",
+    "explanation": "<strong>40%.</strong> R<sub>h</sub>=(e/e<sub>s</sub>)×100=(2.0/5.0)×100=40%. Citation: Course section 3.2, Relative humidity and saturation.",
     "images": []
   },
   {
@@ -1235,13 +1235,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 4, question 3",
     "prompt": "Adiabatic cooling refers to:",
     "options": [
-      "a) Cooling without loss of heat",
-      "b) Warming air in the presence of high humidity",
-      "c) Cooling with loss of heat",
-      "d) Warming air with rising elevation"
+      "Cooling without heat exchange with the surroundings",
+      "Warming air in the presence of high humidity",
+      "Cooling with loss of heat",
+      "Warming air with rising elevation"
     ],
     "answer": 0,
-    "explanation": "<strong>a) Cooling without loss of heat.</strong> Adiabatic cooling occurs as rising air expands under lower pressure without direct heat transfer to the surrounding atmosphere. Citation: Course section 3.2, Six steps of cloud formation and Lapse rates.",
+    "explanation": "<strong>a) Cooling without heat exchange with the surroundings.</strong> Adiabatic cooling occurs as rising air expands under lower pressure without direct heat transfer to the surrounding atmosphere. Citation: Course section 3.2, Six steps of cloud formation and lapse rates.",
     "images": []
   },
   {
@@ -1267,7 +1267,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 5,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 5",
-    "prompt": "(Hendriks, 2010, p15) Air at 20°C with a vapour pressure of 1.0 kPa is considered oversaturated.",
+    "prompt": "Air at 20°C with a vapour pressure of 1.0 kPa is oversaturated.",
     "options": [
       "True",
       "False"
@@ -1285,12 +1285,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 7",
-    "prompt": "Which of the following is NOT a cloud formation process?",
+    "prompt": "Which of the following is not a cloud-formation process?",
     "options": [
-      "a) Convection",
-      "b) Convergence",
-      "c) Divergence",
-      "d) Orographic"
+      "Convection",
+      "Convergence",
+      "Divergence",
+      "Orographic"
     ],
     "answer": 2,
     "explanation": "<strong>c) Divergence.</strong> The course cloud-forming lifting mechanisms are convection, convergence, orographic lifting, and frontal lifting. Citation: Course section 3.1, Formation process: lifting mechanisms.",
@@ -1303,12 +1303,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 10,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 10",
-    "prompt": "Although this value is partially dependent on temperature or location on Earth, what is the maximum value of precipitation a region can receive to be considered a desert?",
+    "prompt": "What is the course's maximum annual precipitation threshold for an arid region?",
     "options": [
-      "a) 20 cm",
-      "b) 15 cm",
-      "c) 25 cm",
-      "d) 10 cm"
+      "20 cm",
+      "15 cm",
+      "25 cm",
+      "10 cm"
     ],
     "answer": 2,
     "explanation": "<strong>c) 25 cm.</strong> The course defines an arid region as receiving no more than 25 cm of annual precipitation. Citation: Course section 3.4, What defines an arid environment?",
@@ -1323,10 +1323,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which item counts as precipitation under the course's broad definition?",
     "options": [
-      "A. Only rain that falls from a cloud",
-      "B. Dew transferred from the atmosphere to grass",
-      "C. River discharge to the ocean",
-      "D. Groundwater moving through an aquifer"
+      "Only rain that falls from a cloud",
+      "Dew transferred from the atmosphere to grass",
+      "River discharge to the ocean",
+      "Groundwater moving through an aquifer"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Dew is atmospheric moisture transferred to a surface and is included in the course's broad precipitation definition. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
@@ -1341,10 +1341,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "What is the key hydrologic distinction between liquid- and solid-phase precipitation?",
     "options": [
-      "A. Only solid precipitation contains freshwater.",
-      "B. Liquid precipitation is always regional; solid precipitation is always local.",
-      "C. Liquid precipitation immediately becomes active in the hydrologic cycle, while solid precipitation tends to remain stored until melting.",
-      "D. Solid precipitation forms without atmospheric moisture."
+      "Only solid precipitation contains freshwater.",
+      "Liquid precipitation is always regional; solid precipitation is always local.",
+      "Liquid precipitation immediately becomes active in the hydrologic cycle, while solid precipitation tends to remain stored until melting.",
+      "Solid precipitation forms without atmospheric moisture."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Liquid precipitation enters active hydrologic movement immediately; solid precipitation is generally stored until melting. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
@@ -1359,10 +1359,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which event best matches convective lifting?",
     "options": [
-      "A. Long, gentle rain over a broad region ahead of a warm front",
-      "B. A local, short-duration summer thunderstorm with intense rain and hail",
-      "C. Dry leeward conditions behind a mountain range",
-      "D. Persistent polar descent"
+      "Long, gentle rain over a broad region ahead of a warm front",
+      "A local, short-duration summer thunderstorm with intense rain and hail",
+      "Dry leeward conditions behind a mountain range",
+      "Persistent polar descent"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Convective events are often local, intense, short summer thunderstorms with lightning, thunder, or hail. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
@@ -1377,10 +1377,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Based on the Canadian relief knowledge check, where is orographic precipitation most likely among the listed regions?",
     "options": [
-      "A. Ontario",
-      "B. Saskatchewan",
-      "C. Manitoba",
-      "D. British Columbia"
+      "Ontario",
+      "Saskatchewan",
+      "Manitoba",
+      "British Columbia"
     ],
     "answer": 3,
     "explanation": "<strong>D, British Columbia.</strong> Mountainous topography most strongly supports forced orographic ascent among the listed choices. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
@@ -1397,10 +1397,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "In the course's national annual-precipitation knowledge check, which control is identified as primary?",
     "options": [
-      "A. Latitude",
-      "B. Ocean currents",
-      "C. Random variation",
-      "D. Regional factors"
+      "Latitude",
+      "Ocean currents",
+      "Random variation",
+      "Regional factors"
     ],
     "answer": 1,
     "explanation": "<strong>B, ocean currents.</strong> This is the answer flagged in the saved annual-precipitation knowledge check, which points back to warm water bodies as the main moisture source. <em>(Course section: 3.1 Introduction to Precipitation and Precipitation Processes.)</em>",
@@ -1415,10 +1415,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Why are broad arid zones common near 30° N and S?",
     "options": [
-      "A. Cold polar air rises there.",
-      "B. Warm ocean water freezes there.",
-      "C. Dry air descends and warms there, favouring evaporation and suppressing precipitation.",
-      "D. Mountain ranges occur continuously along both latitudes."
+      "Cold polar air rises there.",
+      "Warm ocean water freezes there.",
+      "Dry air descends and warms there, favouring evaporation and suppressing precipitation.",
+      "Mountain ranges occur continuously along both latitudes."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Descending subtropical air is dry and warms toward the surface, promoting evaporation and aridity. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
@@ -1433,10 +1433,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "Approximately what share of global evaporation originates from oceans?",
     "options": [
-      "A. 10%",
-      "B. 30%",
-      "C. 60%",
-      "D. 90%"
+      "10%",
+      "30%",
+      "60%",
+      "90%"
     ],
     "answer": 3,
     "explanation": "<strong>D, nearly 90%.</strong> Almost all remaining evaporation comes from warm fresh waters and vegetation. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
@@ -1451,10 +1451,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Which condition marks saturation?",
     "options": [
-      "A. e=0",
-      "B. e<sub>s</sub>=0",
-      "C. e=e<sub>s</sub> and R<sub>h</sub>=1.0",
-      "D. e>e<sub>s</sub> and R<sub>h</sub>=0"
+      "e=0",
+      "e<sub>s</sub>=0",
+      "e=e<sub>s</sub> and R<sub>h</sub>=1.0",
+      "e>e<sub>s</sub> and R<sub>h</sub>=0"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Saturation means vapour pressure equals saturated vapour pressure, so R<sub>h</sub>=e/e<sub>s</sub>=1.0=100%. <em>(Course section: 3.2 Atmospheric Moisture and Circulation.)</em>",
@@ -1469,10 +1469,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "What density ratio is typical of new fresh snowfall in the course material?",
     "options": [
-      "A. 0.006 or 0.6%",
-      "B. 0.06 or 6%",
-      "C. 0.6 or 60%",
-      "D. 1.0 or 100%"
+      "0.006 or 0.6%",
+      "0.06 or 6%",
+      "0.6 or 60%",
+      "1.0 or 100%"
     ],
     "answer": 1,
     "explanation": "<strong>B, 0.06 or 6%.</strong> Wind-packed snow may approach or exceed 0.3 or 30%. <em>(Course section: 3.3 Snowfall and Snow Cover Processes and Issues.)</em>",
@@ -1487,10 +1487,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Under the course's general definition, an arid region receives no more than:",
     "options": [
-      "A. 2.5 cm of precipitation per year",
-      "B. 25 cm of precipitation per year",
-      "C. 70 cm of precipitation per year",
-      "D. 250 cm of precipitation per year"
+      "2.5 cm of precipitation per year",
+      "25 cm of precipitation per year",
+      "70 cm of precipitation per year",
+      "250 cm of precipitation per year"
     ],
     "answer": 1,
     "explanation": "<strong>B, 25 cm per year.</strong> The total may be rain, snow, or both. <em>(Course section: 3.4 Arid Environments.)</em>",
@@ -1599,17 +1599,17 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 2,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 2",
-    "prompt": "© Course Author(s), University of Waterloo, Dencake/iStock/Getty Images The average rainfall depth in the watershed shown below is approximately:",
+    "prompt": "The average rainfall depth in the watershed shown below is approximately:",
     "options": [
-      "a) 12.00 cm",
-      "b) 1.71 cm",
-      "c) 7.00 cm",
-      "d) 1.75 cm"
+      "12.00 cm",
+      "1.71 cm",
+      "7.00 cm",
+      "1.75 cm"
     ],
     "answer": 3,
-    "explanation": "<strong>d) 1.75 cm.</strong> The saved official quiz identifies this value. The arithmetic method averages gauge values inside the watershed, but the exact quiz image needed to reproduce the calculation is absent locally. Citation: Course section 4.3, Estimation: arithmetic average.",
+    "explanation": "<strong>d) 1.75 cm.</strong> The arithmetic mean is (1.0+1.5+2.0+2.5)/4=1.75 cm. Citation: Course section 4.3, Estimation: arithmetic average.",
     "images": [
-      "assets/quiz-4-q2-drainage-basin_5.jpg"
+      "assets/quiz-4-q2-quiz-4-rainfall-arithmetic.svg"
     ]
   },
   {
@@ -1619,17 +1619,17 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 8",
-    "prompt": "Which in the following list has been identified as a source of error in the accuracy of weather gauge measurements?",
+    "prompt": "Which item in the following list has been identified as a source of error in precipitation-gauge measurements?",
     "options": [
-      "a) Orientation of the gauge",
-      "b) Possible evaporation from the gauge",
-      "c) Wind effects both inside and outside of the gauge",
-      "d) Mechanical failure / Observer error",
-      "e) All of the Above",
-      "f) Only Answers A, B, and C"
+      "Orientation of the gauge",
+      "Possible evaporation from the gauge",
+      "Wind effects both inside and outside of the gauge",
+      "Mechanical failure or observer error",
+      "All of the above",
+      "Only answers A, B, and C"
     ],
     "answer": 4,
-    "explanation": "<strong>e) All of the Above.</strong> Gauge orientation, evaporation, wind, mechanical failure, and observer error can all reduce measurement accuracy. Citation: Course section 4.2, Limitations of rain gauges.",
+    "explanation": "<strong>e) All of the above.</strong> Gauge orientation, evaporation, wind, mechanical failure, and observer error can all reduce measurement accuracy. Citation: Course section 4.2, Limitations of rain gauges.",
     "images": []
   },
   {
@@ -1639,12 +1639,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 9,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 9",
-    "prompt": "The isohyetal method can be best described as:",
+    "prompt": "The isohyetal method is best described as:",
     "options": [
-      "a) The area between two topographic contours is evaluated as a percentage of the total region and it is assigned the average value of the two confining gauges.",
-      "b) The area between two precipitation contours is evaluated as a percentage of the total area and it is assigned the average value of the two confining isohyets.",
-      "c) The area between two precipitation contours is evaluated as a percentage of the total volume and it is assigned the sum of the two confining isohyets.",
-      "d) The distance between two precipitation contours is evaluated as a percentage of the total area and it is assigned the sum of the two confining isohyets."
+      "The area between two topographic contours is evaluated as a percentage of the total region and it is assigned the average value of the two confining gauges.",
+      "The area between two precipitation contours is evaluated as a percentage of the total area and it is assigned the average value of the two confining isohyets.",
+      "The area between two precipitation contours is evaluated as a percentage of the total volume and it is assigned the sum of the two confining isohyets.",
+      "The distance between two precipitation contours is evaluated as a percentage of the total area and it is assigned the sum of the two confining isohyets."
     ],
     "answer": 1,
     "explanation": "<strong>b) The area between two precipitation contours is evaluated as a percentage of the total area and it is assigned the average value of the two confining isohyets.</strong> Citation: Course section 4.3, Estimation: isohyetal method and Figures 4.3.4-4.3.5.",
@@ -1659,10 +1659,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which study setting generally needs the densest gauge network for representative precipitation data?",
     "options": [
-      "A. A flat prairie dominated by long-duration, large-area storms",
-      "B. A mountain watershed with precipitation dominated by orographic and frontal systems",
-      "C. Any watershed, because gauge spacing never depends on storm type",
-      "D. A small flat plot with uniform precipitation"
+      "A flat prairie dominated by long-duration, large-area storms",
+      "A mountain watershed with precipitation dominated by orographic and frontal systems",
+      "Any watershed, because gauge spacing never depends on storm type",
+      "A small flat plot with uniform precipitation"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Local, intense precipitation and complex mountain terrain require denser sampling than broadly distributed rainfall in flat terrain. <em>(Citation: Course section 4.1, Measuring Rainfall.)</em>",
@@ -1677,10 +1677,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which statement best distinguishes a Primary Network from a Co-operative Network?",
     "options": [
-      "A. Only the Co-operative Network records precipitation depth.",
-      "B. The Primary Network is denser but entirely unofficial.",
-      "C. The Primary Network has more rigorous official maintenance; the Co-operative Network has many more official and unofficial stations.",
-      "D. The networks use different precipitation units."
+      "Only the Co-operative Network records precipitation depth.",
+      "The Primary Network is denser but entirely unofficial.",
+      "The Primary Network has more rigorous official maintenance; the Co-operative Network has many more official and unofficial stations.",
+      "The networks use different precipitation units."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Primary stations receive rigorous official monitoring and maintenance; the Co-operative Network adds many official and unofficial stations and therefore much more spatial data. <em>(Citation: Course section 4.1, Measuring Rainfall.)</em>",
@@ -1695,10 +1695,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which instrument directly measures precipitation-particle size, shape, velocity, and intensity?",
     "options": [
-      "A. Float gauge",
-      "B. Optical disdrometer",
-      "C. Non-recording rain gauge",
-      "D. Snow stake"
+      "Float gauge",
+      "Optical disdrometer",
+      "Non-recording rain gauge",
+      "Snow stake"
     ],
     "answer": 1,
     "explanation": "<strong>B. Optical disdrometer.</strong> It measures particle size and shape, falling velocity, and intensity. <em>(Citation: Course section 4.1, Rain-Gauge Types.)</em>",
@@ -1713,10 +1713,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Why can a tipping-bucket gauge miss a very small rainfall event?",
     "options": [
-      "A. It can record only snow.",
-      "B. Its collector must be read manually.",
-      "C. The collected volume may never reach the amount required to tip a bucket.",
-      "D. It is always installed too high above the ground."
+      "It can record only snow.",
+      "Its collector must be read manually.",
+      "The collected volume may never reach the amount required to tip a bucket.",
+      "It is always installed too high above the ground."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Precipitation below the bucket's threshold volume produces no tip, so the logger records nothing. <em>(Citation: Course section 4.1, Rain-Gauge Types.)</em>",
@@ -1731,10 +1731,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Under the course placement rule, how far should a gauge be from the nearest 3 m tall object?",
     "options": [
-      "A. At least 0.75 m",
-      "B. At least 3 m",
-      "C. At least 7 m",
-      "D. At least 12 m"
+      "At least 0.75 m",
+      "At least 3 m",
+      "At least 7 m",
+      "At least 12 m"
     ],
     "answer": 3,
     "explanation": "<strong>D. At least 12 m.</strong> The placement distance is at least four times obstacle height: 4(3 m)=12 m. <em>(Citation: Course section 4.2, Limitations of Rain Gauges.)</em>",
@@ -1749,10 +1749,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "What is the main purpose of Nipher-type and Alter-type gauge shields?",
     "options": [
-      "A. Increase evaporation from the sample",
-      "B. Slow wind near the collection opening and reduce under-catch",
-      "C. Convert snow depth directly to density",
-      "D. Move the gauge above nearby objects"
+      "Increase evaporation from the sample",
+      "Slow wind near the collection opening and reduce under-catch",
+      "Convert snow depth directly to density",
+      "Move the gauge above nearby objects"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Shields slow wind near the opening to maximize catch and reduce wind losses. <em>(Citation: Course section 4.2, Wind-Shield Measurement Techniques.)</em>",
@@ -1767,10 +1767,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "Why is a standard non-recording snow gauge commonly raised about 1 m above the ground?",
     "options": [
-      "A. To increase wind speed at the opening",
-      "B. To prevent burial by heavy snowfall",
-      "C. To make snow evaporate before collection",
-      "D. To avoid melting the sample"
+      "To increase wind speed at the opening",
+      "To prevent burial by heavy snowfall",
+      "To make snow evaporate before collection",
+      "To avoid melting the sample"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Raising the snow gauge to about 3 feet (1 m) helps prevent burial; still greater height may be needed in extreme-snowfall areas. <em>(Citation: Course section 4.2, Measuring Snowfall.)</em>",
@@ -1785,10 +1785,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Point A lies between 0.75 and 0.80 cm isohyets in Figure 4.3.1. What estimate does the course give for A?",
     "options": [
-      "A. 0.70 cm",
-      "B. 0.75 cm",
-      "C. 0.78 cm",
-      "D. 0.85 cm"
+      "0.70 cm",
+      "0.75 cm",
+      "0.78 cm",
+      "0.85 cm"
     ],
     "answer": 2,
     "explanation": "<strong>C. 0.78 cm.</strong> The point lies between 0.75 and 0.80 cm and is visually estimated from nearby labels and contours. <em>(Citation: Course section 4.3, Interpolation.)</em>",
@@ -1805,10 +1805,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Which areal estimation method assigns each gauge a weight based on the fraction of the total area contained in its polygon?",
     "options": [
-      "A. Arithmetic average",
-      "B. Missing-station normalization",
-      "C. Thiessen Polygon Method",
-      "D. Snow-core method"
+      "Arithmetic average",
+      "Missing-station normalization",
+      "Thiessen Polygon Method",
+      "Snow-core method"
     ],
     "answer": 2,
     "explanation": "<strong>C. Thiessen Polygon Method.</strong> Each polygon's percentage of total area weights the precipitation at its central gauge. <em>(Citation: Course section 4.3, Estimation: Thiessen Polygon Method.)</em>",
@@ -1823,10 +1823,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "In which setting is the arithmetic average most likely to be reasonably accurate?",
     "options": [
-      "A. Flat terrain with relatively uniform precipitation",
-      "B. Rough terrain with strong spatial variation",
-      "C. A large mountain range with sparse gauges",
-      "D. Any region after one gauge fails"
+      "Flat terrain with relatively uniform precipitation",
+      "Rough terrain with strong spatial variation",
+      "A large mountain range with sparse gauges",
+      "Any region after one gauge fails"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> Equal weighting is most defensible in flat areas with relatively uniform precipitation. <em>(Citation: Course section 4.3, Estimation: Arithmetic Average.)</em>",
@@ -1937,12 +1937,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 1",
-    "prompt": "For evaporation to occur, a source of energy, and a _________________________ in the overlying air must be present.",
+    "prompt": "For evaporation to occur, a source of energy and which atmospheric condition must be present?",
     "options": [
-      "a) condition of (e<sub>s-e</sub><sub>a</sub>)<0",
-      "b) vapour pressure deficit",
-      "c) high relative humidity",
-      "d) vapour pressure excess"
+      "condition of (e<sub>s-e</sub><sub>a</sub>)<0",
+      "vapour pressure deficit",
+      "high relative humidity",
+      "vapour pressure excess"
     ],
     "answer": 1,
     "explanation": "<strong>b) vapour pressure deficit.</strong> Evaporation requires energy and unsaturated overlying air, represented by a positive e<sub>s-e</sub><sub>a</sub>. Citation: Course section 5.1, Vapour Pressure Deficit.",
@@ -1957,11 +1957,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 5, question 2",
     "prompt": "The most important variable or factor with the strongest impact on evaporation and transpiration is:",
     "options": [
-      "a) Humidity of the air",
-      "b) Vegetation type",
-      "c) Velocity of the wind",
-      "d) Energy from the sun",
-      "e) Temperature of the air"
+      "Humidity of the air",
+      "Vegetation type",
+      "Velocity of the wind",
+      "Energy from the sun",
+      "Temperature of the air"
     ],
     "answer": 3,
     "explanation": "<strong>d) Energy from the sun.</strong> Solar radiation supplies the energy that drives evaporation and transpiration. Citation: Course section 5.2, Evaporation and the Weather.",
@@ -1990,12 +1990,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 4,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 4",
-    "prompt": "Which of the following descriptions below would be best suited for a 'xerophyte' tree?",
+    "prompt": "Which description best characterizes a xerophyte tree?",
     "options": [
-      "a) An temperate climate with roots directly accessing the water table",
-      "b) A cold climate with roots accessing water from permafrost",
-      "c) A warm or temperate climate with roots directly in water",
-      "d) An arid climate with shallow dense roots"
+      "A temperate climate with roots directly accessing the water table",
+      "A cold climate with roots accessing water from permafrost",
+      "A warm or temperate climate with roots directly in water",
+      "An arid climate with shallow, dense roots"
     ],
     "answer": 3,
     "explanation": "<strong>d) An arid climate with shallow dense roots.</strong> Xerophytes use shallow, dense roots to capture limited soil moisture in arid settings. Citation: Course section 5.3, Confirmed Vegetation Characteristics.",
@@ -2010,10 +2010,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 5, question 5",
     "prompt": "In the summer months, the average evaporation rate will be highest for which of the following water bodies?",
     "options": [
-      "a) A large, deep, saline water body",
-      "b) A small, deep, freshwater lake",
-      "c) A large, shallow, freshwater lake",
-      "d) A small, shallow, freshwater lake"
+      "A large, deep, saline water body",
+      "A small, deep, freshwater lake",
+      "A large, shallow, freshwater lake",
+      "A small, shallow, freshwater lake"
     ],
     "answer": 3,
     "explanation": "<strong>d) A small, shallow, freshwater lake.</strong> Small fetch limits humidification of the overlying air, shallow water warms rapidly, and fresh water evaporates faster than saline water under comparable conditions. Citation: Course section 5.2, Evaporation and Geography.",
@@ -2026,12 +2026,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 6,
     "sourceType": "official",
     "sourceLabel": "Quiz 4, question 6",
-    "prompt": "An air parcel with an e<sub>s</sub>>e<sub>a</sub> will cause:",
+    "prompt": "An air parcel with e<sub>s</sub>>e<sub>a</sub> will favour:",
     "options": [
-      "a) Evaporation",
-      "b) Condensation and cloud formation",
-      "c) Both a) and b)",
-      "d) None of the above"
+      "Evaporation",
+      "Condensation and cloud formation",
+      "Both evaporation and condensation",
+      "None of the above"
     ],
     "answer": 0,
     "explanation": "<strong>a) Evaporation.</strong> When e<sub>s</sub>>e<sub>a</sub>, the vapour pressure deficit e<sub>s-e</sub><sub>a</sub> is positive and evaporation can occur. Citation: Course section 5.1, Molecular Process and Saturation and Figure 5.1.6.",
@@ -2044,13 +2044,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 6,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 6",
-    "prompt": "Which of the following would NOT be included in evapotranspiration?",
+    "prompt": "Which of the following would not be included in evapotranspiration?",
     "options": [
-      "a) Evaporation from lakes and rivers",
-      "b) Condensation of dew or frost",
-      "c) Transpiration from plants",
-      "d) Sublimation from ice and snow",
-      "e) Interception evaporation"
+      "Evaporation from lakes and rivers",
+      "Condensation of dew or frost",
+      "Transpiration from plants",
+      "Sublimation from ice and snow",
+      "Interception evaporation"
     ],
     "answer": 1,
     "explanation": "<strong>b) Condensation of dew or frost.</strong> Evapotranspiration includes evaporation, sublimation, interception evaporation, and plant transpiration; condensation transfers atmospheric moisture toward the surface. Citation: Course section 5.1, Evapotranspiration.",
@@ -2063,11 +2063,11 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 7",
-    "prompt": "(Hendriks, 2010, p15) You have measured air with a temperature of 20°C, which also has a vapour pressure of about 2.25 kPa, therefore:",
+    "prompt": "Air at 20°C has a measured vapour pressure of approximately 2.25 kPa. Therefore:",
     "options": [
-      "a) The environment is in approximate equilibrium",
-      "b) The environment will allow for condensation to dominate",
-      "c) The environment will allow for evaporation to dominate"
+      "The environment is in approximate equilibrium",
+      "The environment will allow for condensation to dominate",
+      "The environment will allow for evaporation to dominate"
     ],
     "answer": 0,
     "explanation": "<strong>a) The environment is in approximate equilibrium.</strong> At 20°C, the saturation vapour pressure is about 2.25 kPa, matching the measured vapour pressure. Citation: Course section 5.1, Figure 5.1.6 and Vapour Pressure Deficit.",
@@ -2082,7 +2082,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 8",
-    "prompt": "During the day, groundwater is consumed at a high rate by both evaporation and transpiration processes. This rate will commonly exceed the groundwater in-flow rate and the water table will rise significantly.",
+    "prompt": "During the day, groundwater is consumed at a high rate by evaporation and transpiration. This rate commonly exceeds groundwater inflow, causing the water table to rise significantly.",
     "options": [
       "True",
       "False"
@@ -2098,13 +2098,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 9,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 9",
-    "prompt": "Increasing the albedo of a water body or snow pack will:",
+    "prompt": "Increasing the albedo of a water body or snowpack will:",
     "options": [
-      "a) Albedo changes have no impact on evaporation or condensation processes",
-      "b) Partially increase condensation",
-      "c) Partially decrease condensation",
-      "d) Partially decrease evaporation",
-      "e) Partially increase evaporation"
+      "Albedo changes have no impact on evaporation or condensation processes",
+      "Partially increase condensation",
+      "Partially decrease condensation",
+      "Partially decrease evaporation",
+      "Partially increase evaporation"
     ],
     "answer": 3,
     "explanation": "<strong>d) Partially decrease evaporation.</strong> Higher albedo reflects more incoming radiation, leaving less energy for surface heating and evaporation. Citation: Course section 5.2, Evaporation and Geography.",
@@ -2117,7 +2117,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 10,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 10",
-    "prompt": "Dry air moving over and across a large lake will have a higher evaporation rate than dry air moving over and across a small lake",
+    "prompt": "Dry air moving across a large lake will produce a higher average evaporation rate than dry air moving across a small lake.",
     "options": [
       "True",
       "False"
@@ -2135,11 +2135,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 5, question 11",
     "prompt": "How do scientists measure evaporation in the field?",
     "options": [
-      "a) Using a measurement stick fixed into the ground surface",
-      "b) Using an evaporation gauge",
-      "c) Using a rain gauge",
-      "d) Using an evaporation pot",
-      "e) Using an evaporation pan"
+      "Using a measurement stick fixed into the ground surface",
+      "Using an evaporation gauge",
+      "Using a rain gauge",
+      "Using an evaporation pot",
+      "Using an evaporation pan"
     ],
     "answer": 4,
     "explanation": "<strong>e) Using an evaporation pan.</strong> A pan estimates field evaporation from water-depth change over time. Citation: Course section 6.1, Evaporation pans and Figure 6.1.1.",
@@ -2152,7 +2152,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 5, question 12",
-    "prompt": "Soils can play an important role in controlling evaporation. Soils with higher permeability rates will allow for more evaporation over time.",
+    "prompt": "Soils with higher permeability will allow more evaporation over time.",
     "options": [
       "True",
       "False"
@@ -2170,10 +2170,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which process moves water directly from snow or ice into atmospheric vapour?",
     "options": [
-      "A. Condensation",
-      "B. Sublimation",
-      "C. Interception",
-      "D. Transpiration"
+      "Condensation",
+      "Sublimation",
+      "Interception",
+      "Transpiration"
     ],
     "answer": 1,
     "explanation": "<strong>B. Sublimation.</strong> It is the direct transfer from solid snow or ice to vapour. Citation: Course section 5.1.",
@@ -2188,10 +2188,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which description best defines evapotranspiration?",
     "options": [
-      "A. Evaporation from oceans only",
-      "B. Transpiration from vegetation only",
-      "C. Evaporation from free water, interception, ground, and other surfaces combined with plant transpiration",
-      "D. Condensation plus precipitation"
+      "Evaporation from oceans only",
+      "Transpiration from vegetation only",
+      "Evaporation from free water, interception, ground, and other surfaces combined with plant transpiration",
+      "Condensation plus precipitation"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> ET combines evaporation from free water, interception, ground, and other surfaces with vegetation transpiration. Citation: Course section 5.1.",
@@ -2206,10 +2206,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "At 10 °C, air over water has e<sub>a</sub>=0.5 kPa while e<sub>s</sub>≈1.0 kPa. What process occurs?",
     "options": [
-      "A. Evaporation",
-      "B. Condensation",
-      "C. Sublimation only",
-      "D. No exchange because the air is saturated"
+      "Evaporation",
+      "Condensation",
+      "Sublimation only",
+      "No exchange because the air is saturated"
     ],
     "answer": 0,
     "explanation": "<strong>A. Evaporation.</strong> e<sub>s-e</sub><sub>a</sub>=1.0-0.5=0.5 kPa>0. Citation: Course section 5.1.",
@@ -2224,10 +2224,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "What is the most important meteorological control on evaporation and transpiration?",
     "options": [
-      "A. Wind",
-      "B. Temperature",
-      "C. Solar radiation",
-      "D. Water depth"
+      "Wind",
+      "Temperature",
+      "Solar radiation",
+      "Water depth"
     ],
     "answer": 2,
     "explanation": "<strong>C. Solar radiation.</strong> The course identifies incoming solar energy as the most important meteorological factor. Citation: Course section 5.2.",
@@ -2242,10 +2242,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Why does increasing wind eventually stop increasing evaporation rate?",
     "options": [
-      "A. Wind always cools water to freezing.",
-      "B. The potential rate remains limited mainly by radiation, temperature, and relative humidity.",
-      "C. Wind raises salinity until evaporation stops.",
-      "D. Wind closes all stomata."
+      "Wind always cools water to freezing.",
+      "The potential rate remains limited mainly by radiation, temperature, and relative humidity.",
+      "Wind raises salinity until evaporation stops.",
+      "Wind closes all stomata."
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Wind removes moist air, but radiation, temperature, and humidity still set the maximum or potential rate. Citation: Course section 5.2.",
@@ -2260,10 +2260,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which water body should have the highest average summer evaporation rate under otherwise comparable conditions?",
     "options": [
-      "A. A small, shallow freshwater lake",
-      "B. A large, shallow freshwater lake",
-      "C. A small, deep freshwater lake",
-      "D. A large, deep saline water body"
+      "A small, shallow freshwater lake",
+      "A large, shallow freshwater lake",
+      "A small, deep freshwater lake",
+      "A large, deep saline water body"
     ],
     "answer": 0,
     "explanation": "<strong>A. A small, shallow freshwater lake.</strong> Small size limits the distance over which the air becomes more humid, shallow water warms rapidly, and fresh water evaporates faster than saline water when other conditions match. Citation: Course section 5.2.",
@@ -2278,10 +2278,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "Why does the course expect greater wind exposure across Lake Ontario than Lake Michigan under prevailing west-to-east winds?",
     "options": [
-      "A. Lake Ontario is always warmer.",
-      "B. Lake Ontario is fresh and Lake Michigan is saline.",
-      "C. Lake Ontario's orientation gives the air a longer water-surface path in the prevailing direction.",
-      "D. Lake Ontario has no vegetation around it."
+      "Lake Ontario is always warmer.",
+      "Lake Ontario is fresh and Lake Michigan is saline.",
+      "Lake Ontario's orientation gives the air a longer water-surface path in the prevailing direction.",
+      "Lake Ontario has no vegetation around it."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Lake Ontario's orientation provides a longer west-to-east path of contact between air and water. Citation: Course section 5.2.",
@@ -2296,10 +2296,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Which combination explains why vegetation cover tends to reduce soil evaporation?",
     "options": [
-      "A. More shade, less wind at the soil, and higher local humidity",
-      "B. Less shade, faster wind, and lower local humidity",
-      "C. Higher salinity, darker soil, and a deeper lake",
-      "D. Closed roots, lower permeability, and lower albedo"
+      "More shade, less wind at the soil, and higher local humidity",
+      "Less shade, faster wind, and lower local humidity",
+      "Higher salinity, darker soil, and a deeper lake",
+      "Closed roots, lower permeability, and lower albedo"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> Vegetation shades soil, blocks wind, and raises local relative humidity through transpiration. Citation: Course section 5.2.",
@@ -2314,10 +2314,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Under complete regional vegetative coverage, which statement does the course make about vegetation type?",
     "options": [
-      "A. Species identity is the only control on transpiration.",
-      "B. Different crop species may transpire similar totals over time and space.",
-      "C. Wheat never transpires as much as hay.",
-      "D. Stomatal size has no relationship to transpiration."
+      "Species identity is the only control on transpiration.",
+      "Different crop species may transpire similar totals over time and space.",
+      "Wheat never transpires as much as hay.",
+      "Stomatal size has no relationship to transpiration."
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> With complete coverage, wheat, barley, or hay may transpire similar totals over time and space, though this remains an active research area. Citation: Course section 5.3.",
@@ -2332,10 +2332,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Which root group extends into the local water table and can extract large quantities each day?",
     "options": [
-      "A. Hydrophytes",
-      "B. Mesophytes",
-      "C. Xerophytes",
-      "D. Phreatophytes"
+      "Hydrophytes",
+      "Mesophytes",
+      "Xerophytes",
+      "Phreatophytes"
     ],
     "answer": 3,
     "explanation": "<strong>D. Phreatophytes.</strong> Their roots reach the local water table and extract large daily quantities. Citation: Course section 5.3.",
@@ -2446,10 +2446,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which statement best defines potential evapotranspiration?",
     "options": [
-      "A. The ET measured only by a water balance lysimeter",
-      "B. The maximum ET possible with unlimited water and unsaturated air",
-      "C. The ET remaining after a pan coefficient is removed",
-      "D. The transpiration of a single reference plant"
+      "The ET measured only by a water balance lysimeter",
+      "The maximum ET possible with unlimited water and unsaturated air",
+      "The ET remaining after a pan coefficient is removed",
+      "The transpiration of a single reference plant"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Potential ET is the maximum possible under an unlimited water supply and unsaturated air. (Citation: Course section 6.1, Potential, Actual, and Reference Crop Evaporation)",
@@ -2464,10 +2464,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which instrument is used to estimate actual ET from local soil and vegetation?",
     "options": [
-      "A. Pyranometer",
-      "B. Lysimeter",
-      "C. Evaporation pan",
-      "D. Rain gauge"
+      "Pyranometer",
+      "Lysimeter",
+      "Evaporation pan",
+      "Rain gauge"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> A lysimeter contains local soil and vegetation and estimates actual ET through mass change or a water balance. (Citation: Course section 6.1, Lysimeters)",
@@ -2482,10 +2482,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "What are the approximate dimensions of the standard evaporation pan described in the course?",
     "options": [
-      "A. 25 cm diameter and 120 cm deep",
-      "B. 60 cm diameter and 50 cm deep",
-      "C. 120 cm diameter and 25 cm deep",
-      "D. 120 cm diameter and 120 cm deep"
+      "25 cm diameter and 120 cm deep",
+      "60 cm diameter and 50 cm deep",
+      "120 cm diameter and 25 cm deep",
+      "120 cm diameter and 120 cm deep"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> The standard pan is about 120 cm in diameter and 25 cm deep. (Citation: Course section 6.1, Evaporation Pans)",
@@ -2500,10 +2500,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Which pan is most susceptible to fallen leaves, debris, and overland runoff?",
     "options": [
-      "A. Surface pan",
-      "B. Sunken pan",
-      "C. Floating pan",
-      "D. Weighing pan"
+      "Surface pan",
+      "Sunken pan",
+      "Floating pan",
+      "Weighing pan"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> A sunken pan can collect leaves and debris and receive runoff from overland flow. (Citation: Course section 6.1, Evaporation Pans; Figure 6.1.2)",
@@ -2518,10 +2518,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Which combination can change a pan coefficient?",
     "options": [
-      "A. Only pan diameter",
-      "B. Only elapsed measurement time",
-      "C. Pan type and location, month, and season",
-      "D. Only the depth of the surrounding water body"
+      "Only pan diameter",
+      "Only elapsed measurement time",
+      "Pan type and location, month, and season",
+      "Only the depth of the surrounding water body"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> K<sub>p</sub> depends on pan type and location and varies by month or season. (Citation: Course section 6.1, \"Pan Coefficients\")",
@@ -2536,10 +2536,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which device records incoming or reflected radiation in the energy-balance method?",
     "options": [
-      "A. Pyranometer",
-      "B. Lysimeter",
-      "C. Float recorder",
-      "D. Evapotranspiration dome"
+      "Pyranometer",
+      "Lysimeter",
+      "Float recorder",
+      "Evapotranspiration dome"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> A pyranometer measures incoming or reflected radiation. (Citation: Course section 6.2, \"Energy Balance Method,\" Figure 6.2.1)",
@@ -2554,10 +2554,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "According to the course page, approximately how much energy is required to evaporate 1 g of water?",
     "options": [
-      "A. 6 calories",
-      "B. 60 calories",
-      "C. 600 calories",
-      "D. 6000 calories"
+      "6 calories",
+      "60 calories",
+      "600 calories",
+      "6000 calories"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> The page gives approximately 600 calories per gram of water. (Citation: Course section 6.2, \"Energy Balance Method\")",
@@ -2572,10 +2572,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Which method calculates potential ET from a diverse set of atmospheric and surface data and is highlighted for agricultural water management?",
     "options": [
-      "A. Water-table fluctuation method",
-      "B. Penman-Monteith method",
-      "C. Bare-surface chamber subtraction",
-      "D. Simple pan-depth method"
+      "Water-table fluctuation method",
+      "Penman-Monteith method",
+      "Bare-surface chamber subtraction",
+      "Simple pan-depth method"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Penman-Monteith calculates potential ET from atmospheric and surface data and supports crop-water management. (Citation: Course section 6.2, \"Penman-Monteith Method\")",
@@ -2590,10 +2590,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "What does a sharp rise in vapour density after placing a sealed chamber over a plant indicate?",
     "options": [
-      "A. Surface albedo is increasing",
-      "B. Evaporation or transpiration is adding vapour to the chamber",
-      "C. Groundwater recharge has stopped",
-      "D. The plant is too large for the chamber"
+      "Surface albedo is increasing",
+      "Evaporation or transpiration is adding vapour to the chamber",
+      "Groundwater recharge has stopped",
+      "The plant is too large for the chamber"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The increase shows vapour accumulating through evaporation or transpiration. (Citation: Course section 6.2, Physical Method: Evapotranspiration Chambers; Figure 6.2.3)",
@@ -2608,10 +2608,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "What site condition is required for ET estimation from groundwater fluctuations?",
     "options": [
-      "A. A deep, confined water table inaccessible to roots",
-      "B. A shallow water table directly accessible to plants",
-      "C. High surface inflow and outflow",
-      "D. A completely impermeable soil"
+      "A deep, confined water table inaccessible to roots",
+      "A shallow water table directly accessible to plants",
+      "High surface inflow and outflow",
+      "A completely impermeable soil"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The water table must be near the surface and directly accessible to plants. (Citation: Course section 6.3, opening discussion)",
@@ -2630,7 +2630,7 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
-    "explanation": "<strong>False.</strong> The course states ET<sub>actual</sub>le ET<sub>potential</sub>. (Citation: Course section 6.1, Potential, Actual, and Reference Crop Evaporation)",
+    "explanation": "<strong>False.</strong> The course states ET<sub>actual</sub>≤ ET<sub>potential</sub>. (Citation: Course section 6.1, Potential, Actual, and Reference Crop Evaporation)",
     "images": []
   },
   {
@@ -2720,13 +2720,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 7, question 1",
-    "prompt": "When used in a Water Balance, the term 'steady state' means that there is no overall change in water storage, or that the total inputs is equal to total outputs.",
+    "prompt": "In a water balance, steady state means that there is no overall change in water storage because total inputs equal total outputs.",
     "options": [
       "True",
       "False"
     ],
     "answer": 0,
-    "explanation": "<strong>True.</strong> At steady state, Δ S=0, so total inputs equal total outputs. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
+    "explanation": "<strong>True.</strong> At steady state, ΔS=0, so total inputs equal total outputs. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
     "images": []
   },
   {
@@ -2736,7 +2736,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 2,
     "sourceType": "official",
     "sourceLabel": "Quiz 7, question 2",
-    "prompt": "When considering a water balance equation for an entire watershed, you must always include a 'surface water in' term.",
+    "prompt": "A water-balance equation for an entire watershed must always include a surface-water inflow term.",
     "options": [
       "True",
       "False"
@@ -2752,7 +2752,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "official",
     "sourceLabel": "Quiz 7, question 3",
-    "prompt": "Please select the correct hydrological variable for each letter in the diagram.",
+    "prompt": "Select the correct hydrological variable for each letter in the diagram.",
     "options": [
       "B = Precipitation; E = Groundwater out; C = Evaporation; D = Surface water out; A = Groundwater in",
       "B = Evaporation; E = Groundwater in; C = Precipitation; D = Groundwater out; A = Surface water out",
@@ -2774,13 +2774,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 7, question 4",
     "prompt": "The most appropriate water balance equation for the pictured watershed at steady state is:",
     "options": [
-      "a) P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0",
-      "b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0",
-      "c) P + G<sub>in</sub> = 0, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS",
-      "d) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS"
+      "P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0",
+      "P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0",
+      "P + G<sub>in</sub> = 0, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS",
+      "P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS"
     ],
     "answer": 1,
-    "explanation": "<strong>b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0.</strong> Steady state sets Δ S to zero. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
+    "explanation": "<strong>b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET+ G<sub>out</sub>) = 0.</strong> Steady state sets ΔS to zero. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
     "images": [
       "assets/quiz-7-q4-steady-state-watershed.png"
     ]
@@ -2794,13 +2794,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 7, question 5",
     "prompt": "For the pictured watershed below, an appropriate simplification for a period with minimal evaporation, minimal precipitation, and assuming steady state conditions is:",
     "options": [
-      "a) G<sub>in</sub> = 0, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS",
-      "b) P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS",
-      "c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0",
-      "d) P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0"
+      "G<sub>in</sub> = 0, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS",
+      "P + G<sub>in</sub> – (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = ΔS",
+      "G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0",
+      "P + G<sub>in</sub> = ΔS, (Q<sub>sw</sub>+ ET + G<sub>out</sub>) = 0"
     ],
     "answer": 2,
-    "explanation": "<strong>c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0.</strong> Minimal P and ET remove those terms, and steady state sets Δ S=0. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
+    "explanation": "<strong>c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0.</strong> Minimal P and ET remove those terms, and steady state sets ΔS=0. <em>(Course section: 7.1 Calculating a Water Balance.)</em>",
     "images": [
       "assets/quiz-7-q5-steady-state-watershed.png"
     ]
@@ -2812,15 +2812,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 6,
     "sourceType": "official",
     "sourceLabel": "Quiz 7, question 6",
-    "prompt": "Calculate the change in storage for the lake below over 1 day.<br>Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).<br>Using the following values:<br>Lake area = 5 km<sup>2</sup><br>Precipitation = 12 mm/day<br>Evaporation = 8 mm/day<br>Surface water in = 23 m<sup>3</sup>/day<br>Surface water out = 16 m<sup>3</sup>/day<br>Ground water in = 5 m<sup>3</sup>/day<br>Ground water out = 3 m<sup>3</sup>/day",
+    "prompt": "Calculate the change in storage for the lake below over one day.<br>Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).<br>Using the following values:<br>Lake area = 5 km<sup>2</sup><br>Precipitation = 12 mm/day<br>Evaporation = 8 mm/day<br>Surface water in = 23 m<sup>3</sup>/day<br>Surface water out = 16 m<sup>3</sup>/day<br>Groundwater in = 5 m<sup>3</sup>/day<br>Groundwater out = 3 m<sup>3</sup>/day",
     "options": [
-      "20,009 m³/day",
-      "19,991 m³/day",
-      "20,900 m³/day",
-      "4,009 m³/day"
+      "20,009 m³",
+      "19,991 m³",
+      "20,900 m³",
+      "4,009 m³"
     ],
     "answer": 0,
-    "explanation": "<strong>20,009 m<sup>3</sup>/day.</strong> (0.012-0.008)(5{,}000{,}000)+(23+5)-(16+3)=20{,}009. <em>(Course section and figure: 7.1 Worked Course Example, Figure 7.1.2.)</em>",
+    "explanation": "<strong>20,009 m<sup>3</sup>.</strong> The net rate is (0.012-0.008)(5,000,000)+(23+5)-(16+3)=20,009 m<sup>3</sup>/day. Over one day, the storage increase is 20,009 m<sup>3</sup>. <em>(Course section and figure: 7.1 Worked Course Example, Figure 7.1.2.)</em>",
     "images": [
       "assets/quiz-7-q6-lake-water-balance.png"
     ]
@@ -2832,15 +2832,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 7, question 7",
-    "prompt": "Calculate the change in storage for the lake below over 1 day.<br>Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).<br>Using the following values:<br>Lake area = 5 km<sup>2</sup><br>Precipitation = 19 mm/day<br>Evaporation = 7 mm/day<br>Surface water in = 18 m<sup>3</sup>/day<br>Surface water out = 12 m<sup>3</sup>/day<br>Ground water in = 3 m<sup>3</sup>/day<br>Ground water out = 1 m<sup>3</sup>/day",
+    "prompt": "Calculate the change in storage for the lake below over one day.<br>Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).<br>Using the following values:<br>Lake area = 5 km<sup>2</sup><br>Precipitation = 19 mm/day<br>Evaporation = 7 mm/day<br>Surface water in = 18 m<sup>3</sup>/day<br>Surface water out = 12 m<sup>3</sup>/day<br>Groundwater in = 3 m<sup>3</sup>/day<br>Groundwater out = 1 m<sup>3</sup>/day",
     "options": [
-      "60,008 m³/day",
-      "59,992 m³/day",
-      "12,008 m³/day",
-      "60,800 m³/day"
+      "60,008 m³",
+      "59,992 m³",
+      "12,008 m³",
+      "60,800 m³"
     ],
     "answer": 0,
-    "explanation": "<strong>60,008 m<sup>3</sup>/day.</strong> (0.019-0.007)(5{,}000{,}000)+(18+3)-(12+1)=60{,}008. <em>(Course section and figure: 7.1 Worked Course Example, Figure 7.1.2.)</em>",
+    "explanation": "<strong>60,008 m<sup>3</sup>.</strong> The net rate is (0.019-0.007)(5,000,000)+(18+3)-(12+1)=60,008 m<sup>3</sup>/day. Over one day, the storage increase is 60,008 m<sup>3</sup>. <em>(Course section and figure: 7.1 Worked Course Example, Figure 7.1.2.)</em>",
     "images": [
       "assets/quiz-7-q7-lake-water-balance.png"
     ]
@@ -2852,7 +2852,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 7, question 8",
-    "prompt": "A lake with an area of 2 km<sup>2</sup>, had a positive water balance, and was recorded as gaining 31,000 m<sup>3</sup>/day.<br>How much of an increase in elevation of the lake surface would have to occur to account for this increase in water volume?<br>Give your answer in millimetres (mm) rounded to the nearest whole number.<br>Hint: V=A*D",
+    "prompt": "A lake with an area of 2 km<sup>2</sup> had a positive water balance and gained 31,000 m<sup>3</sup> in one day.<br>What increase in lake-surface elevation would account for this gain in water volume?<br>Give your answer in millimetres (mm) rounded to the nearest whole number.<br>Hint: V=A×D",
     "options": [
       "16 mm",
       "8 mm",
@@ -2860,7 +2860,7 @@ window.QUIZ_QUESTIONS = [
       "155 mm"
     ],
     "answer": 0,
-    "explanation": "<strong>16 mm.</strong> D=V/A=31{,}000/2{,}000{,}000=0.0155 m=15.5 mm, which rounds to 16 mm. <em>(Course section: 7.1 Water Elevation Change.)</em>",
+    "explanation": "<strong>16 mm.</strong> D=V/A=31,000/2,000,000=0.0155 m=15.5 mm, which rounds to 16 mm. <em>(Course section: 7.1 Water Elevation Change.)</em>",
     "images": []
   },
   {
@@ -2872,10 +2872,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which equation is the full lake water balance used in Module 7?",
     "options": [
-      "A. Δ S=(P+ET+Q<sub>in</sub>)-(Q<sub>out</sub>+G<sub>in</sub>+G<sub>out</sub>)",
-      "B. Δ S=(P+Q<sub>in</sub>+G<sub>in</sub>)-(ET+Q<sub>out</sub>+G<sub>out</sub>)",
-      "C. Δ S=P-ET",
-      "D. Δ S=(P+Q<sub>out</sub>+G<sub>out</sub>)-(ET+Q<sub>in</sub>+G<sub>in</sub>)"
+      "ΔS=(P+ET+Q<sub>in</sub>)-(Q<sub>out</sub>+G<sub>in</sub>+G<sub>out</sub>)",
+      "ΔS=(P+Q<sub>in</sub>+G<sub>in</sub>)-(ET+Q<sub>out</sub>+G<sub>out</sub>)",
+      "ΔS=P-ET",
+      "ΔS=(P+Q<sub>out</sub>+G<sub>out</sub>)-(ET+Q<sub>in</sub>+G<sub>in</sub>)"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Inputs P, Q<sub>in</sub>, and G<sub>in</sub> are added; outputs ET, Q<sub>out</sub>, and G<sub>out</sub> are subtracted. <em>(Course section: 7.1, \"Calculating a Water Balance.\")</em>",
@@ -2890,10 +2890,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which term is an output from the lake system?",
     "options": [
-      "A. P",
-      "B. ET",
-      "C. Q<sub>in</sub>",
-      "D. G<sub>in</sub>"
+      "P",
+      "ET",
+      "Q<sub>in</sub>",
+      "G<sub>in</sub>"
     ],
     "answer": 1,
     "explanation": "<strong>B, ET.</strong> Evapotranspiration is listed as an output. <em>(Course section: 7.1, \"Calculating a Water Balance.\")</em>",
@@ -2906,12 +2906,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "practice",
     "sourceLabel": "Practice bank, question 3",
-    "prompt": "What does a negative value of Δ S indicate?",
+    "prompt": "What does a negative value of ΔS indicate?",
     "options": [
-      "A. Inputs exceed outputs and storage increases.",
-      "B. Inputs equal outputs and storage is steady.",
-      "C. Outputs exceed inputs and storage decreases.",
-      "D. The area conversion was necessarily incorrect."
+      "Inputs exceed outputs and storage increases.",
+      "Inputs equal outputs and storage is steady.",
+      "Outputs exceed inputs and storage decreases.",
+      "The area conversion was necessarily incorrect."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> A negative balance means outputs exceeded inputs, causing storage to decrease. <em>(Course section: 7.1, \"Calculating a Water Balance\" and \"Water Balance Example - Solution.\")</em>",
@@ -2926,13 +2926,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Convert 12 mm/day to metres per day.",
     "options": [
-      "A. 0.0012 m/day",
-      "B. 0.012 m/day",
-      "C. 1.2 m/day",
-      "D. 12{,}000 m/day"
+      "0.0012 m/day",
+      "0.012 m/day",
+      "1.2 m/day",
+      "12,000 m/day"
     ],
     "answer": 1,
-    "explanation": "<strong>B, 0.012 m/day.</strong> Divide millimetres by 1{,}000. <em>(Course section: 7.1, \"Water Balance Example - Solution, Step 2: Matching the Units.\")</em>",
+    "explanation": "<strong>B, 0.012 m/day.</strong> Divide millimetres by 1,000. <em>(Course section: 7.1, \"Water Balance Example - Solution, Step 2: Matching the Units.\")</em>",
     "images": []
   },
   {
@@ -2944,10 +2944,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Why is a precipitation depth rate multiplied by lake area?",
     "options": [
-      "A. To convert it to a temperature.",
-      "B. To convert it to an elevation.",
-      "C. To convert it to a volume rate that can be combined with discharge.",
-      "D. To remove its time unit."
+      "To convert it to a temperature.",
+      "To convert it to an elevation.",
+      "To convert it to a volume rate that can be combined with discharge.",
+      "To remove its time unit."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Depth multiplied by area gives a volume rate with units compatible with discharge. <em>(Course section: 7.1, \"Water Balance Example - Solution, Step 3: Conversion to Volumes.\")</em>",
@@ -2962,13 +2962,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which expression gives lake-surface elevation change?",
     "options": [
-      "A. Δ h=A/Δ S",
-      "B. Δ h=Δ S× A",
-      "C. Δ h=Δ S/A",
-      "D. Δ h=P-ET"
+      "Δh=A/ΔS",
+      "Δh=ΔS×A",
+      "Δh=ΔS/A",
+      "Δh=P-ET"
     ],
     "answer": 2,
-    "explanation": "<strong>C, Δ h=Δ S/A.</strong> <em>(Course section: 7.1, \"Water Elevation Change.\")</em>",
+    "explanation": "<strong>C, Δh=ΔS/A.</strong> <em>(Course section: 7.1, \"Water Elevation Change.\")</em>",
     "images": []
   },
   {
@@ -2980,13 +2980,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "In the embedded watershed knowledge check, what is the calculated change in storage for the 3 km<sup>2</sup> watershed?",
     "options": [
-      "A. 32{,}978{,}800 m<sup>3</sup>/day",
-      "B. 32{,}978.8 m<sup>3</sup>/day",
-      "C. 32.9788 m<sup>3</sup>/day",
-      "D. 329.788 m<sup>3</sup>/day"
+      "32,978,800 m<sup>3</sup>/day",
+      "32,978.8 m<sup>3</sup>/day",
+      "32.9788 m<sup>3</sup>/day",
+      "329.788 m<sup>3</sup>/day"
     ],
     "answer": 1,
-    "explanation": "<strong>B, 32{,}978.8 m<sup>3</sup>/day.</strong> [(0.019)(3{,}000{,}000)+0.3]-[(0.008)(3{,}000{,}000)+21+0.5]=32{,}978.8. <em>(Course section: 7.1, \"Check Your Knowledge,\" first question.)</em>",
+    "explanation": "<strong>B, 32,978.8 m<sup>3</sup>/day.</strong> [(0.019)(3,000,000)+0.3]-[(0.008)(3,000,000)+21+0.5]=32,978.8. <em>(Course section: 7.1, \"Check Your Knowledge,\" first question.)</em>",
     "images": []
   },
   {
@@ -2998,10 +2998,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Why does that watershed knowledge check omit surface-water inflow?",
     "options": [
-      "A. Surface-water inflow is combined with precipitation.",
-      "B. Surface-water inflow is never part of a water balance.",
-      "C. It was simply not measured.",
-      "D. Raised watershed boundaries prevent surface water from flowing into the watershed across the divide."
+      "Surface-water inflow is combined with precipitation.",
+      "Surface-water inflow is never part of a water balance.",
+      "It was simply not measured.",
+      "Raised watershed boundaries prevent surface water from flowing into the watershed across the divide."
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> The course explains that raised topographic watershed edges prevent surface water from entering across the boundary. <em>(Course section: 7.1, \"Check Your Knowledge,\" second question.)</em>",
@@ -3084,7 +3084,7 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 0,
-    "explanation": "<strong>True.</strong> Because Δ h=Δ S/A and area is positive, the signs match. <em>(Course section: 7.1, \"Water Elevation Change.\")</em>",
+    "explanation": "<strong>True.</strong> Because Δh=ΔS/A and area is positive, the signs match. <em>(Course section: 7.1, \"Water Elevation Change.\")</em>",
     "images": []
   },
   {
@@ -3110,12 +3110,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 2,
     "sourceType": "official",
     "sourceLabel": "Quiz 8, question 2",
-    "prompt": "Which of the following soil horizon(s) would be considered part of the 'sub-soil'?",
+    "prompt": "Which soil horizon is considered part of the subsoil?",
     "options": [
-      "a) A",
-      "b) A and E",
-      "c) C and R",
-      "d) B"
+      "A",
+      "A and E",
+      "C and R",
+      "B"
     ],
     "answer": 3,
     "explanation": "<strong>d) B.</strong> The B horizon is the first horizon in the subsoil. (Course section: 8.1 The Soil Profile)",
@@ -3130,12 +3130,12 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 8, question 3",
     "prompt": "Which of the following factors contributes to the creation of new soil?",
     "options": [
-      "a) Parent Material",
-      "b) Time",
-      "c) Climate",
-      "d) Plants and animals",
-      "e) All of the above",
-      "f) Only a), b), and c), above"
+      "Parent material",
+      "Time",
+      "Climate",
+      "Plants and animals",
+      "All of the above",
+      "Only a), b), and c) above"
     ],
     "answer": 4,
     "explanation": "<strong>e) All of the above.</strong> Parent material, time, climate, plants and animals, and topography contribute to soil formation. (Course section: 8.1 Controls on Soil Formation)",
@@ -3180,15 +3180,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 6,
     "sourceType": "official",
     "sourceLabel": "Quiz 8, question 6",
-    "prompt": "By dividing the volume of the voids (V<sub>voids</sub>) by the volume of the soil (V<sub>soil</sub>) from a particular sample, you would end up with:",
+    "prompt": "Dividing the volume of voids (V<sub>voids</sub>) by the volume of soil solids (V<sub>solids</sub>) in a sample gives:",
     "options": [
-      "a) Porosity",
-      "b) Degree of saturation",
-      "c) Void ratio",
-      "d) Bulk density"
+      "Porosity",
+      "Degree of saturation",
+      "Void ratio",
+      "Bulk density"
     ],
     "answer": 2,
-    "explanation": "<strong>c) Void ratio, according to the saved quiz key.</strong> This answer requires V<sub>soil</sub> in the prompt to mean solid volume. If it means total sample volume, the stated ratio is porosity. The course definition is e=V<sub>voids</sub>/V<sub>solids</sub>. (Course section: 8.1 Phase Relationships in Soils)",
+    "explanation": "<strong>c) Void ratio.</strong> The course definition is e=V<sub>voids</sub>/V<sub>solids</sub>. (Course section: 8.1 Phase Relationships in Soils)",
     "images": []
   },
   {
@@ -3198,16 +3198,16 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 8, question 7",
-    "prompt": "Which of the following does NOT play a strong role on the creation of new soils?",
+    "prompt": "Which of the following does not play a strong role in the creation of new soils?",
     "options": [
-      "a) Time",
-      "b) Topography",
-      "c) Parent material",
-      "d) Grainsizes",
-      "e) Climate"
+      "Time",
+      "Topography",
+      "Parent material",
+      "Grain size",
+      "Climate"
     ],
     "answer": 3,
-    "explanation": "<strong>d) Grainsizes.</strong> The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: 8.1 Controls on Soil Formation)",
+    "explanation": "<strong>d) Grain size.</strong> The listed soil-formation controls are parent material, time, climate, plants and animals, and topography. (Course section: 8.1 Controls on Soil Formation)",
     "images": []
   },
   {
@@ -3235,10 +3235,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 8, question 9",
     "prompt": "Frost wedging, expansion from unloading, and thermal expansion are all examples of what process?",
     "options": [
-      "a) Volcanic weathering",
-      "b) Mechanical weathering",
-      "c) Biological weathering",
-      "d) Chemical weathering"
+      "Volcanic weathering",
+      "Mechanical weathering",
+      "Biological weathering",
+      "Chemical weathering"
     ],
     "answer": 1,
     "explanation": "<strong>b) Mechanical weathering.</strong> These processes break material physically without changing its mineral composition. (Course section: 8.2 Soil Weathering)",
@@ -3251,15 +3251,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 10,
     "sourceType": "official",
     "sourceLabel": "Quiz 8, question 10",
-    "prompt": "Which of the following best describes the 'plasticity index'?",
+    "prompt": "Which of the following best describes the plasticity index?",
     "options": [
-      "a) The point of maximum soil cohesion",
-      "b) The difference between the liquid limit and plastic limits",
-      "c) The upper limit of water content for the soil to exhibit plastic behavior",
-      "d) The lower limit of water content for the soil to exhibit plastic behavior"
+      "The point of maximum soil cohesion",
+      "The difference between the liquid limit and plastic limit",
+      "The upper limit of water content for the soil to exhibit plastic behavior",
+      "The lower limit of water content for the soil to exhibit plastic behavior"
     ],
     "answer": 1,
-    "explanation": "<strong>b) The difference between the liquid limit and plastic limits.</strong> PI=LL-PL. (Course section: 8.3 Soil Plasticity)",
+    "explanation": "<strong>b) The difference between the liquid limit and plastic limit.</strong> PI=LL-PL. (Course section: 8.3 Soil Plasticity)",
     "images": []
   },
   {
@@ -3271,10 +3271,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 8, question 11",
     "prompt": "Which of the following could be considered a 'solution' to soil degradation?",
     "options": [
-      "a) Erosion",
-      "b) Increased use of organic fertilizers",
-      "c) Water logging",
-      "d) Restoring plant cover"
+      "Erosion",
+      "Unrestricted overapplication of organic fertilizers",
+      "Water logging",
+      "Restoring plant cover"
     ],
     "answer": 3,
     "explanation": "<strong>d) Restoring plant cover.</strong> Plant cover protects soil from erosion and supports recovery. (Course section: 8.2 Soil Degradation)",
@@ -3287,13 +3287,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 8, question 12",
-    "prompt": "Place the following grainsizes in order from finest to coarsest:",
+    "prompt": "Place the following grain sizes in order from finest to coarsest:",
     "options": [
-      "a) clay, silt, sand, gravel",
-      "b) clay, sand, silt, gravel",
-      "c) silt, sand, gravel, clay",
-      "d) gravel, sand, silt, clay",
-      "e) sand, silt, clay, gravel"
+      "clay, silt, sand, gravel",
+      "clay, sand, silt, gravel",
+      "silt, sand, gravel, clay",
+      "gravel, sand, silt, clay",
+      "sand, silt, clay, gravel"
     ],
     "answer": 0,
     "explanation": "<strong>a) clay, silt, sand, gravel.</strong> This sequence runs from the finest particles to the coarsest. (Course section: 8.3 Soil Texture)",
@@ -3308,10 +3308,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which list contains all four components in the course definition of soil?",
     "options": [
-      "A. Minerals, bedrock, water, and roots",
-      "B. Mineral matter, organic matter, water, and air",
-      "C. Organic matter, groundwater, bacteria, and bedrock",
-      "D. Sand, silt, clay, and gravel"
+      "Minerals, bedrock, water, and roots",
+      "Mineral matter, organic matter, water, and air",
+      "Organic matter, groundwater, bacteria, and bedrock",
+      "Sand, silt, clay, and gravel"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Soil combines mineral matter, organic matter, water, and air. (Course section: 8.1 Introduction to Soils and Phase Relationships, opening section)",
@@ -3326,10 +3326,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Where is the vadose zone located?",
     "options": [
-      "A. Entirely below the saturated zone",
-      "B. Between the ground surface and the top of the water table",
-      "C. Only within the capillary fringe",
-      "D. Within unweathered bedrock"
+      "Entirely below the saturated zone",
+      "Between the ground surface and the top of the water table",
+      "Only within the capillary fringe",
+      "Within unweathered bedrock"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The vadose or unsaturated zone extends from the ground surface to the water table. (Course section: 8.1 Introduction to Soils and Phase Relationships, opening section)",
@@ -3344,10 +3344,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which list contains the five controls on soil formation presented in the course?",
     "options": [
-      "A. Parent material, time, climate, plants and animals, topography",
-      "B. Porosity, permeability, pH, density, saturation",
-      "C. Water, wind, ice, gravity, pollution",
-      "D. Colour, texture, structure, pH, plasticity"
+      "Parent material, time, climate, plants and animals, topography",
+      "Porosity, permeability, pH, density, saturation",
+      "Water, wind, ice, gravity, pollution",
+      "Colour, texture, structure, pH, plasticity"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> The controls are parent material, time, climate, plants and animals, and topography. (Course section: 8.1 Controls on Soil Formation)",
@@ -3362,10 +3362,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Which sequence gives a standard soil profile from surface to depth?",
     "options": [
-      "A. R-C-B-E-A-O",
-      "B. O-E-A-B-R-C",
-      "C. O-A-E-B-C-R",
-      "D. A-O-B-E-C-R"
+      "R-C-B-E-A-O",
+      "O-E-A-B-R-C",
+      "O-A-E-B-C-R",
+      "A-O-B-E-C-R"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Surface to depth is O-A-E-B-C-R. (Course section: 8.1 The Soil Profile)",
@@ -3380,10 +3380,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "A scientist divides void volume by total sample volume. What has been calculated?",
     "options": [
-      "A. Void ratio",
-      "B. Water content",
-      "C. Porosity",
-      "D. Degree of saturation"
+      "Void ratio",
+      "Water content",
+      "Porosity",
+      "Degree of saturation"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Porosity is V<sub>voids</sub>/V<sub>total</sub>. (Course section: 8.1 Phase Relationships in Soils)",
@@ -3398,10 +3398,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which option contains only processes that the course identifies as soil degradation?",
     "options": [
-      "A. Desertification, erosion, contamination",
-      "B. Porosity, leaching, permeability",
-      "C. Sieve testing, weathering, soil colour",
-      "D. Root growth, capillary rise, soil storage"
+      "Desertification, erosion, contamination",
+      "Porosity, leaching, permeability",
+      "Sieve testing, weathering, soil colour",
+      "Root growth, capillary rise, soil storage"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> Desertification, erosion, and contamination are all listed forms of soil degradation. (Course section: 8.2 Soil Erosion, Degradation, and Weathering Processes, opening section)",
@@ -3416,10 +3416,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "According to the course, what generally happens as the velocity of moving water, wind, or ice increases?",
     "options": [
-      "A. Erosion becomes less effective",
-      "B. Erosion becomes more effective",
-      "C. Chemical weathering stops",
-      "D. Soil formation immediately accelerates"
+      "Erosion becomes less effective",
+      "Erosion becomes more effective",
+      "Chemical weathering stops",
+      "Soil formation immediately accelerates"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Greater movement velocity increases erosional effectiveness or impact. (Course section: 8.2 Soil Erosion)",
@@ -3432,15 +3432,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "practice",
     "sourceLabel": "Practice bank, question 8",
-    "prompt": "Which methods effectively limit topsoil erosion? <strong>Select all that apply.</strong>",
+    "prompt": "Which option lists three effective methods for limiting topsoil erosion?",
     "options": [
-      "A. Use only organic fertilizer",
-      "B. Reduce or contour slopes",
-      "C. Plant windbreaks perpendicular to prevailing wind",
-      "D. Build stepped terraces"
+      "Use organic fertilizer, remove windbreaks, and steepen slopes",
+      "Contour slopes, plant windbreaks perpendicular to the prevailing wind, and build stepped terraces",
+      "Smooth slopes, plant windbreaks parallel to the prevailing wind, and remove ground cover",
+      "Increase runoff velocity, compact the surface, and remove terraces"
     ],
     "answer": 1,
-    "explanation": "<strong>B, C, and D.</strong> Reduced or contoured slopes, perpendicular windbreaks, and terraces reduce wind or runoff erosion; fertilizer type does not prevent physical soil transport. (Course section: 8.2 Soil Erosion)",
+    "explanation": "<strong>B.</strong> Contoured slopes, perpendicular windbreaks, and terraces reduce wind or runoff erosion. (Course section: 8.2 Soil Erosion)",
     "images": []
   },
   {
@@ -3452,10 +3452,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Which statement correctly distinguishes physical from chemical weathering?",
     "options": [
-      "A. Physical weathering changes minerals; chemical weathering changes only size.",
-      "B. Physical weathering transports sediment; chemical weathering deposits it.",
-      "C. Physical weathering reduces size while retaining composition; chemical weathering can create different minerals.",
-      "D. Physical weathering requires water; chemical weathering never involves water."
+      "Physical weathering changes minerals; chemical weathering changes only size.",
+      "Physical weathering transports sediment; chemical weathering deposits it.",
+      "Physical weathering reduces size while retaining composition; chemical weathering can create different minerals.",
+      "Physical weathering requires water; chemical weathering never involves water."
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Mechanical weathering preserves composition while reducing size; chemical weathering converts material into new minerals. (Course section: 8.2 Soil Weathering)",
@@ -3470,10 +3470,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Which four components does the course use when introducing the Unified Soil Classification System?",
     "options": [
-      "A. Colour, texture, structure, pH",
-      "B. Colour, saturation, permeability, topography",
-      "C. Texture, horizon, climate, density",
-      "D. pH, plasticity, parent material, time"
+      "Colour, texture, structure, pH",
+      "Colour, saturation, permeability, topography",
+      "Texture, horizon, climate, density",
+      "pH, plasticity, parent material, time"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> The course's four components are colour, texture, structure, and pH. (Course section: 8.3 Characterizing Soils and Soil Plasticity, opening section)",
@@ -3488,10 +3488,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "In the knife test, what does a shiny cut face indicate?",
     "options": [
-      "A. High sand content",
-      "B. High clay content",
-      "C. Low water content only",
-      "D. High gravel content"
+      "High sand content",
+      "High clay content",
+      "Low water content only",
+      "High gravel content"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> A shiny cut face indicates high clay content. (Course section: 8.3 Soil Texture)",
@@ -3506,10 +3506,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "Which order shows soil consistency states from highest to lowest water content?",
     "options": [
-      "A. Solid, semi-solid, plastic, liquid",
-      "B. Liquid, plastic, semi-solid, solid",
-      "C. Liquid, semi-solid, plastic, solid",
-      "D. Plastic, liquid, solid, semi-solid"
+      "Solid, semi-solid, plastic, liquid",
+      "Liquid, plastic, semi-solid, solid",
+      "Liquid, semi-solid, plastic, solid",
+      "Plastic, liquid, solid, semi-solid"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Decreasing water content gives liquid, plastic, semi-solid, then solid. (Course section: 8.3 Soil Plasticity)",
@@ -3524,10 +3524,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 13",
     "prompt": "Which pair of grain-size statements is explicitly given in the caption to Table 8.3.1?",
     "options": [
-      "A. Clay is below 0.002 mm and boulders are above 600 mm.",
-      "B. Clay is below 0.02 mm and boulders are above 60 mm.",
-      "C. Silt is below 0.002 mm and cobbles are above 600 mm.",
-      "D. Sand is below 0.006 mm and gravel is above 200 mm."
+      "Clay is below 0.002 mm and boulders are above 600 mm.",
+      "Clay is below 0.02 mm and boulders are above 60 mm.",
+      "Silt is below 0.002 mm and cobbles are above 600 mm.",
+      "Sand is below 0.006 mm and gravel is above 200 mm."
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> The caption explicitly identifies clay below 0.002 mm and boulders above 600 mm. (Course section: 8.3 Soil Texture, Table 8.3.1)",
@@ -3542,10 +3542,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 14",
     "prompt": "Which expression gives the plasticity index?",
     "options": [
-      "A. PI=PL-LL",
-      "B. PI=LL+PL",
-      "C. PI=LL-PL",
-      "D. PI=LL/PL"
+      "PI=PL-LL",
+      "PI=LL+PL",
+      "PI=LL-PL",
+      "PI=LL/PL"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> PI=LL-PL. (Course section: 8.3 Soil Plasticity)",
@@ -3702,15 +3702,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 9, question 1",
-    "prompt": "Which of the following best describes the role of groundwater:",
+    "prompt": "Which of the following best describes the roles of groundwater?",
     "options": [
-      "a) Provides moisture to support cultivated crops and forests",
-      "b) Used as major source of drinking water",
-      "c) Maintains stream flow (flood control)",
-      "d) All of the Above"
+      "Provides moisture to support cultivated crops and forests",
+      "Serves as a major source of drinking water",
+      "Maintains streamflow and moderates flooding",
+      "All of the above"
     ],
     "answer": 3,
-    "explanation": "<strong>d) All of the Above.</strong> Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. <em>(Course section: 9.1 Groundwater in the Hydrological Cycle.)</em>",
+    "explanation": "<strong>d) All of the above.</strong> Groundwater supports vegetation and agriculture, supplies drinking water, and sustains streamflow. <em>(Course section: 9.1 Groundwater in the Hydrological Cycle.)</em>",
     "images": []
   },
   {
@@ -3722,10 +3722,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 9, question 2",
     "prompt": "The potentiometric surface refers to:",
     "options": [
-      "a) The height to which water will rise in or above a well.",
-      "b) The potential kinetic energy stored in underground pressure.",
-      "c) The potential surface energy that can be captured at that location.",
-      "d) The top of an aquifer."
+      "The height to which water will rise in or above a well.",
+      "The potential kinetic energy stored in underground pressure.",
+      "The potential surface energy that can be captured at that location.",
+      "The top of an aquifer."
     ],
     "answer": 0,
     "explanation": "<strong>a) The height to which water will rise in or above a well.</strong> <em>(Course section and figure: 9.4 Head and Pressure, potentiometric-surface figure.)</em>",
@@ -3738,12 +3738,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "official",
     "sourceLabel": "Quiz 9, question 3",
-    "prompt": "This large glacial topographic feature helps to provide fresh groundwater to the Toronto region.",
+    "prompt": "Which large glacial topographic feature helps provide fresh groundwater to the Toronto region?",
     "options": [
-      "a) Lake Ontario",
-      "b) Niagara Escarpment",
-      "c) Waterloo Moraine",
-      "d) Oak Ridges Moraine"
+      "Lake Ontario",
+      "Niagara Escarpment",
+      "Waterloo Moraine",
+      "Oak Ridges Moraine"
     ],
     "answer": 3,
     "explanation": "<strong>d) Oak Ridges Moraine.</strong> Its glacial deposits store recharge and feed springs, streams, and rivers near Toronto. <em>(Course section and Figure 9.2.5: 9.2 The Glacial Connection.)</em>",
@@ -3790,10 +3790,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 9, question 6",
     "prompt": "Which material has the highest permeability?",
     "options": [
-      "a) Granite",
-      "b) Sand",
-      "c) Limestone",
-      "d) Clay"
+      "Granite",
+      "Sand",
+      "Limestone",
+      "Clay"
     ],
     "answer": 1,
     "explanation": "<strong>b) Sand.</strong> Of the listed materials, sand commonly has the largest connected pore spaces and highest permeability. <em>(Course section: 9.3 Specific Yield, Retention, and Permeability.)</em>",
@@ -3806,15 +3806,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 9, question 7",
-    "prompt": "What would the approximate pressure be in a freshwater lake at the base of a 10 metre deep hydroelectric dam?",
+    "prompt": "What is the approximate pressure at the base of a 10-metre-deep freshwater reservoir behind a hydroelectric dam?",
     "options": [
-      "a) 980 Pa",
-      "b) 980,000 Pa",
-      "c) 9,800 Pa",
-      "d) 98,000 Pa"
+      "980 Pa",
+      "980,000 Pa",
+      "9,800 Pa",
+      "98,000 Pa"
     ],
     "answer": 3,
-    "explanation": "<strong>d) 98,000 Pa.</strong> p=rho gh=(1000)(9.8)(10)=98{,}000 Pa. <em>(Course section: 9.4 Head and Pressure.)</em>",
+    "explanation": "<strong>d) 98,000 Pa.</strong> p=ρ gh=(1000)(9.8)(10)=98,000 Pa. <em>(Course section: 9.4 Head and Pressure.)</em>",
     "images": []
   },
   {
@@ -3824,14 +3824,14 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 9, question 8",
-    "prompt": "Darcy's Law is a simple mathematical statement which neatly summarizes several familiar properties that groundwater flowing in aquifers exhibits, including:",
+    "prompt": "Darcy's law summarizes several properties of groundwater flow in aquifers, including:",
     "options": [
-      "a) If there is no pressure gradient (ie. slope) over a distance, no flow occurs.",
-      "b) If there is a pressure gradient, flow will occur from high pressure towards low pressure (opposite the direction of increasing gradient.",
-      "c) The greater the pressure gradient (through the same formation material), the greater the discharge rate.",
-      "d) The discharge rate of fluid will often be different, through different formation materials (or even through the same material, in a different direction), even if the same pressure gradient exists in both cases.",
-      "e) All of the above",
-      "f) Just B, C, and D"
+      "If there is no pressure gradient over a distance, no flow occurs.",
+      "If there is a pressure gradient, flow occurs from high pressure toward low pressure, opposite the direction of increasing gradient.",
+      "The greater the pressure gradient (through the same formation material), the greater the discharge rate.",
+      "The discharge rate can differ among formation materials, or by direction within one material, even under the same pressure gradient.",
+      "All of the above",
+      "Just B, C, and D"
     ],
     "answer": 4,
     "explanation": "<strong>e) All of the above.</strong> Darcy's Law relates flow to hydraulic gradient and formation properties, with flow directed from higher to lower head. <em>(Course sections: 9.4 Hydraulic Gradient and 9.4 Hydraulic Conductivity and Darcy Specific Discharge.)</em>",
@@ -3844,7 +3844,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 9,
     "sourceType": "official",
     "sourceLabel": "Quiz 9, question 9",
-    "prompt": "In order to protect groundwater from future contamination, we are now able to create landfills and septic systems which will never leak into the natural environment.",
+    "prompt": "Modern landfills and septic systems can be built so that they will never leak into the natural environment.",
     "options": [
       "True",
       "False"
@@ -3862,10 +3862,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 9, question 10",
     "prompt": "The calculation for hydraulic head requires two components:",
     "options": [
-      "a) Pressure and Temperature",
-      "b) Pressure and Position",
-      "c) Elevation and Porosity",
-      "d) Elevation and Position"
+      "Pressure and Temperature",
+      "Pressure and Position",
+      "Elevation and Porosity",
+      "Elevation and Position"
     ],
     "answer": 1,
     "explanation": "<strong>b) Pressure and Position.</strong> Hydraulic head combines pressure head with elevation or positional head. <em>(Course section: 9.4 Head and Pressure.)</em>",
@@ -3880,10 +3880,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 9, question 11",
     "prompt": "Which of the following aquifers would you most likely find in carbonate rocks?",
     "options": [
-      "a) Unconfined",
-      "b) Semi-confined",
-      "c) Confined",
-      "d) Karst"
+      "Unconfined",
+      "Semi-confined",
+      "Confined",
+      "Karst"
     ],
     "answer": 3,
     "explanation": "<strong>d) Karst.</strong> Karst aquifers form where water dissolves carbonate rock such as limestone. <em>(Course section and figure: 9.2 Karst Aquifers.)</em>",
@@ -3896,12 +3896,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 9, question 12",
-    "prompt": "What is the approximate percentage of groundwater from all water sources on Earth?",
+    "prompt": "Approximately what percentage of Earth's total water is groundwater?",
     "options": [
-      "a) 0.06%",
-      "b) 60.0%",
-      "c) 0.6%",
-      "d) 6.0%"
+      "0.06%",
+      "60.0%",
+      "0.6%",
+      "6.0%"
     ],
     "answer": 2,
     "explanation": "<strong>c) 0.6%.</strong> <em>(Course section: 9.1 Groundwater in the Hydrological Cycle.)</em>",
@@ -3916,10 +3916,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "In the reconstructed 9.1 groundwater-system figure, which process continues downward through the subsurface toward groundwater storage?",
     "options": [
-      "A. Condensation",
-      "B. Percolation",
-      "C. Transpiration",
-      "D. Sublimation"
+      "Condensation",
+      "Percolation",
+      "Transpiration",
+      "Sublimation"
     ],
     "answer": 1,
     "explanation": "<strong>B. Percolation.</strong> The retained water-cycle figure labels percolation as continued subsurface flow toward groundwater. <em>(§9.1, “Groundwater in the hydrological cycle,” reconstructed from local assets.)</em>",
@@ -3936,10 +3936,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which statement best describes the water table?",
     "options": [
-      "A. It is the bottom of every aquifer.",
-      "B. It is the upper surface of the saturated zone.",
-      "C. It is a clay layer that blocks flow.",
-      "D. It is the level of every surface stream."
+      "It is the bottom of every aquifer.",
+      "It is the upper surface of the saturated zone.",
+      "It is a clay layer that blocks flow.",
+      "It is the level of every surface stream."
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The water table is the upper surface of the saturated groundwater zone. <em>(§9.1, “Groundwater in the hydrological cycle”; §9.3, “Water-table controls on movement.”)</em>",
@@ -3956,10 +3956,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which aquifer is bounded by a semi-permeable layer that permits limited groundwater exchange?",
     "options": [
-      "A. Unconfined",
-      "B. Confined",
-      "C. Semi-confined",
-      "D. Karst"
+      "Unconfined",
+      "Confined",
+      "Semi-confined",
+      "Karst"
     ],
     "answer": 2,
     "explanation": "<strong>C. Semi-confined.</strong> Its semi-permeable boundary allows limited leakage. <em>(§9.2, “Semi-Confined Aquifer.”)</em>",
@@ -3974,10 +3974,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "In which aquifer type does the course expect the fastest water transmission?",
     "options": [
-      "A. Unconfined",
-      "B. Confined",
-      "C. Semi-confined",
-      "D. Karst"
+      "Unconfined",
+      "Confined",
+      "Semi-confined",
+      "Karst"
     ],
     "answer": 3,
     "explanation": "<strong>D. Karst.</strong> Large cracks, fractures, voids, and tunnels permit rapid, long-distance flow. <em>(§9.2, “Karst Aquifers”; course Check Your Knowledge.)</em>",
@@ -3992,10 +3992,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Which aquifer does the course identify as the preferred freshwater source for human use?",
     "options": [
-      "A. Confined",
-      "B. Unconfined",
-      "C. Karst",
-      "D. Perched"
+      "Confined",
+      "Unconfined",
+      "Karst",
+      "Perched"
     ],
     "answer": 0,
     "explanation": "<strong>A. Confined.</strong> The course identifies confined aquifers as protected from surface contamination and preferred for human drinking water. <em>(§9.2, “Confined Aquifer”; course Check Your Knowledge.)</em>",
@@ -4010,10 +4010,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "What is the main groundwater role of a sand-and-gravel moraine?",
     "options": [
-      "A. It prevents all infiltration.",
-      "B. It stores recharge and releases water to springs, streams, and rivers.",
-      "C. It dissolves to form caverns.",
-      "D. It always acts as an aquitard."
+      "It prevents all infiltration.",
+      "It stores recharge and releases water to springs, streams, and rivers.",
+      "It dissolves to form caverns.",
+      "It always acts as an aquitard."
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Moraines store infiltrating precipitation and snowmelt and channel groundwater to lower-elevation springs, streams, and rivers. <em>(§9.2, “The Glacial Connection,” Figures 9.2.5-9.2.6.)</em>",
@@ -4028,10 +4028,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "A shallow well finds a small saturated lens, but another nearby well at the same depth is dry. Which feature best explains this?",
     "options": [
-      "A. Flow-through stream",
-      "B. Confined regional aquifer",
-      "C. Perched water table",
-      "D. Potentiometric surface"
+      "Flow-through stream",
+      "Confined regional aquifer",
+      "Perched water table",
+      "Potentiometric surface"
     ],
     "answer": 2,
     "explanation": "<strong>C. Perched water table.</strong> A local aquitard can hold a discontinuous saturated lens above the regional table. <em>(§9.3, “Perched water tables,” Figure 9.3.2.)</em>",
@@ -4046,10 +4046,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Which material in Table 9.3.1 has the highest specific yield?",
     "options": [
-      "A. Clay",
-      "B. Sand",
-      "C. Gravel",
-      "D. Limestone"
+      "Clay",
+      "Sand",
+      "Gravel",
+      "Limestone"
     ],
     "answer": 1,
     "explanation": "<strong>B. Sand.</strong> Table 9.3.1 gives sand a 22% specific yield, the largest listed. <em>(§9.3, “Specific yield, retention, and permeability,” Table 9.3.1.)</em>",
@@ -4064,10 +4064,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Which material in Table 9.3.1 has the highest specific retention?",
     "options": [
-      "A. Clay",
-      "B. Sand",
-      "C. Gravel",
-      "D. Basalt"
+      "Clay",
+      "Sand",
+      "Gravel",
+      "Basalt"
     ],
     "answer": 0,
     "explanation": "<strong>A. Clay.</strong> Table 9.3.1 gives clay 48% specific retention. <em>(§9.3, “Specific yield, retention, and permeability,” Table 9.3.1.)</em>",
@@ -4082,10 +4082,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "In homogeneous geology, groundwater flow lines cross equipotential contours at what angle?",
     "options": [
-      "A. 0°",
-      "B. 30°",
-      "C. 45°",
-      "D. 90°"
+      "0°",
+      "30°",
+      "45°",
+      "90°"
     ],
     "answer": 3,
     "explanation": "<strong>D. 90°.</strong> In homogeneous material, flow lines cross equipotential contours at right angles. <em>(§9.3, “Groundwater flow maps,” Figure 9.3.6.)</em>",
@@ -4100,13 +4100,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "Which equation gives hydrostatic pressure from pressure head h<sub>p</sub>?",
     "options": [
-      "A. p=rho g h<sub>p</sub>",
-      "B. q=Ki",
-      "C. v=q/n",
-      "D. t=L/v"
+      "p=ρ g h<sub>p</sub>",
+      "q=Ki",
+      "v=q/n",
+      "t=L/v"
     ],
     "answer": 0,
-    "explanation": "<strong>A. p=rho g h<sub>p</sub>.</strong> Pressure equals density times gravitational acceleration times pressure head. <em>(§9.4, “Head and Pressure,” recovered from Assignment 5, Question 2a.)</em>",
+    "explanation": "<strong>A. p=ρ g h<sub>p</sub>.</strong> Pressure equals density times gravitational acceleration times pressure head. <em>(§9.4, “Head and Pressure,” recovered from Assignment 5, Question 2a.)</em>",
     "images": []
   },
   {
@@ -4118,10 +4118,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "Which stream receives groundwater while its surface meets the water table?",
     "options": [
-      "A. Losing stream",
-      "B. Gaining stream",
-      "C. Perched stream",
-      "D. Flow-through stream"
+      "Losing stream",
+      "Gaining stream",
+      "Perched stream",
+      "Flow-through stream"
     ],
     "answer": 1,
     "explanation": "<strong>B. Gaining stream.</strong> It receives groundwater, and the water table meets the stream surface. <em>(§9.5, “Four stream interactions,” Figure 9.5.2.)</em>",
@@ -4206,7 +4206,7 @@ window.QUIZ_QUESTIONS = [
       "False"
     ],
     "answer": 1,
-    "explanation": "<strong>False.</strong> Pore velocity is v=q/n, so it exceeds q when 0<n<1. <em>(§9.4, “Pore-water velocity and travel time,” Assignment 5, Question 2d.)</em>",
+    "explanation": "<strong>False.</strong> Pore velocity is v=q/n, so it exceeds q when porosity is between 0 and 1. <em>(§9.4, “Pore-water velocity and travel time,” Assignment 5, Question 2d.)</em>",
     "images": []
   },
   {
@@ -4232,13 +4232,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 1",
-    "prompt": "Which term would be used for discussing height of the water level of a river?",
+    "prompt": "Which term describes the height of a river's water level?",
     "options": [
-      "a) Stage",
-      "b) Wetted perimeter",
-      "c) Volume of flow",
-      "d) Cross-sectional area",
-      "e) Discharge"
+      "Stage",
+      "Wetted perimeter",
+      "Volume of flow",
+      "Cross-sectional area",
+      "Discharge"
     ],
     "answer": 0,
     "explanation": "<strong>a) Stage.</strong> Stage is the height, elevation, or depth of the river water surface. [Course section: 10.3 Stage–Discharge Relationships]",
@@ -4253,13 +4253,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 10, question 2",
     "prompt": "The competence of a river is defined as:",
     "options": [
-      "a) The rivers ability to erode materials",
-      "b) The rivers highest velocity",
-      "c) The maximum sized particle or grain the river can transport",
-      "d) The rivers maximum depth"
+      "The river's ability to erode materials",
+      "The river's highest velocity",
+      "The maximum-sized particle or grain the river can transport",
+      "The river's maximum depth"
     ],
     "answer": 2,
-    "explanation": "<strong>c) The maximum sized particle or grain the river can transport.</strong> [Course section: 10.2 Sediment Loads and Transport]",
+    "explanation": "<strong>c) The maximum-sized particle or grain the river can transport.</strong> [Course section: 10.2 Sediment Loads and Transport]",
     "images": []
   },
   {
@@ -4269,7 +4269,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 3",
-    "prompt": "The capacity of any river can be defined as the maximum-sized particle it can carry; which is dependent on its velocity.",
+    "prompt": "A river's capacity is the maximum-sized particle it can carry, which depends on its velocity.",
     "options": [
       "True",
       "False"
@@ -4285,14 +4285,14 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 4,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 4",
-    "prompt": "In order to properly calculate the discharge of any river, the hydrologist needs to know the average velocity of flow, and the:",
+    "prompt": "To calculate a river's discharge, a hydrologist needs the average flow velocity and the:",
     "options": [
-      "a) Length of river",
-      "b) Cross-sectional area",
-      "c) Depth of river",
-      "d) Width of river",
-      "e) Watershed area",
-      "f) Total precipitation and evaporation"
+      "Length of river",
+      "Cross-sectional area",
+      "Depth of river",
+      "Width of river",
+      "Watershed area",
+      "Total precipitation and evaporation"
     ],
     "answer": 1,
     "explanation": "<strong>b) Cross-sectional area.</strong> Discharge is average velocity multiplied by cross-sectional area, Q=Av. [Course section: 10.2 Discharge]",
@@ -4305,7 +4305,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 5,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 5",
-    "prompt": "You will not find Oxbow Lakes within river floodplains.",
+    "prompt": "Oxbow lakes are not found within river floodplains.",
     "options": [
       "True",
       "False"
@@ -4321,7 +4321,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 6,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 6",
-    "prompt": "The highest velocity measured in a river channel would be found in the centre of flow and right at the surface.",
+    "prompt": "The highest velocity in a river channel occurs at the centre of flow and directly at the surface.",
     "options": [
       "True",
       "False"
@@ -4339,11 +4339,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 10, question 7",
     "prompt": "The curved paths along a river channel are officially referred to as:",
     "options": [
-      "a) Tributaries",
-      "b) Meanders",
-      "c) Bends",
-      "d) Channels",
-      "e) Banks"
+      "Tributaries",
+      "Meanders",
+      "Bends",
+      "Channels",
+      "Banks"
     ],
     "answer": 1,
     "explanation": "<strong>b) Meanders.</strong> [Course section: 10.1 Stream Migration and Flood Plains]",
@@ -4372,7 +4372,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 9,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 9",
-    "prompt": "A stilling well is mainly used for getting a steady water elevation reading, and usually contains a shaft encoder and float.",
+    "prompt": "A stilling well is mainly used to obtain a steady water-elevation reading and usually contains a shaft encoder and float.",
     "options": [
       "True",
       "False"
@@ -4388,12 +4388,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 10,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 10",
-    "prompt": "Which of the following is NOT a mode of sediment transport in a river.",
+    "prompt": "Which of the following is not a mode of sediment transport in a river?",
     "options": [
-      "a) Bed Load",
-      "b) Suspended Load",
-      "c) Turbulent Load",
-      "d) Saltation Load"
+      "Bed load",
+      "Suspended load",
+      "Turbulent load",
+      "Saltation load"
     ],
     "answer": 2,
     "explanation": "<strong>c) Turbulent Load.</strong> Bed load, suspended load, and saltation are recognized transport categories or modes; turbulent load is not. [Course section: 10.2 Sediment Loads and Transport]",
@@ -4422,17 +4422,17 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 10, question 12",
-    "prompt": "Which of the following factors below have a significant impact on the development and evolution of runoff in our environment?",
+    "prompt": "Which of the following factors significantly affect the development and evolution of runoff?",
     "options": [
-      "a) Climate factors",
-      "b) Catchment size",
-      "c) Precipitation type and intensity",
-      "d) Precipitation distribution",
-      "e) Hydraulic structures",
-      "f) Vegetation",
-      "g) Urbanisation",
-      "h) All of the above",
-      "i) Only A, B, C, and D above"
+      "Climate factors",
+      "Catchment size",
+      "Precipitation type and intensity",
+      "Precipitation distribution",
+      "Hydraulic structures",
+      "Vegetation",
+      "Urbanisation",
+      "All of the above",
+      "Only A, B, C, and D above"
     ],
     "answer": 7,
     "explanation": "<strong>h) All of the above.</strong> Climate, catchment properties, precipitation, flow-control structures, vegetation, and urbanization can all change runoff. [Course sections: 10.1 Runoff Components, 10.1 Human Effects and Urbanization, and 10.4 Five Flood Processes]",
@@ -4447,10 +4447,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "What is a tributary?",
     "options": [
-      "A. A smaller stream or river entering a larger body of water",
-      "B. A curved lake left by a river cutoff",
-      "C. A channel's lowest bed elevation",
-      "D. A constructed flood-control channel"
+      "A smaller stream or river entering a larger body of water",
+      "A curved lake left by a river cutoff",
+      "A channel's lowest bed elevation",
+      "A constructed flood-control channel"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> A tributary is a smaller stream or river entering a larger water body. [Section 10.1, opening discussion]",
@@ -4465,10 +4465,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which item is <strong>not</strong> one of the four main surface-runoff components named by the course?",
     "options": [
-      "A. Direct precipitation",
-      "B. Interflow",
-      "C. Dams and channelization",
-      "D. Groundwater discharge"
+      "Direct precipitation",
+      "Interflow",
+      "Dams and channelization",
+      "Groundwater discharge"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Dams and channelization are human influences; the four components are direct precipitation, interflow, groundwater discharge, and snowmelt. [Section 10.1, \"Runoff and Urbanization\"]",
@@ -4483,10 +4483,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which pair describes the hydrograph change associated with urbanization?",
     "options": [
-      "A. Lower peak flow and shorter lag time",
-      "B. Higher peak flow and shorter lag time",
-      "C. Higher peak flow and longer lag time",
-      "D. Lower peak flow and longer lag time"
+      "Lower peak flow and shorter lag time",
+      "Higher peak flow and shorter lag time",
+      "Higher peak flow and longer lag time",
+      "Lower peak flow and longer lag time"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Impervious surfaces route more water to channels faster, raising peak flow and shortening lag time. [Section 10.1, \"Runoff and Urbanization,\" Figure 10.1.5]",
@@ -4503,10 +4503,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "At a channel meander, where are erosion and deposition most likely?",
     "options": [
-      "A. Erosion on the inside; deposition on the outside",
-      "B. Erosion and deposition equally on both banks",
-      "C. Erosion on the outside; deposition on the inside",
-      "D. Erosion only at the bed; no bank deposition"
+      "Erosion on the inside; deposition on the outside",
+      "Erosion and deposition equally on both banks",
+      "Erosion on the outside; deposition on the inside",
+      "Erosion only at the bed; no bank deposition"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Faster outside-bank flow erodes while slower inside-bank flow deposits, shifting the channel laterally. [Section 10.1, \"Stream Migration and Flood Plains\"]",
@@ -4521,10 +4521,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "Which statement best describes laminar flow?",
     "options": [
-      "A. Strong mixing and eddies around bed obstacles",
-      "B. Streamlined parallel movement with little mixing",
-      "C. The dominant flow type in almost every natural river",
-      "D. Flow that always transports boulders"
+      "Strong mixing and eddies around bed obstacles",
+      "Streamlined parallel movement with little mixing",
+      "The dominant flow type in almost every natural river",
+      "Flow that always transports boulders"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Laminar flow consists of streamlined, parallel layers with little or no mixing. [Section 10.2, \"Stream Flow\"]",
@@ -4539,10 +4539,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which three controls on stream velocity are emphasized in Section 10.2?",
     "options": [
-      "A. Gradient, channel features, and discharge",
-      "B. Riparian diversity, flood-plain width, and evaporation",
-      "C. Stage, return period, and quickflow",
-      "D. Capacity, competence, and saltation"
+      "Gradient, channel features, and discharge",
+      "Riparian diversity, flood-plain width, and evaporation",
+      "Stage, return period, and quickflow",
+      "Capacity, competence, and saltation"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> The three controls are gradient, channel features, and discharge. [Section 10.2, \"Stream Flow\"]",
@@ -4557,10 +4557,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "In a typical channel cross-section, maximum velocity is commonly found:",
     "options": [
-      "A. At the bed",
-      "B. Against a bank",
-      "C. Just below the surface near the main flow path",
-      "D. At the inside corner of every meander"
+      "At the bed",
+      "Against a bank",
+      "Just below the surface near the main flow path",
+      "At the inside corner of every meander"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Maximum velocity is commonly just below the surface near the main flow path; at bends it shifts toward the outside bank. [Section 10.2, \"Stream Flow,\" Figures 10.2.2-10.2.3]",
@@ -4575,10 +4575,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Which pair consists entirely of bed-load processes?",
     "options": [
-      "A. Suspension and dissolution",
-      "B. Traction and saltation",
-      "C. Interflow and traction",
-      "D. Saltation and groundwater discharge"
+      "Suspension and dissolution",
+      "Traction and saltation",
+      "Interflow and traction",
+      "Saltation and groundwater discharge"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Traction is rolling or sliding and saltation is hopping; both are bed-load processes. [Section 10.2, \"Sediment Loads and Transport\"]",
@@ -4593,10 +4593,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "A river's <strong>competence</strong> is:",
     "options": [
-      "A. The total amount of sediment it carries",
-      "B. The maximum particle size it can transport",
-      "C. Its water volume per unit time",
-      "D. Its normal flow beneath a flood response"
+      "The total amount of sediment it carries",
+      "The maximum particle size it can transport",
+      "Its water volume per unit time",
+      "Its normal flow beneath a flood response"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Competence is maximum transportable particle size; capacity is the amount carried. [Section 10.2, \"Sediment Loads and Transport\"]",
@@ -4611,10 +4611,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Why can tightly packed clay require unexpectedly high velocity to erode?",
     "options": [
-      "A. Clay grains are always larger than boulders",
-      "B. Clay eliminates all channel roughness downstream",
-      "C. Its smooth, closely packed surface gives water few openings to flow around individual grains",
-      "D. Clay can move only as bed load"
+      "Clay grains are always larger than boulders",
+      "Clay eliminates all channel roughness downstream",
+      "Its smooth, closely packed surface gives water few openings to flow around individual grains",
+      "Clay can move only as bed load"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Closely packed clay forms a smooth surface with few openings through which water can get around and lift individual particles. [Section 10.2, \"Sediment Loads and Transport,\" Figure 10.2.7]",
@@ -4629,10 +4629,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "What subsection size does the course recommend for velocity-area surveys?",
     "options": [
-      "A. 1%-2% of channel width, about 50-100 sections",
-      "B. 3%-5% of channel width, about 20-30 sections",
-      "C. 10%-20% of channel width, about 5-10 sections",
-      "D. One section spanning the full width"
+      "1%-2% of channel width, about 50-100 sections",
+      "3%-5% of channel width, about 20-30 sections",
+      "10%-20% of channel width, about 5-10 sections",
+      "One section spanning the full width"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Each slice should be 3%-5% of total width, giving about 20-30 subsections. [Section 10.3, \"Discharge Calculations\"]",
@@ -4647,10 +4647,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "Why can a stage–discharge relationship not be transferred freely to another location?",
     "options": [
-      "A. Stage can be measured only during summer",
-      "B. Discharge has no relation to stage",
-      "C. The relationship is calibrated to the channel section near its measurement point",
-      "D. Regression lines use no field measurements"
+      "Stage can be measured only during summer",
+      "Discharge has no relation to stage",
+      "The relationship is calibrated to the channel section near its measurement point",
+      "Regression lines use no field measurements"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Channel geometry and flow conditions make the calibration valid only near the measured section. [Section 10.3, \"Stage–Discharge Relationships\"]",
@@ -4665,10 +4665,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 13",
     "prompt": "What does a 1-in-50-year flood mean?",
     "options": [
-      "A. Exactly one flood will occur every 50 years",
-      "B. The event has a 50% chance each year",
-      "C. The event has a 2% chance each year",
-      "D. No second event can occur within 50 years"
+      "Exactly one flood will occur every 50 years",
+      "The event has a 50% chance each year",
+      "The event has a 2% chance each year",
+      "No second event can occur within 50 years"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> 1/50=0.02=2% annual probability; it is not a fixed schedule. [Section 10.4, opening discussion]",
@@ -4683,10 +4683,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 14",
     "prompt": "A localized, intense precipitation event flooding a limited watershed is classified as:",
     "options": [
-      "A. A regional flood",
-      "B. A local flash flood",
-      "C. An ice-jam flood",
-      "D. A constructed-dam failure"
+      "A regional flood",
+      "A local flash flood",
+      "An ice-jam flood",
+      "A constructed-dam failure"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> A local flash flood follows localized intense precipitation in a limited watershed. [Section 10.4, opening discussion]",
@@ -4701,10 +4701,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 15",
     "prompt": "On a flood hydrograph, a narrow quickflow section indicates that:",
     "options": [
-      "A. The flood wave passed through quickly",
-      "B. Flooding lasted longer",
-      "C. Baseflow was absent",
-      "D. The annual flood probability was lower"
+      "The flood wave passed through quickly",
+      "Flooding lasted longer",
+      "Baseflow was absent",
+      "The annual flood probability was lower"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> A narrow quickflow response means the flood wave passed through quickly; a wide response means a longer flood duration. [Section 10.4, \"Flood Hydrographs\"]",
@@ -4847,13 +4847,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 1,
     "sourceType": "official",
     "sourceLabel": "Quiz 11, question 1",
-    "prompt": "Theses features are often seen as are conical hills, formed where sediment is deposited in depressions on the surface of the glacier, which is then lowered to the ground surface as the glacier melts.",
+    "prompt": "Which features are conical hills formed when sediment deposited in depressions on a glacier is lowered to the ground as the ice melts?",
     "options": [
       "Kettles",
       "Eskers",
-      "Outwash Plains",
-      "Lateral Moraines",
-      "Terminal Moraines",
+      "Outwash plains",
+      "Lateral moraines",
+      "Terminal moraines",
       "Kames"
     ],
     "answer": 5,
@@ -4867,7 +4867,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 2,
     "sourceType": "official",
     "sourceLabel": "Quiz 11, question 2",
-    "prompt": "Isostatic rebound occurs as a slow sinking of a large landmass due to a heavy weight, such as glaciers, and can act very slowly over geologic time.",
+    "prompt": "Isostatic rebound is the slow sinking of a large landmass under a heavy load, such as a glacier, over geologic time.",
     "options": [
       "True",
       "False"
@@ -4885,10 +4885,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 11, question 3",
     "prompt": "The speed at which a valley glacier moves downslope is largely controlled by:",
     "options": [
-      "a) The total amount of sediment carried on and in the ice",
-      "b) The temperature of the atmosphere and ground surface",
-      "c) The amount of melt water released at its terminus",
-      "d) All of the above"
+      "The total amount of sediment carried on and in the ice",
+      "The temperature of the atmosphere and ground surface",
+      "The amount of meltwater released at its terminus",
+      "All of the above"
     ],
     "answer": 1,
     "explanation": "<strong>b) The temperature of the atmosphere and ground surface.</strong> Temperature controls basal melting, slip, and ease of deformation. (Course section: 11.2 Glacial Movement)",
@@ -4903,11 +4903,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 11, question 4",
     "prompt": "Milankovitch cycles help to explain:",
     "options": [
-      "a) The entry and exit of glacial periods",
-      "b) Erosional and depositional deposits at the glacier terminus",
-      "c) Both A and B above",
-      "d) The compression and rebound of the ground surface caused by continental glaciation",
-      "e) The changing intensity of the sun"
+      "The entry and exit of glacial periods",
+      "Erosional and depositional deposits at the glacier terminus",
+      "Both A and B above",
+      "The compression and rebound of the ground surface caused by continental glaciation",
+      "The changing intensity of the sun"
     ],
     "answer": 0,
     "explanation": "<strong>a) The entry and exit of glacial periods.</strong> Milankovitch cycles change the seasonal and geographic distribution of solar energy over long periods. (Course section and Figures 11.2.3–11.2.4: 11.2 Causes of Glaciation and Milankovitch Cycles)",
@@ -4922,11 +4922,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 11, question 5",
     "prompt": "The majority of glacial movement downslope occurs due to:",
     "options": [
-      "a) Development of cravases",
-      "b) Basal slipping beneath the glacial ice",
-      "c) Internal plastic deformation within the glacial ice",
-      "d) Force of gravity pulling downslope",
-      "e) Meltwater accumulation"
+      "Development of crevasses",
+      "Basal sliding beneath the glacial ice",
+      "Internal plastic deformation within the glacial ice",
+      "Force of gravity pulling downslope",
+      "Meltwater accumulation"
     ],
     "answer": 2,
     "explanation": "<strong>c) Internal plastic deformation within the glacial ice.</strong> (Course section: 11.2 Glacial Movement)",
@@ -4941,13 +4941,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 11, question 6",
     "prompt": "Elongated low mounds of till that form along the sides of a valley glacier are called:",
     "options": [
-      "a) Recessional Moraines",
-      "b) Medial Moraines",
-      "c) Lateral Moraines",
-      "d) End Moraines"
+      "Recessional moraines",
+      "Medial moraines",
+      "Lateral moraines",
+      "End moraines"
     ],
     "answer": 2,
-    "explanation": "<strong>c) Lateral Moraines.</strong> They form as elongated till ridges along the sides of valley glaciers. (Course section and Figure 11.3.1: 11.3 Alpine Depositional Features)",
+    "explanation": "<strong>c) Lateral moraines.</strong> They form as elongated till ridges along the sides of valley glaciers. (Course section and Figure 11.3.1: 11.3 Alpine Depositional Features)",
     "images": []
   },
   {
@@ -4957,13 +4957,13 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 11, question 7",
-    "prompt": "Which of the following is NOT found in an erosional landscape created by valley glaciation?",
+    "prompt": "Which of the following is not found in an erosional landscape created by valley glaciation?",
     "options": [
-      "a) Horns",
-      "b) Cirques",
-      "c) Hanging Valleys",
-      "d) Eskers",
-      "e) Aretes"
+      "Horns",
+      "Cirques",
+      "Hanging valleys",
+      "Eskers",
+      "Aretes"
     ],
     "answer": 3,
     "explanation": "<strong>d) Eskers.</strong> Eskers are depositional meltwater ridges; horns, cirques, hanging valleys, and aretes are erosional alpine features. (Course sections: 11.3 Alpine Erosional Features and 11.3 Continental Glacier Features)",
@@ -4976,15 +4976,15 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 11, question 8",
-    "prompt": "A glacial budget would be considered 'positive' if:",
+    "prompt": "A glacial budget is positive if:",
     "options": [
-      "a) More water is melting through the bottom of the glacier than snow water equivalent is falling on the surface",
-      "b) More snow falls in the zone of accumulation than the zone of ablation",
-      "c) The glacier has an overall higher percentage of ice than soil and rock",
-      "d) The glacier is accumulating mass through incorporation of additional morainic and till material"
+      "More water is melting through the bottom of the glacier than snow water equivalent is falling on the surface",
+      "Accumulation exceeds ablation",
+      "The glacier has an overall higher percentage of ice than soil and rock",
+      "The glacier is accumulating mass through incorporation of additional morainic and till material"
     ],
     "answer": 1,
-    "explanation": "<strong>b) More snow falls in the zone of accumulation than the zone of ablation.</strong> Accumulation exceeding ablation produces a positive budget and glacier growth. (Course section: 11.1 Formation of Glaciers)",
+    "explanation": "<strong>b) Accumulation exceeds ablation.</strong> This produces a positive glacial budget and glacier growth. (Course section: 11.1 Formation of Glaciers)",
     "images": []
   },
   {
@@ -4996,13 +4996,13 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 11, question 9",
     "prompt": "The maximum extent of glaciers and ice sheets in the northern hemisphere during the last ice age occurred about how many years ago?",
     "options": [
-      "a) 2 years ago",
-      "b) 20 years ago",
-      "c) 200 years ago",
-      "d) 2,000 years ago",
-      "e) 20,000 years ago",
-      "f) 200,000 years ago",
-      "g) 2,000,000 yeas ago"
+      "2 years ago",
+      "20 years ago",
+      "200 years ago",
+      "2,000 years ago",
+      "20,000 years ago",
+      "200,000 years ago",
+      "2,000,000 years ago"
     ],
     "answer": 4,
     "explanation": "<strong>e) 20,000 years ago.</strong> (Course section and Figure 11.2.2: 11.2 Glacial History)",
@@ -5017,14 +5017,14 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 11, question 10",
     "prompt": "Several features can be used to help identify the general direction of past glacial movement. These include:",
     "options": [
-      "a) Lakes from from meltwater",
-      "b) The location of Outwash Plains",
-      "c) Aretes and Horns",
-      "d) Kames and Kettles",
-      "e) Moraines and Eskers"
+      "Lakes formed from meltwater",
+      "The location of outwash plains",
+      "Aretes and horns",
+      "Kames and kettles",
+      "Moraines and eskers"
     ],
     "answer": 4,
-    "explanation": "<strong>e) Moraines and Eskers.</strong> Their form and alignment can preserve evidence of former ice and meltwater-flow directions. (Course section and Figure 11.3.6: 11.3 Figure Lessons)",
+    "explanation": "<strong>e) Moraines and eskers.</strong> Their form and alignment can preserve evidence of former ice and meltwater-flow directions. (Course section and Figure 11.3.6: 11.3 Figure Lessons)",
     "images": []
   },
   {
@@ -5050,7 +5050,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 11, question 12",
-    "prompt": "Glaciers represent the largest reserve of fresh water on the Earth.",
+    "prompt": "Glaciers represent the largest reserve of freshwater on Earth.",
     "options": [
       "True",
       "False"
@@ -5068,10 +5068,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "Which condition permits a glacier to form and grow?",
     "options": [
-      "A. Summer melting exceeds winter accumulation",
-      "B. Winter accumulation exceeds summer melting",
-      "C. Ablation equals or exceeds accumulation",
-      "D. The equilibrium line remains fixed"
+      "Summer melting exceeds winter accumulation",
+      "Winter accumulation exceeds summer melting",
+      "Ablation equals or exceeds accumulation",
+      "The equilibrium line remains fixed"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Glacier growth requires a positive snow or ice budget in which winter accumulation exceeds summer melting. (11.1, \"Formation of Glaciers\")",
@@ -5086,10 +5086,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which feature distinguishes an ice sheet from an alpine glacier?",
     "options": [
-      "A. It contains recrystallized snow",
-      "B. It flows under its own weight",
-      "C. It is not confined by topographic obstacles",
-      "D. It has a zone of ablation"
+      "It contains recrystallized snow",
+      "It flows under its own weight",
+      "It is not confined by topographic obstacles",
+      "It has a zone of ablation"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> An ice sheet is a much larger glacial mass that is not confined by topographic obstacles. (11.1, \"Formation of Glaciers\")",
@@ -5104,10 +5104,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "What is the expected response of the equilibrium line during a warmer-than-average year?",
     "options": [
-      "A. It moves to a higher elevation",
-      "B. It moves to a lower elevation",
-      "C. It becomes the glacier toe",
-      "D. It permanently stops moving"
+      "It moves to a higher elevation",
+      "It moves to a lower elevation",
+      "It becomes the glacier toe",
+      "It permanently stops moving"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> In a warmer year, more snow and ice can melt, so the equilibrium line can move to a higher elevation. (11.1, \"Anatomy of a Glacier\")",
@@ -5122,10 +5122,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "What is the primary movement mechanism of alpine and continental glaciers?",
     "options": [
-      "A. Wind transport",
-      "B. Basal slip",
-      "C. Plastic flow",
-      "D. Surface runoff"
+      "Wind transport",
+      "Basal slip",
+      "Plastic flow",
+      "Surface runoff"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Plastic flow is the primary movement mechanism for alpine and continental glaciers. (11.2, \"Glacial Movement\")",
@@ -5140,10 +5140,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "How can a glacier move if it is frozen solid to the underlying ground?",
     "options": [
-      "A. Only by basal slip",
-      "B. Only by plastic flow",
-      "C. Only by meltwater outwash",
-      "D. It cannot move"
+      "Only by basal slip",
+      "Only by plastic flow",
+      "Only by meltwater outwash",
+      "It cannot move"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Ice frozen to the ground cannot slide at its base but can still deform internally through plastic flow. (11.2, \"Glacial Movement\")",
@@ -5158,10 +5158,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "Which is not one of the three controls on glacier movement rate listed in the course?",
     "options": [
-      "A. Slope",
-      "B. Total ice volume",
-      "C. Temperature",
-      "D. Sediment colour"
+      "Slope",
+      "Total ice volume",
+      "Temperature",
+      "Sediment colour"
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> The three stated controls are slope, total ice volume, and temperature. (11.2, \"Glacial Movement\")",
@@ -5176,10 +5176,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "Which Milankovitch component describes change in Earth's axial tilt?",
     "options": [
-      "A. Eccentricity",
-      "B. Obliquity",
-      "C. Precession",
-      "D. Solar forcing"
+      "Eccentricity",
+      "Obliquity",
+      "Precession",
+      "Solar forcing"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Obliquity is change in the angle of Earth's axis relative to its orbital plane. (11.2, \"Causes of Glaciation and Milankovitch Cycles\")",
@@ -5194,10 +5194,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Why can continental position influence glaciation?",
     "options": [
-      "A. Glaciation commonly begins on land, and continents also redirect ocean and atmospheric currents",
-      "B. Continents prevent all orbital changes",
-      "C. Continents eliminate solar forcing",
-      "D. Glaciers can form only at the equator"
+      "Glaciation commonly begins on land, and continents also redirect ocean and atmospheric currents",
+      "Continents prevent all orbital changes",
+      "Continents eliminate solar forcing",
+      "Glaciers can form only at the equator"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> Glaciation commonly starts on land, and continental positions affect major ocean and atmospheric currents and therefore climate. (11.2, \"Causes of Glaciation and Milankovitch Cycles\")",
@@ -5212,10 +5212,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Which observation is evidence for a former meltwater lake?",
     "options": [
-      "A. A modern crevasse",
-      "B. A raised beach far from a current body of water",
-      "C. A fixed equilibrium line",
-      "D. A volcanic eruption"
+      "A modern crevasse",
+      "A raised beach far from a current body of water",
+      "A fixed equilibrium line",
+      "A volcanic eruption"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Raised beaches and ridges distant from present water record former shorelines such as those of Glacial Lake Agassiz. (11.2, \"Evidence of Past Glaciation\")",
@@ -5230,10 +5230,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Which moraine forms when two or more lateral moraines merge?",
     "options": [
-      "A. Terminal moraine",
-      "B. Recessional moraine",
-      "C. Medial moraine",
-      "D. End moraine"
+      "Terminal moraine",
+      "Recessional moraine",
+      "Medial moraine",
+      "End moraine"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Medial moraines form where two or more lateral moraines merge as ice flows join. (11.3, \"Depositional Features in Alpine Glacier Environments\")",
@@ -5248,10 +5248,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "Which valley shape is a telltale sign of past glaciation?",
     "options": [
-      "A. V-shaped",
-      "B. U-shaped",
-      "C. Circular",
-      "D. Conical"
+      "V-shaped",
+      "U-shaped",
+      "Circular",
+      "Conical"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Moving ice converts a stream-carved V-shaped valley into a U-shaped valley. (11.3, \"Erosional Features in Alpine Glacier Environments\")",
@@ -5266,10 +5266,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "Which landform is a long sinuous ridge representing a former stream or river bed on top of or within glacial ice?",
     "options": [
-      "A. Drumlin",
-      "B. Kettle",
-      "C. Kame",
-      "D. Esker"
+      "Drumlin",
+      "Kettle",
+      "Kame",
+      "Esker"
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> An esker is a long sinuous ridge left from a stream or river bed on top of or within glacial ice. (11.3, \"Definition: Esker\")",
@@ -5416,10 +5416,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 12, question 1",
     "prompt": "Which of the following is considered an important greenhouse gas?",
     "options": [
-      "a) Carbon monoxide",
-      "b) Carbon dioxide",
-      "c) Sulphur dioxide",
-      "d) All of the Above"
+      "Carbon monoxide",
+      "Carbon dioxide",
+      "Sulphur dioxide",
+      "All of the above"
     ],
     "answer": 1,
     "explanation": "<strong>b) Carbon dioxide.</strong> It is the important greenhouse gas among the listed choices. (12.1, “Climate Change and the Greenhouse Effect”)",
@@ -5432,16 +5432,16 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 2,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 2",
-    "prompt": "Scientists officially measure climate change over what minimum length of time?",
+    "prompt": "What minimum period is used to assess climate change?",
     "options": [
-      "a) Less than a single year",
-      "b) From 1 to 5 years",
-      "c) From 5 to 10 years",
-      "d) From 10 to 20 years",
-      "e) Over 30 years"
+      "Less than a single year",
+      "From 1 to 5 years",
+      "From 5 to 10 years",
+      "From 10 to 20 years",
+      "At least 30 years"
     ],
     "answer": 4,
-    "explanation": "<strong>e) Over 30 years.</strong> The course defines climate change over at least three decades. (12.1, “Climate vs. Weather”)",
+    "explanation": "<strong>e) At least 30 years.</strong> The course defines climate change over at least three decades. (12.1, “Climate vs. Weather”)",
     "images": []
   },
   {
@@ -5451,16 +5451,16 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 3,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 3",
-    "prompt": "When studying climate change, scientists can gather proxy data from the past from:",
+    "prompt": "Which sources can provide proxy data about past climates?",
     "options": [
-      "a) Ice cores",
-      "b) Corals",
-      "c) Tree Rings",
-      "d) Sediment Layers",
-      "e) All of the Above"
+      "Ice cores",
+      "Corals",
+      "Tree rings",
+      "Sediment layers",
+      "All of the above"
     ],
     "answer": 4,
-    "explanation": "<strong>e) All of the Above.</strong> Ice cores, corals, tree rings, and sediment layers are proxy records. (12.2, “Evidence From the Past”)",
+    "explanation": "<strong>e) All of the above.</strong> Ice cores, corals, tree rings, and sediment layers are proxy records. (12.2, “Evidence From the Past”)",
     "images": []
   },
   {
@@ -5472,11 +5472,11 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 12, question 4",
     "prompt": "Which of the following natural processes does not have a significant impact on climate change?",
     "options": [
-      "a) Earth's orbit in space",
-      "b) Volcanoes",
-      "c) Energy from the sun",
-      "d) Plate tectonics",
-      "e) Major hurricanes"
+      "Earth's orbit in space",
+      "Volcanoes",
+      "Energy from the sun",
+      "Plate tectonics",
+      "Major hurricanes"
     ],
     "answer": 4,
     "explanation": "<strong>e) Major hurricanes.</strong> Orbit, volcanoes, solar energy, and plate tectonics can affect climate; hurricanes are a response rather than a driver. (12.1, “Natural Climate Drivers”)",
@@ -5489,7 +5489,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 5,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 5",
-    "prompt": "One of the main theories explaining climate change is that our atmosphere, composed mainly of nitrogen, oxygen, water, carbon dioxide, etc., is mainly transparent to short-wave radiation from the sun, but opaque (absorbs) to long-wave radiation emitted from the Earth.",
+    "prompt": "The atmosphere is largely transparent to incoming short-wave solar radiation but absorbs outgoing long-wave radiation emitted by Earth.",
     "options": [
       "True",
       "False"
@@ -5507,12 +5507,12 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Quiz 12, question 6",
     "prompt": "What does the IPCC stand for?",
     "options": [
-      "a) International Policies on Climate Change",
-      "b) Institutional Policies on Climate Change",
-      "c) Intergovernmental Panel on Climate Change",
-      "d) Intergovernmental Policies on Climate Change",
-      "e) International Panel on Climate Change",
-      "f) Institutional Partner on Climate Change"
+      "International Policies on Climate Change",
+      "Institutional Policies on Climate Change",
+      "Intergovernmental Panel on Climate Change",
+      "Intergovernmental Policies on Climate Change",
+      "International Panel on Climate Change",
+      "Institutional Partner on Climate Change"
     ],
     "answer": 2,
     "explanation": "<strong>c) Intergovernmental Panel on Climate Change.</strong> (12.3, opening discussion)",
@@ -5525,7 +5525,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 7,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 7",
-    "prompt": "Climate change is causing a slow increase in diurnal temperatures (0.07 C per decade) as maximum and minimum temperatures also increase at the same rate.",
+    "prompt": "Climate change is causing the diurnal temperature range to increase by 0.07°C per decade because maximum and minimum temperatures are increasing at the same rate.",
     "options": [
       "True",
       "False"
@@ -5541,17 +5541,17 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 8,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 8",
-    "prompt": "Which of the following hydrological changes have scientists already documented regarding the impact of climate change?",
+    "prompt": "Which hydrological changes associated with climate change have scientists already documented?",
     "options": [
-      "a) Higher temperatures in surface waters",
-      "b) Reduction to total ice cover",
-      "c) Earlier snow-melt events",
-      "d) An increase in high latitude runoff",
-      "e) All of the Above",
-      "f) Just A, B, and C above"
+      "Higher temperatures in surface waters",
+      "Reduction in total ice cover",
+      "Earlier snowmelt events",
+      "An increase in high-latitude runoff",
+      "All of the above",
+      "Just A, B, and C above"
     ],
     "answer": 4,
-    "explanation": "<strong>e) All of the Above.</strong> The course documents warmer surface waters, less ice cover, earlier snowmelt, and increased high-latitude runoff. (12.1, “Hydrological Changes”)",
+    "explanation": "<strong>e) All of the above.</strong> The course documents warmer surface waters, less ice cover, earlier snowmelt, and increased high-latitude runoff. (12.1, “Hydrological Changes”)",
     "images": []
   },
   {
@@ -5577,16 +5577,16 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 10,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 10",
-    "prompt": "If humans were to double the current CO2 concentration in the atmosphere, the global average temperature of the planet would increase by approximately this much (+/- 1 degC or so):",
+    "prompt": "If atmospheric CO<sub>2</sub> concentration doubled, approximately how much would global average temperature increase, with an uncertainty of about ±1°C?",
     "options": [
-      "a) 1 degree",
-      "b) 3 degrees",
-      "c) 5 degrees",
-      "d) 8 degrees",
-      "e) 11 degrees"
+      "1°C",
+      "3°C",
+      "5°C",
+      "8°C",
+      "11°C"
     ],
     "answer": 1,
-    "explanation": "<strong>b) 3 degrees.</strong> The 12/12 saved quiz attempt uses approximately 3°C, with about ±1°C uncertainty, for doubled current CO<sub>2</sub>. (Saved quiz-12, Question 10; 12.1, greenhouse-effect discussion)",
+    "explanation": "<strong>b) 3°C.</strong> The saved quiz uses approximately 3°C, with about ±1°C uncertainty, for doubled atmospheric CO<sub>2</sub>. (Saved quiz-12, Question 10; 12.1, greenhouse-effect discussion)",
     "images": []
   },
   {
@@ -5596,12 +5596,12 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 11,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 11",
-    "prompt": "Which of the following scientists completed seminal work in 1867 which showed that burning fossil fuels and adding CO2 to the atmosphere would raise the planet's average temperature?",
+    "prompt": "Which scientist is paired in the course quiz with 1867 work showing that fossil-fuel combustion and added atmospheric CO<sub>2</sub> would raise the planet's average temperature?",
     "options": [
-      "a) Svante Arrhenius",
-      "b) Guy Stewart Callendar",
-      "c) Charles Keeling",
-      "d) James Watt"
+      "Svante Arrhenius",
+      "Guy Stewart Callendar",
+      "Charles Keeling",
+      "James Watt"
     ],
     "answer": 0,
     "explanation": "<strong>a) Svante Arrhenius.</strong> This preserves the scientist and year pairing used by the saved course quiz. (Saved quiz-12, Question 11; 12.1, greenhouse-gas research history)",
@@ -5614,14 +5614,14 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 12,
     "sourceType": "official",
     "sourceLabel": "Quiz 12, question 12",
-    "prompt": "Which of the following Earth system processes does NOT have a big impact on the climate?",
+    "prompt": "Which of the following Earth-system processes does not have a major impact on climate?",
     "options": [
-      "a) The orbit of the Earth",
-      "b) Greenhouse gases",
-      "c) The tilt of the Earth",
-      "d) Drifting continents",
-      "e) Larger hurricanes",
-      "f) The sun's output"
+      "The orbit of the Earth",
+      "Greenhouse gases",
+      "The tilt of the Earth",
+      "Drifting continents",
+      "Larger hurricanes",
+      "The sun's output"
     ],
     "answer": 4,
     "explanation": "<strong>e) Larger hurricanes.</strong> Orbit, greenhouse gases, axial tilt, drifting continents, and solar output affect climate; larger hurricanes are a possible result. (12.1, “Natural Climate Drivers”)",
@@ -5636,10 +5636,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 1",
     "prompt": "What minimum period does the course use to distinguish climate change from weather?",
     "options": [
-      "A. 1 year",
-      "B. 5 years",
-      "C. 10 years",
-      "D. 30 years"
+      "1 year",
+      "5 years",
+      "10 years",
+      "30 years"
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> The course defines climate change over at least 3 decades, or 30 years. (12.1, “Climate Change and the Greenhouse Effect”)",
@@ -5654,10 +5654,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 2",
     "prompt": "Which gases does Module 12.1 identify as dominant influences on climate change?",
     "options": [
-      "A. Oxygen and nitrogen",
-      "B. Carbon dioxide and methane",
-      "C. Argon and helium",
-      "D. Ozone and water vapour"
+      "Oxygen and nitrogen",
+      "Carbon dioxide and methane",
+      "Argon and helium",
+      "Ozone and water vapour"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> CO<sub>2</sub> and CH<sub>4</sub> are the two dominant gases named. (12.1, “Causes of Climate Change”)",
@@ -5672,10 +5672,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 3",
     "prompt": "Which is <strong>not</strong> one of the four natural climate processes listed in Module 12.1?",
     "options": [
-      "A. Solar output",
-      "B. Plate tectonics",
-      "C. Earth’s orbit",
-      "D. Larger hurricanes"
+      "Solar output",
+      "Plate tectonics",
+      "Earth’s orbit",
+      "Larger hurricanes"
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> Larger hurricanes are a possible response; the four natural processes are sun, orbit, plate tectonics, and volcanoes. (12.1, “Causes of Climate Change”)",
@@ -5690,10 +5690,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 4",
     "prompt": "Approximately how much more CO<sub>2</sub> do humans emit annually than all volcanic eruptions combined, according to the course?",
     "options": [
-      "A. 6 times",
-      "B. 16 times",
-      "C. 60 times",
-      "D. 600 times"
+      "6 times",
+      "16 times",
+      "60 times",
+      "600 times"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> The page states that humans release about 60 times more CO<sub>2</sub> annually than all volcanoes combined. (12.1, “Causes of Climate Change”)",
@@ -5708,10 +5708,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 5",
     "prompt": "What atmospheric CO<sub>2</sub> concentration is reported for July 2022?",
     "options": [
-      "A. Just under 280 ppm",
-      "B. Just under 320 ppm",
-      "C. Just under 420 ppm",
-      "D. Just under 560 ppm"
+      "Just under 280 ppm",
+      "Just under 320 ppm",
+      "Just under 420 ppm",
+      "Just under 560 ppm"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> July 2022 atmospheric CO<sub>2</sub> was just under 420 ppm. (12.2, “Carbon Dioxide”)",
@@ -5726,10 +5726,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 6",
     "prompt": "What preindustrial natural CO<sub>2</sub> concentration does the course use?",
     "options": [
-      "A. 140 ppm",
-      "B. 280 ppm",
-      "C. 420 ppm",
-      "D. 800 ppm"
+      "140 ppm",
+      "280 ppm",
+      "420 ppm",
+      "800 ppm"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The preindustrial natural level used is 280 ppm. (12.2, “Carbon Dioxide”)",
@@ -5744,10 +5744,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 7",
     "prompt": "Why is Mauna Loa a useful CO<sub>2</sub> monitoring site?",
     "options": [
-      "A. It is beside a major industrial centre.",
-      "B. It is high, remote from major CO<sub>2</sub> sources, and samples well-mixed air.",
-      "C. It is the only place where CO<sub>2</sub> can be measured.",
-      "D. It has no seasonal vegetation signal."
+      "It is beside a major industrial centre.",
+      "It is high, remote from major CO<sub>2</sub> sources, and samples well-mixed air.",
+      "It is the only place where CO<sub>2</sub> can be measured.",
+      "It has no seasonal vegetation signal."
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Mauna Loa is high, Pacific-isolated from major sources, and samples well-mixed air. (12.2, “Carbon Dioxide”)",
@@ -5762,10 +5762,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 8",
     "prompt": "Which record preserves bubbles of ancient atmosphere?",
     "options": [
-      "A. River discharge records",
-      "B. Ice cores",
-      "C. Stilling wells",
-      "D. Rating curves"
+      "River discharge records",
+      "Ice cores",
+      "Stilling wells",
+      "Rating curves"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> Ice-core bubbles preserve samples of past atmospheres. (12.2, “Ice Cores”)",
@@ -5780,10 +5780,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 9",
     "prompt": "Which model result best matches modern observed temperatures?",
     "options": [
-      "A. Natural causes only",
-      "B. Human causes only, with natural processes removed",
-      "C. Combined natural and human causes",
-      "D. No model matches the observations"
+      "Natural causes only",
+      "Human causes only, with natural processes removed",
+      "Combined natural and human causes",
+      "No model matches the observations"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Observations match most closely when models include both natural and human causes. (12.2, “Atmospheric Temperatures”; Figure 12.2.5)",
@@ -5798,10 +5798,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 10",
     "prompt": "Which observation system measures ocean temperature, heat content, salinity, pressure, and currents?",
     "options": [
-      "A. ARGO",
-      "B. IPCC",
-      "C. Keeling Curve",
-      "D. Milankovitch network"
+      "ARGO",
+      "IPCC",
+      "Keeling Curve",
+      "Milankovitch network"
     ],
     "answer": 0,
     "explanation": "<strong>A.</strong> ARGO is the global ocean-float system. (12.2, “Ocean Temperatures”)",
@@ -5816,10 +5816,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 11",
     "prompt": "What unit scale is used for ocean heat content in Figure 12.2.7?",
     "options": [
-      "A. 10<sup>6</sup> J",
-      "B. 10<sup>12</sup> J",
-      "C. 10<sup>16</sup> J",
-      "D. 10<sup>21</sup> J"
+      "10<sup>6</sup> J",
+      "10<sup>12</sup> J",
+      "10<sup>16</sup> J",
+      "10<sup>21</sup> J"
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> The Figure 12.2.7 axis is in 10<sup>21</sup> J. (12.2, “Ocean Temperatures”)",
@@ -5836,10 +5836,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 12",
     "prompt": "What present global sea-level-rise rate is given in Module 12.2?",
     "options": [
-      "A. About 0.4 mm/year",
-      "B. About 1 mm/year",
-      "C. Almost 4 mm/year",
-      "D. About 40 mm/year"
+      "About 0.4 mm/year",
+      "About 1 mm/year",
+      "Almost 4 mm/year",
+      "About 40 mm/year"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> The saved page gives almost 4 mm/year. (12.2, “Rise in Sea Levels”)",
@@ -5854,10 +5854,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 13",
     "prompt": "Which statement best describes the IPCC?",
     "options": [
-      "A. One laboratory that collects every climate measurement",
-      "B. A UN-created international group that organizes scientists and knowledge sharing",
-      "C. A global network of ocean buoys",
-      "D. A national weather service"
+      "One laboratory that collects every climate measurement",
+      "A UN-created international group that organizes scientists and knowledge sharing",
+      "A global network of ocean buoys",
+      "A national weather service"
     ],
     "answer": 1,
     "explanation": "<strong>B.</strong> The UN created the IPCC in 1988 to organize scientists and facilitate sharing of climate knowledge. (12.3, opening discussion)",
@@ -5872,10 +5872,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 14",
     "prompt": "Which hydrological change is documented in Module 12.1?",
     "options": [
-      "A. Later snowmelt everywhere",
-      "B. Longer river ice-cover duration",
-      "C. Earlier snowmelt",
-      "D. Uniformly lower runoff worldwide"
+      "Later snowmelt everywhere",
+      "Longer river ice-cover duration",
+      "Earlier snowmelt",
+      "Uniformly lower runoff worldwide"
     ],
     "answer": 2,
     "explanation": "<strong>C.</strong> Earlier snowmelt is among the documented changes. (12.1, “Changes in Hydrology Due to Climate Change”)",
@@ -5890,10 +5890,10 @@ window.QUIZ_QUESTIONS = [
     "sourceLabel": "Practice bank, question 15",
     "prompt": "Which future change is projected in Module 12.3?",
     "options": [
-      "A. Fewer intense precipitation events",
-      "B. Lower hurricane intensity",
-      "C. More frost days",
-      "D. Higher risk of long-duration drought"
+      "Fewer intense precipitation events",
+      "Lower hurricane intensity",
+      "More frost days",
+      "Higher risk of long-duration drought"
     ],
     "answer": 3,
     "explanation": "<strong>D.</strong> The IPCC projections listed include greater risk of long-duration drought. (12.3, future IPCC predictions)",
@@ -5972,7 +5972,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 20,
     "sourceType": "practice",
     "sourceLabel": "Practice bank, question 20",
-    "prompt": "Diurnal temperature range decreased from 1950 to 2004, with few changes from 1979 to 2004 because maximum and minimum temperatures increased at the same rate.",
+    "prompt": "Diurnal temperature range decreased from 1950 to 2004, with little change from 1979 to 2004 because maximum and minimum temperatures increased at the same rate.",
     "options": [
       "True",
       "False"
@@ -6004,7 +6004,7 @@ window.QUIZ_QUESTIONS = [
     "quizQuestion": 22,
     "sourceType": "practice",
     "sourceLabel": "Practice bank, question 22",
-    "prompt": "The seasonal saw-tooth pattern in the Keeling Curve reverses its long-term upward trend.",
+    "prompt": "The seasonal sawtooth pattern in the Keeling Curve reverses its long-term upward trend.",
     "options": [
       "True",
       "False"

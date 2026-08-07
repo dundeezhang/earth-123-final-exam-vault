@@ -195,7 +195,7 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 40. **Saved quiz-10, Question 1.**
 
-    Which term would be used for discussing height of the water level of a river?
+    Which term describes the height of a river's water level?
 
     - a) Stage
     - b) Wetted perimeter
@@ -207,21 +207,21 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
     The competence of a river is defined as:
 
-    - a) The rivers ability to erode materials
-    - b) The rivers highest velocity
-    - c) The maximum sized particle or grain the river can transport
-    - d) The rivers maximum depth
+    - a) The river's ability to erode materials
+    - b) The river's highest velocity
+    - c) The maximum-sized particle or grain the river can transport
+    - d) The river's maximum depth
 
 42. **Saved quiz-10, Question 3.**
 
-    The capacity of any river can be defined as the maximum-sized particle it can carry; which is dependent on its velocity.
+    A river's capacity is the maximum-sized particle it can carry, which depends on its velocity.
 
     - True
     - False
 
 43. **Saved quiz-10, Question 4.**
 
-    In order to properly calculate the discharge of any river, the hydrologist needs to know the average velocity of flow, and the:
+    To calculate a river's discharge, a hydrologist needs the average flow velocity and the:
 
     - a) Length of river
     - b) Cross-sectional area
@@ -232,14 +232,14 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 44. **Saved quiz-10, Question 5.**
 
-    You will not find Oxbow Lakes within river floodplains.
+    Oxbow lakes are not found within river floodplains.
 
     - True
     - False
 
 45. **Saved quiz-10, Question 6.**
 
-    The highest velocity measured in a river channel would be found in the centre of flow and right at the surface.
+    The highest velocity in a river channel occurs at the centre of flow and directly at the surface.
 
     - True
     - False
@@ -263,19 +263,19 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 48. **Saved quiz-10, Question 9.**
 
-    A stilling well is mainly used for getting a steady water elevation reading, and usually contains a shaft encoder and float.
+    A stilling well is mainly used to obtain a steady water-elevation reading and usually contains a shaft encoder and float.
 
     - True
     - False
 
 49. **Saved quiz-10, Question 10.**
 
-    Which of the following is NOT a mode of sediment transport in a river.
+    Which of the following is not a mode of sediment transport in a river?
 
-    - a) Bed Load
-    - b) Suspended Load
-    - c) Turbulent Load
-    - d) Saltation Load
+    - a) Bed load
+    - b) Suspended load
+    - c) Turbulent load
+    - d) Saltation load
 
 50. **Saved quiz-10, Question 11.**
 
@@ -286,7 +286,7 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 51. **Saved quiz-10, Question 12.**
 
-    Which of the following factors below have a significant impact on the development and evolution of runoff in our environment?
+    Which of the following factors significantly affect the development and evolution of runoff?
 
     - a) Climate factors
     - b) Catchment size
@@ -381,7 +381,7 @@ Definitions: [[Modules/Module 10 - Surface Water and Runoff/01 - Main Definition
 
 40. **a) Stage.** Stage is the height, elevation, or depth of the river water surface. [Course section: [[04 - 10.3 Water Velocity, Discharge Calculations, and Stage–Discharge Relationships#Stage–Discharge Relationships|10.3 Stage–Discharge Relationships]]]
 
-41. **c) The maximum sized particle or grain the river can transport.** [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Sediment Loads and Transport|10.2 Sediment Loads and Transport]]]
+41. **c) The maximum-sized particle or grain the river can transport.** [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Sediment Loads and Transport|10.2 Sediment Loads and Transport]]]
 
 42. **False.** Capacity is the total amount carried; competence is the maximum particle size. [Course section: [[03 - 10.2 Basic Stream Components, Stream Flow, Discharge, and Sediment Transport#Sediment Loads and Transport|10.2 Sediment Loads and Transport]]]
 

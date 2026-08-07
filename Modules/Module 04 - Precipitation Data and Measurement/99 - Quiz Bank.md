@@ -152,28 +152,28 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 
 ### Official Course Quiz Questions
 
-31. **Saved quiz-4, Question 2.** © Course Author(s), University of Waterloo, Dencake/iStock/Getty Images The average rainfall depth in the watershed shown below is approximately:
+31. **Saved quiz-4, Question 2.** The average rainfall depth in the watershed shown below is approximately:
 
-    ![Related drainage-basin arithmetic-average example](../../Assets/Module%2004/drainage-basin_5.jpg)
+    ![Watershed containing four rain gauges with depths of 1.0, 1.5, 2.0, and 2.5 centimetres](../../Assets/Official%20Quizzes/quiz-4-rainfall-arithmetic.svg)
 
-    *Related course drainage-basin example. The exact saved quiz image and its rainfall values were not downloaded.*
+    *Reconstructed calculation diagram based on the archived answer choices and course arithmetic-average method.*
 
-    **What to notice:** The watershed boundary determines which gauge values belong in an arithmetic average. The displayed values belong to a different course example.
+    **What to notice:** Average the four gauge values located inside the watershed boundary.
 
     - a) 12.00 cm
     - b) 1.71 cm
     - c) 7.00 cm
     - d) 1.75 cm
 
-32. **Saved quiz-4, Question 8.** Which in the following list has been identified as a source of error in the accuracy of weather gauge measurements?
+32. **Saved quiz-4, Question 8.** Which item in the following list has been identified as a source of error in precipitation-gauge measurements?
     - a) Orientation of the gauge
     - b) Possible evaporation from the gauge
     - c) Wind effects both inside and outside of the gauge
-    - d) Mechanical failure / Observer error
-    - e) All of the Above
-    - f) Only Answers A, B, and C
+    - d) Mechanical failure or observer error
+    - e) All of the above
+    - f) Only answers A, B, and C
 
-33. **Saved quiz-4, Question 9.** The isohyetal method can be best described as:
+33. **Saved quiz-4, Question 9.** The isohyetal method is best described as:
     - a) The area between two topographic contours is evaluated as a percentage of the total region and it is assigned the average value of the two confining gauges.
     - b) The area between two precipitation contours is evaluated as a percentage of the total area and it is assigned the average value of the two confining isohyets.
     - c) The area between two precipitation contours is evaluated as a percentage of the total volume and it is assigned the sum of the two confining isohyets.
@@ -242,9 +242,9 @@ Module notes: [[02 - 4.1 Introduction to Precipitation Data and Rain Gauges]] | 
 
 30. Ignore the two outside gauges. $\bar P=(0.8+1.6+1.2)/3=3.6/3=\mathbf{1.2\ \mathrm{cm}}$. *(Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: Arithmetic Average.)*
 
-31. **d) 1.75 cm.** The saved official quiz identifies this value. The arithmetic method averages gauge values inside the watershed, but the exact quiz image needed to reproduce the calculation is absent locally. Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: arithmetic average.
+31. **d) 1.75 cm.** The arithmetic mean is $(1.0+1.5+2.0+2.5)/4=1.75$ cm. Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: arithmetic average.
 
-32. **e) All of the Above.** Gauge orientation, evaporation, wind, mechanical failure, and observer error can all reduce measurement accuracy. Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Limitations of rain gauges.
+32. **e) All of the above.** Gauge orientation, evaporation, wind, mechanical failure, and observer error can all reduce measurement accuracy. Citation: [[03 - 4.2 Problems and Limitations of Rain Gauges and Measurement Techniques|Course section 4.2]], Limitations of rain gauges.
 
 33. **b) The area between two precipitation contours is evaluated as a percentage of the total area and it is assigned the average value of the two confining isohyets.** Citation: [[04 - 4.3 Quantitative Analysis of Precipitation Data|Course section 4.3]], Estimation: isohyetal method and Figures 4.3.4-4.3.5.
 

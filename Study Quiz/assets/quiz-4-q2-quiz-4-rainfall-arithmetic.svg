@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Rainfall depths within a watershed</title>
+  <desc id="desc">A watershed boundary contains four rain gauges labelled 1.0, 1.5, 2.0, and 2.5 centimetres.</desc>
+  <rect width="900" height="560" fill="#ffffff"/>
+  <text x="450" y="48" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#17212b">Rain-gauge depths (cm)</text>
+  <path d="M115 290 C128 152 262 74 420 98 C540 24 724 93 772 229 C845 310 781 449 645 470 C520 546 335 505 266 449 C151 446 72 374 115 290 Z" fill="#dcefd8" stroke="#285f3f" stroke-width="7"/>
+  <path d="M444 111 C430 183 481 206 456 264 C432 321 485 341 455 394 C436 426 447 461 476 502" fill="none" stroke="#2f83bd" stroke-width="11" stroke-linecap="round"/>
+  <path d="M328 142 C344 194 386 220 456 264 M623 154 C574 207 522 236 456 264 M282 369 C352 354 397 369 455 394 M646 367 C575 350 515 365 455 394" fill="none" stroke="#67acd5" stroke-width="6" stroke-linecap="round"/>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <g transform="translate(300 205)">
+      <circle r="27" fill="#ffffff" stroke="#17212b" stroke-width="4"/>
+      <path d="M0 -39 V-27 M-10 -39 H10" stroke="#17212b" stroke-width="4"/>
+      <text y="68" font-size="25" font-weight="700" fill="#17212b">1.0 cm</text>
+    </g>
+    <g transform="translate(588 214)">
+      <circle r="27" fill="#ffffff" stroke="#17212b" stroke-width="4"/>
+      <path d="M0 -39 V-27 M-10 -39 H10" stroke="#17212b" stroke-width="4"/>
+      <text y="68" font-size="25" font-weight="700" fill="#17212b">1.5 cm</text>
+    </g>
+    <g transform="translate(320 375)">
+      <circle r="27" fill="#ffffff" stroke="#17212b" stroke-width="4"/>
+      <path d="M0 -39 V-27 M-10 -39 H10" stroke="#17212b" stroke-width="4"/>
+      <text y="68" font-size="25" font-weight="700" fill="#17212b">2.0 cm</text>
+    </g>
+    <g transform="translate(615 377)">
+      <circle r="27" fill="#ffffff" stroke="#17212b" stroke-width="4"/>
+      <path d="M0 -39 V-27 M-10 -39 H10" stroke="#17212b" stroke-width="4"/>
+      <text y="68" font-size="25" font-weight="700" fill="#17212b">2.5 cm</text>
+    </g>
+  </g>
+</svg>

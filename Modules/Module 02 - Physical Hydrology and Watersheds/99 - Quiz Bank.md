@@ -183,7 +183,7 @@ The first sections contain original study questions derived from the four saved 
 
 ## Official Course Quiz Questions
 
-46. **Saved quiz-2, Question 1.** A drainage basin, watershed, or catchment area, are all generally interchangeable terms and can describe the total geographical area which drains into a river or reservoir (lake, ocean).
+46. **Saved quiz-2, Question 1.** The terms drainage basin, watershed, and catchment area are generally interchangeable. Each describes the total geographic area that drains into a river or reservoir, such as a lake or ocean.
     - True
     - False
 
@@ -198,9 +198,9 @@ The first sections contain original study questions derived from the four saved 
     - a) Polar ice and glaciers
     - b) Brackish & saline groundwater
     - c) Fresh groundwater
-    - d) All surface freshwaters sources including soil, and atmospheric water combined
+    - d) All surface freshwater sources, including soil water and atmospheric water, combined
 
-48. **Saved quiz-2, Question 3.** According to classifications by hydrologist, which of the following is NOT a 'major water type'?
+48. **Saved quiz-2, Question 3.** According to hydrological classifications, which of the following is not a major water type?
     - a) Atmospheric water
     - b) Mountain glaciers
     - c) Groundwater
@@ -209,10 +209,10 @@ The first sections contain original study questions derived from the four saved 
 49. **Saved quiz-2, Question 4.** Why is the land area closest to the Great Lakes warmer in the winter than regions further inland?
     - a) The Great Lakes absorb energy during the winter months
     - b) The prevailing winds from west to east push warm air over the shores
-    - c) The Great Lakes slowly release stored beat absorbed during the warmer months
+    - c) The Great Lakes slowly release stored heat absorbed during the warmer months
     - d) Solid ice covering the lakes helps to retain the heat within the waters, allowing it to warm the shores
 
-50. **Saved quiz-2, Question 5.** The oceans loose more water by evaporation then they gain by precipitation, whereas land receives more water as precipitation than it looses through evapotranspiration.
+50. **Saved quiz-2, Question 5.** The oceans lose more water through evaporation than they gain through precipitation, whereas land receives more water through precipitation than it loses through evapotranspiration.
     - True
     - False
 
@@ -223,17 +223,17 @@ The first sections contain original study questions derived from the four saved 
     - d) Metal mining and refining
     - e) Petroleum and coal extraction
 
-52. **Saved quiz-2, Question 7.** A hydrograph could be used to measure the impact of precipitation on stream flow.
+52. **Saved quiz-2, Question 7.** A hydrograph can be used to assess the effect of precipitation on streamflow.
     - True
     - False
 
-53. **Saved quiz-2, Question 8.** Which of the following water sources has the highest PERCENT of fresh water on Earth?
+53. **Saved quiz-2, Question 8.** Which of the following reservoirs contains the largest percentage of Earth's freshwater?
     - a) All surface freshwater, soil, and atmospheric waters combined
     - b) Fresh groundwater
     - c) Polar ice caps
     - d) The oceans
 
-54. **Saved quiz-2, Question 9.** Which of the following terms can be best described as drawing a line around a region drained by all of the tributaries of a stream or river.
+54. **Saved quiz-2, Question 9.** Which term describes the region enclosed by a boundary around all tributaries that drain to a common stream or river?
     - a) A runoff diagram
     - b) A continental divide
     - c) A watershed
@@ -246,7 +246,7 @@ The first sections contain original study questions derived from the four saved 
     - c) Forests
     - d) Agriculture
 
-56. **Saved quiz-2, Question 11.** Canadians on average are using 329 litres of freshwater per person, per day. Where are Canadians using the most water at home?
+56. **Saved quiz-2, Question 11.** Canadians use an average of 329 litres of freshwater per person per day. Which household activity uses the most water?
 
     ![Residential indoor water use in Canada by activity](../../Assets/Module%2002/2.1-residential-water-use.jpg)
 
@@ -259,7 +259,7 @@ The first sections contain original study questions derived from the four saved 
     - c) Cleaning
     - d) Toilets
 
-57. **Saved quiz-2, Question 12.** Which of the equations below would best represent the following image: © Course Author(s) and University of Waterloo; VectorMine/iStock/Getty Images (watershed); tarras79/iStock/Getty Images (buildings)
+57. **Saved quiz-2, Question 12.** Which equation best represents the watershed shown below?
 
     ![Saved quiz watershed with hydrological fluxes labelled A through E](../../Assets/Official%20Quizzes/watershed-fluxes-a-e.png)
 
@@ -273,7 +273,7 @@ The first sections contain original study questions derived from the four saved 
     - d) Change in Storage = (A+B) - (C-D+E)
     - e) Change in Storage = (A-B) - (C-D-E)
 
-58. **Saved quiz-3, Question 1.** Examine the simple hydrograph below, and pick the answer which best describes regions 1 and 2 from the figure. © Course Author(s) and University of Waterloo
+58. **Saved quiz-3, Question 1.** Examine the hydrograph below. Which statement correctly identifies the two labelled flow components?
 
     ![Conceptual hydrograph showing event response and persistent flow](../../Assets/Module%2002/2.2-hydrograph.png)
 
@@ -281,12 +281,12 @@ The first sections contain original study questions derived from the four saved 
 
     **What to notice:** Distinguish the upper event-response area from the lower flow that persists before and after the storm.
 
-    - a) Area 1 represents baseflow and area 2 represents stormflow.
-    - b) Area 1 represents precipitation and area 2 represents discharge.
-    - c) Area 1 represents stormflow and area 2 represents baseflow.
-    - d) Area 1 represents discharge and area 2 represents precipitation.
+    - a) The upper event-response area is baseflow, and the lower persistent area is stormflow.
+    - b) The upper event-response area is precipitation, and the lower persistent area is discharge.
+    - c) The upper event-response area is stormflow, and the lower persistent area is baseflow.
+    - d) The upper event-response area is discharge, and the lower persistent area is precipitation.
 
-59. **Saved quiz-3, Question 2.** The total drop in elevation from Lake Superior to the St Lawrence River outlet from Lake Ontario is approximately:
+59. **Saved quiz-3, Question 2.** The total drop in elevation from Lake Superior to the St. Lawrence River outlet from Lake Ontario is approximately:
     - a) 1 metre
     - b) 10 metres
     - c) 11 metres
@@ -295,13 +295,13 @@ The first sections contain original study questions derived from the four saved 
     - f) 1000 metres
     - g) 1100 metres
 
-60. **Saved quiz-3, Question 3.** Although our planet is covered with large bodies of water, approximately what percent of it is considered fresh water (frozen and unfrozen)?
+60. **Saved quiz-3, Question 3.** Approximately what percentage of Earth's water is freshwater, including frozen and unfrozen water?
     - a) less than 1%
-    - b) approximately 5 - 10%
+    - b) approximately 5% to 10%
     - c) more than 10%
-    - d) approximately 2 - 4%
+    - d) approximately 2% to 4%
 
-61. **Saved quiz-3, Question 4.** Refer to the image below and select the correct water balance equation at non-steady state: (Dingman, 2002, p12)
+61. **Saved quiz-3, Question 4.** Refer to the image below and select the correct water-balance equation under non-steady-state conditions.
 
     ![Conceptual watershed with precipitation, evapotranspiration, discharge, groundwater flow, and storage](../../Assets/Module%2002/2.2-conceptual-watershed.jpg)
 
@@ -327,7 +327,7 @@ The first sections contain original study questions derived from the four saved 
     - True
     - False
 
-64. **Saved quiz-3, Question 7.** A possible source(s) of groundwater contamination could be:
+64. **Saved quiz-3, Question 7.** Which of the following can contaminate groundwater?
     - a) landfills
     - b) saline water from ocean or groundwater intrusion
     - c) septic tanks
@@ -346,11 +346,11 @@ The first sections contain original study questions derived from the four saved 
     - d) Discharge
     - e) Precipitation
 
-67. **Saved quiz-3, Question 10.** The term 'watershed' could be best defined as:
+67. **Saved quiz-3, Question 10.** Which option best defines a watershed?
     - a) A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.
     - b) A hydrologic system where plants and animals share a common water source.
-    - c) A hydrologic system where water flows into a lake or river system, through a well-defined inflow point.
-    - d) A hydrologic system on where precipitation eventually collects into subsurface aquifers.
+    - c) A hydrologic system where water flows into a lake or river through a well-defined inflow point.
+    - d) A hydrologic system where precipitation eventually collects in subsurface aquifers.
 
 68. **Saved quiz-3, Question 11.** Where does the majority of global precipitation on land occur?
     - a) Close to the equator
@@ -488,7 +488,7 @@ $$
 
 **48. b) Mountain glaciers.** The four major water-resource categories are atmospheric water, surface water, groundwater, and the cryosphere; mountain glaciers are an example within the cryosphere. Citation: [[02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts|Course section 2.1]], Four major water-resource categories.
 
-**49. c) The Great Lakes slowly release stored beat absorbed during the warmer months.** The option preserves the saved quiz typo for "heat." Large lake volumes store summer energy and release it slowly during winter. Citation: [[05 - 2.4 A Look at Global, Regional, and Local Hydrology|Course section 2.4]], Great Lakes climate effects and Figure 2.4.4.
+**49. c) The Great Lakes slowly release stored heat absorbed during the warmer months.** Large lake volumes store summer energy and release it slowly during winter. Citation: [[05 - 2.4 A Look at Global, Regional, and Local Hydrology|Course section 2.4]], Great Lakes climate effects and Figure 2.4.4.
 
 **50. True.** Ocean evaporation exceeds ocean precipitation, while land precipitation exceeds land evapotranspiration; atmospheric transport and runoff close the cycle. Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Figure 2.2.2.
 
@@ -506,11 +506,11 @@ $$
 
 **57. a) Change in Storage = (A+B) - (C+D+E).** Storage change equals total inputs minus total outputs. Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Systems and conservation and Figure 2.2.7.
 
-**58. c) Area 1 represents stormflow and area 2 represents baseflow.** The event-generated volume lies above the persistent groundwater-supported baseflow. Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Figure 2.2.4.
+**58. c) The upper event-response area is stormflow, and the lower persistent area is baseflow.** The event-generated volume lies above the persistent groundwater-supported baseflow. Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Figure 2.2.4.
 
 **59. e) 110 metres.** The Great Lakes topographic profile shows an approximate 110 m total descent from Lake Superior to the St. Lawrence outlet from Lake Ontario. Citation: [[05 - 2.4 A Look at Global, Regional, and Local Hydrology|Course section 2.4]], Figure 2.4.3.
 
-**60. d) approximately 2 - 4%.** Freshwater is about 2.5% of total global water. Citation: [[02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts|Course section 2.1]], Figure 2.1.4.
+**60. d) approximately 2% to 4%.** Freshwater is about 2.5% of total global water. Citation: [[02 - 2.1 Introduction to Physical Hydrology and Hydrological Concepts|Course section 2.1]], Figure 2.1.4.
 
 **61. b) $\Delta S=(P+G_{in})-(Q+ET+G_{out})$.** At non-steady state, inputs minus outputs equal the change in storage. Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Figure 2.2.6.
 
@@ -522,7 +522,7 @@ $$
 
 **65. True.** A system with zero inputs and zero outputs has $\Delta S=0$ and therefore satisfies steady state. Steady state also occurs when nonzero inputs equal nonzero outputs. Citation: [[04 - 2.3 A Simple Watershed and Water Balance Example|Course section 2.3]], Steady state.
 
-**66. a) Percolation.** Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. The saved grading key conflicts with this local course definition and may have been keyed as infiltration. Citation: [[Modules/Module 09 - Groundwater/02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination|Course section 9.1]], Groundwater in the hydrological cycle; [[Modules/Module 09 - Groundwater/01 - Main Definitions|Module 9 definitions]], Percolation.
+**66. a) Percolation.** Course content distinguishes surface entry as infiltration from continued downward subsurface flow toward the water table as percolation. Citation: [[Modules/Module 09 - Groundwater/02 - 9.1 Introduction to Groundwater, Water Tables, and Groundwater Contamination|Course section 9.1]], Groundwater in the hydrological cycle; [[Modules/Module 09 - Groundwater/01 - Main Definitions|Module 9 definitions]], Percolation.
 
 **67. a) A hydrologic system bounded by a surface water divide where precipitation eventually leaves through a well-defined outflow point.** Citation: [[03 - 2.2 Introduction to Data and Watersheds|Course section 2.2]], Watersheds and drainage boundaries.
 

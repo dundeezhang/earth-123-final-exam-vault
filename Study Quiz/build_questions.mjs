@@ -22,11 +22,11 @@ const MANUAL = {
     answer: 0,
   },
   "quiz-7-q6": {
-    options: ["20,009 m³/day", "19,991 m³/day", "20,900 m³/day", "4,009 m³/day"],
+    options: ["20,009 m³", "19,991 m³", "20,900 m³", "4,009 m³"],
     answer: 0,
   },
   "quiz-7-q7": {
-    options: ["60,008 m³/day", "59,992 m³/day", "12,008 m³/day", "60,800 m³/day"],
+    options: ["60,008 m³", "59,992 m³", "12,008 m³", "60,800 m³"],
     answer: 0,
   },
   "quiz-7-q8": {
@@ -75,7 +75,9 @@ function inlineMarkdown(value) {
   result = result.replace(/\\mathrm\{([^}]+)\}/g, "$1");
   result = result.replace(/\\(?:dfrac|frac)\{([^}]+)\}\{([^}]+)\}/g, "$1/$2");
   result = result.replace(/\\times/g, "×").replace(/\\approx/g, "≈");
+  result = result.replace(/\\leq?/g, "≤").replace(/\\geq?/g, "≥");
   result = result.replace(/\\Delta/g, "Δ").replace(/\\sum/g, "Σ");
+  result = result.replace(/\\rho/g, "ρ").replace(/\{,\}/g, ",");
   result = result.replace(/\^\\circ/g, "°");
   result = result.replace(/\\circ/g, "°").replace(/\\pm/g, "±");
   result = result.replace(/\\_/g, "_").replace(/\\%/g, "%");
@@ -84,9 +86,21 @@ function inlineMarkdown(value) {
   result = result.replace(/\^([A-Za-z0-9+\-]+)/g, "<sup>$1</sup>");
   result = result.replace(/_([A-Za-z0-9+\-]+)/g, "<sub>$1</sub>");
   result = result.replace(/\\[,;!]/g, " ").replace(/\\/g, "");
+  result = result.replace(/Δ\s+S/g, "ΔS").replace(/Δ\s+h/g, "Δh").replace(/×\s+/g, "×");
   result = result.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
   result = result.replace(/\*([^*]+)\*/g, "<em>$1</em>");
   return result;
+}
+
+function stripOptionPrefix(value) {
+  return value.replace(/^\s*(?:[A-Za-z]|\d+)[.)]\s+/, "").trim();
+}
+
+function cleanPromptLine(value) {
+  return value
+    .replace(/\s*©.*$/i, "")
+    .replace(/\s*\(Dingman,\s*2002,\s*p\.?\s*12\)\s*$/i, "")
+    .trim();
 }
 
 function plainText(value) {
@@ -175,7 +189,7 @@ function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
   const quizNumber = Number(match[2]);
   const quizQuestion = Number(match[3]);
   const id = `quiz-${quizNumber}-q${quizQuestion}`;
-  const promptLines = match[4] ? [match[4]] : [];
+  const promptLines = match[4] ? [cleanPromptLine(match[4])] : [];
   const options = [];
   const images = [];
   let skipCaption = false;
@@ -197,7 +211,7 @@ function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
       options.push(option[1].trim());
       continue;
     }
-    if (line.trim()) promptLines.push(line.trim());
+    if (line.trim()) promptLines.push(cleanPromptLine(line));
   }
 
   const manual = MANUAL[id];
@@ -217,7 +231,7 @@ function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
     sourceType: "official",
     sourceLabel: `Quiz ${quizNumber}, question ${quizQuestion}`,
     prompt,
-    options: finalOptions.map(inlineMarkdown),
+    options: finalOptions.map((option) => inlineMarkdown(stripOptionPrefix(option))),
     answer,
     explanation: inlineMarkdown(answerLine),
     images,
@@ -246,7 +260,7 @@ function parsePracticeQuestions(file) {
       sourceType: "practice",
       sourceLabel: `Practice bank, question ${current.number}`,
       prompt: current.promptLines.map(inlineMarkdown).join("<br>"),
-      options: options.map(inlineMarkdown),
+      options: options.map((option) => inlineMarkdown(stripOptionPrefix(option))),
       answer: answerFromOptions(options, answerLine),
       explanation: inlineMarkdown(answerLine),
       images: practiceImages(id),
@@ -302,11 +316,20 @@ const questions = findQuizBanks()
   .flatMap((file) => [...parsePracticeQuestions(file), ...parseQuizBank(file)])
   .sort((a, b) => a.module - b.module || a.sourceType.localeCompare(b.sourceType) || a.quizQuestion - b.quizQuestion);
 const unresolved = questions.filter((question) => question.answer < 0 || question.options.length < 2);
+const invalid = questions.filter(
+  (question) =>
+    /©|iStock|Getty Images|Course Author\(s\)/i.test(plainText(question.prompt)) ||
+    question.options.some((option) => /^(?:[A-Za-z]|\d+)[.)]\s+/.test(plainText(option))) ||
+    question.images.some((imagePath) => !fs.existsSync(path.join(SITE_DIR, imagePath))),
+);
 
-if (unresolved.length) {
+if (unresolved.length || invalid.length) {
   console.error("Unresolved questions:");
   for (const question of unresolved) {
     console.error(`${question.id}: options=${question.options.length}, answer=${question.answer}, ${plainText(question.explanation)}`);
+  }
+  for (const question of invalid) {
+    console.error(`${question.id}: failed formatting or image validation`);
   }
   process.exitCode = 1;
 } else {

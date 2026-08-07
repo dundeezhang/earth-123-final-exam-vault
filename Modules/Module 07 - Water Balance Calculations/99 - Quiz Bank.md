@@ -130,21 +130,21 @@ Module: [[00 - Module 07 Overview]]
 
 30. **Saved quiz-7, Question 1.**
 
-    When used in a Water Balance, the term 'steady state' means that there is no overall change in water storage, or that the total inputs is equal to total outputs.
+    In a water balance, steady state means that there is no overall change in water storage because total inputs equal total outputs.
 
     - True
     - False
 
 31. **Saved quiz-7, Question 2.**
 
-    When considering a water balance equation for an entire watershed, you must always include a 'surface water in' term.
+    A water-balance equation for an entire watershed must always include a surface-water inflow term.
 
     - True
     - False
 
 32. **Saved quiz-7, Question 3.**
 
-    Please select the correct hydrological variable for each letter in the diagram.
+    Select the correct hydrological variable for each letter in the diagram.
 
     ![Saved quiz watershed with hydrological fluxes labelled A through E](../../Assets/Official%20Quizzes/watershed-fluxes-a-e.png)
 
@@ -190,7 +190,7 @@ Module: [[00 - Module 07 Overview]]
 
 35. **Saved quiz-7, Question 6.**
 
-    Calculate the change in storage for the lake below over 1 day.
+    Calculate the change in storage for the lake below over one day.
 
     Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).
 
@@ -206,9 +206,9 @@ Module: [[00 - Module 07 Overview]]
 
     Surface water out = 16 m<sup>3</sup>/day
 
-    Ground water in = 5 m<sup>3</sup>/day
+    Groundwater in = 5 m<sup>3</sup>/day
 
-    Ground water out = 3 m<sup>3</sup>/day
+    Groundwater out = 3 m<sup>3</sup>/day
 
     ![Saved lake water-balance diagram with labelled fluxes](../../Assets/Official%20Quizzes/lake-water-balance.png)
 
@@ -218,7 +218,7 @@ Module: [[00 - Module 07 Overview]]
 
 36. **Saved quiz-7, Question 7.**
 
-    Calculate the change in storage for the lake below over 1 day.
+    Calculate the change in storage for the lake below over one day.
 
     Make sure to provide your answer in cubic metres, rounded to the nearest whole number (no decimals needed).
 
@@ -234,9 +234,9 @@ Module: [[00 - Module 07 Overview]]
 
     Surface water out = 12 m<sup>3</sup>/day
 
-    Ground water in = 3 m<sup>3</sup>/day
+    Groundwater in = 3 m<sup>3</sup>/day
 
-    Ground water out = 1 m<sup>3</sup>/day
+    Groundwater out = 1 m<sup>3</sup>/day
 
     ![Saved lake water-balance diagram with labelled fluxes](../../Assets/Official%20Quizzes/lake-water-balance.png)
 
@@ -246,13 +246,13 @@ Module: [[00 - Module 07 Overview]]
 
 37. **Saved quiz-7, Question 8.**
 
-    A lake with an area of 2 km<sup>2</sup>, had a positive water balance, and was recorded as gaining 31,000 m<sup>3</sup>/day.
+    A lake with an area of 2 km<sup>2</sup> had a positive water balance and gained 31,000 m<sup>3</sup> in one day.
 
-    How much of an increase in elevation of the lake surface would have to occur to account for this increase in water volume?
+    What increase in lake-surface elevation would account for this gain in water volume?
 
     Give your answer in millimetres (mm) rounded to the nearest whole number.
 
-    Hint: V=A*D
+    Hint: $V=A\times D$
 
 <details>
 <summary>Answer key</summary>
@@ -297,9 +297,9 @@ Module: [[00 - Module 07 Overview]]
 
 34. **c) G<sub>in</sub> – (Q<sub>sw</sub> + G<sub>out</sub>) = 0.** Minimal $P$ and $ET$ remove those terms, and steady state sets $\Delta S=0$. *(Course section: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Calculating a Water Balance|7.1 Calculating a Water Balance]].)*
 
-35. **20,009 m<sup>3</sup>/day.** $(0.012-0.008)(5{,}000{,}000)+(23+5)-(16+3)=20{,}009$. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Worked Course Example: Figure 7.1.2|7.1 Worked Course Example, Figure 7.1.2]].)*
+35. **20,009 m<sup>3</sup>.** The net rate is $(0.012-0.008)(5{,}000{,}000)+(23+5)-(16+3)=20{,}009$ m<sup>3</sup>/day. Over one day, the storage increase is 20,009 m<sup>3</sup>. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Worked Course Example: Figure 7.1.2|7.1 Worked Course Example, Figure 7.1.2]].)*
 
-36. **60,008 m<sup>3</sup>/day.** $(0.019-0.007)(5{,}000{,}000)+(18+3)-(12+1)=60{,}008$. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Worked Course Example: Figure 7.1.2|7.1 Worked Course Example, Figure 7.1.2]].)*
+36. **60,008 m<sup>3</sup>.** The net rate is $(0.019-0.007)(5{,}000{,}000)+(18+3)-(12+1)=60{,}008$ m<sup>3</sup>/day. Over one day, the storage increase is 60,008 m<sup>3</sup>. *(Course section and figure: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Worked Course Example: Figure 7.1.2|7.1 Worked Course Example, Figure 7.1.2]].)*
 
 37. **16 mm.** $D=V/A=31{,}000/2{,}000{,}000=0.0155\ \text{m}=15.5\ \text{mm}$, which rounds to $16\ \text{mm}$. *(Course section: [[02 - 7.1 Introduction to Quantitative Water Balance Calculations#Water Elevation Change|7.1 Water Elevation Change]].)*
 
