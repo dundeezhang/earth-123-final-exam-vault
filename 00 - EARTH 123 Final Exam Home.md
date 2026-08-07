@@ -18,6 +18,7 @@ Concise study notes built from the saved course pages for Modules 1-12. The appl
 3. Complete its quiz bank before expanding the answer key.
 4. Record errors and weak topics in [[02 - Exam Study Tracker]].
 5. Rework calculations with [[03 - Formula and Units Index]].
+6. Use the two-page [[06 - Final Exam Cheat Sheet]] for final review and printing.
 
 > [!important]
 > These notes condense the local course pages. Use the linked reference material and saved Hive source pages when a figure, demonstration, or longer explanation is needed.
@@ -44,3 +45,4 @@ Concise study notes built from the saved course pages for Modules 1-12. The appl
 - [[03 - Formula and Units Index]]
 - [[04 - Master Quiz Index]]
 - [[05 - Source Coverage Notes]]
+- [[06 - Final Exam Cheat Sheet]]
