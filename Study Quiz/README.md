@@ -10,6 +10,8 @@ The next question remains locked until the current answer is correct. Progress i
 
 Every incorrect check is also saved in a persistent missed-question log. The log tracks repeated misses and chosen answers, supports a focused missed-question session, and exports an Obsidian-ready Markdown file for improving the exam cheat sheet. Resetting a quiz session does not clear this log.
 
+The Session panel separately tracks unique questions missed in the current session. **Practice session misses** starts a focused quiz containing that session's missed questions and clears the session-specific set for the new run. The permanent missed-question log remains unchanged.
+
 ## Source Notes
 
 - Questions and answers come from the vault's official and generated quiz-bank sections.

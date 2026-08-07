@@ -34,6 +34,8 @@
     streakStat: document.querySelector("#streakStat"),
     accuracyStat: document.querySelector("#accuracyStat"),
     examMarkStat: document.querySelector("#examMarkStat"),
+    sessionMissedButton: document.querySelector("#sessionMissedButton"),
+    sessionMissedCount: document.querySelector("#sessionMissedCount"),
     questionView: document.querySelector("#questionView"),
     completionView: document.querySelector("#completionView"),
     completionSummary: document.querySelector("#completionSummary"),
@@ -84,6 +86,7 @@
       streak: 0,
       examPoints: 0,
       examTotal: 0,
+      sessionMissedIds: [],
       currentFirstAttemptRecorded: false,
       currentSolved: false,
     };
@@ -101,6 +104,9 @@
         index: Math.min(Math.max(0, stored.index ?? 0), stored.order.length),
         examPoints: Math.max(0, stored.examPoints ?? 0),
         examTotal: Math.max(0, stored.examTotal ?? 0),
+        sessionMissedIds: [...new Set(
+          (Array.isArray(stored.sessionMissedIds) ? stored.sessionMissedIds : []).filter((id) => validIds.has(id)),
+        )],
         currentFirstAttemptRecorded: Boolean(stored.currentFirstAttemptRecorded),
         currentSolved: Boolean(stored.currentSolved),
       };
@@ -160,6 +166,7 @@
       streak: 0,
       examPoints: 0,
       examTotal: 0,
+      sessionMissedIds: [],
       currentFirstAttemptRecorded: false,
       currentSolved: false,
     };
@@ -184,6 +191,7 @@
       streak: 0,
       examPoints: 0,
       examTotal: 0,
+      sessionMissedIds: [],
       currentFirstAttemptRecorded: false,
       currentSolved: false,
     };
@@ -222,6 +230,9 @@
     elements.accuracyStat.textContent = `${accuracy}%`;
     const examPercent = state.examTotal ? Math.round((state.examPoints / state.examTotal) * 100) : 0;
     elements.examMarkStat.textContent = `${state.examPoints} / ${state.examTotal} (${examPercent}%)`;
+    const sessionMissedCount = state.sessionMissedIds.length;
+    elements.sessionMissedCount.textContent = sessionMissedCount;
+    elements.sessionMissedButton.disabled = sessionMissedCount === 0;
   }
 
   function sortedMissedEntries() {
@@ -413,6 +424,7 @@
     }
 
     state.streak = 0;
+    if (!state.sessionMissedIds.includes(question.id)) state.sessionMissedIds.push(question.id);
     selected.filter((answer) => !correct.includes(answer)).forEach((answer) => wrongOptions.add(answer));
     recordMissedQuestion(question, selected);
     saveState();
@@ -483,6 +495,12 @@
     createSessionFromIds(ids);
   }
 
+  function studySessionMissed() {
+    const ids = [...state.sessionMissedIds];
+    if (!ids.length) return;
+    createSessionFromIds(ids);
+  }
+
   function markdownText(value) {
     return String(value ?? "").replace(/([\\`*_{}\[\]<>#+|])/g, "\\$1");
   }
@@ -547,6 +565,7 @@
   elements.restartButton.addEventListener("click", () => createSession(state.selectedModules));
   elements.resetButton.addEventListener("click", resetProgress);
   elements.missedButton.addEventListener("click", openMissedDialog);
+  elements.sessionMissedButton.addEventListener("click", studySessionMissed);
   elements.studyMissedButton.addEventListener("click", studyMissed);
   elements.exportMissedButton.addEventListener("click", exportMissedMarkdown);
   elements.clearMissedButton.addEventListener("click", clearMissedLog);
