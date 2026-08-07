@@ -33,6 +33,8 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 - Atmospheric CO$_2$ was just under **420 ppm in July 2022**, about **140 ppm above** the preindustrial level of **280 ppm**.
 - Ice cores extend the CO$_2$ comparison back **800,000 years**; current concentrations are anomalously high.
 - The course states that warming since the Industrial Revolution has nearly reached **$+1.5^\circ\mathrm{C}$**; natural-only models miss the observed trend, while natural-plus-human models match it more closely.
+- Saved Quiz 12 uses approximately **$+3^\circ\mathrm{C}$**, with about $\pm1^\circ\mathrm{C}$ uncertainty, for the global average temperature response to doubled current CO$_2$.
+- For course assessment, retain the saved quiz pairing of **Svante Arrhenius** with its stated **1867** fossil-fuel and CO$_2$ warming work.
 - Documented hydrological changes include heavier precipitation events, reduced snow cover, earlier snowmelt, warmer lakes, shorter ice-cover duration, and regional runoff changes.
 - Ocean heat is increasing at the surface and at depth; Figure 12.2.7 reports energy in $10^{21}$ J.
 - Global sea level is rising at almost **$4\ \mathrm{mm/year}$**, compared with **$1$-$2\ \mathrm{mm/year}$** in the early twentieth century, and the rate is accelerating.

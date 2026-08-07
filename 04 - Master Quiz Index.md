@@ -24,14 +24,14 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 | 9 | [[Modules/Module 09 - Groundwater/99 - Quiz Bank|Groundwater]] | 46 | 12 |
 | 10 | [[Modules/Module 10 - Surface Water and Runoff/99 - Quiz Bank|Surface Water and Runoff]] | 51 | 12 |
 | 11 | [[Modules/Module 11 - Glaciers and Glaciation/99 - Quiz Bank|Glaciers and Glaciation]] | 50 | 12 |
-| 12 | [[Modules/Module 12 - Climate Change and Hydrology/99 - Quiz Bank|Climate Change and Hydrology]] | 44 | 0 |
-| **Total** |  | **536** | **102** |
+| 12 | [[Modules/Module 12 - Climate Change and Hydrology/99 - Quiz Bank|Climate Change and Hydrology]] | 56 | 12 |
+| **Total** |  | **548** | **114** |
 
 > [!tip]
 > Complete each quiz before expanding its answer key. Add every missed concept to [[02 - Exam Study Tracker#Weak Topics]].
 
 ## Saved Course Quiz Coverage
 
-The quiz banks for Modules 2-5 and 7-11 include **102 questions transcribed from the locally saved course quizzes**. Each appears under **Official Course Quiz Questions** and retains the saved prompt and answer choices. The answer keys remain collapsed and cite the applicable course section.
+The quiz banks for Modules 2-5 and 7-12 include **114 questions transcribed from the locally saved course quizzes**. Each appears under **Official Course Quiz Questions** and retains the saved prompt and answer choices. The answer keys remain collapsed and cite the applicable course section.
 
-The downloaded folder did not contain a Week 6 quiz file. Modules 1, 6, and 12 contain generated study questions based on their local notes rather than transcribed course-quiz questions.
+The downloaded folder did not contain a Week 6 quiz file. Modules 1 and 6 contain generated study questions based on their local notes rather than transcribed course-quiz questions.

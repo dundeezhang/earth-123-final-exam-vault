@@ -39,7 +39,7 @@ The corresponding study notes are reconstructed conservatively from adjacent loc
 
 ## Saved Quiz Coverage
 
-The vault includes all **102 questions** recovered from these local files:
+The vault includes all **114 questions** recovered from these local files:
 
 - `quiz-2.html`: 12 questions
 - `quiz-3.html`: 12 questions
@@ -50,8 +50,9 @@ The vault includes all **102 questions** recovered from these local files:
 - `quiz-9.html`: 12 questions
 - `quiz-10.html`: 12 questions
 - `quiz-11.html`: 12 questions
+- `quiz-12.html`: 12 questions
 
-The downloaded folder did not contain `quiz-6.html`. No official Week 6 questions were inferred or invented. Modules 1, 6, and 12 retain their generated note-based study questions.
+The downloaded folder did not contain `quiz-6.html`. No official Week 6 questions were inferred or invented. Modules 1 and 6 retain their generated note-based study questions.
 
 Two saved grading records conflict with the local course content:
 

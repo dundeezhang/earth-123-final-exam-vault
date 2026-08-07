@@ -9,7 +9,7 @@ tags:
 
 # EARTH 123 Final Exam
 
-Concise study notes built from the saved course pages for Modules 1-12. The applicable quiz banks include 102 questions recovered from saved course quizzes.
+Concise study notes built from the saved course pages for Modules 1-12. The applicable quiz banks include 114 questions recovered from saved course quizzes.
 
 ## Start Here
 

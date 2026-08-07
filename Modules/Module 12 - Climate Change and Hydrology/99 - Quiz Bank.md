@@ -177,6 +177,120 @@ Match each item to its description.
 
 44. Figure 12.2.7 uses $10^{21}$ J for ocean heat content, while the course gives approximately $10^{16}$ J for a 1-megaton nuclear warhead. How many orders of magnitude separate these values, and what is their ratio?
 
+## Official Course Quiz Questions
+
+45. **Saved quiz-12, Question 1.**
+
+    Which of the following is considered an important greenhouse gas?
+
+    - a) Carbon monoxide
+    - b) Carbon dioxide
+    - c) Sulphur dioxide
+    - d) All of the Above
+
+46. **Saved quiz-12, Question 2.**
+
+    Scientists officially measure climate change over what minimum length of time?
+
+    - a) Less than a single year
+    - b) From 1 to 5 years
+    - c) From 5 to 10 years
+    - d) From 10 to 20 years
+    - e) Over 30 years
+
+47. **Saved quiz-12, Question 3.**
+
+    When studying climate change, scientists can gather proxy data from the past from:
+
+    - a) Ice cores
+    - b) Corals
+    - c) Tree Rings
+    - d) Sediment Layers
+    - e) All of the Above
+
+48. **Saved quiz-12, Question 4.**
+
+    Which of the following natural processes does not have a significant impact on climate change?
+
+    - a) Earth's orbit in space
+    - b) Volcanoes
+    - c) Energy from the sun
+    - d) Plate tectonics
+    - e) Major hurricanes
+
+49. **Saved quiz-12, Question 5.**
+
+    One of the main theories explaining climate change is that our atmosphere, composed mainly of nitrogen, oxygen, water, carbon dioxide, etc., is mainly transparent to short-wave radiation from the sun, but opaque (absorbs) to long-wave radiation emitted from the Earth.
+
+    - True
+    - False
+
+50. **Saved quiz-12, Question 6.**
+
+    What does the IPCC stand for?
+
+    - a) International Policies on Climate Change
+    - b) Institutional Policies on Climate Change
+    - c) Intergovernmental Panel on Climate Change
+    - d) Intergovernmental Policies on Climate Change
+    - e) International Panel on Climate Change
+    - f) Institutional Partner on Climate Change
+
+51. **Saved quiz-12, Question 7.**
+
+    Climate change is causing a slow increase in diurnal temperatures (0.07 C per decade) as maximum and minimum temperatures also increase at the same rate.
+
+    - True
+    - False
+
+52. **Saved quiz-12, Question 8.**
+
+    Which of the following hydrological changes have scientists already documented regarding the impact of climate change?
+
+    - a) Higher temperatures in surface waters
+    - b) Reduction to total ice cover
+    - c) Earlier snow-melt events
+    - d) An increase in high latitude runoff
+    - e) All of the Above
+    - f) Just A, B, and C above
+
+53. **Saved quiz-12, Question 9.**
+
+    Carbon dioxide levels in the atmosphere are higher now than at any point in the last 800,000 years.
+
+    - True
+    - False
+
+54. **Saved quiz-12, Question 10.**
+
+    If humans were to double the current CO2 concentration in the atmosphere, the global average temperature of the planet would increase by approximately this much (+/- 1 degC or so):
+
+    - a) 1 degree
+    - b) 3 degrees
+    - c) 5 degrees
+    - d) 8 degrees
+    - e) 11 degrees
+
+55. **Saved quiz-12, Question 11.**
+
+    Which of the following scientists completed seminal work in 1867 which showed that burning fossil fuels and adding CO2 to the atmosphere would raise the planet's average temperature?
+
+    - a) Svante Arrhenius
+    - b) Guy Stewart Callendar
+    - c) Charles Keeling
+    - d) James Watt
+
+56. **Saved quiz-12, Question 12.**
+
+    Which of the following Earth system processes does NOT have a big impact on the climate?
+
+    - a) The orbit of the Earth
+    - b) Greenhouse gases
+    - c) The tilt of the Earth
+    - d) Drifting continents
+    - e) Larger hurricanes
+    - f) The sun's output
+
 <details>
 <summary>Answer key</summary>
 
@@ -224,6 +338,18 @@ Match each item to its description.
 42. $\Delta h=(4\ \mathrm{mm/year})(100\ \mathrm{years})=400\ \mathrm{mm}=40\ \mathrm{cm}$. It is only a baseline because the saved page says the rate is accelerating. (12.2, “Rise in Sea Levels”)
 43. Approximately $420-280=140\ \mathrm{ppm}$, stated more precisely on the page as just under 140 ppm because the July 2022 value was just under 420 ppm. (12.2, “Carbon Dioxide”)
 44. The exponent difference is $21-16=5$ orders of magnitude; $10^{21}/10^{16}=10^5=100{,}000$. (12.2, “Ocean Temperatures”)
+45. **b) Carbon dioxide.** It is the important greenhouse gas among the listed choices. (12.1, “Climate Change and the Greenhouse Effect”)
+46. **e) Over 30 years.** The course defines climate change over at least three decades. (12.1, “Climate vs. Weather”)
+47. **e) All of the Above.** Ice cores, corals, tree rings, and sediment layers are proxy records. (12.2, “Evidence From the Past”)
+48. **e) Major hurricanes.** Orbit, volcanoes, solar energy, and plate tectonics can affect climate; hurricanes are a response rather than a driver. (12.1, “Natural Climate Drivers”)
+49. **True.** The atmosphere transmits incoming short-wave radiation more readily and absorbs outgoing long-wave radiation. (12.1, “Climate Change and the Greenhouse Effect”)
+50. **c) Intergovernmental Panel on Climate Change.** (12.3, opening discussion)
+51. **False.** The diurnal temperature range decreased from 1950 to 2004 and changed little from 1979 to 2004 because maximum and minimum temperatures rose at similar rates. (12.1, “Hydrological Changes”)
+52. **e) All of the Above.** The course documents warmer surface waters, less ice cover, earlier snowmelt, and increased high-latitude runoff. (12.1, “Hydrological Changes”)
+53. **True.** Ice-core and direct measurements show modern atmospheric CO$_2$ above the previous 800,000-year range. (12.2, “Ice Cores”)
+54. **b) 3 degrees.** The 12/12 saved quiz attempt uses approximately $3^\circ\mathrm{C}$, with about $\pm1^\circ\mathrm{C}$ uncertainty, for doubled current CO$_2$. (Saved quiz-12, Question 10; 12.1, greenhouse-effect discussion)
+55. **a) Svante Arrhenius.** This preserves the scientist and year pairing used by the saved course quiz. (Saved quiz-12, Question 11; 12.1, greenhouse-gas research history)
+56. **e) Larger hurricanes.** Orbit, greenhouse gases, axial tilt, drifting continents, and solar output affect climate; larger hurricanes are a possible result. (12.1, “Natural Climate Drivers”)
 
 </details>
 

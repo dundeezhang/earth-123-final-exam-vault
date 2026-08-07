@@ -13,8 +13,8 @@ Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%2
 - 444 definitions with examples and applications
 - Formula and units index
 - Exam study tracker
-- 536 quiz questions with collapsed, cited answer keys
-- 102 questions transcribed from the locally saved course quizzes for Weeks 2-5 and 7-11
+- 548 quiz questions with collapsed, cited answer keys
+- 114 questions transcribed from the locally saved course quizzes for Weeks 2-5 and 7-12
 - 176 original course and saved-quiz figures embedded in 177 study-focused placements
 - A concise caption and clear **What to notice** explanation for every figure placement
 - Course reference videos and readings retained where available
