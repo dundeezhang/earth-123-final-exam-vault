@@ -3,6 +3,7 @@
 
   const questions = Array.isArray(window.QUIZ_QUESTIONS) ? window.QUIZ_QUESTIONS : [];
   const storageKey = "earth123-study-quiz-v2";
+  const missedStorageKey = "earth123-missed-questions-v1";
   const moduleNames = {
     1: "Course foundations",
     2: "Hydrology + watersheds",
@@ -22,6 +23,8 @@
     moduleList: document.querySelector("#moduleList"),
     selectAllButton: document.querySelector("#selectAllButton"),
     applyFiltersButton: document.querySelector("#applyFiltersButton"),
+    missedButton: document.querySelector("#missedButton"),
+    missedCount: document.querySelector("#missedCount"),
     reshuffleButton: document.querySelector("#reshuffleButton"),
     resetButton: document.querySelector("#resetButton"),
     questionPosition: document.querySelector("#questionPosition"),
@@ -47,10 +50,18 @@
     imageDialog: document.querySelector("#imageDialog"),
     dialogImage: document.querySelector("#dialogImage"),
     dialogCloseButton: document.querySelector("#dialogCloseButton"),
+    reviewDialog: document.querySelector("#reviewDialog"),
+    reviewCloseButton: document.querySelector("#reviewCloseButton"),
+    studyMissedButton: document.querySelector("#studyMissedButton"),
+    exportMissedButton: document.querySelector("#exportMissedButton"),
+    clearMissedButton: document.querySelector("#clearMissedButton"),
+    reviewEmpty: document.querySelector("#reviewEmpty"),
+    missedList: document.querySelector("#missedList"),
   };
 
   const availableModules = [...new Set(questions.map((question) => question.module))].sort((a, b) => a - b);
   let state = loadState();
+  let missedLog = loadMissedLog();
   let wrongOptions = new Set();
 
   function shuffle(values) {
@@ -102,6 +113,25 @@
     localStorage.setItem(storageKey, JSON.stringify(state));
   }
 
+  function loadMissedLog() {
+    try {
+      const stored = JSON.parse(localStorage.getItem(missedStorageKey));
+      return stored && typeof stored === "object" && !Array.isArray(stored) ? stored : {};
+    } catch {
+      return {};
+    }
+  }
+
+  function saveMissedLog() {
+    localStorage.setItem(missedStorageKey, JSON.stringify(missedLog));
+  }
+
+  function plainText(html) {
+    const node = document.createElement("div");
+    node.innerHTML = html ?? "";
+    return (node.textContent ?? "").replace(/\s+/g, " ").trim();
+  }
+
   function currentQuestion() {
     const id = state.order[state.index];
     return questions.find((question) => question.id === id);
@@ -112,6 +142,30 @@
     state = {
       selectedModules: [...selectedModules],
       order: shuffle(pool.map((question) => question.id)),
+      index: 0,
+      correct: 0,
+      attempts: 0,
+      streak: 0,
+      examPoints: 0,
+      examTotal: 0,
+      currentFirstAttemptRecorded: false,
+      currentSolved: false,
+    };
+    wrongOptions = new Set();
+    saveState();
+    renderAll();
+  }
+
+  function createSessionFromIds(ids) {
+    const validIds = new Set(questions.map((question) => question.id));
+    const poolIds = ids.filter((id) => validIds.has(id));
+    if (!poolIds.length) return;
+    const selectedModules = [...new Set(
+      questions.filter((question) => poolIds.includes(question.id)).map((question) => question.module),
+    )].sort((a, b) => a - b);
+    state = {
+      selectedModules,
+      order: shuffle(poolIds),
       index: 0,
       correct: 0,
       attempts: 0,
@@ -156,6 +210,66 @@
     elements.accuracyStat.textContent = `${accuracy}%`;
     const examPercent = state.examTotal ? Math.round((state.examPoints / state.examTotal) * 100) : 0;
     elements.examMarkStat.textContent = `${state.examPoints} / ${state.examTotal} (${examPercent}%)`;
+  }
+
+  function sortedMissedEntries() {
+    return Object.values(missedLog).sort((a, b) => (
+      b.misses - a.misses || new Date(b.lastMissed) - new Date(a.lastMissed)
+    ));
+  }
+
+  function renderMissedCount() {
+    elements.missedCount.textContent = String(Object.keys(missedLog).length);
+  }
+
+  function renderMissedDialog() {
+    const entries = sortedMissedEntries();
+    elements.reviewEmpty.hidden = entries.length > 0;
+    elements.missedList.replaceChildren();
+    elements.studyMissedButton.disabled = entries.length === 0;
+    elements.exportMissedButton.disabled = entries.length === 0;
+    elements.clearMissedButton.disabled = entries.length === 0;
+
+    for (const entry of entries) {
+      const article = document.createElement("article");
+      article.className = "missed-item";
+
+      const meta = document.createElement("div");
+      meta.className = "missed-item-meta";
+      const source = document.createElement("span");
+      source.textContent = `Module ${entry.module} · ${entry.sourceLabel}`;
+      const count = document.createElement("strong");
+      count.textContent = `${entry.misses} ${entry.misses === 1 ? "miss" : "misses"}`;
+      meta.append(source, count);
+
+      const heading = document.createElement("h3");
+      heading.textContent = entry.prompt;
+
+      const wrongHeading = document.createElement("h4");
+      wrongHeading.textContent = "Answers chosen";
+      const wrongList = document.createElement("ul");
+      wrongList.className = "missed-answer-list";
+      Object.entries(entry.wrongAnswers ?? {})
+        .sort(([, first], [, second]) => second - first)
+        .forEach(([answer, answerCount]) => {
+          const item = document.createElement("li");
+          item.textContent = `${answer} (${answerCount}×)`;
+          wrongList.append(item);
+        });
+
+      const correct = document.createElement("p");
+      correct.className = "missed-correct-answer";
+      const correctLabel = document.createElement("strong");
+      correctLabel.textContent = "Correct answer: ";
+      correct.append(correctLabel, entry.correctAnswer);
+
+      const explanation = document.createElement("p");
+      explanation.className = "missed-explanation";
+      explanation.textContent = entry.explanation;
+
+      article.append(meta, heading, wrongHeading, wrongList, correct, explanation);
+      elements.missedList.append(article);
+    }
   }
 
   function renderQuestion() {
@@ -218,7 +332,28 @@
   function renderAll() {
     renderModuleFilters();
     renderStats();
+    renderMissedCount();
     renderQuestion();
+  }
+
+  function recordMissedQuestion(question, selected) {
+    const chosenAnswer = plainText(question.options[selected]);
+    const existing = missedLog[question.id];
+    const wrongAnswers = { ...(existing?.wrongAnswers ?? {}) };
+    wrongAnswers[chosenAnswer] = (wrongAnswers[chosenAnswer] ?? 0) + 1;
+    missedLog[question.id] = {
+      id: question.id,
+      module: question.module,
+      sourceLabel: question.sourceLabel,
+      prompt: plainText(question.prompt),
+      correctAnswer: plainText(question.options[question.answer]),
+      explanation: plainText(question.explanation),
+      misses: (existing?.misses ?? 0) + 1,
+      wrongAnswers,
+      lastMissed: new Date().toISOString(),
+    };
+    saveMissedLog();
+    renderMissedCount();
   }
 
   function showCorrectFeedback(question) {
@@ -262,12 +397,13 @@
 
     state.streak = 0;
     wrongOptions.add(selected);
+    recordMissedQuestion(question, selected);
     saveState();
     renderStats();
     const option = elements.answerList.children[selected];
     option?.classList.add("is-wrong");
     elements.feedback.className = "feedback is-error";
-    elements.feedback.innerHTML = "<strong>Not correct.</strong> Review the choices and try again.";
+    elements.feedback.innerHTML = "<strong>Not correct.</strong> Added to the missed-question log. Review the choices and try again.";
   }
 
   function nextQuestion() {
@@ -304,7 +440,7 @@
   }
 
   function resetProgress() {
-    if (!window.confirm("Reset the current session and all saved progress?")) return;
+    if (!window.confirm("Reset the current session and saved progress? The missed-question log will be kept.")) return;
     localStorage.removeItem(storageKey);
     state = defaultState();
     wrongOptions = new Set();
@@ -317,6 +453,74 @@
     elements.imageDialog.showModal();
   }
 
+  function openMissedDialog() {
+    renderMissedDialog();
+    elements.reviewDialog.showModal();
+  }
+
+  function studyMissed() {
+    const ids = sortedMissedEntries().map((entry) => entry.id);
+    if (!ids.length) return;
+    elements.reviewDialog.close();
+    createSessionFromIds(ids);
+  }
+
+  function markdownText(value) {
+    return String(value ?? "").replace(/([\\`*_{}\[\]<>#+|])/g, "\\$1");
+  }
+
+  function exportMissedMarkdown() {
+    const entries = sortedMissedEntries().sort((a, b) => a.module - b.module || b.misses - a.misses);
+    if (!entries.length) return;
+    const lines = [
+      "# EARTH 123 Missed Questions",
+      "",
+      `Exported: ${new Date().toLocaleString()}`,
+      "",
+      `Unique questions missed: ${entries.length}`,
+      `Total incorrect attempts: ${entries.reduce((sum, entry) => sum + entry.misses, 0)}`,
+      "",
+    ];
+    let currentModule = null;
+    for (const entry of entries) {
+      if (entry.module !== currentModule) {
+        currentModule = entry.module;
+        lines.push(`## Module ${currentModule}: ${moduleNames[currentModule] ?? "Review"}`, "");
+      }
+      const wrongAnswers = Object.entries(entry.wrongAnswers ?? {})
+        .sort(([, first], [, second]) => second - first)
+        .map(([answer, count]) => `${markdownText(answer)} (${count}x)`)
+        .join(", ");
+      lines.push(
+        `### ${markdownText(entry.prompt)}`,
+        "",
+        `- Source: ${markdownText(entry.sourceLabel)}`,
+        `- Misses: ${entry.misses}`,
+        `- Incorrect answers chosen: ${wrongAnswers}`,
+        `- Correct answer: ${markdownText(entry.correctAnswer)}`,
+        `- Explanation: ${markdownText(entry.explanation)}`,
+        "",
+      );
+    }
+    const blob = new Blob([lines.join("\n")], { type: "text/markdown;charset=utf-8" });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement("a");
+    link.href = url;
+    link.download = "EARTH-123-missed-questions.md";
+    document.body.append(link);
+    link.click();
+    link.remove();
+    window.setTimeout(() => URL.revokeObjectURL(url), 1000);
+  }
+
+  function clearMissedLog() {
+    if (!window.confirm("Clear the full missed-question log?")) return;
+    missedLog = {};
+    localStorage.removeItem(missedStorageKey);
+    renderMissedCount();
+    renderMissedDialog();
+  }
+
   elements.answerForm.addEventListener("submit", checkAnswer);
   elements.nextButton.addEventListener("click", nextQuestion);
   elements.applyFiltersButton.addEventListener("click", applyFilters);
@@ -324,9 +528,17 @@
   elements.reshuffleButton.addEventListener("click", () => createSession(state.selectedModules));
   elements.restartButton.addEventListener("click", () => createSession(state.selectedModules));
   elements.resetButton.addEventListener("click", resetProgress);
+  elements.missedButton.addEventListener("click", openMissedDialog);
+  elements.studyMissedButton.addEventListener("click", studyMissed);
+  elements.exportMissedButton.addEventListener("click", exportMissedMarkdown);
+  elements.clearMissedButton.addEventListener("click", clearMissedLog);
+  elements.reviewCloseButton.addEventListener("click", () => elements.reviewDialog.close());
   elements.dialogCloseButton.addEventListener("click", () => elements.imageDialog.close());
   elements.imageDialog.addEventListener("click", (event) => {
     if (event.target === elements.imageDialog) elements.imageDialog.close();
+  });
+  elements.reviewDialog.addEventListener("click", (event) => {
+    if (event.target === elements.reviewDialog) elements.reviewDialog.close();
   });
   document.addEventListener("keydown", (event) => {
     if (elements.imageDialog.open && event.key === "Escape") return;

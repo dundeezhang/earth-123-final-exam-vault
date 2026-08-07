@@ -15,6 +15,9 @@
         <h1>Study Quiz</h1>
       </div>
       <div class="header-actions">
+        <button class="secondary-button missed-button" id="missedButton" type="button">
+          Missed <span id="missedCount">0</span>
+        </button>
         <button class="secondary-button" id="reshuffleButton" type="button">Reshuffle</button>
         <button class="icon-button" id="resetButton" type="button" aria-label="Reset all progress" title="Reset all progress">
           <span aria-hidden="true">↺</span>
@@ -84,6 +87,23 @@
     <dialog class="image-dialog" id="imageDialog">
       <button class="dialog-close" id="dialogCloseButton" type="button" aria-label="Close image" title="Close image">×</button>
       <img id="dialogImage" alt="Expanded course figure">
+    </dialog>
+
+    <dialog class="review-dialog" id="reviewDialog">
+      <div class="review-dialog-header">
+        <div>
+          <p class="course-label">REVIEW LOG</p>
+          <h2>Missed questions</h2>
+        </div>
+        <button class="dialog-close review-close" id="reviewCloseButton" type="button" aria-label="Close missed questions" title="Close missed questions">×</button>
+      </div>
+      <div class="review-toolbar">
+        <button class="primary-button" id="studyMissedButton" type="button">Study missed</button>
+        <button class="secondary-button" id="exportMissedButton" type="button">Download Markdown</button>
+        <button class="danger-button" id="clearMissedButton" type="button">Clear log</button>
+      </div>
+      <p class="review-empty" id="reviewEmpty">No missed questions logged.</p>
+      <div class="missed-list" id="missedList"></div>
     </dialog>
 
     <script src="questions.js"></script>

@@ -8,6 +8,8 @@ Open [`index.html`](index.html) in a browser. Questions appear in a new random o
 
 The next question remains locked until the current answer is correct. Progress is saved in the browser. The exam mark records each question's first checked answer. Retries change the attempt count but cannot recover an exam mark.
 
+Every incorrect check is also saved in a persistent missed-question log. The log tracks repeated misses and chosen answers, supports a focused missed-question session, and exports an Obsidian-ready Markdown file for improving the exam cheat sheet. Resetting a quiz session does not clear this log.
+
 ## Source Notes
 
 - Questions and answers come from the vault's official and generated quiz-bank sections.

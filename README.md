@@ -17,7 +17,7 @@ For randomized practice, open the [`EARTH 123 Study Quiz`](Study%20Quiz/index.ht
 - Exam study tracker
 - 548 quiz questions with collapsed, cited answer keys
 - 114 questions transcribed from the locally saved course quizzes for Weeks 2-5 and 7-12
-- A randomized 344-question quiz app with strict correct-answer progression, first-attempt exam scoring, figures, and module filters
+- A randomized 344-question quiz app with strict correct-answer progression, first-attempt exam scoring, figures, module filters, and a persistent missed-question review log
 - 176 original course and saved-quiz figures embedded in 177 study-focused placements
 - A concise caption and clear **What to notice** explanation for every figure placement
 - Course reference videos and readings retained where available
