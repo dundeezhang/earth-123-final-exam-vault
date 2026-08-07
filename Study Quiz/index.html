@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="icon" href="data:,">
+    <title>EARTH 123 Study Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="course-label">EARTH 123</p>
+        <h1>Study Quiz</h1>
+      </div>
+      <div class="header-actions">
+        <button class="secondary-button" id="reshuffleButton" type="button">Reshuffle</button>
+        <button class="icon-button" id="resetButton" type="button" aria-label="Reset all progress" title="Reset all progress">
+          <span aria-hidden="true">↺</span>
+        </button>
+      </div>
+    </header>
+
+    <div class="app-shell">
+      <aside class="study-panel" aria-label="Study settings and progress">
+        <section class="progress-section" aria-labelledby="progressHeading">
+          <div class="section-heading-row">
+            <h2 id="progressHeading">Session</h2>
+            <span id="questionPosition">0 / 0</span>
+          </div>
+          <div class="progress-track" aria-hidden="true">
+            <div class="progress-fill" id="progressFill"></div>
+          </div>
+          <dl class="session-stats">
+            <div><dt>Correct</dt><dd id="correctStat">0</dd></div>
+            <div><dt>Attempts</dt><dd id="attemptStat">0</dd></div>
+            <div><dt>Streak</dt><dd id="streakStat">0</dd></div>
+            <div><dt>Accuracy</dt><dd id="accuracyStat">0%</dd></div>
+          </dl>
+        </section>
+
+        <section class="filter-section" aria-labelledby="filterHeading">
+          <div class="section-heading-row">
+            <h2 id="filterHeading">Question pool</h2>
+            <button class="text-button" id="selectAllButton" type="button">Select all</button>
+          </div>
+          <div class="module-list" id="moduleList"></div>
+          <button class="primary-button full-width" id="applyFiltersButton" type="button">Apply and reshuffle</button>
+        </section>
+      </aside>
+
+      <main class="quiz-main">
+        <section class="question-view" id="questionView" aria-live="polite">
+          <div class="question-meta">
+            <span id="moduleBadge">Module</span>
+            <span id="sourceLabel">Saved quiz</span>
+          </div>
+          <div class="question-copy" id="questionPrompt"></div>
+          <div class="question-media" id="questionMedia"></div>
+          <form id="answerForm">
+            <fieldset class="answer-fieldset">
+              <legend class="sr-only">Answer choices</legend>
+              <div class="answer-list" id="answerList"></div>
+            </fieldset>
+            <div class="feedback" id="feedback" role="status"></div>
+            <div class="question-actions">
+              <button class="primary-button" id="checkButton" type="submit">Check answer</button>
+              <button class="next-button" id="nextButton" type="button" disabled>Next question <span aria-hidden="true">→</span></button>
+            </div>
+          </form>
+        </section>
+
+        <section class="completion-view" id="completionView" hidden>
+          <p class="course-label">SESSION COMPLETE</p>
+          <h2>Question pool completed</h2>
+          <p id="completionSummary"></p>
+          <button class="primary-button" id="restartButton" type="button">Study again in a new order</button>
+        </section>
+      </main>
+    </div>
+
+    <dialog class="image-dialog" id="imageDialog">
+      <button class="dialog-close" id="dialogCloseButton" type="button" aria-label="Close image" title="Close image">×</button>
+      <img id="dialogImage" alt="Expanded course figure">
+    </dialog>
+
+    <script src="questions.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

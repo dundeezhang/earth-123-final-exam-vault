@@ -9,6 +9,10 @@ tags:
 
 # EARTH 123 Final Exam
 
+## Randomized Practice
+
+[Open the EARTH 123 Study Quiz](Study%20Quiz/index.html)
+
 Concise study notes built from the saved course pages for Modules 1-12. The applicable quiz banks include 114 questions recovered from saved course quizzes.
 
 ## Start Here

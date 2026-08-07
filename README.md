@@ -6,6 +6,8 @@ An Obsidian study vault covering EARTH 123 Modules 1 through 12.
 
 Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%20Home.md) in Obsidian.
 
+For randomized practice, open the [`EARTH 123 Study Quiz`](Study%20Quiz/index.html).
+
 ## Contents
 
 - 40 course submodule notes
@@ -15,6 +17,7 @@ Open [`00 - EARTH 123 Final Exam Home.md`](00%20-%20EARTH%20123%20Final%20Exam%2
 - Exam study tracker
 - 548 quiz questions with collapsed, cited answer keys
 - 114 questions transcribed from the locally saved course quizzes for Weeks 2-5 and 7-12
+- A randomized quiz app with strict correct-answer progression and module filters
 - 176 original course and saved-quiz figures embedded in 177 study-focused placements
 - A concise caption and clear **What to notice** explanation for every figure placement
 - Course reference videos and readings retained where available
