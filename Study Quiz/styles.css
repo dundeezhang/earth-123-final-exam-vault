@@ -164,6 +164,16 @@ h2 {
   font-weight: 800;
 }
 
+.session-stats .exam-mark-stat {
+  grid-column: 1 / -1;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+}
+
+.exam-mark-stat dd {
+  color: var(--blue-dark);
+}
+
 .module-list {
   display: grid;
   gap: 6px;
@@ -419,6 +429,13 @@ h2 {
   border-color: var(--blue-dark);
 }
 
+.primary-button:disabled {
+  cursor: not-allowed;
+  background: #d6dce1;
+  border-color: #d6dce1;
+  color: #7b858e;
+}
+
 .next-button {
   margin-left: auto;
   background: var(--green);
@@ -542,7 +559,7 @@ h2 {
   }
 
   .module-list {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: 1fr;
   }
 }
 

@@ -2,12 +2,14 @@
   "use strict";
 
   const questions = Array.isArray(window.QUIZ_QUESTIONS) ? window.QUIZ_QUESTIONS : [];
-  const storageKey = "earth123-study-quiz-v1";
+  const storageKey = "earth123-study-quiz-v2";
   const moduleNames = {
+    1: "Course foundations",
     2: "Hydrology + watersheds",
     3: "Precipitation",
     4: "Precipitation data",
     5: "Evaporation + transpiration",
+    6: "Measuring evapotranspiration",
     7: "Water balance",
     8: "Soils",
     9: "Groundwater",
@@ -28,6 +30,7 @@
     attemptStat: document.querySelector("#attemptStat"),
     streakStat: document.querySelector("#streakStat"),
     accuracyStat: document.querySelector("#accuracyStat"),
+    examMarkStat: document.querySelector("#examMarkStat"),
     questionView: document.querySelector("#questionView"),
     completionView: document.querySelector("#completionView"),
     completionSummary: document.querySelector("#completionSummary"),
@@ -68,6 +71,9 @@
       correct: 0,
       attempts: 0,
       streak: 0,
+      examPoints: 0,
+      examTotal: 0,
+      currentFirstAttemptRecorded: false,
       currentSolved: false,
     };
   }
@@ -82,6 +88,9 @@
         ...defaultState(),
         ...stored,
         index: Math.min(Math.max(0, stored.index ?? 0), stored.order.length),
+        examPoints: Math.max(0, stored.examPoints ?? 0),
+        examTotal: Math.max(0, stored.examTotal ?? 0),
+        currentFirstAttemptRecorded: Boolean(stored.currentFirstAttemptRecorded),
         currentSolved: Boolean(stored.currentSolved),
       };
     } catch {
@@ -107,6 +116,9 @@
       correct: 0,
       attempts: 0,
       streak: 0,
+      examPoints: 0,
+      examTotal: 0,
+      currentFirstAttemptRecorded: false,
       currentSolved: false,
     };
     wrongOptions = new Set();
@@ -142,6 +154,8 @@
     elements.attemptStat.textContent = state.attempts;
     elements.streakStat.textContent = state.streak;
     elements.accuracyStat.textContent = `${accuracy}%`;
+    const examPercent = state.examTotal ? Math.round((state.examPoints / state.examTotal) * 100) : 0;
+    elements.examMarkStat.textContent = `${state.examPoints} / ${state.examTotal} (${examPercent}%)`;
   }
 
   function renderQuestion() {
@@ -154,7 +168,7 @@
     elements.questionView.hidden = false;
     elements.completionView.hidden = true;
     elements.moduleBadge.textContent = `Module ${question.module}`;
-    elements.sourceLabel.textContent = `Quiz ${question.quiz}, question ${question.quizQuestion}`;
+    elements.sourceLabel.textContent = question.sourceLabel;
     elements.questionPrompt.innerHTML = question.prompt;
     elements.questionMedia.replaceChildren();
     elements.answerList.replaceChildren();
@@ -168,7 +182,7 @@
       button.type = "button";
       button.className = "image-button";
       button.title = "Open figure";
-      button.innerHTML = `<img src="${src}" alt="Course figure for quiz ${question.quiz}, question ${question.quizQuestion}${question.images.length > 1 ? `, image ${index + 1}` : ""}">`;
+      button.innerHTML = `<img src="${src}" alt="Course figure for ${question.sourceLabel}${question.images.length > 1 ? `, image ${index + 1}` : ""}">`;
       button.addEventListener("click", () => openImage(src));
       elements.questionMedia.append(button);
     });
@@ -195,9 +209,10 @@
     elements.questionView.hidden = true;
     elements.completionView.hidden = false;
     const accuracy = state.attempts ? Math.round((state.correct / state.attempts) * 100) : 0;
+    const examPercent = state.examTotal ? Math.round((state.examPoints / state.examTotal) * 100) : 0;
     elements.questionPosition.textContent = `${state.order.length} / ${state.order.length}`;
     elements.progressFill.style.width = "100%";
-    elements.completionSummary.textContent = `${state.correct} questions solved in ${state.attempts} attempts. Session accuracy: ${accuracy}%.`;
+    elements.completionSummary.textContent = `${state.correct} questions solved in ${state.attempts} attempts. Session accuracy: ${accuracy}%. First-attempt exam mark: ${state.examPoints}/${state.examTotal} (${examPercent}%).`;
   }
 
   function renderAll() {
@@ -228,9 +243,15 @@
 
     const question = currentQuestion();
     state.attempts += 1;
+    const isFirstAttempt = !state.currentFirstAttemptRecorded;
+    if (isFirstAttempt) {
+      state.examTotal += 1;
+      state.currentFirstAttemptRecorded = true;
+    }
     if (selected === question.answer) {
       state.correct += 1;
       state.streak += 1;
+      if (isFirstAttempt) state.examPoints += 1;
       state.currentSolved = true;
       saveState();
       renderStats();
@@ -253,6 +274,7 @@
     if (!state.currentSolved) return;
     state.index += 1;
     state.currentSolved = false;
+    state.currentFirstAttemptRecorded = false;
     wrongOptions = new Set();
     saveState();
     renderStats();

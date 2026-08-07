@@ -35,6 +35,28 @@ const MANUAL = {
   },
 };
 
+const PRACTICE_IMAGES = {
+  "practice-m2-q8": ["Assets/Module 02/2.2-hydrograph.png"],
+  "practice-m2-q20": ["Assets/Module 02/2.2-hydrograph.png"],
+  "practice-m3-q4": ["Assets/Module 03/3.1-canada-relief.png"],
+  "practice-m4-q8": ["Assets/Module 04/isohyetal-contour-map-precipitation-depths_5.png"],
+  "practice-m4-q16": ["Assets/Module 04/drainage-basin_5.jpg"],
+  "practice-m9-q1": ["Assets/Module 09/9-1-hydrological-cycle.png"],
+  "practice-m9-q2": ["Assets/Module 09/9-3-1-water-table-valley.png"],
+  "practice-m9-q12": ["Assets/Module 09/9-5-2-stream-interactions.png"],
+  "practice-m10-q3": ["Assets/Module 10/urbanization-hydrograph.png"],
+  "practice-m10-q15": ["Assets/Module 10/fig-10.4.2-flood-hydrograph.jpeg"],
+  "practice-m11-q15": ["Assets/Module 11/11.2.1-valley-glacier-movement.png"],
+  "practice-m11-q17": ["Assets/Module 11/11.2.4-milankovitch-solar-forcing.png"],
+  "practice-m12-q11": ["Assets/Module 12/12.2.7-annual-ocean-heat-content.png"],
+  "practice-m12-q19": ["Assets/Module 12/12.2.7-annual-ocean-heat-content.png"],
+  "practice-m12-q22": ["Assets/Module 12/12.2.1-keeling-curve.png"],
+  "practice-m12-q25": [
+    "Assets/Module 12/12.2.9-major-atlantic-hurricanes.jpeg",
+    "Assets/Module 12/12.2.10-us-tornadoes.png",
+  ],
+};
+
 function htmlEscape(value) {
   return value
     .replaceAll("&", "&amp;")
@@ -54,7 +76,14 @@ function inlineMarkdown(value) {
   result = result.replace(/\\(?:dfrac|frac)\{([^}]+)\}\{([^}]+)\}/g, "$1/$2");
   result = result.replace(/\\times/g, "×").replace(/\\approx/g, "≈");
   result = result.replace(/\\Delta/g, "Δ").replace(/\\sum/g, "Σ");
+  result = result.replace(/\^\\circ/g, "°");
+  result = result.replace(/\\circ/g, "°").replace(/\\pm/g, "±");
   result = result.replace(/\\_/g, "_").replace(/\\%/g, "%");
+  result = result.replace(/\^\{([^}]+)\}/g, "<sup>$1</sup>");
+  result = result.replace(/_\{([^}]+)\}/g, "<sub>$1</sub>");
+  result = result.replace(/\^([A-Za-z0-9+\-]+)/g, "<sup>$1</sup>");
+  result = result.replace(/_([A-Za-z0-9+\-]+)/g, "<sub>$1</sub>");
+  result = result.replace(/\\[,;!]/g, " ").replace(/\\/g, "");
   result = result.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
   result = result.replace(/\*([^*]+)\*/g, "<em>$1</em>");
   return result;
@@ -102,14 +131,14 @@ function answerFromOptions(options, answerLine) {
     return normalizedOptions.findIndex((option) => option === lead.match(/^(true|false)/i)[1].toLowerCase());
   }
 
-  const optionsUseLetters = normalizedOptions.every((option) => /^[a-z]\)/i.test(option));
+  const optionsUseLetters = normalizedOptions.every((option) => /^[a-z][.)]/i.test(option));
   const letterMatch = lead.match(/^([a-z])(?:\)|\.|,|\s)/i);
   if (optionsUseLetters && letterMatch) {
-    const label = `${letterMatch[1].toLowerCase()})`;
-    return normalizedOptions.findIndex((option) => option.startsWith(label));
+    const letter = letterMatch[1].toLowerCase();
+    return normalizedOptions.findIndex((option) => option.startsWith(`${letter})`) || option.startsWith(`${letter}.`));
   }
 
-  const cleanedLead = lead.replace(/^[a-z]\)\s*/i, "").replace(/[.,]$/, "").toLowerCase();
+  const cleanedLead = lead.replace(/^[a-z][.)]\s*/i, "").replace(/[.,]$/, "").toLowerCase();
   return normalizedOptions.findIndex((option) => {
     const cleanedOption = option.replace(/^[a-z0-9]+[.)]\s*/i, "").replace(/[.,]$/, "");
     return cleanedOption === cleanedLead || cleanedLead.startsWith(cleanedOption);
@@ -118,12 +147,22 @@ function answerFromOptions(options, answerLine) {
 
 function copyQuestionImage(sourceFile, markdownPath, questionId) {
   const source = path.resolve(path.dirname(sourceFile), decodeURIComponent(markdownPath));
+  return copyImage(source, questionId);
+}
+
+function copyImage(source, questionId) {
   if (!fs.existsSync(source)) throw new Error(`Missing image: ${source}`);
   fs.mkdirSync(ASSET_DIR, { recursive: true });
   const outputName = `${questionId}-${path.basename(source).replace(/[^a-zA-Z0-9._-]+/g, "-")}`;
   const output = path.join(ASSET_DIR, outputName);
   fs.copyFileSync(source, output);
   return `assets/${outputName}`;
+}
+
+function practiceImages(questionId) {
+  return (PRACTICE_IMAGES[questionId] ?? []).map((relativePath) =>
+    copyImage(path.join(VAULT_DIR, relativePath), questionId),
+  );
 }
 
 function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
@@ -175,12 +214,74 @@ function parseQuestionBlock(block, sourceFile, moduleNumber, answers) {
     module: moduleNumber,
     quiz: quizNumber,
     quizQuestion,
+    sourceType: "official",
+    sourceLabel: `Quiz ${quizNumber}, question ${quizQuestion}`,
     prompt,
     options: finalOptions.map(inlineMarkdown),
     answer,
     explanation: inlineMarkdown(answerLine),
     images,
   };
+}
+
+function parsePracticeQuestions(file) {
+  const markdown = fs.readFileSync(file, "utf8");
+  const moduleMatch = path.basename(path.dirname(file)).match(/^Module (\d+)/);
+  const moduleNumber = Number(moduleMatch?.[1]);
+  const answers = parseAnswerLines(markdown);
+  const questions = [];
+  let section = "";
+  let current = null;
+
+  function finishQuestion() {
+    if (!current) return;
+    const id = `practice-m${moduleNumber}-q${current.number}`;
+    const options = current.kind === "true-false" ? ["True", "False"] : current.options;
+    const answerLine = answers.get(current.number) ?? "";
+    questions.push({
+      id,
+      module: moduleNumber,
+      quiz: null,
+      quizQuestion: current.number,
+      sourceType: "practice",
+      sourceLabel: `Practice bank, question ${current.number}`,
+      prompt: current.promptLines.map(inlineMarkdown).join("<br>"),
+      options: options.map(inlineMarkdown),
+      answer: answerFromOptions(options, answerLine),
+      explanation: inlineMarkdown(answerLine),
+      images: practiceImages(id),
+    });
+    current = null;
+  }
+
+  for (const line of markdown.split("\n")) {
+    if (line.startsWith("<details>")) break;
+    const heading = line.match(/^#{2,3}\s+(.+)/);
+    if (heading) {
+      finishQuestion();
+      section = heading[1].trim();
+      continue;
+    }
+
+    const question = line.match(/^(\d+)\.\s+(.+)/);
+    if (question && (section === "Multiple Choice" || section === "True or False")) {
+      finishQuestion();
+      current = {
+        number: Number(question[1]),
+        kind: section === "True or False" ? "true-false" : "multiple-choice",
+        promptLines: [question[2].trim()],
+        options: [],
+      };
+      continue;
+    }
+
+    if (!current) continue;
+    const option = line.match(/^\s+-\s+(.+)/);
+    if (option) current.options.push(option[1].trim());
+    else if (line.trim()) current.promptLines.push(line.trim());
+  }
+  finishQuestion();
+  return questions;
 }
 
 function parseQuizBank(file) {
@@ -197,7 +298,9 @@ function parseQuizBank(file) {
 }
 
 fs.mkdirSync(ASSET_DIR, { recursive: true });
-const questions = findQuizBanks().flatMap(parseQuizBank).sort((a, b) => a.quiz - b.quiz || a.quizQuestion - b.quizQuestion);
+const questions = findQuizBanks()
+  .flatMap((file) => [...parsePracticeQuestions(file), ...parseQuizBank(file)])
+  .sort((a, b) => a.module - b.module || a.sourceType.localeCompare(b.sourceType) || a.quizQuestion - b.quizQuestion);
 const unresolved = questions.filter((question) => question.answer < 0 || question.options.length < 2);
 
 if (unresolved.length) {
@@ -209,5 +312,9 @@ if (unresolved.length) {
 } else {
   const output = `window.QUIZ_QUESTIONS = ${JSON.stringify(questions, null, 2)};\n`;
   fs.writeFileSync(path.join(SITE_DIR, "questions.js"), output);
-  console.log(`Wrote ${questions.length} questions with ${questions.reduce((sum, q) => sum + q.images.length, 0)} image placements.`);
+  const practiceCount = questions.filter((question) => question.sourceType === "practice").length;
+  const officialCount = questions.filter((question) => question.sourceType === "official").length;
+  console.log(
+    `Wrote ${questions.length} questions (${officialCount} official, ${practiceCount} practice) with ${questions.reduce((sum, q) => sum + q.images.length, 0)} image placements.`,
+  );
 }
