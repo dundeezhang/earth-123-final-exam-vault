@@ -26,4 +26,8 @@ Up: [[00 - EARTH 123 Final Exam Home]]
 - Orientation: landscape.
 - Sides: print double-sided and flip on the short edge.
 - Scale: actual size or 100%.
-- Colour: black and white.
+- Colour: print in colour so red definitions and blue equations remain distinct. Grayscale remains legible when colour printing is unavailable.
+
+## Personalized Priority
+
+- Module 4.3 arithmetic average: screen gauges by the watershed or study-area boundary before calculating. Include inside gauges only; exclude outside gauges even when they appear on the map.
